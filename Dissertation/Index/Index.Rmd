@@ -1,6 +1,6 @@
 ---
 # UW thesis fields
-title: "Applied ecosystem chemistry: linking biogeochemical and physiological processes to ecological interactions and management practices"
+title: "Applied ecosystem chemistry: linking biogeochemical and physiological processes to ecological interactions"
 author: "Megan L Feddern"
 year: "2021"
 program: "School of Aquatic and Fishery Sciences"

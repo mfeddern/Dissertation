@@ -1343,3 +1343,89 @@ Vertebrates: general zoology, morphology, phylogeny, systematics, cytogenetics, 
    type = {Journal Article}
 }
 
+
+@article{Barbeaux2020,
+   author = {Barbeaux, Steven J. and Holsman, Kirstin and Zador, Stephani},
+   title = {Marine Heatwave Stress Test of Ecosystem-Based Fisheries Management in the Gulf of Alaska Pacific Cod Fishery},
+   journal = {Frontiers in Marine Science},
+   volume = {7},
+   abstract = {In 2014–2016 an unprecedented warming event in the North Pacific Ocean triggered changes in ecosystem of the Gulf of Alaska (GOA) impacting fisheries management. The marine heatwave was noteworthy in its geographical extent, depth range, and persistence, with evidence of shifts in species distribution and reduced productivity. In 2017 a groundfish survey indicated that GOA Pacific cod (Gadus macrocephalus) had experienced a 71% decline in abundance from the previous 2015 survey. The GOA Pacific cod fishery supports a $103 million fishery which is 29% of the groundfish harvest value in the GOA. In this paper, we demonstrate that an increase in metabolic demand during this extended marine heatwave as well as a reduced prey supply can explain the decline in GOA Pacific cod biomass. Although increased mortality likely led to the decline in the Pacific cod population, historically low recruitment concurrent with the heatwave portends a slow recovery for the stock and gives a preview of impacts facing this region due to climate change. We evaluate the intersection of climate change with ecosystem-based fisheries management in the context of GOA Pacific cod with a description of the sensitivities of the ecosystem, how the changes in the ecosystem affected the Pacific cod stock, and a description of how the management system in the North Pacific handled this shock. We also provide suggestions on how fisheries management systems could be improved to better contend with the impacts of climate change such as the effects of heatwaves like that experienced in 2014–2016.},
+   keywords = {climate change
+ecosystem-based fisheries management
+fisheries
+Gulf of Alaska
+marine heatwave
+Pacific cod},
+   ISSN = {2296-7745},
+   DOI = {10.3389/fmars.2020.00703},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{Mathews2016,
+   author = {Mathews, Elizabeth A. and Jemison, Lauri A. and Pendleton, Grey W. and Blejwas, Karen M. and Hood, Kevin E. and Raum-Suryan, Kimberly L.},
+   title = {Haul-out patterns and effects of vessel disturbance on harbor seals (Phoca vitulina) on glacial ice in Tracy Arm, Alaska},
+   journal = {Fishery bulletin (Washington, D.C.)},
+   volume = {114},
+   number = {2},
+   pages = {186-202},
+   keywords = {Environmental aspects
+Influence on nature
+Human beings
+Harbor seal},
+   ISSN = {0090-0656},
+   DOI = {10.7755/FB.114.2.6},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{Suryan2021,
+   author = {Suryan, Robert M. and Arimitsu, Mayumi L. and Coletti, Heather A. and Hopcroft, Russell R. and Lindeberg, Mandy R. and Barbeaux, Steven J. and Batten, Sonia D. and Burt, William J. and Bishop, Mary A. and Bodkin, James L. and Brenner, Richard and Campbell, Robert W. and Cushing, Daniel A. and Danielson, Seth L. and Dorn, Martin W. and Drummond, Brie and Esler, Daniel and Gelatt, Thomas and Hanselman, Dana H. and Hatch, Scott A. and Haught, Stormy and Holderied, Kris and Iken, Katrin and Irons, David B. and Kettle, Arthur B. and Kimmel, David G. and Konar, Brenda and Kuletz, Kathy J. and Laurel, Benjamin J. and Maniscalco, John M. and Matkin, Craig and McKinstry, Caitlin A. E. and Monson, Daniel H. and Moran, John R. and Olsen, Dan and Palsson, Wayne A. and Pegau, W. Scott and Piatt, John F. and Rogers, Lauren A. and Rojek, Nora A. and Schaefer, Anne and Spies, Ingrid B. and Straley, Janice M. and Strom, Suzanne L. and Sweeney, Kathryn L. and Szymkowiak, Marysia and Weitzman, Benjamin P. and Yasumiishi, Ellen M. and Zador, Stephani G.},
+   title = {Ecosystem response persists after a prolonged marine heatwave},
+   journal = {Scientific reports},
+   volume = {11},
+   number = {1},
+   pages = {6235-17},
+   abstract = {Some of the longest and most comprehensive marine ecosystem monitoring programs were established in the Gulf of Alaska following the environmental disaster of the Exxon Valdez oil spill over 30 years ago. These monitoring programs have been successful in assessing recovery from oil spill impacts, and their continuation decades later has now provided an unparalleled assessment of ecosystem responses to another newly emerging global threat, marine heatwaves. The 2014-2016 northeast Pacific marine heatwave (PMH) in the Gulf of Alaska was the longest lasting heatwave globally over the past decade, with some cooling, but also continued warm conditions through 2019. Our analysis of 187 time series from primary production to commercial fisheries and nearshore intertidal to offshore oceanic domains demonstrate abrupt changes across trophic levels, with many responses persisting up to at least 5 years after the onset of the heatwave. Furthermore, our suite of metrics showed novel community-level groupings relative to at least a decade prior to the heatwave. Given anticipated increases in marine heatwaves under current climate projections, it remains uncertain when or if the Gulf of Alaska ecosystem will return to a pre-PMH state.},
+   keywords = {Ecosystem assessment
+Ecosystems
+Marine ecosystems
+Oil spills
+Primary production
+Trophic levels},
+   ISSN = {2045-2322},
+   DOI = {10.1038/s41598-021-83818-5},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{Trites2007,
+   author = {Trites, Andrew W. and Calkins, Donald G. and Winship, Arliss J.},
+   title = {Diets of Steller sea lions in Southeast Alaska, 1993-1999},
+   journal = {Fishery bulletin (Washington, D.C.)},
+   volume = {105},
+   number = {2},
+   pages = {234},
+   keywords = {Animal feeding behavior
+Behavior
+Research
+Sea lions},
+   ISSN = {0090-0656},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{Walsh2018,
+   author = {Walsh, John E. and Thoman, Richard L. and Bhatt, Uma S. and Bieniek, Peter A. and Brettschneider, Brian and Brubaker, Michael and Danielson, Seth and Lader, Rick and Fetterer, Florence and Holderied, Kris and Iken, Katrin and Mahoney, Andy and McCammon, Molly and Partain, James},
+   title = {The High Latitude Marine Heat Wave of 2016 and Its Impacts on Alaska},
+   journal = {Bulletin of the American Meteorological Society},
+   volume = {99},
+   number = {1},
+   pages = {S39-S43},
+   ISSN = {0003-0007},
+   DOI = {10.1175/BAMS-D-17-0105.1},
+   year = {2018},
+   type = {Journal Article}
+}
+
+

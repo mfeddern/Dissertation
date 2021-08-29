@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.16)  16 AUG 2021 12:14
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.16)  28 AUG 2021 20:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1035,7 +1035,7 @@ x-text;!
 [56
 
 ]
-Overfull \hbox (43.29405pt too wide) in alignment at lines 2338--2355
+Overfull \hbox (43.29405pt too wide) in alignment at lines 2339--2356
  [] [] [] [] 
  []
 
@@ -1045,7 +1045,7 @@ Overfull \hbox (43.29405pt too wide) in alignment at lines 2338--2355
 ] [58] [59
 
 ]
-Overfull \hbox (17.92484pt too wide) in paragraph at lines 2388--2388
+Overfull \hbox (17.92484pt too wide) in paragraph at lines 2389--2389
 []\TU/lmtt/m/n/12 Warning in read.table(file = file, header = header, sep = sep
 , quote = quote, :[] 
  []
@@ -1053,7 +1053,7 @@ Overfull \hbox (17.92484pt too wide) in paragraph at lines 2388--2388
 [60
 
 ]
-Overfull \hbox (17.92484pt too wide) in paragraph at lines 2411--2411
+Overfull \hbox (17.92484pt too wide) in paragraph at lines 2412--2412
 []\TU/lmtt/m/n/12 Warning in read.table(file = file, header = header, sep = sep
 , quote = quote, :[] 
  []
@@ -1071,7 +1071,7 @@ File: figure/Ch2/Figure1.pdf Graphic file (type pdf)
 File: figure/Ch2/Fig2_Map.pdf Graphic file (type pdf)
 <use figure/Ch2/Fig2_Map.pdf>
 
-Overfull \hbox (94.05756pt too wide) in paragraph at lines 2448--2449
+Overfull \hbox (94.05756pt too wide) in paragraph at lines 2449--2450
  [][] 
  []
 
@@ -1097,7 +1097,7 @@ File: figure/Ch2/Figure5_CoefPlot.pdf Graphic file (type pdf)
 File: figure/Ch2/Figure6_AK.GDFA.pdf Graphic file (type pdf)
 <use figure/Ch2/Figure6_AK.GDFA.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 2497--2520
+Underfull \hbox (badness 10000) in paragraph at lines 2498--2521
 
  []
 
@@ -1110,7 +1110,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: figure/Ch2/Figure7_WA.GDFA.pdf Graphic file (type pdf)
 <use figure/Ch2/Figure7_WA.GDFA.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 2522--2536
+Underfull \hbox (badness 10000) in paragraph at lines 2523--2537
 
  []
 
@@ -1120,7 +1120,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2522--2536
 File: figure/Ch2/figures2.png Graphic file (type bmp)
 <figure/Ch2/figures2.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 2538--2549
+Underfull \hbox (badness 10000) in paragraph at lines 2539--2550
 
  []
 
@@ -1160,7 +1160,7 @@ File: figure/Ch2/FigureS7.pdf Graphic file (type pdf)
 File: figure/Ch2/FigureS8.pdf Graphic file (type pdf)
 <use figure/Ch2/FigureS8.pdf>
 
-Overfull \hbox (31.35918pt too wide) in paragraph at lines 2627--2628
+Overfull \hbox (31.35918pt too wide) in paragraph at lines 2628--2629
  [][] 
  []
 
@@ -1173,18 +1173,18 @@ Overfull \hbox (31.35918pt too wide) in paragraph at lines 2627--2628
 ]
 
 LaTeX Warning: Reference `tab:maxdelays' on page 80 undefined on input line 271
-6.
+7.
 
 [80]
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 2744.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 2745.
 File: figure/uw.png Graphic file (type bmp)
 <figure/uw.png>
 [81
 
 ] [82]
 
-LaTeX Warning: Reference `rmd-basics' on page 83 undefined on input line 2760.
+LaTeX Warning: Reference `rmd-basics' on page 83 undefined on input line 2761.
 
 File: thesis_files/figure-latex/delaysboxplot-1.pdf Graphic file (type pdf)
 <use thesis_files/figure-latex/delaysboxplot-1.pdf>
@@ -1199,23 +1199,23 @@ File: figure/subdivision.pdf Graphic file (type pdf)
 
 ] [86]
 
-LaTeX Warning: Reference `rmd-basics' on page 87 undefined on input line 2870.
+LaTeX Warning: Reference `rmd-basics' on page 87 undefined on input line 2871.
 
 
-LaTeX Warning: Reference `r-chunks' on page 87 undefined on input line 2877.
+LaTeX Warning: Reference `r-chunks' on page 87 undefined on input line 2878.
 
 
-LaTeX Warning: Reference `rmd-basics' on page 87 undefined on input line 2877.
+LaTeX Warning: Reference `rmd-basics' on page 87 undefined on input line 2878.
 
 
-Underfull \hbox (badness 1509) in paragraph at lines 2903--2914
+Underfull \hbox (badness 1509) in paragraph at lines 2904--2915
 \TU/lmr/m/n/12 talks about using BibTeX, at [][]$[][][][] [] [] [] [][][] [] []
 [][][] [] [][][] [] [][][] [] [][][][] [] [][][][][] [] [][][][][][] [] [][][][
 ]$[][]),
  []
 
 
-Underfull \hbox (badness 5345) in paragraph at lines 2903--2914
+Underfull \hbox (badness 5345) in paragraph at lines 2904--2915
 \TU/lmr/m/n/12 needs, at [][]$[][][][] [] [] [] [][][] [] [][][][] [] [][][] []
  [][][] [] [][][][] [] [][][][][] [] [][][][][][][][][][][][] [] [][][][]$[][])
  and \TU/lmr/m/it/12 bibman
@@ -1237,53 +1237,102 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [92]
 Underfull \vbox (badness 3815) has occurred while \output is active []
 
-[93] [94]
+[93]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[95]
+[94] [95]
 
-LaTeX Warning: Command \textperthousand invalid in math mode on input line 3187
+LaTeX Warning: Command \textperthousand invalid in math mode on input line 3217
 .
 
 [96] [97]
 Missing character: There is no α ("3B1) in font cmmi8!
 Missing character: There is no α ("3B1) in font cmmi8!
-[98] [99] [100] [101] [102] [103]
+[98] [99]
+Underfull \vbox (badness 3815) has occurred while \output is active []
+
+[100] [101] [102] [103]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[104]
+[104] [105]
 Missing character: There is no β (U+03B2) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[105] [106] [107
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[106] [107] [108
 
 ]
-Overfull \hbox (10.17705pt too wide) in alignment at lines 3653--3666
+Overfull \hbox (10.17705pt too wide) in alignment at lines 3719--3732
  [] [] [] [] [] 
  []
 
-[108
+[109
 
-] [109
+]
+File: figure/Ch4/Figure1.pdf Graphic file (type pdf)
+<use figure/Ch4/Figure1.pdf>
+[110
+
+]
+File: figure/Ch4/Figure2.pdf Graphic file (type pdf)
+<use figure/Ch4/Figure2.pdf>
+[111
+
+
+]
+File: figure/Ch4/Figure3.pdf Graphic file (type pdf)
+<use figure/Ch4/Figure3.pdf>
+
+LaTeX Warning: Float too large for page by 13.10599pt on input line 3777.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[112
+
+
+] [113]
+File: figure/Ch4/Figure4.pdf Graphic file (type pdf)
+<use figure/Ch4/Figure4.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 3780--3793
+
+ []
+
+[114
+
+]
+File: figure/Ch4/Figure5.pdf Graphic file (type pdf)
+<use figure/Ch4/Figure5.pdf>
+[115
+
+]
+File: figure/Ch4/Figure6.pdf Graphic file (type pdf)
+<use figure/Ch4/Figure6.pdf>
+[116
+
+] [117
 
 
 ]
 <<A>>
-[110
+[118
 
-] [111]
+] [119]
 <<B>>
-[112
+[120
 
 ]
-Overfull \hbox (11.7445pt too wide) in paragraph at lines 3878--3878
+Overfull \hbox (11.7445pt too wide) in paragraph at lines 4030--4030
 []\TU/lmtt/m/n/12 - Session info ----------------------------------------------
 -----------------[] 
  []
 
-[113
+[121
 
 ]
-Overfull \hbox (11.74449pt too wide) in paragraph at lines 3878--3878
+Overfull \hbox (11.74449pt too wide) in paragraph at lines 4030--4030
 []\TU/lmtt/m/n/12 - Packages --------------------------------------------------
 -----------------[] 
  []
@@ -1291,60 +1340,35 @@ Overfull \hbox (11.74449pt too wide) in paragraph at lines 3878--3878
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[114]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[115] [116] [117
-
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[118]
-Underfull \hbox (badness 1052) in paragraph at lines 4019--4025
- \TU/lmr/m/n/12 … Ohkouchi, N. (2009). Determination of aquatic food‐web struct
-ure based on
- []
-
-
-Underfull \hbox (badness 1158) in paragraph at lines 4019--4025
- \TU/lmr/m/n/12 compound‐specific nitrogen isotopic composition of amino acids.
- \TU/lmr/m/it/12 Limnology and
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[119]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[120]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[121]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 [122]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[123]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[123] [124] [125
 
-[124]
-Missing character: There is no δ (U+03B4) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no δ (U+03B4) in font [lmroman12-regular]:mapping=t
-ex-text;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[125]
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [126]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [127]
+Underfull \hbox (badness 1052) in paragraph at lines 4202--4208
+ \TU/lmr/m/n/12 … Ohkouchi, N. (2009). Determination of aquatic food‐web struct
+ure based on
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 4202--4208
+ \TU/lmr/m/n/12 compound‐specific nitrogen isotopic composition of amino acids.
+ \TU/lmr/m/it/12 Limnology and
+ []
+
+Missing character: There is no δ (U+03B4) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no δ (U+03B4) in font [lmroman12-regular]:mapping=t
+ex-text;!
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [128]
@@ -1359,6 +1383,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [131]
 Missing character: There is no δ (U+03B4) in font [lmroman12-regular]:mapping=t
 ex-text;!
+Missing character: There is no δ (U+03B4) in font [lmroman12-regular]:mapping=t
+ex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1366,20 +1392,79 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [133]
-Missing character: There is no δ (U+03B4) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no δ (U+03B4) in font [lmroman12-regular]:mapping=t
-ex-text;!
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [134]
 Missing character: There is no δ (U+03B4) in font [lmroman12-regular]:mapping=t
 ex-text;!
+Missing character: There is no δ (U+03B4) in font [lmroman12-regular]:mapping=t
+ex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[135] [136] (./thesis.aux)
+[135]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[136]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[137]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[138]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[139]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[140]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[141]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[142]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[143]
+Missing character: There is no δ (U+03B4) in font [lmroman12-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 2426) in paragraph at lines 4959--4964
+ \TU/lmr/m/n/12 diet in the western stock of steller sea lions (eumetopias juba
+tus). \TU/lmr/m/it/12 Journal
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 4959--4964
+ \TU/lmr/m/it/12 of Mammalogy\TU/lmr/m/n/12 , \TU/lmr/m/it/12 83\TU/lmr/m/n/12 
+(4), 973–990. Journal Article. [][]http://doi.org/10.1644/1545-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[144]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[145]
+Missing character: There is no δ (U+03B4) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no δ (U+03B4) in font [lmroman12-regular]:mapping=t
+ex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[146]
+Missing character: There is no δ (U+03B4) in font [lmroman12-regular]:mapping=t
+ex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[147]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[148] [149] (./thesis.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1387,18 +1472,18 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 3DDDFA6A3C208720F4AE22187D998488;2768.
+(rerunfilecheck)             Checksum: 941C008B49B1929604CFED75DD93AB17;2822.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23160 strings out of 478475
- 429928 string characters out of 5858109
- 1202146 words of memory out of 5000000
- 43130 multiletter control sequences out of 15000+600000
+ 23227 strings out of 478475
+ 431409 string characters out of 5858109
+ 1202710 words of memory out of 5000000
+ 43191 multiletter control sequences out of 15000+600000
  414606 words of font info for 91 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
  73i,10n,81p,1151b,759s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (147 pages).
+Output written on thesis.pdf (160 pages).

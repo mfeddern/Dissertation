@@ -78,21 +78,21 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.2}Introduction}{91}{section.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Methods}{94}{section.4.3}%
+\contentsline {section}{\numberline {4.3}Methods}{95}{section.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.1}Sample collection and analysis}{94}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.1}Sample collection and analysis}{95}{subsection.4.3.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.3.2}Trophic position calculation}{96}{subsection.4.3.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.3.3}Model framework}{97}{subsection.4.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Results}{98}{section.4.4}%
+\contentsline {section}{\numberline {4.4}Results}{99}{section.4.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.4.1}Common trends in Alaskan pinniped trophic position}{99}{subsection.4.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4.2}Spatial and temporal differences in pinniped trophic structure}{100}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.2}Spatial and temporal differences in pinniped trophic structure}{101}{subsection.4.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.5}Discussion}{101}{section.4.5}%
+\contentsline {section}{\numberline {4.5}Discussion}{102}{section.4.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.5.1}Regional and species trends in harbor seal trophic position}{102}{subsection.4.5.1}%
 \defcounter {refsection}{0}\relax 
@@ -100,18 +100,20 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.5.3}Considerations and limitations for CSIA analyses}{105}{subsection.4.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.5.4}Conclusions and Implications}{106}{subsection.4.5.4}%
+\contentsline {subsection}{\numberline {4.5.4}Conclusions and Implications}{107}{subsection.4.5.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.6}Tables}{107}{section.4.6}%
+\contentsline {section}{\numberline {4.6}Tables}{108}{section.4.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Conclusion}{109}{chapter*.7}%
+\contentsline {section}{\numberline {4.7}Figures}{110}{section.4.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {\@textofAppendix \ A:}Appendix 1}{110}{appendix.A}%
+\contentsline {chapter}{Conclusion}{117}{chapter*.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}Full analytical details for bulk stable isotopes}{110}{section.A.1}%
+\contentsline {chapter}{\numberline {\@textofAppendix \ A:}Appendix 1}{118}{appendix.A}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {\@textofAppendix \ B:}The Second Appendix, for Fun}{112}{appendix.B}%
+\contentsline {section}{\numberline {A.1}Full analytical details for bulk stable isotopes}{118}{section.A.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Colophon}{113}{appendix*.8}%
+\contentsline {chapter}{\numberline {\@textofAppendix \ B:}The Second Appendix, for Fun}{120}{appendix.B}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{References}{117}{appendix*.9}%
+\contentsline {chapter}{Colophon}{121}{appendix*.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{References}{125}{appendix*.9}%
