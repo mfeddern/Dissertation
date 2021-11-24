@@ -8,7 +8,7 @@ If you feel it necessary to include an appendix, it goes here.
 
 
 # Appendix 1
-## Full analytical details for bulk stable isotopes
+## Full analytical details for stable isotopes
 
 Collagen samples have been analyzed for both CSSIA and bulk $\delta^{15}N$ which require 10 mg of purified collagen (100 mg of bone). Preliminary analyses were conducted to determine the highest rate of collagen return from bone sampled from different parts of the skull to minimize destruction. Samples were taken from the internal occipital shelf to maintain external integrity. Bone was decalcified using 0.2 M HCl for 24-72 hours depending on bone thickness, followed by centrifugation and nanopure water rinse. Removal of humic acids was conducted using 0.125 M NaOH for 20 hours. Samples were washed to a neutral pH, then solubilized in 0.01N HCl. Once solubilized samples were blown down under N2 to prevent isotopic fractionation, and freeze dried. Freeze dried collagen was be analyzed for bulk isotopic composition of nitrogen by the UW IsoLab (isolab.ess.washington.edu) using a coupled elemental analyzer-isotope ratio mass spectrometer following the standard protocols of the laboratory. C:N ratios were calculated from this data, which is a measure of the quality for carbon and nitrogen analyses of bone collagen for isotopic analysis. Only three observations were outside of the acceptable rang of 2.7-3.6; indicating there was no substantial loss of glycine or addition of nitrogen due to microbial processing from mortality, decay, curation, and analysis. 
 	

@@ -1,155 +1,162 @@
-```{r include_packages_2, include = FALSE}
-# This chunk ensures that the huskydown package is
-# installed and loaded. This huskydown package includes
-# the template files for the thesis and also two functions
-# used for labeling and referencing
-if(!require(devtools))
-  install.packages("devtools", repos = "http://cran.rstudio.com")
-if(!require(dplyr))
-    install.packages("dplyr", repos = "http://cran.rstudio.com")
-if(!require(ggplot2))
-    install.packages("ggplot2", repos = "http://cran.rstudio.com")
-if(!require(ggplot2))
-    install.packages("bookdown", repos = "http://cran.rstudio.com")
-if(!require(huskydown)){
-  library(devtools)
-  devtools::install_github("benmarwick/huskydown")
-  }
-library(huskydown)
-flights <- read.csv("data/flights.csv")
-```
+# Delayed trophic response of a marine predator to ocean condition and prey availability during the past century
 
+##Abstract
+Understanding the response of predators to ecological change at multiple temporal scales can elucidate critical predator-prey dynamics that would otherwise go unrecognized. We performed compound-specific nitrogen stable isotope analysis (CSIA) of amino acids on 153 harbor seal museum skull specimens to determine how this marine predator has responded to ecosystem change over the past century. The relationships between harbor seal trophic position, ocean condition, and prey abundance, were analyzed using hierarchical modelling of a multi-amino acid framework and applying 1-, 2-, and 3- year temporal lags. We identified delayed responses of harbor seal trophic position to both physical ocean conditions (upwelling, sea surface temperature, freshwater discharge) and prey availability (Pacific hake, Pacific herring and Chinook salmon). However, the magnitude and direction of the trophic response to ecological changes depended on the temporal delay. For example, harbor seal trophic position was negatively associated with summer upwelling, but had a 1- year delayed response to summer sea surface temperature, indicating some predator responses to climate extremes are not immediately observable. These results highlight the importance of considering dynamic responses of predators to their environment as multiple ecological factors are often changing simultaneously and predator response occurs at multiple temporal scales.
 
-# Tables, Graphics, References, and Labels {#ref-labels}
+##Introduction
+The regulation of food web structure by resources (bottom-up control) and the presence of top predators (top-down control) is fundamental for understanding food web responses to environmental, ecological, and anthropogenic change [@Carpenter1985; @Hunter1992; @Estes1998]. Ecological communities are continuously experiencing both biotic and abiotic disturbances [@Paine1998] and the ability of food webs to dynamically respond to these changes is crucial for ecosystem stability [@Ghedini2015]. In marine food webs, physical ocean conditions can impact primary production and ultimately constrain energy availability and thus biomass at higher trophic levels [@Ware2005; @Chassot2010; @Moore2018]. Similarly, the removal of top predators from an ecosystem as a result of human activities such as fishing can decrease predation pressure and alter abundance in both adjacent and non-adjacent trophic levels [@Heithaus2008; @Steneck2012]. However, large-scale changes in nutrient availability [@Rykaczewski2010], primary productivity [@Chassot2010], and top predator abundance over the past century [@Magera2013] means many food webs are experiencing shifts in multiple mechanisms of regulation in tandem, making it challenging to identify dominant drivers structuring ecosystems over the long term. 
 
-## Tables {#tables}
+Marine predators respond to multiple types of bottom-up drivers (i.e., ocean condition, prey availability) and the different temporal scales over which they respond is crucial for understanding community stability. However, delayed predator responses to environmental perturbations are prevalent in marine system, as impacts do not immediately propagate through the complete food web [@Duguid2019; @Smith2017]. Given communities can shift from bottom-up to top-down control, particularly in response to changing climate conditions [@Kratina2012], delayed predator responses to climate conditions has implications for abundance and mortality rates of prey.
 
-By far the easiest way to present tables in your thesis is to store the contents of the table in a CSV or Excel file, then read that file in to your R Markdown document as a data frame. Then you can style the table with the `kable` function, or functions in the [kableExtra](https://cran.r-project.org/web/packages/kableExtra/index.html) pacakge. 
+Historical marine predator data that span multiple environmental, ecological, and anthropogenic contexts are useful for identifying time scales over which predators respond to ecosystem drivers. Compound-specific stable isotope analysis (CSIA) of amino acid nitrogen can serve as a tracer of historical predator response to ecological and environmental change by deriving retrospective trophic position estimates from museum specimens [@McMahon2019; @Feddern2021]. Source amino acids (i.e., phenylalanine, lysine, methionine) exhibit minimal trophic discrimination (the difference in ^15^N/^14^N between trophic and source amino acids in consumers from a trophic transfer) and thus are a proxy for the isotopic signature of primary producers at the base of the food web. In contrast, trophic amino acids (i.e., alanine, glutamic acid, valine, proline) demonstrate trophic enrichment [@McMahon2016] that varies for individual amino acids. Combined, this approach allows for reconstruction of historic trophic position estimates under changing environmental conditions when characterizing the isotopic baseline of past ecosystems may not be possible [@McMahon2019]. Thus, CSIA is well suited to identify long-term drivers of food web dynamics when analyzed with historic indices of ocean condition and prey availability.
 
-In addition to the tables that can be automatically generated from a data frame in **R** that you saw in [R Markdown Basics] using the `kable` function, you can also create tables using _pandoc_. (More information is available at <http://pandoc.org/README.html#tables>.)  This might be useful if you don't have values specifically stored in **R**, but you'd like to display them in table form.  Below is an example.  Pay careful attention to the alignment in the table and hyphens to create the rows and columns. Generally I don't recommend this approach of typing the table directly into your R Markdown document. 
+Reconstructing time series of predator trophic position requires careful consideration of physiological and ecological parameters that contribute to stable isotope signatures. First, taxa exhibit different trophic enrichment factors based on excretion pathways, diet type (omnivory, herbivory, carnivory), and growth [@Nielsen2015]. Second, the nitrogen production pathway of vascular (i.e., seagrasses) versus nonvascular (i.e., marine diatoms) primary producers impart distinct stable isotope fractionation factors ($\beta$) as inorganic sources of nitrogen are converted to tissues [@VanderZanden2013]. Assumptions about the relative contributions of vascular versus nonvascular plants can therefore impact trophic position estimates (Choi et al. 2017). Finally, there is a delay between the time a prey source is consumed and when that prey source has been fully assimilated into the consumer, referred to as the ‘turnover time’. Turnover times must be considered when comparing trophic position data to ocean condition and prey availability covariates, as the consumer response to an ecological change will not be immediately observable in consumer tissues.
 
-----------------------------------------------------------------------------------
-  Factors                    Correlation between Parents & Child      Inherited
-------------------------- ----------------------------------------- --------------
-  Education                                -0.49                         Yes
-  
-  Socio-Economic Status                     0.28                        Slight   
-  
-  Income                                    0.08                          No
-  
-  Family Size                               0.18                        Slight
-  
-  Occupational Prestige                     0.21                        Slight
-------------------------- ----------------------------------------- --------------
-Table: (\#tab:inher) Correlation of Inheritance Factors for Parents and Child 
+Nearshore coastal ecosystems provide a model system to assess long-term changes of food web drivers using archival museum specimens of a marine predator by applying CSIA. Food webs of coastal Washington and the Salish Sea have experienced dramatic restructuring over the past century due to declines and subsequent recoveries of marine predators [@Jeffries2003; @Ohlberger2019]. Decades of state-financed population control programs resulted in harbor seals (*Phoca vitulina*) reaching a historic low in the 1970's, with an estimated abundance of approximately 1,000 individuals [@Jeffries2003]. Following the cessation of bounties in 1960 and the passage of the Marine Mammal Protection Act in 1972, top-predator abundance increased dramatically. Benefitting from a relatively short life history, generalist diet, and legislation restricting mortality, harbor seal populations increased 10-fold between 1970 and 2003 [@Jeffries2003]. The dramatic increase in abundance of this top predator has been implicated in the declines in economically and ecologically important prey species in the region [@Chasco2017; @Nelson2019], specifically, Chinook salmon (*Oncorhynchus tshawytscha*). Chinook salmon are listed as endangered in the region (WDFW 2017) and are an important prey species for the endangered southern resident orca [@Marshall2015]. Simultaneously, the region has also experienced changes in nutrients (Mohamedali et al. 2011), climate regimes [@Corwith2002; @Mantua2002] and abundances of other important prey species such as Pacific herring (*Clupea pallasii*, @Siple2016). 
 
-We can also create a link to the table by doing the following: Table \@ref(tab:inher).  If you go back to [Loading and exploring data] and look at the `kable` table, we can create a reference to this max delays table too: Table \@ref(tab:maxdelays). The addition of the `(\#tab:inher)` option to the end of the table caption allows us to then make a reference to Table `\@ref(tab:label)`. Note that this reference could appear anywhere throughout the document after the table has appeared.  
+Here we examined a century of harbor seal trophic position data in coastal Washington and the Salish Sea. The objective of this work is to identify the time scales at which physical ocean conditions and prey availability exert bottom-up control on marine predator trophic ecology. We assumed a correlation between trophic position and prey species abundance is the result of increased or decreased consumption of that species. Additionally, we established a multi-amino acid framework for measuring trophic position that improves precision and ecological accuracy by applying a species-specific trophic discrimination factor [@McMahon2019; @Nielsen2015]. We also included a system specific $\beta$ value rather than a universal value, and applied temporal lags to account for both physiological and ecological delays in consumer response.
 
-<!-- We will next explore ways to create this label-ref link using figures. -->
+##Methods
+###Sample collection and analysis
+Samples were obtained using methods described in @Feddern2021. Briefly, harbor seal bone was obtained from four museum institutions (the Burke Museum, the Slater Museum, the Royal British Columbia Museum, and the Smithsonian Institute) and the National Marine Mammal Laboratory (NOAA). Specimens were treated by maceration in warm water and stored in acid free boxes. Sampling targeted adult specimens and prioritized long-term temporal coverage in two main regions: coastal Washington and the Salish Sea (which included 18 specimens from British Columbia). Specimens with sex, length, and age data were also prioritized but this information was not available for all sampled specimens. A total of 153 specimens were sampled with field collection dates ranging 1928-2014 (Figure \@ref(fig:map3)). 
 
-\clearpage
+###Trophic position determination
+Bone collagen was decalcified, acid hydrolyzed, derivatized, and analyzed for nitrogen CSIA ($\delta^{15}N$) of 12 individual amino acids. Collagen samples were measured in triplicate with a laboratory standard containing a 12 amino acid mixture of known isotopic composition and a linear drift correction was applied. Full analytical details are described in Appendix 1: Text 1. Previous controlled feeding studies have determined the trophic enrichment factor (TEF) for harbor seals is substantially lower than the conventional literature value of 7.6‰ [@Germain2013] and thus applying a harbor seal-specific TEF is more accurate [@McMahon2015]. Therefore, trophic position was calculated using a harbor seal-specific TEF, described by @McMahon2015 as a "multi-TEF" approach, using the following equation:  
 
-<!-- clearpage ends the page, and also dumps out all floats.
-  Floats are things like tables and figures. -->
+\begin{equation} 
+Trophic Position =   
+  \frac{\delta^{15}N_{(i-o)} - TEF_{(i-o),j} - \beta_{(i-o),N}}{\overline{TEF}_{(i-o)}}+2
+  (\#eq:TP3)
+\end{equation} 
 
+where $\delta^{15}N_i$ is the measured stable isotope composition of a trophic amino acid i in a sample and $\delta^{15}N_o$ is the stable isotope composition of a source amino acid o in a sample.$\delta^{15}N_{(i-o)}$ represents the total trophic enrichment that has occurred throughout the food web measurable from predator tissues. $TEF_{(i-o),j}$ is the trophic enrichment factor between trophic amino acid *i* and source amino acid *o* of a specific consumer *j* (in this study, harbor seals) which occurs when consumer *j* assimilates prey. $\beta_{(i-o),N}$ is the difference in enrichment between a specific trophic amino acid *i* and source amino acid o for non-vascular primary producers *N* that occurs when primary producers assimilate inorganic nitrogen (@Nielsen2015; Table \@ref(tab:tpparam)). $\overline{TEF}_{(i-o)}$ represents the mean trophic enrichment that occurs at other trophic levels in the food web, and is calculated from the mean difference between trophic amino acid i and source amino acid o across all consumers described in @Nielsen2015.
 
-## Figures
+The $\beta$ parameter differs substantially between vascular and nonvascular primary producers (@Ramirez2021; Table \@ref(tab:tpparam)). In food webs that assimilate organic matter from both vascular and nonvascular plants, including many nearshore food webs, β will be intermediate. In addition to testing a value that represents nonvascular primary producers exclusively $\beta_{(i-o),N}$, we also applied a two-source mixing model using carbon stable isotope data similar to @Choi2017. This generates a $\beta$ that is weighted $\beta_{(i-o),NV}$ based on the contributions of both vascular and nonvascular plants specific to the Washington nearshore ecosystem by first calculating the percent contribution of vascular plants to the food web:
 
-If your thesis has a lot of figures, _R Markdown_ might behave better for you than that other word processor. One perk is that it will automatically number the figures accordingly in each chapter. You'll also be able to create a label for each figure, add a caption, and then reference the figure in a way similar to what we saw with tables earlier.  If you label your figures, you can move the figures around and _R Markdown_ will automatically adjust the numbering for you.  No need for you to remember!  So that you don't have to get too far into LaTeX to do this, a couple **R** functions have been created for you to assist.  You'll see their use below.
+\begin{equation} 
+  \% V =
+    \frac{\delta^{13}C_{H} - \delta^{13}C_{N}}
+    {\delta^{13}C_{V} - \delta^{13}C_{N}}/100
+    (\#eq:perV)
+\end{equation} 
 
-<!--
-One thing that may be annoying is the way _R Markdown_ handles "floats" like tables and figures (it's really \LaTeX's fault). \LaTeX\ will try to find the best place to put your object based on the text around it and until you're really, truly done writing you should just leave it where it lies. There are some optional arguments specified in the options parameter of the `label` function.  If you need to shift your figure around, it might be good to look here on tweaking the options argument:  <https://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions>
+where $\delta^{13}C_{H}$ is the mean observed $\delta^{13}C$ value for Washington harbor seals. $\delta^{13}C_{V}$ is the carbon stable isotope end member for vascular plants, v (-9.5 ‰, derived from seagrasses *Zostera spp.*); and $\delta^{13}C_{N}$ is the carbon stable isotope end member for nonvascular plants, n (-19.5‰, derived from phytoplankton). Carbon end members were specific to the Washington nearshore ecosystems [@Howe2015]. Percent V is the percent contribution of vascular plants to the food web in which harbor seals forage. This assumes the trophic enrichment of $^{13}C$ is generally negligible (0–1‰, @Deniro1978).  $\beta_{(i-o),NV}$ was then derived by:
 
-If you need a graphic or tabular material to be part of the text, you can just put it inline. If you need it to appear in the list of figures or tables, it should be placed in a code chunk.
--->
+\begin{equation} 
+\beta_{(i-o),NV} = (\beta_{(i-o),V}*\%V) +
+(\beta_{(i-o),N}*(1-\%V))
+  (\#eq:betanv)
+\end{equation}
 
+where $\beta_{(i-o),N}$ is the enrichment between an individual trophic amino acid i and source amino acid o for aquatic phytoplankton and $\beta_{(i-o),V}$  represents the trophic enrichment of seagrass which are vascular plants (Table \@ref(tab:tpparam)). 
 
-In the **R** chunk below, we will load in a picture stored as `uw.png` in our main directory.  We then give it the caption of "UW logo", the label of "uwlogo", and specify that this is a figure.  Make note of the different **R** chunk options that are given in the R Markdown file (not shown in the knitted document).
+###Quantifying bottom-up drivers of foraging 
+To identify the most important explanatory variables of ocean condition and prey availability on predator trophic position, we fit two sets of candidate models using a multi-amino acid (glutamic acid, aspartic acid, alanine, proline, valine) hierarchical model. We selected 12 putative explanatory variables based on the length of the time series and divided them *a priori* into our two categories of interest, ocean condition and prey availability, representing our expected primary forcing mechanisms (Appendix S1: Tables 3.2 & 3.4). We fit candidate models to the trophic position and covariate data, and the candidate model set included a null and location-only model (Tables \@ref(tab:ocmod) & \@ref(tab:prmod)). Location (Salish Sea or coastal Washington) was included as a factor in all candidate models except the null model. Due to the correlation between the multivariate El Niño Southern Oscillation index and the Pacific Decadal Oscillation only one of these covariates were included in a single model. All timeseries were standardized around a mean of 0 and standard deviation of 1. To avoid collinearity, no more than four covariates (including location) were included in an individual model.
 
-```{r uwlogo, fig.cap="UW logo"}
-knitr::include_graphics(path = "figure/uw.png")
-```
+@Nielsen2015 determined that the use of multiple amino acids improves estimates of trophic position. Therefore, we used multiple trophic amino acids *i* (alanine, glutamic acid, valine and proline) and one source amino acid o (phenylalanine) to calculate trophic position. We selected amino acids based on: their prevalence in previous studies to derive parameters for equation 1; tissue turnover time relative to the source amino acid, phenylalanine; and their concentrations in bone collagen. The hierarchical linear model took the following structure:
 
-Here is a reference to the UW logo: Figure \@ref(fig:uwlogo).  Note the use of the `fig:` code here.  By naming the **R** chunk that contains the figure, we can then reference that figure later as done in the first sentence here.  We can also specify the caption for the figure via the R chunk option `fig.cap`.
+\begin{equation} 
+y_t = \alpha_k + \boldsymbol\beta X_{t-d} +\epsilon, 
+  (\#eq:hier3)
+\end{equation}
 
-\clearpage 
-
-<!-- starts a new page and stops trying to place floats such as tables and figures -->
-
-Below we will investigate how to save the output of an **R** plot and label it in a way similar to that done above.  Recall the `flights` dataset from Chapter \@ref(rmd-basics).  (Note that we've shown a different way to reference a section or chapter here.)  We will next explore a bar graph with the mean flight departure delays by airline from Portland for 2014.  Note also the use of the `scale` parameter which is discussed on the next page.
-
-```{r delaysboxplot, warnings=FALSE, messages=FALSE, fig.cap="Mean Delays by Airline", fig.width=6}
-flights %>% group_by(carrier) %>%
-  summarize(mean_dep_delay = mean(dep_delay)) %>%
-  ggplot(aes(x = carrier, y = mean_dep_delay)) +
-  geom_bar(position = "identity", stat = "identity", fill = "red")
-```
-
-Here is a reference to this image: Figure \@ref(fig:delaysboxplot).
-
-A table linking these carrier codes to airline names is available at <https://github.com/ismayc/pnwflights14/blob/master/data/airlines.csv>.
+where *y* represents harbor seal trophic position from year *t* and *k* represents four different trophic amino acids (factors) used to calculate trophic position included as a random effects. *X* is a matrix of continuous bottom-up drivers in year *t*. $\boldsymbol\beta$ is a vector of predicted effects (coefficients) of bottom-up drivers included in the model (Tables \@ref(tab:ocmod) & \@ref(tab:prmod)) on harbor seal trophic position, and *a* is the predicted trophic position when all included bottom-up drivers are at an average value (represented by 0) in the coastal region of Washington. The variable *d* is the temporal lag between a change in bottom-up drivers and when that change is reflected in harbor seal bone collagen. This lag can be due to both physiological (tissue turnover) or ecological effects (rate of propagation through the food web). Time (year, Appendix S1: Section S4, Fig. S6), sex, size (Appendix S1: Section S3, Fig. S4 & S5), and seasonality (month, Appendix S1: Fig. S1), were also considered as predictors of trophic position but no significant associations were identified and thus these parameters were not included in the hierarchical modeling (Appendix S1: Section S3). The best performing models for both of these approaches were selected using Akaike’s Information Criterion (Akaike 1973) with a correction for small sample size (AICc). Inclusion of predictors in the model with the most support is indicative of ecological parameters that alter harbor seal foraging ecology or food web dynamics. Additionally, magnitude and sign of the coefficients for included predictors can be interpreted as the degree of trophic change induced by consuming different species, life stages of species, or groups of species, caused by a given predictor. 
 
 \clearpage
 
-Next, we will explore the use of the `out.extra` chunk option, which can be used to shrink or expand an image loaded from a file by specifying `"scale= "`. Here we use the mathematical graph stored in the "subdivision.pdf" file.
+##Tables
 
-```{r subd, results="asis", echo=FALSE, fig.cap="Subdiv. graph", out.extra="scale=0.75"}
-knitr::include_graphics("figure/subdivision.pdf")
+**Table** \@ref(tab:tpparam): Trophic amino acid specific parameter values for $\beta$ and trophic enrichment factors (*TEF*) to test parameterization of trophic position calculations using multiple TEFs and $\beta$ values. The source amino acid (*o*) for all parameters was phenylalanine. 
+
+```{r tpparam,echo=FALSE}
+supp1 <- read.csv("data/Ch3/TableS2.csv")
+
+colnames(supp1) <- c("Trophic Amino Acid (i)",
+                           "$\\beta_{(i-o),N}$",
+                            "$\\beta_{(i-o),V}$",
+                           "$\\beta_{(i-o),NV}$",
+                           "$TEF_{(i-o),j}$",
+                           "$\\overline{TEF}_{(i-o)}$")
+supp1 <- kableExtra:::kable_styling(knitr::kable(supp1, "latex", escape = FALSE,
+caption = "Trophic position parameter values",
+                  longtable = TRUE, booktabs = TRUE
+                  ),font_size = 8)
+ 
+kableExtra::column_spec(supp1, column=2:4, width = "7em")
+
 ```
 
-Here is a reference to this image: Figure \@ref(fig:subd).  Note that `echo=FALSE` is specified so that the **R** code is hidden in the document.
+\clearpage
 
-**More Figure Stuff**
 
-Lastly, we will explore how to rotate and enlarge figures using the `out.extra` chunk option.  (Currently this only works in the PDF version of the book.)
+\begin{landscape}
+Table 3.2: Datasets used to test ocean condition as a bottom-up driver of harbor seal trophic ecology. Total number of models tested = 35.
 
-```{r subd2, results="asis", echo=FALSE, out.extra="angle=180, scale=1.1", fig.cap="A Larger Figure, Flipped Upside Down"}
-knitr::include_graphics("figure/subdivision.pdf")
+```{r envdat,echo=FALSE}
+supp1 <- read.csv("data/Ch3/TableS3.csv")
+ supp1<-  kableExtra:::kable_styling(knitr::kable(supp1, "latex",col.names = gsub("[.]", " ", names(supp1)), 
+                  caption = "Environmental Datasets",
+                  longtable = TRUE, booktabs = TRUE
+                  ),font_size = 8)
+kableExtra::column_spec(supp1, column=c(2,4), width = "27em")
+```
+\clearpage
+
+Table 3.4:  Datasets used to test prey availability as a bottom-up driver of harbor seal trophic ecology. Total number of models tested = 26.
+
+```{r preydat,echo=FALSE}
+supp1 <- read.csv("data/Ch3/TableS4.csv")
+ supp1<-  kableExtra:::kable_styling(knitr::kable(supp1, "latex",col.names = gsub("[.]", " ", names(supp1)), 
+                  caption = "Prey Datasets",
+                  longtable = TRUE, booktabs = TRUE
+                  ),font_size = 8)
+kableExtra::column_spec(supp1, column=c(2,4), width = "27em")
+```
+\end{landscape}
+\clearpage
+
+**Table** \@ref(tab:ocmod): Full candidate model set (n = 35) for ocean condition modelling. The same candidate models were used for the physiological delay, 1-year ecological delay, and 2-year ecological delay models 
+
+```{r ocmod,echo=FALSE}
+supp1 <- read.csv("data/Ch3/TableS5.csv")
+
+
+supp1 <- kableExtra:::kable_styling(knitr::kable(supp1, "latex", escape = FALSE,
+caption = "Ocean Condition Candidate Models",
+                  longtable = TRUE, booktabs = TRUE
+                  ),font_size = 8)
+ 
+kableExtra::column_spec(supp1, column=2:4, width = "7em")
+
+```
+\clearpage
+
+**Table** \@ref(tab:prmod): Full candidate model set (n = 26) for prey availability modelling. The same candidate models were used for the physiological delay, 1-year ecological delay, and 2-year ecological delay models. 
+
+```{r prmod,echo=FALSE}
+supp1 <- read.csv("data/Ch3/TableS6.csv")
+
+
+supp1 <- kableExtra:::kable_styling(knitr::kable(supp1, "latex", escape = FALSE,
+caption = "Prey Availability Candidate Models",
+                  longtable = TRUE, booktabs = TRUE
+                  ),font_size = 8)
+ 
+kableExtra::column_spec(supp1, column=2:4, width = "7em")
+
 ```
 
-As another example, here is a reference: Figure \@ref(fig:subd2).  
 
-## Footnotes and Endnotes
+##Figures
 
-You might want to footnote something. ^[footnote text] The footnote will be in a smaller font and placed appropriately. Endnotes work in much the same way. 
+**Figure** \@ref(fig:map3): Spatial distribution of harbor seal specimens (a) collected in the Salish Sea (yellow) and coastal Washington (blue) with the year of specimen collection and total number of specimens (n) for each year from 1928-2014 in the Salish Sea (b) and coastal Washington (c).
+\newline 
 
-## Cross-referencing chapters and sections 
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.85\textwidth]{figure/Ch3/Figure1.pdf}
+  \caption{Spatial and temporal distribution of specimens}
+  (\#fig:map3)
+\end{figure}
 
-The [bookdown documentation](https://bookdown.org/yihui/bookdown/cross-references.html) is an excellent source for learning how to cross-reference in a bookdown project such as a huskydown document. Here we only cover the most common uses for a typical thesis. If you want something more complex or fancy, please refer to the bookdown documentation and seek help from the developers of that package. 
-
-By default, all of your chapter and section headers will get an auto-generated ID label For example, e.g., `# Chapter 1` will have an auto-generated ID `chapter-1`. Note that the ID label is all lower case, and has no spaces. If you have any kind of punctuation in your header, such as a colon (:), it will not appear in the ID label. Then in your text you can reference chapter one in your Rmd file like this: 'as discussed in Chapter `\@ref(chapter-1)`', which will print as 'as discussed in Chapter 1'
-
-We strongly recommend that you to manually assign ID labels to your chapter header to make it easy to cross-reference. For example, at the top of the Rmd file for this chapter, you can see:
-
-`# Tables, Graphics, References, and Labels {#ref-labels}`
-
-The `{#ref-labels}` part of this header is the ID label. It doesn't show in the output, but is there for us to use for easy cross-referencing, because it can be short, and we don't need to change it elsewhere our document when we update the chapter header. We can use this custom ID label in our Rmd document like this: 'as discussed in Chapter `\@ref(ref-labels)`', which will print as 'as discussed in Chapter \@ref(ref-labels)'. If you need to show custom text instead of the chapter number, you use this syntax in your Rmd document: `see [my chapter about labels](#ref-labels) for more details` which will appear as 'see [my chapter about labels](#ref-labels) for more details'
-
-To cross-reference a specific section in the same chapter, we recommend adding a custom ID label to the section header, and using that to cross-reference. For example, earlier in this chapter we have a section on tables and in the Rmd file we see `## Tables {#tables}`. We can cross-reference that in the text like this 'as discussed in the section on `[tables](#tables)`' which will appear as 'as discussed in the above section on [tables](#tables)'
-
-To cross-reference a section in a different chapter we can use the ID label from that section directly. For example, we can write in our Rmd document `as discussed in the section on [R code chunks](#r-chunks) in Chapter \@ref(rmd-basics)` which will appear as 'as discussed in the section on [R code chunks](#r-chunks) in Chapter \@ref(rmd-basics)'. 
-
-If you prefer to cross-reference by the section number, we can use custom ID labels in our Rmd document. For example, to refer to a section in our first chapter, we can write in the Rmd document: `as discussed in section \@ref(r-chunks) in Chapter \@ref(rmd-basics)`. This will appear with section and chapter numbers like so: as 'as discussed in section \@ref(r-chunks) in Chapter \@ref(rmd-basics)'. 
-
-## Bibliographies
-
-Of course you will need to cite things, and you will probably accumulate an armful of sources. There are a variety of tools available for creating a bibliography database (stored with the .bib extension).  In addition to BibTeX suggested below, you may want to consider using the free and easy-to-use tool called Zotero. Some Zotero documentation is at <http://libguides.reed.edu/citation/zotero>.  In addition, a tutorial is available from Middlebury College at <http://sites.middlebury.edu/zoteromiddlebury/>.
-
-_R Markdown_ uses _pandoc_ (<http://pandoc.org/>) to build its bibliographies.  One nice caveat of this is that you won't have to do a second compile to load in references as standard LaTeX requires. To cite references in your thesis (after creating your bibliography database), place the reference name inside square brackets and precede it by the "at" symbol.  For example, here's a reference to a book about worrying:  [@Molina1994].  This `Molina1994` entry appears in a file called `thesis.bib` in the `bib` folder.  This bibliography database file was created by a program called BibTeX.  You can call this file something else if you like (look at the YAML header in the main .Rmd file) and, by default, is to placed in the `bib` folder.  
-
-For more information about BibTeX and bibliographies, see (<http://web.reed.edu/cis/help/latex/index.html>)^[@reedweb2007]. There are three pages on this topic:  _bibtex_ (which talks about using BibTeX, at <http://web.reed.edu/cis/help/latex/bibtex.html>), _bibtexstyles_ (about how to find and use the bibliography style that best suits your needs, at <http://web.reed.edu/cis/help/latex/bibtexstyles.html>) and _bibman_ (which covers how to make and maintain a bibliography by hand, without BibTeX, at <http://web.reed.edu/cis/help/latex/bibman.html>). The last page will not be useful unless you have only a few sources.
-
-If you look at the YAML header at the top of the main .Rmd file you can see that we can specify the style of the bibliography by referencing the appropriate csl file.  You can download a variety of different style files at <https://www.zotero.org/styles>.  Make sure to download the file into the csl folder.
-
-**Tips for Bibliographies**
-
-- Like with thesis formatting, the sooner you start compiling your bibliography for something as large as thesis, the better. 
-- The cite key (a citation's label) needs to be unique from the other entries.
-- When you have more than one author or editor, you need to separate each author's name by the word "and" e.g. `Author = {Noble, Sam and Youngberg, Jessica},`.
-- Bibliographies made using BibTeX (whether manually or using a manager) accept LaTeX markup, so you can italicize and add symbols as necessary.
-- To force capitalization in an article title or where all lowercase is generally used, bracket the capital letter in curly braces.
-
-## Anything else?
-
-If you'd like to see examples of other things in this template, please [contact us](https://github.com/benmarwick/huskydown/issues/new) (email <bmarwick@uw.edu>) with your suggestions. We love to see people using _R Markdown_ for their theses, and are happy to help.
-
+\clearpage

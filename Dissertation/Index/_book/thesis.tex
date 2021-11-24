@@ -3,46 +3,6 @@
 \documentclass [11pt, proquest] {uwthesis}[2015/03/03]
 
 % Syntax highlighting #22
-  \usepackage{color}
-  \usepackage{fancyvrb}
-  \newcommand{\VerbBar}{|}
-  \newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
-  \DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
-  % Add ',fontsize=\small' for more characters per line
-  \usepackage{framed}
-  \definecolor{shadecolor}{RGB}{248,248,248}
-  \newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
-  \newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
-  \newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
-  \newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
-  \newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
-  \newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
-  \newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
-  \newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-  \newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
-  \newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-  \newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-  \newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-  \newcommand{\ImportTok}[1]{#1}
-  \newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
-  \newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-  \newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-  \newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-  \newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
-  \newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
-  \newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
-  \newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
-  \newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
-  \newcommand{\BuiltInTok}[1]{#1}
-  \newcommand{\ExtensionTok}[1]{#1}
-  \newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
-  \newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
-  \newcommand{\RegionMarkerTok}[1]{#1}
-  \newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-  \newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-  \newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
-  \newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
-  \newcommand{\NormalTok}[1]{#1}
 
 %% https://github.com/rstudio/rmarkdown/issues/1649
 \newlength{\cslhangindent}
@@ -145,7 +105,7 @@
 %% from thesisdown
 % To pass between YAML and LaTeX the dollar signs are added by CII
 \Title{Applied ecosystem chemistry: linking biogeochemical and physiological
-processes to ecological interactions and management practices}
+processes to ecological interactions}
 \Author{Megan L Feddern}
 \Year{2021}
 \Program{School of Aquatic and Fishery Sciences}
@@ -455,8 +415,8 @@ sites are biogeochemically similar to salmon sites and 2) the isotopic
 signature of salmon is unchanged in the soils prior to plant uptake. N
 cycling in soils is strongly controlled by position in the landscape and
 contains a number of chemical reactions which fractionate N isotopically
-(HÖgberg, \protect\hyperlink{ref-Hogberg1998}{1998}; Wheeler, Kavanagh,
-\& Daanen, \protect\hyperlink{ref-Wheeler2014}{2014}) (Figure
+(HÖgberg, \protect\hyperlink{ref-Hogberg1998}{1998}; T. A. Wheeler,
+Kavanagh, \& Daanen, \protect\hyperlink{ref-Wheeler2014}{2014}) (Figure
 \ref{fig:npathways}), therefore these assumptions may not be valid.
 
 Experiments examining the contributions of MDN are often limited by
@@ -1048,7 +1008,7 @@ consistent with expected changes during soil N transformation (HÖgberg,
 possibility that previous MDN studies have overestimated the amount of
 MDN by not considering the effects of
 \textsuperscript{15}N/\textsuperscript{14}N fractionation in mixing
-model calculations. Wheeler \& Kavanagh
+model calculations. T. A. Wheeler \& Kavanagh
 (\protect\hyperlink{ref-Wheeler2017}{2017}) found similar results in a
 semi-arid ecosystem of central Idaho, where accounting for fractionation
 from decomposition resulted in a 16\% reduction in estimated N
@@ -1128,7 +1088,7 @@ of salmon populations or application of compensatory restoration
 strategies based on terrestrial productivity response to salmon inputs
 may be unfounded for some systems, and at least, hard to predict.
 
-\hypertarget{tables}{\section{Tables}\label{tables}}
+\section{Tables}\label{tables}
 
 \textbf{Table} \ref{tab:candmod1}: The candidate model set tested for
 each response variable using AIC analysis where \{*\} denotes models
@@ -1417,8 +1377,8 @@ Johnson, Dostie, Luzier, \& Wanamaker,
 \protect\hyperlink{ref-Whitney2019}{2019}). The \(\delta^{15}N\)
 signature at the base of the food web is primarily controlled by
 utilization and the isotopic signatures of different nitrogen sources,
-particularly urea, nitrate, and ammonium, by primary producers (N.
-Ohkouchi et al., \protect\hyperlink{ref-Ohkouchi2017}{2017};
+particularly urea, nitrate, and ammonium, by primary producers (Ohkouchi
+et al., \protect\hyperlink{ref-Ohkouchi2017}{2017};
 \protect\hyperlink{ref-Graham2010}{2009}). Measurements of bulk
 \(\delta^{15}N\) values from consumers can be difficult to attribute to
 changes at the base of the food web because trophic level shifts also
@@ -1431,7 +1391,7 @@ with each trophic transfer and source amino acids (i.e., phenylalanine,
 lysine, methionine) show minimal change and thus are reflective of the
 base of the food web (Chikaraishi et al.,
 \protect\hyperlink{ref-Chikaraishi2009}{2009}; McClelland \& Montoya,
-\protect\hyperlink{ref-McClelland2002}{2002}; N. Ohkouchi et al.,
+\protect\hyperlink{ref-McClelland2002}{2002}; Ohkouchi et al.,
 \protect\hyperlink{ref-Ohkouchi2017}{2017}).
 
 Similar to the nitrogen stable isotope composition of amino acids as a
@@ -1466,7 +1426,7 @@ at the base of the food web) and food web-assimilated production
 and physiology). These definitions assume major changes in nitrogen
 utilization and phytoplankton dynamics are recorded in the stable
 isotope composition of nitrogen and carbon in phytoplankton (McMahon et
-al., \protect\hyperlink{ref-McMahon2019}{2019}; N. Ohkouchi et al.,
+al., \protect\hyperlink{ref-McMahon2019}{2019}; Ohkouchi et al.,
 \protect\hyperlink{ref-Ohkouchi2017}{2017}; Sherwood et al.,
 \protect\hyperlink{ref-Sherwood2011}{2011}; Vega et al.,
 \protect\hyperlink{ref-delaVega2021}{2021}), scaled to the spatial and
@@ -1493,7 +1453,7 @@ primarily piscivorous diet, generalist foraging strategies, high site
 fidelity, and frequent occurrence in museum specimen collections. Adult
 harbor seals typically forage 5 - 10 km from haul out sites and at
 depths \textless{} 200 m and are opportunistic feeders (Lance, Chang,
-Jeffries, Pearson, \& Acevedo-Gutiérrez,
+Jeffries, Pearson, \& Acevedo-Gutierrez,
 \protect\hyperlink{ref-Lance2012}{2012}). Therefore, the nitrogen and
 carbon stable isotope composition of harbor seals offer a robust
 representation of the isotopic composition of carbon and nitrogen
@@ -1560,7 +1520,7 @@ manuscript (Appendix S1). CSIA samples were analyzed by GC-C-irMS at the
 University of Washington Facility for Compound-Specific Stable Isotope
 Analysis of Environmental Samples using a Thermo Scientific Trace GC +
 GC IsoLink coupled to a Delta V irMS following the procedures developed
-by Y. Chikaraishi, Kashiyama, Ogawa, Kitazato, \& Ohkouchi
+by Chikaraishi, Kashiyamal, Ogawa, Kitazato, \& Ohkouchi
 (\protect\hyperlink{ref-Chikaraishi2007}{2007}) and protocols by Rachel
 Jeffrey's lab at University of Liverpool UK (full analytical details are
 provided in Appendix 1). Individual collagen samples were analyzed in
@@ -2029,8 +1989,8 @@ composition are all tightly coupled with nutrient availability (S. L.
 Strom, Olson, Macri, \& Mord, \protect\hyperlink{ref-Strom2006}{2006}).
 A significant relationship between bulk \(\delta^{15}N\) and
 \(\delta^{13}C\) values was also observed in the tissues of some
-gorgonian corals over the same time period in coastal Gulf of Alaska
-(Williams, Risk, Stone, Sinclair, \& Ghaleb,
+gorgonian corals over the same time period in coastal Gulf of Alaska (B.
+Williams, Risk, Stone, Sinclair, \& Ghaleb,
 \protect\hyperlink{ref-Williams2007}{2007}). Given the evidence of
 nitrogen limitations and its relationship with phytoplankton growth and
 community composition in these coastal environments, the association
@@ -2117,7 +2077,7 @@ the arctic (de la Vega et al. 2020). However, our \(\delta^{15}N_{Phe}\)
 values from harbor seals of the eastern Bering Sea were high relative to
 previous studies of summer nitrate (5 to 9‰) (Lehmann et al.,
 \protect\hyperlink{ref-Lehmann2005}{2005}) and plankton nitrogen isotope
-signatures (6-12‰) (Smith, Henrichs, \& Rho,
+signatures (6-12‰) (S. L. Smith, Henrichs, \& Rho,
 \protect\hyperlink{ref-Smith2002}{2002}) from the outer and mid Bering
 Sea shelf. Morales et al. (\protect\hyperlink{ref-Morales2014}{2014})
 subsequently found the stable isotope composition of nitrogen in diatoms
@@ -2255,8 +2215,7 @@ be both additive and subtractive. For example, both the isotopic
 composition of dissolved inorganic nitrogen sources (primarily
 \(NO_3^-\), but also urea and \(NH_4^+\)) and the relative uptake of
 these sources impact the isotopic composition of nitrogen in primary
-producers (N. Ohkouchi et al.,
-\protect\hyperlink{ref-Ohkouchi2017}{2017};
+producers (Ohkouchi et al., \protect\hyperlink{ref-Ohkouchi2017}{2017};
 \protect\hyperlink{ref-Graham2010}{2009}). As a result, these data on
 their own are limited in their ability to track exact mechanisms of
 fractionation and specific biogeochemical changes through time or space.
@@ -2276,7 +2235,7 @@ enrichment in \(\delta^{13}C\) and \(\delta^{15}N_{Phe}\) values is
 minimal (Bocherens \& Drucker,
 \protect\hyperlink{ref-Bocherens2003}{2003}; Germain et al.,
 \protect\hyperlink{ref-Germain2013}{2013}; K. A. Hobson, Schell, Renouf,
-\& Noseworthy, \protect\hyperlink{ref-Hobson1996}{1996}; N. Ohkouchi et
+\& Noseworthy, \protect\hyperlink{ref-Hobson1996}{1996}; Ohkouchi et
 al., \protect\hyperlink{ref-Ohkouchi2017}{2017}), and thus unlikely to
 impact overall correlations between datasets, it can produce enriched
 absolute isotope values and increased variation between observations,
@@ -2629,330 +2588,501 @@ covariate. \newline
   \caption{Residuals for linear models with the most support}
   \label{fig:linresid2}
 \end{figure}
-\hypertarget{ref-labels}{\chapter{Tables, Graphics, References, and
-Labels}\label{ref-labels}}
+\chapter{Delayed trophic response of a marine predator to ocean
+condition and prey availability during the past
+century}\label{delayed-trophic-response-of-a-marine-predator-to-ocean-condition-and-prey-availability-during-the-past-century}
 
-\hypertarget{tables}{\section{Tables}\label{tables}}
+\section{Abstract}\label{abstract-2}
 
-By far the easiest way to present tables in your thesis is to store the
-contents of the table in a CSV or Excel file, then read that file in to
-your R Markdown document as a data frame. Then you can style the table
-with the \texttt{kable} function, or functions in the
-\href{https://cran.r-project.org/web/packages/kableExtra/index.html}{kableExtra}
-pacakge.
+Understanding the response of predators to ecological change at multiple
+temporal scales can elucidate critical predator-prey dynamics that would
+otherwise go unrecognized. We performed compound-specific nitrogen
+stable isotope analysis (CSIA) of amino acids on 153 harbor seal museum
+skull specimens to determine how this marine predator has responded to
+ecosystem change over the past century. The relationships between harbor
+seal trophic position, ocean condition, and prey abundance, were
+analyzed using hierarchical modelling of a multi-amino acid framework
+and applying 1-, 2-, and 3- year temporal lags. We identified delayed
+responses of harbor seal trophic position to both physical ocean
+conditions (upwelling, sea surface temperature, freshwater discharge)
+and prey availability (Pacific hake, Pacific herring and Chinook
+salmon). However, the magnitude and direction of the trophic response to
+ecological changes depended on the temporal delay. For example, harbor
+seal trophic position was negatively associated with summer upwelling,
+but had a 1- year delayed response to summer sea surface temperature,
+indicating some predator responses to climate extremes are not
+immediately observable. These results highlight the importance of
+considering dynamic responses of predators to their environment as
+multiple ecological factors are often changing simultaneously and
+predator response occurs at multiple temporal scales.
 
-In addition to the tables that can be automatically generated from a
-data frame in \textbf{R} that you saw in {[}R Markdown Basics{]} using
-the \texttt{kable} function, you can also create tables using
-\emph{pandoc}. (More information is available at
-\url{http://pandoc.org/README.html\#tables}.) This might be useful if
-you don't have values specifically stored in \textbf{R}, but you'd like
-to display them in table form. Below is an example. Pay careful
-attention to the alignment in the table and hyphens to create the rows
-and columns. Generally I don't recommend this approach of typing the
-table directly into your R Markdown document.
-\begin{longtable}[]{@{}ccc@{}}
-\caption{\label{tab:inher} Correlation of Inheritance Factors for Parents
-and Child}\tabularnewline
+\section{Introduction}\label{introduction-3}
+
+The regulation of food web structure by resources (bottom-up control)
+and the presence of top predators (top-down control) is fundamental for
+understanding food web responses to environmental, ecological, and
+anthropogenic change (S. R. Carpenter, Kitchell, \& Hodgson,
+\protect\hyperlink{ref-Carpenter1985}{1985}; Estes, Tinker, Williams, \&
+Doak, \protect\hyperlink{ref-Estes1998}{1998}; Hunter \& Price,
+\protect\hyperlink{ref-Hunter1992}{1992}). Ecological communities are
+continuously experiencing both biotic and abiotic disturbances (Paine,
+Tegner, \& Johnson, \protect\hyperlink{ref-Paine1998}{1998}) and the
+ability of food webs to dynamically respond to these changes is crucial
+for ecosystem stability (Ghedini, Russell, \& Connell,
+\protect\hyperlink{ref-Ghedini2015}{2015}). In marine food webs,
+physical ocean conditions can impact primary production and ultimately
+constrain energy availability and thus biomass at higher trophic levels
+(Chassot et al., \protect\hyperlink{ref-Chassot2010}{2010}; J. K. Moore
+et al., \protect\hyperlink{ref-Moore2018}{2018}; Ware \& Thomson,
+\protect\hyperlink{ref-Ware2005}{2005}). Similarly, the removal of top
+predators from an ecosystem as a result of human activities such as
+fishing can decrease predation pressure and alter abundance in both
+adjacent and non-adjacent trophic levels (Heithaus, Frid, Wirsing, \&
+Worm, \protect\hyperlink{ref-Heithaus2008}{2008}; Steneck,
+\protect\hyperlink{ref-Steneck2012}{2012}). However, large-scale changes
+in nutrient availability (Rykaczewski \& Dunne,
+\protect\hyperlink{ref-Rykaczewski2010}{2010}), primary productivity
+(Chassot et al., \protect\hyperlink{ref-Chassot2010}{2010}), and top
+predator abundance over the past century (Magera, Flemming, Kaschner,
+Christensen, \& Lotze, \protect\hyperlink{ref-Magera2013}{2013}) means
+many food webs are experiencing shifts in multiple mechanisms of
+regulation in tandem, making it challenging to identify dominant drivers
+structuring ecosystems over the long term.
+
+Marine predators respond to multiple types of bottom-up drivers (i.e.,
+ocean condition, prey availability) and the different temporal scales
+over which they respond is crucial for understanding community
+stability. However, delayed predator responses to environmental
+perturbations are prevalent in marine system, as impacts do not
+immediately propagate through the complete food web (Duguid et al.,
+\protect\hyperlink{ref-Duguid2019}{2019}; R. S. Smith, Weldon, Hayward,
+\& Henson, \protect\hyperlink{ref-Smith2017}{2017}). Given communities
+can shift from bottom-up to top-down control, particularly in response
+to changing climate conditions (Kratina, Greig, Thompson,
+Carvalho-Pereira, \& Shurin, \protect\hyperlink{ref-Kratina2012}{2012}),
+delayed predator responses to climate conditions has implications for
+abundance and mortality rates of prey.
+
+Historical marine predator data that span multiple environmental,
+ecological, and anthropogenic contexts are useful for identifying time
+scales over which predators respond to ecosystem drivers.
+Compound-specific stable isotope analysis (CSIA) of amino acid nitrogen
+can serve as a tracer of historical predator response to ecological and
+environmental change by deriving retrospective trophic position
+estimates from museum specimens (Feddern, Holtgrieve, \& Ward,
+\protect\hyperlink{ref-Feddern2021}{2021}; McMahon et al.,
+\protect\hyperlink{ref-McMahon2019}{2019}). Source amino acids (i.e.,
+phenylalanine, lysine, methionine) exhibit minimal trophic
+discrimination (the difference in
+\textsuperscript{15}N/\textsuperscript{14}N between trophic and source
+amino acids in consumers from a trophic transfer) and thus are a proxy
+for the isotopic signature of primary producers at the base of the food
+web. In contrast, trophic amino acids (i.e., alanine, glutamic acid,
+valine, proline) demonstrate trophic enrichment (Kelton \& Matthew,
+\protect\hyperlink{ref-McMahon2016}{2016}) that varies for individual
+amino acids. Combined, this approach allows for reconstruction of
+historic trophic position estimates under changing environmental
+conditions when characterizing the isotopic baseline of past ecosystems
+may not be possible (McMahon et al.,
+\protect\hyperlink{ref-McMahon2019}{2019}). Thus, CSIA is well suited to
+identify long-term drivers of food web dynamics when analyzed with
+historic indices of ocean condition and prey availability.
+
+Reconstructing time series of predator trophic position requires careful
+consideration of physiological and ecological parameters that contribute
+to stable isotope signatures. First, taxa exhibit different trophic
+enrichment factors based on excretion pathways, diet type (omnivory,
+herbivory, carnivory), and growth (Nielsen, Popp, \& Winder,
+\protect\hyperlink{ref-Nielsen2015}{2015}). Second, the nitrogen
+production pathway of vascular (i.e., seagrasses) versus nonvascular
+(i.e., marine diatoms) primary producers impart distinct stable isotope
+fractionation factors (\(\beta\)) as inorganic sources of nitrogen are
+converted to tissues (Vander Zanden et al.,
+\protect\hyperlink{ref-VanderZanden2013}{2013}). Assumptions about the
+relative contributions of vascular versus nonvascular plants can
+therefore impact trophic position estimates (Choi et al. 2017). Finally,
+there is a delay between the time a prey source is consumed and when
+that prey source has been fully assimilated into the consumer, referred
+to as the `turnover time'. Turnover times must be considered when
+comparing trophic position data to ocean condition and prey availability
+covariates, as the consumer response to an ecological change will not be
+immediately observable in consumer tissues.
+
+Nearshore coastal ecosystems provide a model system to assess long-term
+changes of food web drivers using archival museum specimens of a marine
+predator by applying CSIA. Food webs of coastal Washington and the
+Salish Sea have experienced dramatic restructuring over the past century
+due to declines and subsequent recoveries of marine predators (S.
+Jeffries, Huber, Calambokidis, \& Laake,
+\protect\hyperlink{ref-Jeffries2003}{2003}; Ohlberger, Schindler, Ward,
+Walsworth, \& Essington, \protect\hyperlink{ref-Ohlberger2019}{2019}).
+Decades of state-financed population control programs resulted in harbor
+seals (\emph{Phoca vitulina}) reaching a historic low in the 1970's,
+with an estimated abundance of approximately 1,000 individuals (S.
+Jeffries et al., \protect\hyperlink{ref-Jeffries2003}{2003}). Following
+the cessation of bounties in 1960 and the passage of the Marine Mammal
+Protection Act in 1972, top-predator abundance increased dramatically.
+Benefitting from a relatively short life history, generalist diet, and
+legislation restricting mortality, harbor seal populations increased
+10-fold between 1970 and 2003 (S. Jeffries et al.,
+\protect\hyperlink{ref-Jeffries2003}{2003}). The dramatic increase in
+abundance of this top predator has been implicated in the declines in
+economically and ecologically important prey species in the region
+(Chasco et al., \protect\hyperlink{ref-Chasco2017}{2017}; Nelson,
+Walters, Trites, \& McAllister,
+\protect\hyperlink{ref-Nelson2019}{2019}), specifically, Chinook salmon
+(\emph{Oncorhynchus tshawytscha}). Chinook salmon are listed as
+endangered in the region (WDFW 2017) and are an important prey species
+for the endangered southern resident orca ({\textbf{???}}).
+Simultaneously, the region has also experienced changes in nutrients
+(Mohamedali et al. 2011), climate regimes (Corwith \& Wheeler,
+\protect\hyperlink{ref-Corwith2002}{2002}; Mantua \& Hare,
+\protect\hyperlink{ref-Mantua2002}{2002}) and abundances of other
+important prey species such as Pacific herring (\emph{Clupea pallasii},
+({\textbf{???}})).
+
+Here we examined a century of harbor seal trophic position data in
+coastal Washington and the Salish Sea. The objective of this work is to
+identify the time scales at which physical ocean conditions and prey
+availability exert bottom-up control on marine predator trophic ecology.
+We assumed a correlation between trophic position and prey species
+abundance is the result of increased or decreased consumption of that
+species. Additionally, we established a multi-amino acid framework for
+measuring trophic position that improves precision and ecological
+accuracy by applying a species-specific trophic discrimination factor
+(McMahon et al., \protect\hyperlink{ref-McMahon2019}{2019}; Nielsen et
+al., \protect\hyperlink{ref-Nielsen2015}{2015}). We also included a
+system specific \(\beta\) value rather than a universal value, and
+applied temporal lags to account for both physiological and ecological
+delays in consumer response.
+
+\section{Methods}\label{methods-2}
+
+\subsection{Sample collection and
+analysis}\label{sample-collection-and-analysis-1}
+
+Samples were obtained using methods described in Feddern et al.
+(\protect\hyperlink{ref-Feddern2021}{2021}). Briefly, harbor seal bone
+was obtained from four museum institutions (the Burke Museum, the Slater
+Museum, the Royal British Columbia Museum, and the Smithsonian
+Institute) and the National Marine Mammal Laboratory (NOAA). Specimens
+were treated by maceration in warm water and stored in acid free boxes.
+Sampling targeted adult specimens and prioritized long-term temporal
+coverage in two main regions: coastal Washington and the Salish Sea
+(which included 18 specimens from British Columbia). Specimens with sex,
+length, and age data were also prioritized but this information was not
+available for all sampled specimens. A total of 153 specimens were
+sampled with field collection dates ranging 1928-2014 (Figure
+\ref{fig:map3}).
+
+\subsection{Trophic position
+determination}\label{trophic-position-determination}
+
+Bone collagen was decalcified, acid hydrolyzed, derivatized, and
+analyzed for nitrogen CSIA (\(\delta^{15}N\)) of 12 individual amino
+acids. Collagen samples were measured in triplicate with a laboratory
+standard containing a 12 amino acid mixture of known isotopic
+composition and a linear drift correction was applied. Full analytical
+details are described in Appendix 1: Text 1. Previous controlled feeding
+studies have determined the trophic enrichment factor (TEF) for harbor
+seals is substantially lower than the conventional literature value of
+7.6‰ (Germain et al., \protect\hyperlink{ref-Germain2013}{2013}) and
+thus applying a harbor seal-specific TEF is more accurate (McMahon,
+McCarthy, Sherwood, Larsen, \& Guilderson,
+\protect\hyperlink{ref-McMahon2015}{2015}). Therefore, trophic position
+was calculated using a harbor seal-specific TEF, described by McMahon et
+al. (\protect\hyperlink{ref-McMahon2015}{2015}) as a ``multi-TEF''
+approach, using the following equation:
+\begin{equation} 
+Trophic Position =   
+  \frac{\delta^{15}N_{(i-o)} - TEF_{(i-o),j} - \beta_{(i-o),N}}{\overline{TEF}_{(i-o)}}+2
+  \label{eq:TP3}
+\end{equation}
+where \(\delta^{15}N_i\) is the measured stable isotope composition of a
+trophic amino acid i in a sample and \(\delta^{15}N_o\) is the stable
+isotope composition of a source amino acid o in a
+sample.\(\delta^{15}N_{(i-o)}\) represents the total trophic enrichment
+that has occurred throughout the food web measurable from predator
+tissues. \(TEF_{(i-o),j}\) is the trophic enrichment factor between
+trophic amino acid \emph{i} and source amino acid \emph{o} of a specific
+consumer \emph{j} (in this study, harbor seals) which occurs when
+consumer \emph{j} assimilates prey. \(\beta_{(i-o),N}\) is the
+difference in enrichment between a specific trophic amino acid \emph{i}
+and source amino acid o for non-vascular primary producers \emph{N} that
+occurs when primary producers assimilate inorganic nitrogen (Nielsen et
+al. (\protect\hyperlink{ref-Nielsen2015}{2015}); Table
+\ref{tab:tpparam}). \(\overline{TEF}_{(i-o)}\) represents the mean
+trophic enrichment that occurs at other trophic levels in the food web,
+and is calculated from the mean difference between trophic amino acid i
+and source amino acid o across all consumers described in Nielsen et al.
+(\protect\hyperlink{ref-Nielsen2015}{2015}).
+
+The \(\beta\) parameter differs substantially between vascular and
+nonvascular primary producers (({\textbf{???}}); Table
+\ref{tab:tpparam}). In food webs that assimilate organic matter from
+both vascular and nonvascular plants, including many nearshore food
+webs, β will be intermediate. In addition to testing a value that
+represents nonvascular primary producers exclusively
+\(\beta_{(i-o),N}\), we also applied a two-source mixing model using
+carbon stable isotope data similar to Choi et al.
+(\protect\hyperlink{ref-Choi2017}{2017}). This generates a \(\beta\)
+that is weighted \(\beta_{(i-o),NV}\) based on the contributions of both
+vascular and nonvascular plants specific to the Washington nearshore
+ecosystem by first calculating the percent contribution of vascular
+plants to the food web:
+\begin{equation} 
+  \% V =
+    \frac{\delta^{13}C_{H} - \delta^{13}C_{N}}
+    {\delta^{13}C_{V} - \delta^{13}C_{N}}/100
+    \label{eq:perV}
+\end{equation}
+where \(\delta^{13}C_{H}\) is the mean observed \(\delta^{13}C\) value
+for Washington harbor seals. \(\delta^{13}C_{V}\) is the carbon stable
+isotope end member for vascular plants, v (-9.5 ‰, derived from
+seagrasses \emph{Zostera spp.}); and \(\delta^{13}C_{N}\) is the carbon
+stable isotope end member for nonvascular plants, n (-19.5‰, derived
+from phytoplankton). Carbon end members were specific to the Washington
+nearshore ecosystems (Howe \& Simenstad,
+\protect\hyperlink{ref-Howe2015}{2015}). Percent V is the percent
+contribution of vascular plants to the food web in which harbor seals
+forage. This assumes the trophic enrichment of \(^{13}C\) is generally
+negligible (0--1‰, ({\textbf{???}})). \(\beta_{(i-o),NV}\) was then
+derived by:
+\begin{equation} 
+\beta_{(i-o),NV} = (\beta_{(i-o),V}*\%V) +
+(\beta_{(i-o),N}*(1-\%V))
+  \label{eq:betanv}
+\end{equation}
+where \(\beta_{(i-o),N}\) is the enrichment between an individual
+trophic amino acid i and source amino acid o for aquatic phytoplankton
+and \(\beta_{(i-o),V}\) represents the trophic enrichment of seagrass
+which are vascular plants \ref{tab:tpparam}.
+
+\subsection{Quantifying bottom-up drivers of
+foraging}\label{quantifying-bottom-up-drivers-of-foraging}
+
+To identify the most important explanatory variables of ocean condition
+and prey availability on predator trophic position, we fit two sets of
+candidate models using a multi-amino acid (glutamic acid, aspartic acid,
+alanine, proline, valine) hierarchical model. We selected 12 putative
+explanatory variables based on the length of the time series and divided
+them \emph{a priori} into our two categories of interest, ocean
+condition and prey availability, representing our expected primary
+forcing mechanisms (Appendix S1: Tables 3.2 \& 3.4). We fit candidate
+models to the trophic position and covariate data, and the candidate
+model set included a null and location-only model (Tables
+\ref{tab:ocmod} \& \ref{tab:prmod}). Location (Salish Sea or coastal
+Washington) was included as a factor in all candidate models except the
+null model. Due to the correlation between the multivariate El Niño
+Southern Oscillation index and the Pacific Decadal Oscillation only one
+of these covariates were included in a single model. All timeseries were
+standardized around a mean of 0 and standard deviation of 1. To avoid
+collinearity, no more than four covariates (including location) were
+included in an individual model.
+
+Nielsen et al. (\protect\hyperlink{ref-Nielsen2015}{2015}) determined
+that the use of multiple amino acids improves estimates of trophic
+position. Therefore, we used multiple trophic amino acids \emph{i}
+(alanine, glutamic acid, valine and proline) and one source amino acid o
+(phenylalanine) to calculate trophic position. We selected amino acids
+based on: their prevalence in previous studies to derive parameters for
+@ref\#eq:TP3; tissue turnover time relative to the source amino acid,
+phenylalanine; and their concentrations in bone collagen. The
+hierarchical linear model took the following structure:
+\begin{equation} 
+y_t = \alpha_k + \boldsymbol\beta X_{t-d} +\epsilon, 
+  \label{eq:hier3}
+\end{equation}
+\clearpage
+
+\section{Tables}\label{tables-2}
+
+\textbf{Table} \ref{tab:tpparam}: Trophic amino acid specific parameter
+values for \(\beta\) and trophic enrichment factors (\emph{TEF}) to test
+parameterization of trophic position calculations using multiple TEFs
+and \(\beta\) values. The source amino acid (\emph{o}) for all
+parameters was phenylalanine.
+
+\begingroup\fontsize{8}{10}\selectfont
+\begin{longtable}[t]{l>{\raggedright\arraybackslash}p{7em}>{\raggedright\arraybackslash}p{7em}>{\raggedright\arraybackslash}p{7em}ll}
+\caption{\label{tab:tpparam}Trophic position parameter values}\\
 \toprule
-\begin{minipage}[b]{0.29\columnwidth}\centering\strut
-Factors\strut
-\end{minipage} & \begin{minipage}[b]{0.47\columnwidth}\centering\strut
-Correlation between Parents \& Child\strut
-\end{minipage} & \begin{minipage}[b]{0.16\columnwidth}\centering\strut
-Inherited\strut
-\end{minipage}\tabularnewline
+Trophic Amino Acid (i) & $\beta_{(i-o),N}$ & $\beta_{(i-o),V}$ & $\beta_{(i-o),NV}$ & $TEF_{(i-o),j}$ & $\overline{TEF}_{(i-o)}$\\
 \midrule
-\endfirsthead
-\toprule
-\begin{minipage}[b]{0.29\columnwidth}\centering\strut
-Factors\strut
-\end{minipage} & \begin{minipage}[b]{0.47\columnwidth}\centering\strut
-Correlation between Parents \& Child\strut
-\end{minipage} & \begin{minipage}[b]{0.16\columnwidth}\centering\strut
-Inherited\strut
-\end{minipage}\tabularnewline
-\midrule
-\endhead
-\begin{minipage}[t]{0.29\columnwidth}\centering\strut
-Education\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\centering\strut
--0.49\strut
-\end{minipage} & \begin{minipage}[t]{0.16\columnwidth}\centering\strut
-Yes\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.29\columnwidth}\centering\strut
-Socio-Economic Status\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\centering\strut
-0.28\strut
-\end{minipage} & \begin{minipage}[t]{0.16\columnwidth}\centering\strut
-Slight\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.29\columnwidth}\centering\strut
-Income\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\centering\strut
-0.08\strut
-\end{minipage} & \begin{minipage}[t]{0.16\columnwidth}\centering\strut
-No\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.29\columnwidth}\centering\strut
-Family Size\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\centering\strut
-0.18\strut
-\end{minipage} & \begin{minipage}[t]{0.16\columnwidth}\centering\strut
-Slight\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.29\columnwidth}\centering\strut
-Occupational Prestige\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\centering\strut
-0.21\strut
-\end{minipage} & \begin{minipage}[t]{0.16\columnwidth}\centering\strut
-Slight\strut
-\end{minipage}\tabularnewline
+Glutamic acid (Glu) & 2.9 & -8.7 & -3.9 & 3.4 & 6.6\\
+Alanine (Ala) & 2.8 & -8 & -3.6 & 2.5 & 6.8\\
+Aspartic Acid (Asp) & 1.8 & -7.3 & -4.2 & 3.5 & 5.4*\\
+Valine (Val) & 3.4 & -6.8 & -2.6 & 7.5 & 4.6\\
+Proline (Pro) & 2.7 & -7.7 & -3.9 & 5.5 & 5\\
+\addlinespace
+Data Source & Nielsen et al. 2015 & Vander Zanden et al. 2013 & This study & Germain et al. 2013 & Nielsen et al. 2015\\
 \bottomrule
 \end{longtable}
-We can also create a link to the table by doing the following: Table
-\ref{tab:inher}. If you go back to {[}Loading and exploring data{]} and
-look at the \texttt{kable} table, we can create a reference to this max
-delays table too: Table \ref{tab:maxdelays}. The addition of the
-\texttt{(\textbackslash{}\#tab:inher)} option to the end of the table
-caption allows us to then make a reference to Table
-\texttt{\textbackslash{}@ref(tab:label)}. Note that this reference could
-appear anywhere throughout the document after the table has appeared.
+\endgroup{}
 
 \clearpage
+\begin{landscape}
+Table 3.2: Datasets used to test ocean condition as a bottom-up driver of harbor seal trophic ecology. Total number of models tested = 35.
+
+\begingroup\fontsize{8}{10}\selectfont
+\begin{longtable}[t]{l>{\raggedright\arraybackslash}p{27em}l>{\raggedright\arraybackslash}p{27em}}
+\caption{\label{tab:envdat}Environmental Datasets}\\
+\toprule
+Covatriat & Time Series Description & Length & Source\\
+\midrule
+Discharge & Total discharge from the Columbia River at Dalles, WA during summer months of high discharge (May-Oct) from monthly U.S. Geological Survey discharge data. & 1879-2018 & Data Source: USGS 14105700\\
+Sea Surface Temperature (SST) & Average of monthly NOAA Extended Reconstructed SST for summer (Jul-Sep) in coastal Washington (48°N, 125°W). & 1854-2019 & Data Source: NOAA ERSST V5\\
+Upwelling & Mean coastal upwelling index (CUI) coastal Washington (45°N, 125°W) using Bakun upwelling calculation based on Ekman's theory of mass transport due to wind stress, for spring (Apr-Jun) and summer (Jun-Sep). & 1946-2019. & Data Source: NOAA ERD SWFSC\\
+North Pacific Gyre Oscillation & 2nd dominant mode of sea surface height variability in the northeast Pacific. Correlates with fluctuations in salinity nutrients and chlorophyll-a. & 1950-2019 & Data Source: Di Lorenzo et al. 2008.  NPGO\\
+Multivariate ENSO Index & The extended Multivariate ENSO Index (MEI) uses Principle Component analysis on six variables: sea-level pressure, u and v component of the surface wind vector, sea surface temperature and cloudiness fraction in the tropical Pacific. & 1950-2019 & Data Source:  NOAA/ESRL via California Current Integrated Ecosystem Assessment MEI\\
+\addlinespace
+Pacific Decadal Oscillation & Same as eastern Bering Sea & 1900-2018 & Data Sources: PDO; Zhang et al. 1997; Mantua et al 1997\\
+\bottomrule
+\end{longtable}
+\endgroup{}
+\clearpage
+
+Table 3.4:  Datasets used to test prey availability as a bottom-up driver of harbor seal trophic ecology. Total number of models tested = 26.
+
+\begingroup\fontsize{8}{10}\selectfont
+\begin{longtable}[t]{l>{\raggedright\arraybackslash}p{27em}l>{\raggedright\arraybackslash}p{27em}}
+\caption{\label{tab:preydat}Prey Datasets}\\
+\toprule
+Covariate & Time Series Description & Length & Source\\
+\midrule
+Herring Biomass & Adult herring spawning biomass from egg deposition surveys for the estimated from Washington State Department of Fish and wildlife by Siple and Francis 2015.(MARSS output section S5, Figures S11 \& S12) & 1973-2012 & Siple, M.C. and T.B. Francis. 2015. Population diversity in Pacific herring of the Puget Sound, USA.\\
+Hake Biomass & Pacific Hake (whiting) relative spawning biomass in US and Canadian waters. & 1973-2012 & Berger et al. 2017. Table 8 total spawning biomass.\\
+Chinook Salmon Spawners & Chinook salmon spawner summary data including all populations with a time series with data from at least 1973. Includes: Cedar River, Coweeman River, Elochoman River, Grays and Chinook Rivers, Green River, Kalama River, Lewis River, Lower Cowlitz River, Lower and Upper Sauk River, Lower and Upper Skagit River, McKenzie River, Mid-Hood Canal, Nisqually River, Puyallup River, Skokomish River, Skykomish River, Snoqualmie River, Suiattle River, Toutle River, Upper Gorge Tributaries, White River and White Salmon River. & 1973-2012 & Northwest Fisheries Science Center, 2020: SPS Abundance - Salmon spawner abundance data compilation and database management\\
+Chinook Salmon Smolt Production & Hatchery release data from the Regional Mark Information System and Wild Salmon Production data summarized by Chasco et al. 2017. Data was summed across both datasets for total juvenile salmon production. & 1973-2012 & RMIS, summarized at  https://github.com/bchasco/COAST\_WIDE\\
+Harbor Seal Abundance & Harbor seal population estimates based on coastal estuary, eastern Bays, Hood Canal, Olympic Peninsula, Puget Sound, San Juan Islands, and the Strait of Juan de Fuca counts. (MARSS output section S5, Figures S13 \& S14) & 1975-2012 & Jeffries, S., H. Huber, J. Calambokidis and J. Laake. 2003. Trends and status of harbor seals in Washington state: 1978-1999. The Journal of Wildlife Management 67: 207-218.\\
+\bottomrule
+\end{longtable}
+\endgroup{}
+\end{landscape}
+\clearpage
+
+\textbf{Table} \ref{tab:ocmod}: Full candidate model set (n = 35) for
+ocean condition modelling. The same candidate models were used for the
+physiological delay, 1-year ecological delay, and 2-year ecological
+delay models
+
+\begingroup\fontsize{8}{10}\selectfont
+\begin{longtable}[t]{l>{}p{7em}>{}p{7em}>{}p{7em}}
+\caption{\label{tab:ocmod}Ocean Condition Candidate Models}\\
+\toprule
+Covariates\\
+\midrule
+1. Null\\
+2. Location Only\\
+3. PDO, Location\\
+4. NPGO, Location\\
+5. MEI, Location\\
+\addlinespace
+6. Upwelling (Spring), Location\\
+7. NPGO, PDO, Location\\
+8. PDO, Upwelling (Spring), Location\\
+9. NPGO, Upwelling (Spring), Location\\
+10. MEI, Upwelling (Spring), Location\\
+\addlinespace
+11. SST (Summer), Location\\
+12. SST (Summer), PDO, Location\\
+13. SST (Summer), NPGO, Location\\
+14. SST (Summer), MEI, Location\\
+15. SST (Summer), Upwelling (Spring), Location\\
+\addlinespace
+16. SST (Summer), PDO, Upwelling (Spring), Location\\
+17. SST (Summer), NPGO, Upwelling (Spring), Location\\
+18. SST (Summer), MEI, Upwelling (Spring), Location\\
+19. Upwelling (Summer), Location\\
+20. Upwelling (Summer), PDO, Location\\
+\addlinespace
+21. Upwelling (Summer), NPGO, Location\\
+22. Upwelling (Summer), MEI, Location\\
+23. Upwelling (Summer), NPGO, Upwelling (Spring), Location\\
+24. Columbia Discharge (High), Location\\
+25. Columbia Discharge (High), PDO, Location\\
+\addlinespace
+26. Columbia Discharge (High), NPGO, Location\\
+27. Columbia Discharge (High), MEI, Location\\
+28. Upwelling (Spring), Location\\
+29. Columbia Discharge (High), PDO, Upwelling (Spring), Location\\
+30. Columbia Discharge High, NPGO, Upwelling (Spring), Location\\
+\addlinespace
+31. Columbia Discharge High, MEI, Upwelling (Spring), Location\\
+32. Columbia Discharge (High), SST (Summer), Location\\
+33. Columbia Discharge (High), Upwelling (Summer), Location\\
+34. SST (Summer), Upwelling (Summer), Location\\
+35. SST (Summer), Upwelling (Summer), Columbia Discharge (High), Location\\
+\bottomrule
+\end{longtable}
+\endgroup{} \clearpage
+
+\textbf{Table} \ref{tab:prmod}: Full candidate model set (n = 26) for
+prey availability modelling. The same candidate models were used for the
+physiological delay, 1-year ecological delay, and 2-year ecological
+delay models.
+
+\begingroup\fontsize{8}{10}\selectfont
+\begin{longtable}[t]{l>{}p{7em}>{}p{7em}>{}p{7em}}
+\caption{\label{tab:prmod}Prey Availability Candidate Models}\\
+\toprule
+Covariates\\
+\midrule
+1. Null\\
+2. Location Only\\
+3. Herring Spawning Biomass, Location\\
+4. Chinook Escapements, Location\\
+5. Chinook Smolt Production, Location\\
+\addlinespace
+6. Hake Spawning Biomass, Location\\
+7. Herring Spawning Biomass, Chinook Escapements, Location\\
+8. Herring Spawning Biomass, Hake Spawning Biomass, Location\\
+9. Herring Spawning Biomass, Chinook Smolt Production, Location\\
+10. Chinook Escapements, Hake Spawning Biomass, Location\\
+\addlinespace
+11. Chinook Escapements, Chinook Smolt Production, Location\\
+12. Chinook Smolt Production, Hake Spawning Biomass, Location\\
+13. Chinook Escapement, Chinook Smolt Production, Hake Spawning Biomass, Location\\
+14. Herring Spawning Biomass, Chinook Smolt Production, Hake Spawning Biomass, Location\\
+15. Chinook Escapements, Chinook Smolt Production, Herring Spawning Biomass, Location\\
+\addlinespace
+16. Herring Spawning Biomass, Hake Spawning Biomass, Chinook Escapements, Location\\
+17. Harbor Seal Abundance, Location\\
+18. Harbor Seal Abundance, Herring Spawning Biomass, Location\\
+19. Harbor Seal Abundance, Chinook Escapements, Location\\
+20. Harbor Seal Abundance, Chinook Smolt Production, Location\\
+\addlinespace
+21. Harbor seal Abundance, Hake Spawning biomass, Location\\
+22. Harbor Seal Abundance, Herring biomass, Chinook Escapements, Location\\
+23. Harbor Seal Abundance, Herring Spawning Biomass, Hake Spawning Biomass, Location\\
+24. Harbor Seal Abundance, Herring Spawning Biomass, Chinook Smolt Production, Location\\
+25. Harbor Seal Abundance, Chinook Escapements, Hake Spawning Biomass, Location\\
+\addlinespace
+26. Harbor Seal Abundance, Chinook Smolt Production, Hake Spawning Biomass, Location\\
+\bottomrule
+\end{longtable}
+\endgroup{}
 
 \section{Figures}\label{figures-2}
 
-If your thesis has a lot of figures, \emph{R Markdown} might behave
-better for you than that other word processor. One perk is that it will
-automatically number the figures accordingly in each chapter. You'll
-also be able to create a label for each figure, add a caption, and then
-reference the figure in a way similar to what we saw with tables
-earlier. If you label your figures, you can move the figures around and
-\emph{R Markdown} will automatically adjust the numbering for you. No
-need for you to remember! So that you don't have to get too far into
-LaTeX to do this, a couple \textbf{R} functions have been created for
-you to assist. You'll see their use below.
-
-In the \textbf{R} chunk below, we will load in a picture stored as
-\texttt{uw.png} in our main directory. We then give it the caption of
-``UW logo'', the label of ``uwlogo'', and specify that this is a figure.
-Make note of the different \textbf{R} chunk options that are given in
-the R Markdown file (not shown in the knitted document).
-\begin{Shaded}
-\begin{Highlighting}[]
-\NormalTok{knitr}\OperatorTok{::}\KeywordTok{include_graphics}\NormalTok{(}\DataTypeTok{path =} \StringTok{"figure/uw.png"}\NormalTok{)}
-\end{Highlighting}
-\end{Shaded}
-\begin{figure}
-\includegraphics[width=6.25in]{figure/uw} \caption{UW logo}\label{fig:uwlogo}
-\end{figure}
-Here is a reference to the UW logo: Figure \ref{fig:uwlogo}. Note the
-use of the \texttt{fig:} code here. By naming the \textbf{R} chunk that
-contains the figure, we can then reference that figure later as done in
-the first sentence here. We can also specify the caption for the figure
-via the R chunk option \texttt{fig.cap}.
-
-\clearpage 
-
-Below we will investigate how to save the output of an \textbf{R} plot
-and label it in a way similar to that done above. Recall the
-\texttt{flights} dataset from Chapter \ref{rmd-basics}. (Note that we've
-shown a different way to reference a section or chapter here.) We will
-next explore a bar graph with the mean flight departure delays by
-airline from Portland for 2014. Note also the use of the \texttt{scale}
-parameter which is discussed on the next page.
-\begin{Shaded}
-\begin{Highlighting}[]
-\NormalTok{flights }\OperatorTok{%>%}\StringTok{ }\KeywordTok{group_by}\NormalTok{(carrier) }\OperatorTok{%>%}
-\StringTok{  }\KeywordTok{summarize}\NormalTok{(}\DataTypeTok{mean_dep_delay =} \KeywordTok{mean}\NormalTok{(dep_delay)) }\OperatorTok{%>%}
-\StringTok{  }\KeywordTok{ggplot}\NormalTok{(}\KeywordTok{aes}\NormalTok{(}\DataTypeTok{x =}\NormalTok{ carrier, }\DataTypeTok{y =}\NormalTok{ mean_dep_delay)) }\OperatorTok{+}
-\StringTok{  }\KeywordTok{geom_bar}\NormalTok{(}\DataTypeTok{position =} \StringTok{"identity"}\NormalTok{, }\DataTypeTok{stat =} \StringTok{"identity"}\NormalTok{, }\DataTypeTok{fill =} \StringTok{"red"}\NormalTok{)}
-\end{Highlighting}
-\end{Shaded}
-\begin{verbatim}
-`summarise()` ungrouping output (override with `.groups` argument)
-\end{verbatim}
-\begin{figure}
+\textbf{Figure} \ref{fig:map3}: Spatial distribution of harbor seal
+specimens (a) collected in the Salish Sea (yellow) and coastal
+Washington (blue) with the year of specimen collection and total number
+of specimens (n) for each year from 1928-2014 in the Salish Sea (b) and
+coastal Washington (c). \newline 
+\begin{figure}[h]
 \centering
-\includegraphics{thesis_files/figure-latex/delaysboxplot-1.pdf}
-\caption{\label{fig:delaysboxplot}Mean Delays by Airline}
+  \includegraphics[width=0.85\textwidth]{figure/Ch3/Figure1.pdf}
+  \caption{Spatial and temporal distribution of specimens}
+  \label{fig:map3}
 \end{figure}
-Here is a reference to this image: Figure \ref{fig:delaysboxplot}.
-
-A table linking these carrier codes to airline names is available at
-\url{https://github.com/ismayc/pnwflights14/blob/master/data/airlines.csv}.
-
 \clearpage
-
-Next, we will explore the use of the \texttt{out.extra} chunk option,
-which can be used to shrink or expand an image loaded from a file by
-specifying \texttt{"scale=\ "}. Here we use the mathematical graph
-stored in the ``subdivision.pdf'' file.
-\begin{figure}
-\includegraphics[scale=0.75]{figure/subdivision} \caption{Subdiv. graph}\label{fig:subd}
-\end{figure}
-Here is a reference to this image: Figure \ref{fig:subd}. Note that
-\texttt{echo=FALSE} is specified so that the \textbf{R} code is hidden
-in the document.
-
-\textbf{More Figure Stuff}
-
-Lastly, we will explore how to rotate and enlarge figures using the
-\texttt{out.extra} chunk option. (Currently this only works in the PDF
-version of the book.)
-\begin{figure}
-\includegraphics[angle=180, scale=1.1]{figure/subdivision} \caption{A Larger Figure, Flipped Upside Down}\label{fig:subd2}
-\end{figure}
-As another example, here is a reference: Figure \ref{fig:subd2}.
-
-\section{Footnotes and Endnotes}\label{footnotes-and-endnotes}
-
-You might want to footnote something.\footnote{footnote text} The
-footnote will be in a smaller font and placed appropriately. Endnotes
-work in much the same way.
-
-\section{Cross-referencing chapters and
-sections}\label{cross-referencing-chapters-and-sections}
-
-The
-\href{https://bookdown.org/yihui/bookdown/cross-references.html}{bookdown
-documentation} is an excellent source for learning how to
-cross-reference in a bookdown project such as a huskydown document. Here
-we only cover the most common uses for a typical thesis. If you want
-something more complex or fancy, please refer to the bookdown
-documentation and seek help from the developers of that package.
-
-By default, all of your chapter and section headers will get an
-auto-generated ID label For example, e.g., \texttt{\#\ Chapter\ 1} will
-have an auto-generated ID \texttt{chapter-1}. Note that the ID label is
-all lower case, and has no spaces. If you have any kind of punctuation
-in your header, such as a colon (:), it will not appear in the ID label.
-Then in your text you can reference chapter one in your Rmd file like
-this: `as discussed in Chapter
-\texttt{\textbackslash{}@ref(chapter-1)}', which will print as `as
-discussed in Chapter 1'
-
-We strongly recommend that you to manually assign ID labels to your
-chapter header to make it easy to cross-reference. For example, at the
-top of the Rmd file for this chapter, you can see:
-
-\texttt{\#\ Tables,\ Graphics,\ References,\ and\ Labels\ \{\#ref-labels\}}
-
-The \texttt{\{\#ref-labels\}} part of this header is the ID label. It
-doesn't show in the output, but is there for us to use for easy
-cross-referencing, because it can be short, and we don't need to change
-it elsewhere our document when we update the chapter header. We can use
-this custom ID label in our Rmd document like this: `as discussed in
-Chapter \texttt{\textbackslash{}@ref(ref-labels)}', which will print as
-`as discussed in Chapter \ref{ref-labels}'. If you need to show custom
-text instead of the chapter number, you use this syntax in your Rmd
-document:
-\texttt{see\ {[}my\ chapter\ about\ labels{]}(\#ref-labels)\ for\ more\ details}
-which will appear as `see \protect\hyperlink{ref-labels}{my chapter
-about labels} for more details'
-
-To cross-reference a specific section in the same chapter, we recommend
-adding a custom ID label to the section header, and using that to
-cross-reference. For example, earlier in this chapter we have a section
-on tables and in the Rmd file we see
-\texttt{\#\#\ Tables\ \{\#tables\}}. We can cross-reference that in the
-text like this `as discussed in the section on
-\texttt{{[}tables{]}(\#tables)}' which will appear as `as discussed in
-the above section on \protect\hyperlink{tables}{tables}'
-
-To cross-reference a section in a different chapter we can use the ID
-label from that section directly. For example, we can write in our Rmd
-document
-\texttt{as\ discussed\ in\ the\ section\ on\ {[}R\ code\ chunks{]}(\#r-chunks)\ in\ Chapter\ \textbackslash{}@ref(rmd-basics)}
-which will appear as `as discussed in the section on
-\protect\hyperlink{r-chunks}{R code chunks} in Chapter
-\ref{rmd-basics}'.
-
-If you prefer to cross-reference by the section number, we can use
-custom ID labels in our Rmd document. For example, to refer to a section
-in our first chapter, we can write in the Rmd document:
-\texttt{as\ discussed\ in\ section\ \textbackslash{}@ref(r-chunks)\ in\ Chapter\ \textbackslash{}@ref(rmd-basics)}.
-This will appear with section and chapter numbers like so: as `as
-discussed in section \ref{r-chunks} in Chapter \ref{rmd-basics}'.
-
-\section{Bibliographies}\label{bibliographies}
-
-Of course you will need to cite things, and you will probably accumulate
-an armful of sources. There are a variety of tools available for
-creating a bibliography database (stored with the .bib extension). In
-addition to BibTeX suggested below, you may want to consider using the
-free and easy-to-use tool called Zotero. Some Zotero documentation is at
-\url{http://libguides.reed.edu/citation/zotero}. In addition, a tutorial
-is available from Middlebury College at
-\url{http://sites.middlebury.edu/zoteromiddlebury/}.
-
-\emph{R Markdown} uses \emph{pandoc} (\url{http://pandoc.org/}) to build
-its bibliographies. One nice caveat of this is that you won't have to do
-a second compile to load in references as standard LaTeX requires. To
-cite references in your thesis (after creating your bibliography
-database), place the reference name inside square brackets and precede
-it by the ``at'' symbol. For example, here's a reference to a book about
-worrying: ({\textbf{???}}). This \texttt{Molina1994} entry appears in a
-file called \texttt{thesis.bib} in the \texttt{bib} folder. This
-bibliography database file was created by a program called BibTeX. You
-can call this file something else if you like (look at the YAML header
-in the main .Rmd file) and, by default, is to placed in the \texttt{bib}
-folder.
-
-For more information about BibTeX and bibliographies, see
-(\url{http://web.reed.edu/cis/help/latex/index.html})\footnote{({\textbf{???}})}.
-There are three pages on this topic: \emph{bibtex} (which talks about
-using BibTeX, at \url{http://web.reed.edu/cis/help/latex/bibtex.html}),
-\emph{bibtexstyles} (about how to find and use the bibliography style
-that best suits your needs, at
-\url{http://web.reed.edu/cis/help/latex/bibtexstyles.html}) and
-\emph{bibman} (which covers how to make and maintain a bibliography by
-hand, without BibTeX, at
-\url{http://web.reed.edu/cis/help/latex/bibman.html}). The last page
-will not be useful unless you have only a few sources.
-
-If you look at the YAML header at the top of the main .Rmd file you can
-see that we can specify the style of the bibliography by referencing the
-appropriate csl file. You can download a variety of different style
-files at \url{https://www.zotero.org/styles}. Make sure to download the
-file into the csl folder.
-
-\textbf{Tips for Bibliographies}
-\begin{itemize}
-\tightlist
-\item
-  Like with thesis formatting, the sooner you start compiling your
-  bibliography for something as large as thesis, the better.
-\item
-  The cite key (a citation's label) needs to be unique from the other
-  entries.
-\item
-  When you have more than one author or editor, you need to separate
-  each author's name by the word ``and'' e.g.
-  \texttt{Author\ =\ \{Noble,\ Sam\ and\ Youngberg,\ Jessica\},}.
-\item
-  Bibliographies made using BibTeX (whether manually or using a manager)
-  accept LaTeX markup, so you can italicize and add symbols as
-  necessary.
-\item
-  To force capitalization in an article title or where all lowercase is
-  generally used, bracket the capital letter in curly braces.
-\end{itemize}
-\section{Anything else?}\label{anything-else}
-
-If you'd like to see examples of other things in this template, please
-\href{https://github.com/benmarwick/huskydown/issues/new}{contact us}
-(email \href{mailto:bmarwick@uw.edu}{\nolinkurl{bmarwick@uw.edu}}) with
-your suggestions. We love to see people using \emph{R Markdown} for
-their theses, and are happy to help.
 
 \chapter{Recent divergent changes in Alaskan pinniped trophic position
 detected using compound-specific stable isotope
 analysis}\label{recent-divergent-changes-in-alaskan-pinniped-trophic-position-detected-using-compound-specific-stable-isotope-analysis}
 
-\section{Abstract}\label{abstract-2}
+\section{Abstract}\label{abstract-3}
 
 Over the past century Alaskan pinnipeds have experienced dramatic
 changes in abundance, but these changes have been highly variable across
@@ -2978,7 +3108,7 @@ distinct trophic niches or experiencing unique food web conditions in
 recent decades in the Gulf of Alaska, likely in response to recent
 climate-induced ecological change in the region.
 
-\section{Introduction}\label{introduction-3}
+\section{Introduction}\label{introduction-4}
 
 Over the past century, pinniped populations in the northeast Pacific
 Ocean have experienced changes in adult and pup abundances (Muto et al.,
@@ -3123,14 +3253,13 @@ amino acids (i.e., glutamic acid, alanine, proline) become enriched in
 (i.e., phenylalanine) show minimal change and thus are reflective of the
 base of the food web (Chikaraishi et al.,
 \protect\hyperlink{ref-Chikaraishi2009}{2009}; McClelland \& Montoya,
-\protect\hyperlink{ref-McClelland2002}{2002}; N. Ohkouchi et al.,
+\protect\hyperlink{ref-McClelland2002}{2002}; Ohkouchi et al.,
 \protect\hyperlink{ref-Ohkouchi2017}{2017}). With the ability to
 internally correct for expected changes in
 \textsuperscript{15}N/\textsuperscript{14}N at the base of the food web
-{[}Feddern, Holtgrieve, \& Ward
-(\protect\hyperlink{ref-Feddern2021}{2021}); Ramirez et al. 2021{]},
-CSIA allows for a more robust retrospective analysis of consumer trophic
-dynamics on decadal and century scales.
+{[}Feddern et al. (\protect\hyperlink{ref-Feddern2021}{2021}); Ramirez
+et al. 2021{]}, CSIA allows for a more robust retrospective analysis of
+consumer trophic dynamics on decadal and century scales.
 
 The objective of this work is to describe and compare changes in trophic
 ecology for Alaskan pinnipeds throughout the past century and
@@ -3156,10 +3285,10 @@ trophic position dynamics across species and region through time,
 regional and location-specific ecological responses to a changing
 ecosystem can be identified.
 
-\section{Methods}\label{methods-2}
+\section{Methods}\label{methods-3}
 
 \subsection{Sample collection and
-analysis}\label{sample-collection-and-analysis-1}
+analysis}\label{sample-collection-and-analysis-2}
 
 Samples were obtained using methods described in Feddern et al.
 (\protect\hyperlink{ref-Feddern2021}{2021}). Briefly, harbor seal and
@@ -3245,16 +3374,15 @@ a trophic amino acid i in a sample and \(\delta^{15}N_o\) is the stable
 isotope composition of a source amino acid o in a sample.
 \(\overline{TDF}_{(i-o)}\) is the mean difference between given trophic
 amino acid \emph{i} and source amino acid \emph{o} across all consumers
-described in Nielsen, Popp, \& Winder
-(\protect\hyperlink{ref-Nielsen2015}{2015}). \(TDF_{(i-o), j}\) is the
-trophic discrimination factor between trophic amino acid \emph{i} and
-source amino acid \emph{o} from a controlled feeding study of a specific
-consumer \emph{j}; here we use harbor seals from Germain et al.
-(\protect\hyperlink{ref-Germain2013}{2013}) (Table \ref{tab:paramval}).
-\(\overline\beta_{(i-o)}\) is the mean difference in \(\delta^{15}N\)
-across aquatic phytoplankton between a specific trophic amino acid
-\emph{i} and source amino acid \emph{o} {[}Nielsen et al.
-(\protect\hyperlink{ref-Nielsen2015}{2015}); Table
+described in Nielsen et al. (\protect\hyperlink{ref-Nielsen2015}{2015}).
+\(TDF_{(i-o), j}\) is the trophic discrimination factor between trophic
+amino acid \emph{i} and source amino acid \emph{o} from a controlled
+feeding study of a specific consumer \emph{j}; here we use harbor seals
+from Germain et al. (\protect\hyperlink{ref-Germain2013}{2013}) (Table
+\ref{tab:paramval}). \(\overline\beta_{(i-o)}\) is the mean difference
+in \(\delta^{15}N\) across aquatic phytoplankton between a specific
+trophic amino acid \emph{i} and source amino acid \emph{o} {[}Nielsen et
+al. (\protect\hyperlink{ref-Nielsen2015}{2015}); Table
 \ref{tab:paramval}{]}. Nielsen et al.
 (\protect\hyperlink{ref-Nielsen2015}{2015}) also determined using
 multiple amino acids to estimate trophic position improves precision.
@@ -3591,7 +3719,7 @@ observed trophic position declines in western Steller sea lion and
 southeast Gulf of Alaska harbor seals. In contrast, consuming
 low-quality prey with lower protein content and greater amino acid
 imbalance between consumer and prey increases the amino acid trophic
-enrichment factor of nitrogen (McMahon, Thorrold, Elsdon, \& McCarthy,
+enrichment factor of nitrogen (McMahon et al.,
 \protect\hyperlink{ref-McMahon2015}{2015}). If not accounted for in
 trophic position equations, this increase in trophic enrichment factor
 can result in erroneously high trophic position estimates. This may
@@ -3683,7 +3811,7 @@ geographic regions.
 
 \clearpage
 
-\section{Tables}\label{tables-2}
+\section{Tables}\label{tables-3}
 
 \textbf{Table} \ref{tab:paramval}: Parameter values for trophic
 discrimination factors between a trophic amino acid (\emph{i}) and
@@ -3838,8 +3966,8 @@ an indent there.
 
 \chapter{Appendix 1}\label{appendix-1}
 
-\section{Full analytical details for bulk stable
-isotopes}\label{full-analytical-details-for-bulk-stable-isotopes}
+\section{Full analytical details for stable
+isotopes}\label{full-analytical-details-for-stable-isotopes}
 
 Collagen samples have been analyzed for both CSSIA and bulk
 \(\delta^{15}N\) which require 10 mg of purified collagen (100 mg of
@@ -3941,7 +4069,7 @@ been organised into an R package, xxx, which is available at
 \url{https://github.com/xxx/xxx}. A hard copy of the thesis can be found
 in the University of Washington library.
 
-This version of the thesis was generated on 2021-08-28 20:33:08. The
+This version of the thesis was generated on 2021-11-23 20:34:57. The
 repository is currently at this commit:
 
 The computational environment that was used to generate this version is
@@ -3957,7 +4085,7 @@ as follows:
  collate  en_US.UTF-8                 
  ctype    en_US.UTF-8                 
  tz       America/Los_Angeles         
- date     2021-08-28                  
+ date     2021-11-23                  
 
 - Packages -------------------------------------------------------------------
  package     * version date       lib source                               
@@ -3971,23 +4099,20 @@ as follows:
  desc          1.2.0   2018-05-01 [1] CRAN (R 4.0.0)                       
  devtools    * 2.3.1   2020-07-21 [1] CRAN (R 4.0.2)                       
  digest        0.6.27  2020-10-24 [1] CRAN (R 4.0.2)                       
- dplyr       * 1.0.2   2020-08-18 [1] CRAN (R 4.0.2)                       
+ dplyr         1.0.2   2020-08-18 [1] CRAN (R 4.0.2)                       
  ellipsis      0.3.0   2019-09-20 [1] CRAN (R 4.0.0)                       
  evaluate      0.14    2019-05-28 [1] CRAN (R 4.0.0)                       
- farver        2.0.3   2020-01-16 [1] CRAN (R 4.0.0)                       
  fs            1.5.0   2020-07-31 [1] CRAN (R 4.0.2)                       
  generics      0.0.2   2018-11-29 [1] CRAN (R 4.0.0)                       
- ggplot2     * 3.3.0   2020-03-05 [1] CRAN (R 4.0.0)                       
+ ggplot2       3.3.0   2020-03-05 [1] CRAN (R 4.0.0)                       
  git2r         0.27.1  2020-05-03 [1] CRAN (R 4.0.2)                       
  glue          1.4.2   2020-08-27 [1] CRAN (R 4.0.2)                       
  gtable        0.3.0   2019-03-25 [1] CRAN (R 4.0.0)                       
- highr         0.9     2021-04-16 [1] CRAN (R 4.0.2)                       
  htmltools     0.5.1.1 2021-01-22 [1] CRAN (R 4.0.2)                       
  httr          1.4.2   2020-07-20 [1] CRAN (R 4.0.2)                       
  huskydown   * 0.0.5   2021-05-16 [1] Github (benmarwick/huskydown@addb48e)
  kableExtra    1.3.4   2021-02-20 [1] CRAN (R 4.0.2)                       
  knitr         1.33    2021-04-24 [1] CRAN (R 4.0.2)                       
- labeling      0.3     2014-08-23 [1] CRAN (R 4.0.0)                       
  lifecycle     0.2.0   2020-03-06 [1] CRAN (R 4.0.0)                       
  magrittr      2.0.1   2020-11-17 [1] CRAN (R 4.0.2)                       
  memoise       1.1.0   2017-04-21 [1] CRAN (R 4.0.2)                       
@@ -3996,7 +4121,6 @@ as follows:
  pkgbuild      1.0.6   2019-10-09 [1] CRAN (R 4.0.0)                       
  pkgconfig     2.0.3   2019-09-22 [1] CRAN (R 4.0.0)                       
  pkgload       1.0.2   2018-10-29 [1] CRAN (R 4.0.0)                       
- png           0.1-7   2013-12-03 [1] CRAN (R 4.0.2)                       
  prettyunits   1.1.1   2020-01-24 [1] CRAN (R 4.0.0)                       
  processx      3.5.2   2021-04-30 [1] CRAN (R 4.0.2)                       
  ps            1.6.0   2021-02-28 [1] CRAN (R 4.0.2)                       
@@ -4152,6 +4276,12 @@ programming language. \emph{Journal of Statistical Software},
 \emph{76}(1), 1--32. Journal Article.
 \url{http://doi.org/10.18637/jss.v076.i01}
 
+\hypertarget{ref-Carpenter1985}{}
+Carpenter, S. R., Kitchell, J. F., \& Hodgson, J. R. (1985). Cascading
+trophic interactions and lake productivity. \emph{Bioscience},
+\emph{35}(10), 634--639. Journal Article.
+\url{http://doi.org/10.2307/1309989}
+
 \hypertarget{ref-Cederholm1989}{}
 Cederholm, C. J., Houston, D. B., Cole, D. L., \& Scarlett, W. J.
 (1989). Fate of coho salmon (oncorhynchus kisutch) carcasses in spawning
@@ -4190,11 +4320,26 @@ douglas-fir forest floors. \emph{Soil Science Society of America
 Journal}, \emph{63}(5), 1448--1454. Journal Article.
 \url{http://doi.org/10.2136/sssaj1999.6351448x}
 
+\hypertarget{ref-Chasco2017}{}
+Chasco, B., Kaplan, I. C., Thomas, A., Acevedo-Gutiérrez, A., Noren, D.,
+Ford, M. J., \ldots{} Ward, E. J. (2017). Estimates of chinook salmon
+consumption in washington state inland waters by four marine mammal
+predators from 1970 to 2015. \emph{Canadian Journal of Fisheries and
+Aquatic Sciences}, \emph{74}(8), 1173--1194. Journal Article.
+\url{http://doi.org/10.1139/cjfas-2016-0203}
+
+\hypertarget{ref-Chassot2010}{}
+Chassot, E., Bonhommeau, S., Dulvy, N. K., Mélin, F., Watson, R.,
+Gascuel, D., \& Le Pape, O. (2010). Global marine primary production
+constrains fisheries catches. \emph{Ecology Letters}, \emph{13}(4),
+495--505. Journal Article.
+\url{http://doi.org/10.1111/j.1461-0248.2010.01443.x}
+
 \hypertarget{ref-Chikaraishi2007}{}
-Chikaraishi, Y., Kashiyama, Y., Ogawa, N. O., Kitazato, H., \& Ohkouchi,
-N. (2007). Metabolic control of nitrogen isotope composition of amino
-acids in macroalgae and gastropods: Implications for aquatic food web
-studies. \emph{Marine Ecology. Progress Series (Halstenbek)},
+Chikaraishi, Y., Kashiyamal, Y., Ogawa, N. O., Kitazato, H., \&
+Ohkouchi, N. (2007). Metabolic control of nitrogen isotope composition
+of amino acids in macroalgae and gastropods: Implications for aquatic
+food web studies. \emph{Marine Ecology. Progress Series (Halstenbek)},
 \emph{342}, 85--90. Journal Article.
 \url{http://doi.org/10.3354/meps342085}
 
@@ -4243,6 +4388,12 @@ terrestrial, estuarine, and marine environments. \emph{Marine Ecology.
 Progress Series (Halstenbek)}, \emph{533}, 15--28. Journal Article.
 \url{http://doi.org/10.3354/meps11318}
 
+\hypertarget{ref-Corwith2002}{}
+Corwith, H. L., \& Wheeler, P. A. (2002). El niño related variations in
+nutrient and chlorophyll distributions off oregon: Observations of the
+1997-98 el niño along the west coast of north america. \emph{Progress in
+Oceanography}, \emph{54}(1-4), 361--380. Journal Article.
+
 \hypertarget{ref-Craine2009}{}
 Craine, J. M., Elmore, A. J., Aidar, M. P. M., Bustamante, M., Dawson,
 T. E., Hobbie, E. A., \ldots{} Wright, I. J. (2009). Global patterns of
@@ -4284,12 +4435,27 @@ community composition in the coastal upwelling system off central oregon
 in 2009. \emph{Estuaries and Coasts}, \emph{37}(2), 299--311. Journal
 Article. \url{http://doi.org/10.1007/s12237-013-9679-z}
 
+\hypertarget{ref-Duguid2019}{}
+Duguid, W. D. P., Boldt, J. L., Chalifour, L., Greene, C. M., Galbraith,
+M., Hay, D., \ldots{} Juanes, F. (2019). Historical fluctuations and
+recent observations of northern anchovy engraulis mordax in the salish
+sea. \emph{Deep-Sea Research. Part II, Topical Studies in Oceanography},
+\emph{159}, 22--41. Journal Article.
+\url{http://doi.org/10.1016/j.dsr2.2018.05.018}
+
 \hypertarget{ref-Espinasse2020}{}
 Espinasse, B., Hunt, B. P. V., Batten, S. D., Pakhomov, E. A., \&
 Tittensor, D. (2020). Defining isoscapes in the northeast pacific as an
 index of ocean productivity. \emph{Global Ecology and Biogeography},
 \emph{29}(2), 246--261. Journal Article.
 \url{http://doi.org/10.1111/geb.13022}
+
+\hypertarget{ref-Estes1998}{}
+Estes, J. A., Tinker, M. T., Williams, T. M., \& Doak, D. F. (1998).
+Killer whale predation on sea otters linking oceanic and nearshore
+ecosystems. \emph{Science (American Association for the Advancement of
+Science)}, \emph{282}(5388), 473--476. Journal Article.
+\url{http://doi.org/10.1126/science.282.5388.473}
 
 \hypertarget{ref-Feddern2021}{}
 Feddern, M. L., Holtgrieve, G. W., \& Ward, E. J. (2021). Stable isotope
@@ -4342,6 +4508,12 @@ Implications for compound-specific trophic position calculations.
 \emph{Marine Ecology. Progress Series (Halstenbek)}, \emph{482},
 265--277. Journal Article. \url{http://doi.org/10.3354/meps10257}
 
+\hypertarget{ref-Ghedini2015}{}
+Ghedini, G., Russell, B. D., \& Connell, S. D. (2015). Trophic
+compensation reinforces resistance: Herbivory absorbs the increasing
+effects of multiple disturbances. \emph{Ecology Letters}, \emph{18}(2),
+182--187. Journal Article. \url{http://doi.org/10.1111/ele.12405}
+
 \hypertarget{ref-Gregg2003}{}
 Gregg, W. W., Conkright, M. E., Ginoux, P., O'Reilly, J. E., \& Casey,
 N. W. (2003). Ocean primary production and climate: Global decadal
@@ -4361,6 +4533,13 @@ Resident harbor seals (phoca vitulina) in iliamna lake, alaska: Summer
 diet and partial consumption of adult sockeye salmon (oncorhynchus
 nerka). \emph{Aquatic Mammals}, \emph{34}(3), 303--309. Journal Article.
 \url{http://doi.org/10.1578/AM.34.3.2008.303}
+
+\hypertarget{ref-Heithaus2008}{}
+Heithaus, M. R., Frid, A., Wirsing, A. J., \& Worm, B. (2008).
+Predicting ecological consequences of marine top predator declines.
+\emph{Trends in Ecology \& Evolution (Amsterdam)}, \emph{23}(4),
+202--210. Journal Article.
+\url{http://doi.org/10.1016/j.tree.2008.01.003}
 
 \hypertarget{ref-Helfield2001}{}
 Helfield, J. M., \& Naiman, R. J. (2001). Effects of salmon-derived
@@ -4486,6 +4665,12 @@ experimental nitrogen loading on boreal forest. \emph{Global Change
 Biology}, \emph{12}(3), 489--499. Journal Article.
 \url{http://doi.org/10.1111/j.1365-2486.2006.01102.x}
 
+\hypertarget{ref-Hunter1992}{}
+Hunter, M. D., \& Price, P. W. (1992). Playing chutes and ladders:
+Heterogeneity and the relative roles of bottom-up and top-down forces in
+natural communities. \emph{Ecology (Durham)}, \emph{73}(3), 724--732.
+Journal Article. \url{http://doi.org/10.2307/1940152}
+
 \hypertarget{ref-Iverson1997}{}
 Iverson, S. J., Frost, K. J., \& Lowry, L. F. (1997). Fatty acid
 signatures reveal fine scale structure of foraging distribution of
@@ -4505,6 +4690,12 @@ Bengtson, J. L. (2015). Natural and human effects on harbor seal
 abundance and spatial distribution in an alaskan glacial fjord.
 \emph{Marine Mammal Science}, \emph{31}(1), 66--89. Journal Article.
 \url{http://doi.org/10.1111/mms.12140}
+
+\hypertarget{ref-Jeffries2003}{}
+Jeffries, S., Huber, H., Calambokidis, J., \& Laake, J. (2003). Trends
+and status of harbor seals in washington state: 1978-1999. \emph{The
+Journal of Wildlife Management}, \emph{67}(1), 207--218. Journal
+Article. \url{http://doi.org/10.2307/3803076}
 
 \hypertarget{ref-Jennings2010}{}
 Jennings, S., \& Brander, K. (2010). Predicting the effects of climate
@@ -4532,6 +4723,12 @@ of copepod nauplii, parvocalanus crassirostris and bestiolina similis.
 \emph{Marine Ecology. Progress Series (Halstenbek)}, \emph{572}, 57--76.
 Journal Article. \url{http://doi.org/10.3354/meps12139}
 
+\hypertarget{ref-McMahon2016}{}
+Kelton, W. M., \& Matthew, D. M. (2016). Embracing variability in amino
+acid δ15N fractionation: Mechanisms, implications, and applications for
+trophic ecology. \emph{Ecosphere (Washington, D.C)}, \emph{7}(12), n/a.
+Journal Article. \url{http://doi.org/10.1002/ecs2.1511}
+
 \hypertarget{ref-Kirchoff2003}{}
 Kirchhoff, M. D. (2003). Effects of salmon-derived nitrogen on riparian
 forest growth and implications for stream productivity: Comment.
@@ -4556,6 +4753,13 @@ Archaeological Science}, \emph{26}(6), 687--695. Journal Article.
 Klute, A. (1986). \emph{Methods of soil analysis. part 1. physical and
 mineralogical methods} (2nd ed.). Book.
 
+\hypertarget{ref-Kratina2012}{}
+Kratina, P., Greig, H. S., Thompson, P. L., Carvalho-Pereira, T. S. A.,
+\& Shurin, J. B. (2012). Warming modifies trophic cascades and
+eutrophication in experimental freshwater communities. \emph{Ecology
+(Durham)}, \emph{93}(6), 1421--1430. Journal Article.
+\url{http://doi.org/10.1890/11-1595.1}
+
 \hypertarget{ref-Kudela2009}{}
 Kudela, R. M., \& Peterson, T. D. (2009). Influence of a buoyant river
 plume on phytoplankton nutrient dynamics: What controls standing stocks
@@ -4579,8 +4783,8 @@ projections of declining primary production in the tropical oceans.
 \url{http://doi.org/10.1038/nclimate3265}
 
 \hypertarget{ref-Lance2012}{}
-Lance, M. M., Chang, W. Y., Jeffries, S. J., Pearson, S. F., \&
-Acevedo-Gutiérrez, A. (2012). Harbor seal diet in northern puget sound:
+Lance, M. M., Chang, W.-Y., Jeffries, S. J., Pearson, S. F., \&
+Acevedo-Gutierrez, A. (2012). Harbor seal diet in northern puget sound:
 Implications for the recovery of depressed fish stocks. \emph{Marine
 Ecology. Progress Series (Halstenbek)}, \emph{464}, 257--271. Journal
 Article. \url{http://doi.org/10.3354/meps09880}
@@ -4642,12 +4846,23 @@ Lu, M., Yang, Y., Luo, Y., Fang, C., Zhou, X., Chen, J., \ldots{} Li, B.
 meta-analysis. \emph{The New Phytologist}, \emph{189}(4), 1040--1050.
 Journal Article. \url{http://doi.org/10.1111/j.1469-8137.2010.03563.x}
 
+\hypertarget{ref-Magera2013}{}
+Magera, A. M., Flemming, J. E. M., Kaschner, K., Christensen, L. B., \&
+Lotze, H. K. (2013). Recovery trends in marine mammal populations.
+\emph{PloS One}, \emph{8}(10), e77908--e77908. Journal Article.
+\url{http://doi.org/10.1371/journal.pone.0077908}
+
 \hypertarget{ref-Maniscalco2006}{}
 Maniscalco, J. M., Parker, P., \& Atkinson, S. (2006). INTERSEASONAL and
 interannual measures of maternal care among individual steller sea lions
 (eumetopias jubatus). \emph{Journal of Mammalogy}, \emph{87}(2),
 304--311. Journal Article.
 \url{http://doi.org/10.1644/05-MAMM-A-163R2.1}
+
+\hypertarget{ref-Mantua2002}{}
+Mantua, N. J., \& Hare, S. R. (2002). The pacific decadal oscillation.
+\emph{Journal of Oceanography}, \emph{58}(1), 35--44. Journal Article.
+\url{http://doi.org/10.1023/A:1015820616384}
 
 \hypertarget{ref-Mantua1997}{}
 Mantua, N. J., Hare, S. R., Zhang, Y., Wallace, J. M., \& Francis, R. C.
@@ -4683,6 +4898,13 @@ the nitrogen isotopic composition of amino acids in plankton.
 \emph{Ecology (Durham)}, \emph{83}(8), 2173--2180. Journal Article.
 \href{http://doi.org/10.1890/0012-9658(2002)083\%5B2173:TRATNI\%5D2.0.CO;2}{http://doi.org/10.1890/0012-9658(2002)083{[}2173:TRATNI{]}2.0.CO;2}
 
+\hypertarget{ref-McMahon2015}{}
+McMahon, K. W., McCarthy, M. D., Sherwood, O. A., Larsen, T., \&
+Guilderson, T. P. (2015). Millennial-scale plankton regime shifts in the
+subtropical north pacific ocean. \emph{Science (American Association for
+the Advancement of Science)}, \emph{350}(6267), 1530--1533. Journal
+Article. \url{http://doi.org/10.1126/science.aaa9942}
+
 \hypertarget{ref-McMahon2019}{}
 McMahon, K. W., Michelson, C. I., Hart, T., McCarthy, M. D., Patterson,
 W. P., \& Polito, M. J. (2019). Divergent trophic responses of sympatric
@@ -4690,13 +4912,6 @@ penguin species to historic anthropogenic exploitation and recent
 climate change. \emph{Proceedings of the National Academy of Sciences -
 PNAS}, \emph{116}(51), 25721--25727. Journal Article.
 \url{http://doi.org/10.1073/pnas.1913093116}
-
-\hypertarget{ref-McMahon2015}{}
-McMahon, K. W., Thorrold, S. R., Elsdon, T. S., \& McCarthy, M. D.
-(2015). Trophic discrimination of nitrogen stable isotopes in amino
-acids varies with diet quality in a marine fish: Trophic discrimination
-of amino acids. \emph{Limnology and Oceanography}, \emph{60}(3),
-1076--1087. Journal Article. \url{http://doi.org/10.1002/lno.10081}
 
 \hypertarget{ref-Meehan2005}{}
 Meehan, E. P., Seminet-Reneau, E. E., \& Quinn, T. P. (2005). Bear
@@ -4730,7 +4945,7 @@ Moore, J. K., Fu, W., Primeau, F., Britten, G. L., Lindsay, K., Long,
 M., \ldots{} Randerson, J. T. (2018). Sustained climate warming drives
 declining marine biological productivity. \emph{Science (American
 Association for the Advancement of Science)}, \emph{359}(6380),
-1139--1143. Journal Article.
+1139--1142. Journal Article.
 \url{http://doi.org/10.1126/science.aao6379}
 
 \hypertarget{ref-Moore2007}{}
@@ -4779,6 +4994,13 @@ diversity on the functioning and stability of food webs. \emph{The
 Journal of Animal Ecology}, \emph{81}(3), 701--713. Journal Article.
 \url{http://doi.org/10.1111/j.1365-2656.2011.01949.x}
 
+\hypertarget{ref-Nelson2019}{}
+Nelson, B. W., Walters, C. J., Trites, A. W., \& McAllister, M. K.
+(2019). Wild chinook salmon productivity is negatively related to seal
+density and not related to hatchery releases in the pacific northwest.
+\emph{Canadian Journal of Fisheries and Aquatic Sciences}, \emph{76}(3),
+447--462. Journal Article. \url{http://doi.org/10.1139/cjfas-2017-0481}
+
 \hypertarget{ref-Nielsen2015}{}
 Nielsen, J. M., Popp, B. N., \& Winder, M. (2015). Meta-analysis of
 amino acid stable nitrogen isotope ratios for estimating trophic
@@ -4806,6 +5028,13 @@ scales: A case study of chinook salmon. \emph{Ecosphere (Washington,
 D.C)}, \emph{7}(4), n/a. Journal Article.
 \url{http://doi.org/10.1002/ecs2.1333}
 
+\hypertarget{ref-Ohlberger2019}{}
+Ohlberger, J., Schindler, D. E., Ward, E. J., Walsworth, T. E., \&
+Essington, T. E. (2019). Resurgence of an apex marine predator and the
+decline in prey body size. \emph{Proceedings of the National Academy of
+Sciences - PNAS}, \emph{116}(52), 26682--26689. Journal Article.
+\url{http://doi.org/10.1073/pnas.1910930116}
+
 \hypertarget{ref-Oke2020}{}
 Oke, K. B., Cunningham, C. J., Westley, P. A. H., Baskett, M. L.,
 Carlson, S. M., Clark, J., \ldots{} Palkovacs, E. P. (2020). Recent
@@ -4819,6 +5048,12 @@ discrimination by picea glauca and populus tremuloides is related to the
 topographic depth to water index and rainfall. \emph{Canadian Journal of
 Forest Research}, \emph{46}(10), 1225--1233. Journal Article.
 \url{http://doi.org/10.1139/cjfr-2015-0491}
+
+\hypertarget{ref-Paine1998}{}
+Paine, R. T., Tegner, M. J., \& Johnson, E. A. (1998). Compounded
+perturbations yield ecological surprises. \emph{Ecosystems (New York)},
+\emph{1}(6), 535--545. Journal Article.
+\url{http://doi.org/10.1007/s100219900049}
 
 \hypertarget{ref-Perakis2002}{}
 Perakis, S. S. (2002). Nutrient limitation, hydrology and watershed
@@ -4895,6 +5130,13 @@ Quantifying lost and remaining diversity. \emph{Conservation Biology},
 \emph{21}(4), 1009--1020. Journal Article.
 \url{http://doi.org/10.1111/j.1523-1739.2007.00693.x}
 
+\hypertarget{ref-Rykaczewski2010}{}
+Rykaczewski, R. R., \& Dunne, J. P. (2010). Enhanced nutrient supply to
+the california current ecosystem with global warming and increased
+stratification in an earth system model. \emph{Geophysical Research
+Letters}, \emph{37}(21), n/a. Journal Article.
+\url{http://doi.org/10.1029/2010GL045019}
+
 \hypertarget{ref-Scheuerell2007}{}
 Scheuerell, M. D., Moore, J. W., Schindler, D. E., \& Harvey, C. J.
 (2007). Varying effects of anadromous sockeye salmon on the trophic
@@ -4962,6 +5204,13 @@ differences in diet in the western stock of steller sea lions
 973--990. Journal Article.
 \href{http://doi.org/10.1644/1545-1542(2002)083\%3C0973:SASDID\%3E2.0.CO;2}{http://doi.org/10.1644/1545-1542(2002)083\textless{}0973:SASDID\textgreater{}2.0.CO;2}
 
+\hypertarget{ref-Smith2017}{}
+Smith, R. S., Weldon, L. M., Hayward, J. L., \& Henson, S. M. (2017).
+TIME lags associated with effects of oceanic conditions on seabird
+breeding in the salish sea region of the northern california current
+system. \emph{Marine Ornithology}, \emph{45}(1), 39--42. Journal
+Article.
+
 \hypertarget{ref-Smith2002}{}
 Smith, S. L., Henrichs, S. M., \& Rho, T. (2002). Stable c and n
 isotopic composition of sinking particles and zooplankton over the
@@ -4987,6 +5236,12 @@ Haltuch, M. A., Spencer, P. D., \ldots{} Doyle, M. J. (2014). Linking
 northeast pacific recruitment synchrony to environmental variability.
 \emph{Fisheries Oceanography}, \emph{23}(5), 389--408. Journal Article.
 \url{http://doi.org/10.1111/fog.12066}
+
+\hypertarget{ref-Steneck2012}{}
+Steneck, R. S. (2012). Apex predators and trophic cascades in large
+marine ecosystems: Learning from serendipity. \emph{Proceedings of the
+National Academy of Sciences - PNAS}, \emph{109}(21), 7953--7954.
+Journal Article. \url{http://doi.org/10.1073/pnas.1205591109}
 
 \hypertarget{ref-Perakis2012}{}
 Steven, S. P., Joselin, J. M., \& David, E. H. (2012). N2-fixing red
@@ -5085,6 +5340,13 @@ Brettschneider, B., Brubaker, M., \ldots{} Partain, J. (2018). The high
 latitude marine heat wave of 2016 and its impacts on alaska.
 \emph{Bulletin of the American Meteorological Society}, \emph{99}(1),
 S39--S43. Journal Article. \url{http://doi.org/10.1175/BAMS-D-17-0105.1}
+
+\hypertarget{ref-Ware2005}{}
+Ware, D. M., \& Thomson, R. E. (2005). Bottom-up ecosystem trophic
+dynamics determine fish production in the northeast pacific.
+\emph{Science (American Association for the Advancement of Science)},
+\emph{308}(5726), 1280--1284. Journal Article.
+\url{http://doi.org/10.1126/science.1109049}
 
 \hypertarget{ref-Wheeler2017}{}
 Wheeler, T. A., \& Kavanagh, K. L. (2017). Soil biogeochemical responses

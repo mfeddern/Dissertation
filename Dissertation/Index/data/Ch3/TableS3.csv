@@ -1,0 +1,7 @@
+﻿Covatriat,Time Series Description,Length,Source
+Discharge,"Total discharge from the Columbia River at Dalles, WA during summer months of high discharge (May-Oct) from monthly U.S. Geological Survey discharge data. ",1879-2018,Data Source: USGS 14105700
+Sea Surface Temperature (SST),"Average of monthly NOAA Extended Reconstructed SST for summer (Jul-Sep) in coastal Washington (48°N, 125°W). ",1854-2019,Data Source: NOAA ERSST V5 
+Upwelling,"Mean coastal upwelling index (CUI) coastal Washington (45°N, 125°W) using Bakun upwelling calculation based on Ekman's theory of mass transport due to wind stress, for spring (Apr-Jun) and summer (Jun-Sep). ",1946-2019.,Data Source: NOAA ERD SWFSC
+North Pacific Gyre Oscillation,2nd dominant mode of sea surface height variability in the northeast Pacific. Correlates with fluctuations in salinity nutrients and chlorophyll-a.,1950-2019,Data Source: Di Lorenzo et al. 2008.  NPGO
+Multivariate ENSO Index,"The extended Multivariate ENSO Index (MEI) uses Principle Component analysis on six variables: sea-level pressure, u and v component of the surface wind vector, sea surface temperature and cloudiness fraction in the tropical Pacific. ",1950-2019,Data Source:  NOAA/ESRL via California Current Integrated Ecosystem Assessment MEI
+Pacific Decadal Oscillation,Same as eastern Bering Sea,1900-2018,Data Sources: PDO; Zhang et al. 1997; Mantua et al 1997

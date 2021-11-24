@@ -58,62 +58,66 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.7}Figures}{62}{section.2.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {\@textofChapter \ 3:}Tables, Graphics, References, and Labels}{79}{chapter.3}%
+\contentsline {chapter}{\numberline {\@textofChapter \ 3:}Delayed trophic response of a marine predator to ocean condition and prey availability during the past century}{79}{chapter.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Tables}{79}{section.3.1}%
+\contentsline {section}{\numberline {3.1}Abstract}{79}{section.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Figures}{81}{section.3.2}%
+\contentsline {section}{\numberline {3.2}Introduction}{80}{section.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Footnotes and Endnotes}{85}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Methods}{83}{section.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Cross-referencing chapters and sections}{86}{section.3.4}%
+\contentsline {subsection}{\numberline {3.3.1}Sample collection and analysis}{83}{subsection.3.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Bibliographies}{87}{section.3.5}%
+\contentsline {subsection}{\numberline {3.3.2}Trophic position determination}{83}{subsection.3.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.6}Anything else?}{89}{section.3.6}%
+\contentsline {subsection}{\numberline {3.3.3}Quantifying bottom-up drivers of foraging}{85}{subsection.3.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {\@textofChapter \ 4:}Recent divergent changes in Alaskan pinniped trophic position detected using compound-specific stable isotope analysis}{90}{chapter.4}%
+\contentsline {section}{\numberline {3.4}Tables}{87}{section.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Abstract}{90}{section.4.1}%
+\contentsline {section}{\numberline {3.5}Figures}{94}{section.3.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Introduction}{91}{section.4.2}%
+\contentsline {chapter}{\numberline {\@textofChapter \ 4:}Recent divergent changes in Alaskan pinniped trophic position detected using compound-specific stable isotope analysis}{95}{chapter.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Methods}{95}{section.4.3}%
+\contentsline {section}{\numberline {4.1}Abstract}{95}{section.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.1}Sample collection and analysis}{95}{subsection.4.3.1}%
+\contentsline {section}{\numberline {4.2}Introduction}{96}{section.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.2}Trophic position calculation}{96}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.3}Methods}{100}{section.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.3}Model framework}{97}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.1}Sample collection and analysis}{100}{subsection.4.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Results}{99}{section.4.4}%
+\contentsline {subsection}{\numberline {4.3.2}Trophic position calculation}{101}{subsection.4.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4.1}Common trends in Alaskan pinniped trophic position}{99}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.3.3}Model framework}{102}{subsection.4.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4.2}Spatial and temporal differences in pinniped trophic structure}{101}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.4}Results}{104}{section.4.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.5}Discussion}{102}{section.4.5}%
+\contentsline {subsection}{\numberline {4.4.1}Common trends in Alaskan pinniped trophic position}{104}{subsection.4.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.5.1}Regional and species trends in harbor seal trophic position}{102}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.4.2}Spatial and temporal differences in pinniped trophic structure}{106}{subsection.4.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.5.2}Recent trophic position changes in the Gulf of Alaska}{103}{subsection.4.5.2}%
+\contentsline {section}{\numberline {4.5}Discussion}{107}{section.4.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.5.3}Considerations and limitations for CSIA analyses}{105}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.5.1}Regional and species trends in harbor seal trophic position}{107}{subsection.4.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.5.4}Conclusions and Implications}{107}{subsection.4.5.4}%
+\contentsline {subsection}{\numberline {4.5.2}Recent trophic position changes in the Gulf of Alaska}{108}{subsection.4.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.6}Tables}{108}{section.4.6}%
+\contentsline {subsection}{\numberline {4.5.3}Considerations and limitations for CSIA analyses}{110}{subsection.4.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.7}Figures}{110}{section.4.7}%
+\contentsline {subsection}{\numberline {4.5.4}Conclusions and Implications}{112}{subsection.4.5.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Conclusion}{117}{chapter*.7}%
+\contentsline {section}{\numberline {4.6}Tables}{113}{section.4.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {\@textofAppendix \ A:}Appendix 1}{118}{appendix.A}%
+\contentsline {section}{\numberline {4.7}Figures}{115}{section.4.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}Full analytical details for bulk stable isotopes}{118}{section.A.1}%
+\contentsline {chapter}{Conclusion}{122}{chapter*.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {\@textofAppendix \ B:}The Second Appendix, for Fun}{120}{appendix.B}%
+\contentsline {chapter}{\numberline {\@textofAppendix \ A:}Appendix 1}{123}{appendix.A}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Colophon}{121}{appendix*.8}%
+\contentsline {section}{\numberline {A.1}Full analytical details for stable isotopes}{123}{section.A.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{References}{125}{appendix*.9}%
+\contentsline {chapter}{\numberline {\@textofAppendix \ B:}The Second Appendix, for Fun}{125}{appendix.B}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Colophon}{126}{appendix*.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{References}{130}{appendix*.9}%

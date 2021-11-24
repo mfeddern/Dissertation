@@ -1,3 +1,1670 @@
+@article{Bjorkland2015,
+   author = {Bjorkland, Rhema H. and Pearson, Scott F. and Jeffries, Steve J. and Lance, Monique M. and Acevedo-Gutierrez, Alejandro and Ward, Eric J.},
+   title = {Stable isotope mixing models elucidate sex and size effects on the diet of a generalist marine predator},
+   journal = {Marine ecology. Progress series (Halstenbek)},
+   volume = {526},
+   pages = {213-225},
+   abstract = {We applied a 2-step clustering algorithm and Bayesian stable isotope mixing model to examine intraspecific differences in the contribution of prey sources to the diet and foraging habitat of harbor seals in the Salish Sea, USA. We analyzed stable isotopes of carbon and nitrogen collected from 32 seals and 248 prey samples representing 18 of 25 of the most common seal prey items identified in seal scat. Stable isotope analyses identified significant harbor seal sex- and size-based differences in diet and foraging habitat use. In comparison to males, female harbor seals had a higher contribution of prey items that were more C-enriched. This result may indicate that females derived more of their δ C value from nearshore versus offshore food webs, an explanation supported by movement data on this population. However, large seals of both sexes displayed a greater offshore signal in their diet, indicating that seal mass effects on foraging habitat use were somewhat independent of sex. Our work contributes to understanding trophic linkages between these generalist consumers and their prey. The foraging differences that we detected between male and female harbor seals present complex challenges for fisheries management and for the design of marine reserves. Many marine reserves in the Pacific Northwest are located in close proximity to seal haul-out sites. By lowering the energetic costs of foraging of females, these reserves may ultimately have the unintended effect of increasing individual fitness, population growth rate, and influencing future predator-induced mortality on endangered species.},
+   keywords = {Ecology
+Environmental Sciences & Ecology
+Life Sciences & Biomedicine
+Marine & Freshwater Biology
+Oceanography
+Physical Sciences
+Science & Technology},
+   ISSN = {0171-8630},
+   DOI = {10.3354/meps11230},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{Carpenter1985,
+   author = {Carpenter, Stephen R. and Kitchell, James F. and Hodgson, James R.},
+   title = {Cascading Trophic Interactions and Lake Productivity},
+   journal = {Bioscience},
+   volume = {35},
+   number = {10},
+   pages = {634-639},
+   abstract = {The concept of using cascading trophic interactions as a tool for managing lake ecosystems was based on the premise that increasing piscivore biomass would result in decreased planktivore biomass, increased herbivore biomass, and decreased phytoplankton biomass. Although time lags (fluctuations in piscivore density did not cascade instantaneously through lake food webs) made it difficult to validate the concept by statistical analysis of lake ecosystem data, results of several enclosure and microcosm experiments have supported the concept. Regulation of algal biomass and productivity by management of fish populations could be a practical approach to mitigating water quality problems.},
+   keywords = {Biomass production
+Chlorophylls
+Freshwater fishes
+Herbivores
+Herbivorous fishes
+Lakes
+Lentic systems
+Plankton
+Productivity
+Zooplankton},
+   ISSN = {0006-3568},
+   DOI = {10.2307/1309989},
+   year = {1985},
+   type = {Journal Article}
+}
+
+@article{Chasco2017,
+   author = {Chasco, Brandon and Kaplan, Isaac C. and Thomas, Austen and Acevedo-Gutiérrez, Alejandro and Noren, Dawn and Ford, Michael J. and Hanson, M. Bradley and Scordino, Jonathan and Jeffries, Steve and Pearson, Scott and Marshall, Kristin N. and Ward, Eric J.},
+   title = {Estimates of Chinook salmon consumption in Washington State inland waters by four marine mammal predators from 1970 to 2015},
+   journal = {Canadian journal of fisheries and aquatic sciences},
+   volume = {74},
+   number = {8},
+   pages = {1173-1194},
+   abstract = {Conflicts can arise when the recovery of one protected species limits the recovery of another through competition or predation. The recovery of many marine mammal populations on the west coast of the United States has been viewed as a success; however, within Puget Sound in Washington State, the increased abundance of three protected pinniped species may be adversely affecting the recovery of threatened Chinook salmon (Oncorhynchus tshawytscha) and endangered killer whales (Orcinus orca) within the region. Between 1970 and 2015, we estimate that the annual biomass of Chinook salmon consumed by pinnipeds has increased from 68 to 625 metric tons. Converting juvenile Chinook salmon into adult equivalents, we found that by 2015, pinnipeds consumed double that of resident killer whales and six times greater than the combined commercial and recreational catches. We demonstrate the importance of interspecific interactions when evaluating species recovery. As more protected species respond positively to recovery efforts, managers should attempt to evaluate tradeoffs between these recovery efforts and the unintended ecosystem consequences of predation and competition on other protected species.},
+   keywords = {Fisheries
+Life Sciences & Biomedicine
+Marine & Freshwater Biology
+Science & Technology
+Competition
+Fisheries management
+Salmon
+Ecosystems
+Abundance
+Interspecific
+Biomass
+Whales & whaling
+Recovery
+Estimates
+Marine mammals
+Inland waters
+Studies
+Predators
+Whales
+Predation
+Coastal environments
+Protected species},
+   ISSN = {0706-652X},
+   DOI = {10.1139/cjfas-2016-0203},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{Chassot2010,
+   author = {Chassot, Emmanuel and Bonhommeau, Sylvain and Dulvy, Nicholas K. and Mélin, Frédéric and Watson, Reg and Gascuel, Didier and Le Pape, Olivier},
+   title = {Global marine primary production constrains fisheries catches},
+   journal = {Ecology letters},
+   volume = {13},
+   number = {4},
+   pages = {495-505},
+   abstract = {Ecology Letters (2010) 13: 495–505 Primary production must constrain the amount of fish and invertebrates available to expanding fisheries; however the degree of limitation has only been demonstrated at regional scales to date. Here we show that phytoplanktonic primary production, estimated from an ocean‐colour satellite (SeaWiFS), is related to global fisheries catches at the scale of Large Marine Ecosystems, while accounting for temperature and ecological factors such as ecosystem size and type, species richness, animal body size, and the degree and nature of fisheries exploitation. Indeed we show that global fisheries catches since 1950 have been increasingly constrained by the amount of primary production. The primary production appropriated by current global fisheries is 17–112% higher than that appropriated by sustainable fisheries. Global primary production appears to be declining, in some part due to climate variability and change, with consequences for the near future fisheries catches.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Animals
+Autotrophic Processes
+Biodiversity
+Biodiversity and Ecology
+Biological and medical sciences
+Biomass
+Bottom-up
+Ecology
+Environmental Sciences
+Environmental Sciences & Ecology
+Eukaryota - growth & development
+Fish industry
+Fisheries
+Fishery conservation
+Fundamental and applied biological sciences. Psychology
+General aspects
+Large Marine Ecosystem
+Life Sciences & Biomedicine
+Oceans and Seas
+quantile regression
+Regression Analysis
+Science & Technology
+Sea water ecosystems
+sustainable fishing
+Synecology
+Temperature},
+   ISSN = {1461-023X},
+   DOI = {10.1111/j.1461-0248.2010.01443.x},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{Chikaraishi2007,
+   author = {Chikaraishi, Yoshito and Kashiyamal, Yuichiro and Ogawa, Nanako O. and Kitazato, Hiroshi and Ohkouchi, Naohiko},
+   title = {Metabolic control of nitrogen isotope composition of amino acids in macroalgae and gastropods: implications for aquatic food web studies},
+   journal = {Marine ecology. Progress series (Halstenbek)},
+   volume = {342},
+   pages = {85-90},
+   abstract = {We investigated the nitrogen isotopic compositions of individual amino acids from brown and red macroalgae and gastropods in a natural marine coastal environment, to further evaluate them as a tool for ecological studies and to understand the factor(s) controlling the isotopic compositions in terms of biosynthetic and metabolic processes. The isotopic compositions of 12 amino acids range from –2.1 to +8.4‰ for brown algae, from –3.3 to +12.9‰ for red algae, and from –0.6 to +16.6‰ for gastropods. The isotopic distributions between algae and gastropods and within algal classes are consistent with those in previous reports, suggesting them to be quite useful for studying food web structure. The nitrogen isotopic variation between amino acids strongly reflects their biosynthetic and metabolic processes. In particular, we suggest here that metabolic fate is an important factor in producing distinct trophic relationships in nitrogen isotopic compositions between amino acids.},
+   keywords = {Algae
+Amino acid metabolism
+Amino acids
+Brown algae
+Ecology
+Environmental Sciences & Ecology
+Food webs
+Life Sciences & Biomedicine
+Macroalgae
+Marine & Freshwater Biology
+Nitrogen
+Nitrogen isotopes
+Nitrogen metabolism
+Oceanography
+Physical Sciences
+Science & Technology
+Trophic levels},
+   ISSN = {0171-8630},
+   DOI = {10.3354/meps342085},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{Choi2017,
+   author = {Choi, Bohyung and Ha, Sun‐Yong and Lee, Jae Seong and Chikaraishi, Yoshito and Ohkouchi, Naohiko and Shin, Kyung‐Hoon},
+   title = {Trophic interaction among organisms in a seagrass meadow ecosystem as revealed by bulk δ13C and amino acid δ15N analyses},
+   journal = {Limnology and oceanography},
+   volume = {62},
+   number = {4},
+   pages = {1426-1435},
+   abstract = {Numerous studies have used stable isotope analysis (SIA) of carbon and nitrogen within the bulk tissues of organisms to determine the trophic structure among organisms in a food web. Recently, SIA has evolved to compound‐specific stable isotope analysis (CSIA) of nitrogen within amino acids to significantly reduce the uncertainty in the estimated trophic position (TP) of organisms based on the isotopic difference between glutamic acid and phenylalanine within a single organism. However, because the initial offset (β) between glutamic acid and phenylalanine differs between aquatic algae (ca. +3.4‰) and vascular plants (ca. −8.4‰) in food webs that rely on both resources, β should be replaced by a value adapted to the admixture of primary producers for each specimen. In this study, we established a new method involving the β value (βmix) of each consumer specimen determined based on its bulk tissue δ13C value and successfully obtained realistic TPs (TPmix) for organisms in a complex seagrass meadow food web. Remarkable differences between the TPmix and traditional TPalgal values were found in deposit feeders due to the large contribution of seagrass to their basal resources. The estimated TPs of organisms increased by up to 1.5 units (from TPalgal to TPmix), in terms of trophic transfer, when their diets included substantial seagrass‐derived contributions. Thus, combinatorial analysis of the amino acid δ15N and specimen‐specific βmix values provides better understanding of the trophic interactions in food webs, even in complex seagrass meadow ecosystems.},
+   ISSN = {0024-3590},
+   DOI = {10.1002/lno.10508},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{Corwith2002,
+   author = {Corwith, H. L. and Wheeler, P. A.},
+   title = {El Niño related variations in nutrient and chlorophyll distributions off Oregon: Observations of the 1997-98 El Niño along the west coast of North America},
+   journal = {Progress in oceanography},
+   volume = {54},
+   number = {1-4},
+   pages = {361-380},
+   keywords = {Earth, ocean, space
+Exact sciences and technology
+External geophysics
+Physical and chemical properties of sea water
+Physics of the oceans},
+   ISSN = {0079-6611},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{Dehn2007,
+   author = {Dehn, Larissa- A. and Sheffield, Gay G. and Follmann, Erich H. and Duffy, Lawrence K. and Thomas, Dana L. and O’Hara, Todd M.},
+   title = {Feeding ecology of phocid seals and some walrus in the Alaskan and Canadian Arctic as determined by stomach contents and stable isotope analysis},
+   journal = {Polar biology},
+   volume = {30},
+   number = {2},
+   pages = {167-181},
+   abstract = {Feeding habits of ringed (Phoca hispida), bearded (Erignathus barbatus), spotted (Phoca largha) and ribbon (Phoca fasciata) seals and walrus (Odobenus rosmarus) were studied using stomach contents and stable carbon and nitrogen isotopes. Bearded seals fed benthically, primarily crustaceans and mollusks. Both zooplankton and fish were significant prey for ringed seals, while fish was principal spotted seal prey. Few gastric contents were available from ribbon seals. δ15N was positively correlated with age in ribbon seals and δ13C was positively correlated with age in ringed and ribbon seals. δ15N was highest in spotted seals, in agreement with their fish-dominated diet. δ15N was not different between Alaskan-harvested ringed and bearded seals, while δ15N was lowest in ribbon seals and walrus. Carbon-13 was most enriched in bearded seals and walrus reflecting benthic ecosystem use. Canadian ringed seals were depleted in 13C compared to Alaskan pinnipeds, likely because of Beaufort Sea versus Chukchi and Bering seas influence.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Biodiversity & Conservation
+Biological and medical sciences
+Ecology
+Environmental Sciences & Ecology
+Fundamental and applied biological sciences. Psychology
+Life Sciences
+Life Sciences & Biomedicine
+Mammalia
+Marine mammals
+Microbiology
+Oceanography
+Particular ecosystems
+Plant Sciences
+Science & Technology
+Synecology
+Vertebrates: general zoology, morphology, phylogeny, systematics, cytogenetics, geographical distribution
+Zoology},
+   ISSN = {0722-4060},
+   DOI = {10.1007/s00300-006-0171-0},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{Downs2014,
+   author = {Downs, E. E. and Popp, B. N. and Holl, C. M.},
+   title = {Nitrogen isotope fractionation and amino acid turnover rates in the Pacific white shrimp Litopenaeus vannamei},
+   journal = {Marine ecology. Progress series (Halstenbek)},
+   volume = {516},
+   pages = {239-250},
+   abstract = {Fluctuations in an animal’s trophic position (TP) can indicate changes within an ecosystem. Traditionally, bulk tissue or whole animal nitrogen (N) isotope analysis has been used to determine an animal’s TP, but there are limitations to the application of this approach. Amino acid compound-specific isotope analysis (AA-CSIA) can be used to determine TP based on the difference between the δ N values of certain amino acids, commonly glutamic acid and phenylalanine. The rate at which N is incorporated into amino acids is largely unknown, and this may affect the accuracy of relative TP estimates especially during periods of ecosystem change or ontogenetic changes in diet. To study amino acid turnover rates, the diet of the Pacific white shrimp was changed in the laboratory from an unlabeled diet (7.2‰) to a N-enriched diet (24‰), and animals were sampled over the course of 7 wk. AA-CSIA revealed that turnover times of amino acids vary considerably, with some amino acids having much more rapid turnover than others. The TP of (using δ N values of glutamic acid and phenylalanine) over the course of the experiment remained constant, and shrimp TP averaged 2.14 ± 0.15 (mean ± SD, n = 7) relative to its diet, which was as expected. Our results indicate that the δ N values of glutamic acid and phenylalanine can be used to accurately determine TP even while shrimp are undergoing a change to a diet with a different δ N value.},
+   ISSN = {0171-8630},
+   DOI = {10.3354/meps11030},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{Drago2009,
+   author = {Drago, M. and Cardona, L. and Crespo, E. A. and Aguilar, A.},
+   title = {Ontogenic dietary changes in South American sea lions},
+   journal = {Journal of zoology (1987)},
+   volume = {279},
+   number = {3},
+   pages = {251-261},
+   note = {Editor: Nigel Bennett},
+   abstract = {Stable isotopes of carbon and nitrogen in the skull bones of South American sea lions Otaria flavescens from the Chubut province (Argentina) were analysed to determine whether their feeding habits change during ontogeny. The stable isotope analysis showed that δ13C steadily increased in males and females with their developmental stage (young, first adult, adult and senile), except in senile males whose δ13C decreased to a value close to that of first adults. Pairwise comparison of bone stable isotope ratio in each developmental stage revealed differences between males and females only for the δ13C values relative to first adults and adults. Overall, results indicate that the contribution of benthic prey items to the diet of both sexes increases with the developmental stage, except in senile males, and that first adult and adult males have a more benthic diet than females at the same developmental stage. No differences exist between males and females at younger and older developmental stages. With respect to δ15N, the only difference was in young female skulls, which were more enriched than those of any other group. Consequently, the trophic level of sea lions is roughly the same throughout life, independent of the developmental stage and sex, except for young females. The growth curve analysis revealed statistically significant differences in the condylobasal length of the skull between the sea lions in both sexes of the young stage and those of the other three developmental stages considered here but not among the individuals of the three later stages. This result indicates that the dietary differences between individuals in the young stage and those in the successive stages is likely due to differences in body size, whereas dietary differences among individuals of the later three stages might be due to different foraging skills that are progressively acquired during their life span.},
+   keywords = {Analysis
+bone
+diet ontogeny
+Life Sciences & Biomedicine
+Otaria flavescens
+Science & Technology
+Sea lions
+South American sea lion
+stable isotopes
+Zoology},
+   ISSN = {0952-8369},
+   DOI = {10.1111/j.1469-7998.2009.00613.x},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{Duguid2019,
+   author = {Duguid, William D. P. and Boldt, Jennifer L. and Chalifour, Lia and Greene, Correigh M. and Galbraith, Moira and Hay, Doug and Lowry, Dayv and McKinnell, Skip and Neville, Chrys M. and Qualley, Jessica and Sandell, Todd and Thompson, Matthew and Trudel, Marc and Young, Kelly and Juanes, Francis},
+   title = {Historical fluctuations and recent observations of Northern Anchovy Engraulis mordax in the Salish Sea},
+   journal = {Deep-sea research. Part II, Topical studies in oceanography},
+   volume = {159},
+   pages = {22-41},
+   abstract = {Many small pelagic fish species exhibit dramatic fluctuations in abundance accompanied by range expansions during periods of favorable environmental conditions. The location and extent of suitable habitats also shift in response to both short term variability and long term trends in climate. Near the margins of a contemporary range, trends in abundance may reflect a continuation of historical variability but may also foreshadow future changes in distribution. The Salish Sea (all inland marine waters of Washington State and southern British Columbia; made up of the Strait of Georgia, Strait of Juan de Fuca, and Puget Sound) is a highly productive estuarine system at the northern end of the distribution of Northern Anchovy (Engraulis mordax). An apparent recent (2014–2016) increase in Northern Anchovy abundance has generated interest in the dynamics of this species in the Salish Sea. We compiled recent and historical data to understand spatiotemporal patterns of distribution and fluctuations in abundance over the last century. Spatially-consistent occurrence of eggs, larvae, and juveniles, and year-round presence of multiple age classes, confirm that successful spawning and recruitment of Northern Anchovy occurs within the Salish Sea. Most periods of elevated Northern Anchovy abundance in the last century have corresponded to, or lagged, periods of elevated ocean temperatures. While a 2005 peak in abundance within the Salish Sea also corresponded to higher abundance of Northern Anchovy in adjacent regions of the coastal Pacific Ocean, it seems unlikely that Salish Sea abundance is controlled primarily by advection or migration from external populations. Persistence of elevated ocean temperatures like those observed from 2014 to 2016 could lead to consistently high abundance of Northern Anchovy within the Salish Sea, with implications for trophic relationships and ecosystem function.},
+   keywords = {Ecosystems
+Fishery sciences, climate
+Forage fish
+Temperature effects},
+   ISSN = {0967-0645},
+   DOI = {10.1016/j.dsr2.2018.05.018},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{Estes1998,
+   author = {Estes, J. A. and Tinker, M. T. and Williams, T. M. and Doak, D. F.},
+   title = {Killer Whale Predation on Sea Otters Linking Oceanic and Nearshore Ecosystems},
+   journal = {Science (American Association for the Advancement of Science)},
+   volume = {282},
+   number = {5388},
+   pages = {473-476},
+   abstract = {After nearly a century of recovery from overhunting, sea otter populations are in abrupt decline over large areas of western Alaska. Increased killer whale predation is the likely cause of these declines. Elevated sea urchin density and the consequent deforestation of kelp beds in the nearshore community demonstrate that the otter's keystone role has been reduced or eliminated. This chain of interactions was probably initiated by anthropogenic changes in the offshore oceanic ecosystem.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Animals
+Biological and medical sciences
+Clams
+Demecology
+Depopulation
+Ecology
+Environmental aspects
+Forest ecosystems
+Fundamental and applied biological sciences. Psychology
+Killer whale
+Killer whales
+Mammalia
+Marine ecology
+Marine ecosystems
+Multidisciplinary Sciences
+Observational research
+Otters
+Predation (Biology)
+Reports
+Science & Technology
+Science & Technology - Other Topics
+Sea otter
+Sea otters
+Seas
+Vertebrata
+Whales},
+   ISSN = {0036-8075},
+   DOI = {10.1126/science.282.5388.473},
+   year = {1998},
+   type = {Journal Article}
+}
+
+@article{Feddern2021,
+   author = {Feddern, Megan L. and Holtgrieve, Gordon W. and Ward, Eric J.},
+   title = {Stable isotope signatures in historic harbor seal bone link food web‐assimilated carbon and nitrogen resources to a century of environmental change},
+   journal = {Global change biology},
+   volume = {27},
+   number = {11},
+   pages = {2328-2342},
+   abstract = {Anthropogenic climate change will impact nutrient cycles, primary production, and ecosystem structure in the world's oceans, although considerable uncertainty exists regarding the magnitude and spatial variability of these changes. Understanding how regional‐scale ocean conditions control nutrient availability and ultimately nutrient assimilation into food webs will inform how marine resources will change in response to climate. To evaluate how ocean conditions influence the assimilation of nitrogen and carbon into coastal marine food webs, we applied a novel dimension reduction analysis to a century of newly acquired molecular isotope data derived from historic harbor seal bone specimens. By measuring bulk δ13C and δ15N values of source amino acids of these top predators from 1928 to 2014, we derive indices of primary production and nitrogen resources that are assimilated into food webs. We determined coastal food webs responded to climate regimes, coastal upwelling, and freshwater discharge, yet the strength of responses to individual drivers varied across the northeast Pacific. Indices of primary production and nitrogen availability in the Gulf of Alaska were dependent on regional climate indices (i.e., North Pacific Gyre Oscillation) and upwelling. In contrast, the coastal Washington and Salish Sea food webs were associated with local indices of freshwater discharge. For some regions (eastern Bering Sea, northern Gulf of Alaska) food web‐assimilated production was coupled with nitrogen sources; however, other regions demonstrated no production‐nitrogen coupling (Salish Sea). Temporal patterns of environmental indices and isotopic data from Washington state varied about the long‐term mean with no directional trend. Data from the Gulf of Alaska, however, showed below average harbor seal δ13C values and above average ocean conditions since 1975, indicating a change in primary production in recent decades. Altogether, these findings demonstrate stable isotope data can provide useful indices of nitrogen resources and phytoplankton dynamics specific to what is assimilated by food webs. Environmental factors determine resource availability and primary production in marine ecosystems. Stable isotope data from consumer tissues can provide useful indices of nitrogen and carbon resources that are sequestered by primary producers, passed through the food web, and ultimately assimilated into top predators. Based on the stable isotope composition of harbor seal bone specimens from the past century, we determined environmental factors that impact resources assimilated into food webs vary regionally within the northeast Pacific.},
+   keywords = {amino acid
+Amino acids
+Analysis
+Anthropogenic factors
+Aquatic mammals
+Assimilation
+Availability
+Carbon
+Climate change
+Climatic changes
+Coastal upwelling
+compound‐specific stable isotope analysis
+Coupling (molecular)
+Data
+Data acquisition
+Dimensions
+Discharge
+Ecosystem components
+Ecosystem structure
+Environmental changes
+Environmental impact
+Food chains
+Food chains (Ecology)
+Food production
+Food webs
+Fresh water
+Global temperature changes
+Gulf of Alaska
+harbor seals
+Human influences
+Inland water environment
+Marine ecosystems
+Marine mammals
+Marine resources
+Nitrogen
+Nitrogen sources
+northeast Pacific Ocean
+Nutrient availability
+Nutrient cycles
+Nutrient uptake
+Ocean circulation
+Oceans
+Phytoplankton
+Predators
+Primary production
+Regions
+Seafood
+Spatial variations
+Stable isotopes
+Upwelling},
+   ISSN = {1354-1013},
+   DOI = {10.1111/gcb.15551},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{Germain2013,
+   author = {Germain, Leslie R. and Koch, Paul L. and Harvey, James and McCarthy, Matthew D.},
+   title = {Nitrogen isotope fractionation in amino acids from harbor seals: implications for compound-specific trophic position calculations},
+   journal = {Marine ecology. Progress series (Halstenbek)},
+   volume = {482},
+   pages = {265-277},
+   abstract = {Compound-specific isotope analysis of individual amino acids (AA) is a rapidly growing tool in ecological studies to assess diet and trophic position (TP) in both modern and ancient foodwebs. We conducted the first controlled feeding study examining δ N values in AAs in a marine mammal (harbor seal ). The pattern of δ N variation among AAs in seals was similar to that observed in other heterotrophs, although exceptions were found with proline and threonine. However, many δ N changes with trophic transfer were very different than those reported for zooplankton and other lower TP marine consumers. In particular the measured trophic enrichment factor (TEF) now broadly used for TP estimation (TEF ) was much lower in harbor seals (~4.3‰) than the current commonly applied value (~7.5‰). Recently published data on wild marine birds (penguins) and elasmobranchs (stingrays) suggests that similar, low TEF values may also be characteristic of these taxa. Together, these data imply that marine mammals and other higher animals have different, but also diagnostic, changes in δ N-AA with trophic transfer vs. organisms examined in previous feeding studies (e.g. zooplankton, bony fish and mollusks), possibly due to dietary protein content, trophic position, and/or form of nitrogen excretion (urea vs. ammonia). Therefore, we propose that for marine mammals, a multi-TEF calculation is required to account for variations of TEF between animals within a food web, and we demonstrate that this approach can predict accurate TP estimates for harbor seals. These results also have significant implication for the application of compound-specific isotope analysis of AAs on terrestrial ecology and trophic structure.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Biological and medical sciences
+Fundamental and applied biological sciences. Psychology
+Mammalia
+Sea water ecosystems
+Synecology
+Vertebrates: general zoology, morphology, phylogeny, systematics, cytogenetics, geographical distribution},
+   ISSN = {0171-8630},
+   DOI = {10.3354/meps10257},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{Ghedini2015,
+   author = {Ghedini, Giulia and Russell, Bayden D. and Connell, Sean D.},
+   title = {Trophic compensation reinforces resistance: herbivory absorbs the increasing effects of multiple disturbances},
+   journal = {Ecology letters},
+   volume = {18},
+   number = {2},
+   pages = {182-187},
+   note = {University of Adelaide
+ARC
+ARC Future Fellowship
+Dr. Paris Goodsell Marine Ecology Research Grant
+Nature Foundation SA},
+   abstract = {Disturbance often results in small changes in community structure, but the probability of transitioning to contrasting states increases when multiple disturbances combine. Nevertheless, we have limited insights into the mechanisms that stabilise communities, particularly how perturbations can be absorbed without restructuring (i.e. resistance). Here, we expand the concept of compensatory dynamics to include countervailing mechanisms that absorb disturbances through trophic interactions. By definition, ‘compensation’ occurs if a specific disturbance stimulates a proportional countervailing response that eliminates its otherwise unchecked effect. We show that the compounding effects of disturbances from local to global scales (i.e. local canopy‐loss, eutrophication, ocean acidification) increasingly promote the expansion of weedy species, but that this response is countered by a proportional increase in grazing. Finally, we explore the relatively unrecognised role of compensatory effects, which are likely to maintain the resistance of communities to disturbance more deeply than current thinking allows.},
+   keywords = {Analysis
+Animals
+Biodiversity
+Climate Change
+Climatic changes
+compensatory
+Ecology
+Ecosystem
+Environmental Sciences & Ecology
+Eutrophication
+Food Chain
+Gastropoda - physiology
+Herbivory
+inertia
+Kelp - physiology
+Life Sciences & Biomedicine
+Population Dynamics
+Science & Technology
+stressors
+top-down
+Water acidification},
+   ISSN = {1461-023X},
+   DOI = {10.1111/ele.12405},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{Greene2015,
+   author = {Greene, Correigh and Kuehne, Lauren and Rice, Casimir and Fresh, Kurt and Penttila, Daniel},
+   title = {Forty years of change in forage fish and jellyfish abundance across greater Puget Sound, Washington (USA): anthropogenic and climate associations},
+   journal = {Marine ecology. Progress series (Halstenbek)},
+   volume = {525},
+   pages = {153-170},
+   abstract = {Coastal ecosystems face a variety of natural and anthropogenic influences, raising questions about mechanisms by which species abundance and composition change over time. We examined these questions by synthesizing 6 surface-trawling efforts in greater Puget Sound, Washington (USA), spanning 40 yr, and then determining changes in forage fish abundance and composition and jellyfish prevalence. We also assessed whether patterns were associated with potential anthropogenic pressures (human population density and commercial harvest) as well as large-scale climate signals. We found evidence for trends in abundance of all forage species in 4 sub-basins of Puget Sound. Cumulative distribution functions of catch per unit effort indicate that the historically dominant forage fishes (Pacific herring and surf smelt) have declined in surface waters in 2 sub-basins (Central and South Puget Sound) by up to 2 orders of magnitude. However, 2 other species (Pacific sand lance and three-spine stickleback) increased in all 4 sub-basins. Consequently, species composition diverged among sub-basins over the last 40 yr. In addition, jellyfish-dominated catches increased 3- to 9-fold in Central and South Puget Sound, and abundance positively tracked human population density across all basins. The strongest predictors of forage fish declines were human population density and commercial harvest. Climate signals offered additional explanatory power for forage fish but not jellyfish catch. These patterns suggest possible linkages between coastal anthropogenic activities (e.g. development, pollution) and the abundance of forage fish and jellyfish in pelagic waters. Our findings also provide a basis for improving indicators for assessment, monitoring, and spatial planning to rehabilitate pelagic ecosystems.},
+   keywords = {Ecology
+Environmental Sciences & Ecology
+Life Sciences & Biomedicine
+Marine & Freshwater Biology
+Oceanography
+Physical Sciences
+Science & Technology},
+   ISSN = {0171-8630},
+   DOI = {10.3354/meps11251},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{Heithaus2008,
+   author = {Heithaus, Michael R. and Frid, Alejandro and Wirsing, Aaron J. and Worm, Boris},
+   title = {Predicting ecological consequences of marine top predator declines},
+   journal = {Trends in ecology & evolution (Amsterdam)},
+   volume = {23},
+   number = {4},
+   pages = {202-210},
+   abstract = {Recent studies document unprecedented declines in marine top predators that can initiate trophic cascades. Predicting the wider ecological consequences of these declines requires understanding how predators influence communities by inflicting mortality on prey and inducing behavioral modifications (risk effects). Both mechanisms are important in marine communities, and a sole focus on the effects of predator-inflicted mortality might severely underestimate the importance of predators. We outline direct and indirect consequences of marine predator declines and propose an integrated predictive framework that includes risk effects, which appear to be strongest for long-lived prey species and when resources are abundant. We conclude that marine predators should be managed for the maintenance of both density- and risk-driven ecological processes, and not demographic persistence alone.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Animals
+Biodiversity
+Biological and medical sciences
+Conservation of Natural Resources
+Ecology
+Ecosystem
+Environmental aspects
+Environmental Sciences & Ecology
+Evolutionary Biology
+Fishes
+Food Chain
+Fundamental and applied biological sciences. Psychology
+Genetics & Heredity
+Life Sciences & Biomedicine
+Mortality
+Population Dynamics
+Predatory Behavior
+Risk Assessment
+Science & Technology
+Sea water ecosystems
+Seawater
+Sharks
+Shellfish
+Synecology
+Turtles},
+   ISSN = {0169-5347},
+   DOI = {10.1016/j.tree.2008.01.003},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{Hobson1992,
+   author = {Hobson, K. A. and Clark, R. G.},
+   title = {Assessing avian diets using stable isotopes I : Turnover of 13C in tissues},
+   journal = {The Condor (Los Angeles, Calif.)},
+   volume = {94},
+   number = {1},
+   pages = {181-188},
+   keywords = {Fundamental and applied biological sciences. Psychology
+Animal, plant and microbial ecology
+General aspects. Techniques
+Biological and medical sciences
+Methods and techniques (sampling, tagging, trapping, modelling...)},
+   ISSN = {0010-5422},
+   year = {1992},
+   type = {Journal Article}
+}
+
+@article{Howe2015,
+   author = {Howe, Emily R. and Simenstad, Charles A.},
+   title = {Using stable isotopes to discern mechanisms of connectivity in estuarine detritus-based food webs},
+   journal = {Marine ecology. Progress series (Halstenbek)},
+   volume = {518},
+   pages = {13-29},
+   abstract = {In this paper, we focus on 2 mechanisms of cross-boundary food web connectivity in Puget Sound estuaries: passive transport of water-advected organic matter (OM) and active movement of organisms. Both mechanisms serve as potential vectors of food web connectivity, but little research has investigated whether landscape setting changes the dominance of one mechanism over another, or whether the influence of organism movement on food web connectivity can be detected in estuarine systems. We use fish diets, stable isotopes and Bayesian mixing models to identify differences in OM sources assimilated by estuarine fishes, testing whether increased organism mobility or increased fluvial influence results in greater food web connectivity. We compare food web connectivity in 2 different estuaries, one displaying limited freshwater inputs, and the other the terminus of a major river system. Within each estuary, we investigate whether differences in behavioral life history traits correspond to differences in the diets, isotopic signatures and OM assimilation of 2 fish species: bay pipefish , which displays site fidelity to eelgrass beds, and the more transitory juvenile English sole , which moves throughout estuarine deltas during the early demersal growth stage. Our results show water advection plays a dominant role in large-scale OM transport and delivery to adjoining ecosystems in the fluvial estuary, while organism movement provides the more important mechanism of food web connectivity in the estuary exhibiting minor fluvial discharge. However, the 2 mechanisms certainly interact to enhance food web connectivity across estuarine ecotones.},
+   keywords = {Ecology
+Environmental Sciences & Ecology
+Life Sciences & Biomedicine
+Marine & Freshwater Biology
+Oceanography
+Physical Sciences
+Science & Technology},
+   ISSN = {0171-8630},
+   DOI = {10.3354/meps11066},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{Hunter1992,
+   author = {Hunter, Mark D. and Price, Peter W.},
+   title = {Playing Chutes and Ladders: Heterogeneity and the Relative Roles of Bottom-Up and Top-Down Forces in Natural Communities},
+   journal = {Ecology (Durham)},
+   volume = {73},
+   number = {3},
+   pages = {724-732},
+   keywords = {Analysis
+Animal and plant ecology
+Animal, plant and microbial ecology
+Biological and medical sciences
+Biological models
+Biotic communities
+Ecology
+Environmental Sciences & Ecology
+Food chains (Ecology)
+Fundamental and applied biological sciences. Psychology
+General aspects
+Life Sciences & Biomedicine
+Research
+Science & Technology
+Special Feature: Top-Down and Bottom-Up Forces
+Synecology},
+   ISSN = {0012-9658},
+   DOI = {10.2307/1940152},
+   year = {1992},
+   type = {Journal Article}
+}
+
+@article{Iitembu2012,
+   author = {Iitembu, Johannes A. and Miller, Todd W. and Ohmori, Koji and Kanime, Abraham and Wells, Sean},
+   title = {Comparison of ontogenetic trophic shift in two hake species, Merluccius capensis and Merluccius paradoxus, from the Northern Benguela Current ecosystem (Namibia) using stable isotope analysis},
+   journal = {Fisheries oceanography},
+   volume = {21},
+   number = {2-3},
+   pages = {215-225},
+   abstract = {Two species of hake, Merluccius capensis (MC) and Merluccius paradoxus (MP), together account for most of Namibia’s fisheries catch and they are collectively the most important secondary consumers in the Benguela Current ecosystem. To better resolve their feeding behavior in the northern Benguela Current ecosystem, we examined the size‐specific ontogenetic shift in MC and MP using stable isotopes of δ13C and δ15N as measures of relative source production and trophic level. We also compared hake isotope values to those of their major zooplankton (four species) and nekton (12 species/groups) prey. Results from δ15N showed a significant positive relationship with size in both MC and MP; however, the slopes of the two species were significantly different, with MP displaying a steeper trophic shift. A significant increase in δ13C with size was observed in MC but not MP. In all size classes (except ≤20–29 cm) MC expressed significantly higher δ13C values, generally matching their respective shelf‐slope adult distributions. Relative to zooplankton and nekton prey, smaller hake of both species (20–39 cm) were trophically indistinguishable at a trophic level (TL) of 3.3, indicating predominant zooplanktivory. The largest MC of 60–70 cm had TLs of approximately 3.5–3.6, whereas MP of the same size were slightly higher, at 3.7–3.8 TL, indicating greater piscivory. This is the first spatially and ontogenetically extensive stable isotope analysis of MC and MP in the Benguela Current. Further extension of this analysis throughout the hake range would provide considerable insight into the trophic dynamics of this commercially and ecologically important group.},
+   keywords = {Analysis
+Benguela
+Comparative analysis
+Ecosystems
+Fisheries
+hake
+Life Sciences & Biomedicine
+Merluccius capensis
+Merluccius paradoxus
+Namibia
+Oceanography
+ontogenetic shift
+Physical Sciences
+Science & Technology
+stable isotopes
+trophic},
+   ISSN = {1054-6006},
+   DOI = {10.1111/j.1365-2419.2012.00614.x},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{Jeffries2003,
+   author = {Jeffries, S. and Huber, H. and Calambokidis, J. and Laake, J.},
+   title = {Trends and Status of Harbor Seals in Washington State: 1978-1999},
+   journal = {The Journal of wildlife management},
+   volume = {67},
+   number = {1},
+   pages = {207-218},
+   abstract = {In the first half of the 20th century, harbor seal (Phoca vitulina richardsi) numbers were severely reduced in Washington state by a state-financed population control program. Seal numbers began to recover after the cessation of bounties in 1960 and passage of the Marine Mammal Protection Act (MMPA) in 1972. From 1978 to 1999, aerial surveys were flown at midday low tides during pupping season to determine the distribution and abundance of harbor seals in Washington. We used exponential and generalized logistic models to examine population trends and size relative to maximum net productivity level (MNPL) and carrying capacity (K). Observed harbor seal abundance has increased 3-fold since 1978, and estimated abundance has increased 7 to 10-fold since 1970. Under National Marine Fisheries Service (NMFS) management, Washington harbor seals are divided into 2 stocks: coastal and inland waters. The observed population size for 1999 is very close to the predicted K for both stocks. The current management philosophy for marine mammals that assumes a density-dependent response in population growth with MNPL > K/2 is supported by growth of harbor seal stocks in Washington waters.},
+   keywords = {Animal and plant ecology
+Animal populations
+Animal, plant and microbial ecology
+Animals
+Applied ecology
+Aves
+Biological and medical sciences
+Canals
+Conservation, protection and management of environment and wildlife
+Demecology
+Ecology
+Environmental Sciences & Ecology
+Estuaries
+Fundamental and applied biological sciences. Psychology
+Harbor seal
+Harbors
+Life Sciences & Biomedicine
+Logistics
+Marine mammals
+Measurement
+Methods
+Ocean fisheries
+Olympic games
+Parks, reserves, wildlife conservation. Endangered species: population survey and restocking
+Population growth
+Population size
+Research
+Science & Technology
+Seals
+Vertebrata
+Wildlife management
+Zoology},
+   ISSN = {0022-541X},
+   DOI = {10.2307/3803076},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{McMahon2016,
+   author = {Kelton, W. McMahon and Matthew, D. McCarthy},
+   title = {Embracing variability in amino acid δ15N fractionation: mechanisms, implications, and applications for trophic ecology},
+   journal = {Ecosphere (Washington, D.C)},
+   volume = {7},
+   number = {12},
+   pages = {n/a},
+   abstract = {Abstract Compound‐specific stable isotope analysis (CSIA) of individual amino acids (AAs) has become a powerful analytical tool in trophic ecology. Heavily fractionating “trophic” AAs (e.g., glutamic acid: Glu) provide a robust indicator of trophic transfer, while minimally fractionating “source” AAs (e.g., phenylalanine: Phe) closely reflect the δ15N value at the base of the food web (δ15Nbaseline). Together, the CSIA‐AA approach provides an unprecedented ability to disentangle the influences of δ15Nbaseline values and trophic fractionation on consumer nitrogen isotope values. Perhaps the most important assumption underlying CSIA‐AA applications to trophic ecology is that trophic fractionation of Glu and Phe, and thus the trophic discrimination factor TDFGlu‐ Phe (Δ15NGlu − Δ15NPhe), is effectively constant across diverse consumer–resource relationships. To test this assumption, we conducted a comprehensive meta‐analysis of controlled feeding experiments that examined individual AA trophic fractionation (Δ15NC‐D) and resulting TDFGlu‐ Phe values. We found tremendous variability in TDFGlu‐ Phe values from 0‰ to >10‰ across 70 species (317 individuals) and 88 distinct consumer–diet combinations. However, this variability appears to follow predictable patterns driven by two dominant variables: diet quality and mode of nitrogen excretion. Consumers feeding on high‐quality diets (small diet–consumer AA imbalances) tend to have significantly lower TDFGlu‐ Phe values than consumers feeding on low‐quality diets. Similarly, urea/uric acid‐producing consumers also exhibit significantly lower TDFGlu‐ Phe values than their ammonia‐producing counterparts. While these patterns are certainly not universal, together these factors likely explain many of the observed patterns of TDFGlu‐ Phe variability. We provide an overview of the biochemical and physiological mechanisms underpinning AA Δ15NC‐D to explain these patterns. There are several seemingly unique systems, including the remarkably consistent TDFGlu‐ Phe values across insect food webs and the isotopically “invisible” trophic transfers in microbial food webs, that may provide additional insight into the influence of diet quality and nitrogen cycling on AA fractionation. In this review, we argue that to realize the full potential of CSIA‐AA approaches in trophic ecology, we must embrace the variability in TDFGlu‐ Phe values. This likely requires developing new models of trophic transfer dynamics for some applications, including multi‐TDFGlu‐ Phe equations that directly incorporate variability in TDFGlu‐ Phe value.},
+   keywords = {amino acid
+compound‐specific stable isotope analysis
+diet quality
+food web
+fractionation
+nitrogen isotope},
+   DOI = {10.1002/ecs2.1511},
+   year = {2016},
+   type = {Journal Article}
+}
+
+
+@article{Kordas2011,
+   author = {Kordas, Rebecca L. and Harley, Christopher D. G. and O'Connor, Mary I.},
+   title = {Community ecology in a warming world: The influence of temperature on interspecific interactions in marine systems},
+   journal = {Journal of experimental marine biology and ecology},
+   volume = {400},
+   number = {1},
+   pages = {218-226},
+   abstract = {Ecological patterns are determined by the interplay between abiotic factors and interactions among species. As the Earth's climate warms, interactions such as competition, predation, and mutualism are changing due to shifts in per capita interaction strength and the relative abundance of interacting species. Changes in interspecific relationships, in turn, can drive important local-scale changes in community dynamics, biodiversity, and ecosystem functioning, and can potentially alter large-scale patterns of distribution and abundance. In many cases, the importance of indirect effects of warming, mediated by changing species interactions, will be greater—albeit less well understood—than direct effects in determining the community- and ecosystem-level outcomes of global climate change. Despite considerable community-specific idiosyncrasy, ecological theory and a growing body of data suggest that certain general trends are emerging at local scales: positive interactions tend to become more prevalent with warming, and top trophic levels are disproportionately vulnerable. In addition, important ecological changes result when the geographic overlap between species changes, and when the seasonal timing of life history events of interacting species falls into or out of synchrony. We assess the degree to which such changes are predictable, and urge advancement on several high priority questions surrounding the relationships between temperature and community ecology. An improved understanding of how assemblages of multiple, interacting species will respond to climate change is imperative if we hope to effectively prepare for and adapt to its effects. ► Temperature affects processes ranging from metabolic rate to population growth rate. ► Species-specific responses to warming generate changes in interactions among species. ► Larger-scale changes include shifts in species ranges and phenological overlap. ► Synthesis of thermal and interspecific effects informs climate change ecology.},
+   keywords = {Climate Change Ecology
+Community Ecology
+Ecosystems
+Global temperature changes
+Metabolic Ecology
+Species interaction
+Temperature},
+   ISSN = {0022-0981},
+   DOI = {10.1016/j.jembe.2011.02.029},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{Kratina2012,
+   author = {Kratina, Pavel and Greig, Hamish S. and Thompson, Patrick L. and Carvalho-Pereira, Ticiana S. A. and Shurin, Jonathan B.},
+   title = {Warming modifies trophic cascades and eutrophication in experimental freshwater communities},
+   journal = {Ecology (Durham)},
+   volume = {93},
+   number = {6},
+   pages = {1421-1430},
+   note = {Corresponding Editor: S. P. Lawler.},
+   abstract = {Climate warming is occurring in concert with other anthropogenic changes to ecosystems. However, it is unknown whether and how warming alters the importance of top-down vs. bottom-up control over community productivity and variability. We performed a 16-month factorial experimental manipulation of warming, nutrient enrichment, and predator presence in replicated freshwater pond mesocosms to test their independent and interactive impacts. Warming strengthened trophic cascades from fish to primary producers, and it decreased the impact of eutrophication on the mean and temporal variation of phytoplankton biomass. These impacts varied seasonally, with higher temperatures leading to stronger trophic cascades in winter and weaker algae blooms under eutrophication in summer. Our results suggest that higher temperatures may shift the control of primary production in freshwater ponds toward stronger top-down and weaker bottom-up effects. The dampened temporal variability of algal biomass under eutrophication at higher temperatures suggests that warming may stabilize some ecosystem processes.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Animals
+Biological and medical sciences
+Biomass
+climate warming
+Climatology. Bioclimatology. Climate change
+Communities
+community structure
+Earth, ocean, space
+Ecology
+Ecosystem
+Environmental Sciences & Ecology
+Eutrophication
+Exact sciences and technology
+External geophysics
+Food Chain
+Food chains (Ecology)
+food webs
+Fresh Water
+Freshwater ecology
+Fundamental and applied biological sciences. Psychology
+General aspects
+Global Warming
+Habitat (Ecology)
+indirect and direct temperature effects
+Life Sciences & Biomedicine
+Marine ecology
+metabolic rates
+Meteorology
+Modification
+Phytoplankton
+Plankton - cytology
+Plankton - physiology
+press perturbations
+productivity
+Research
+Science & Technology
+Smegmamorpha - physiology
+Synecology
+temporal variability
+Time Factors
+trophic interactions
+Trophic relationships
+Zooplankton},
+   ISSN = {0012-9658},
+   DOI = {10.1890/11-1595.1},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{Lance2012,
+   author = {Lance, Monique M. and Chang, Wan-Ying and Jeffries, Steven J. and Pearson, Scott F. and Acevedo-Gutierrez, Alejandro},
+   title = {Harbor seal diet in northern Puget Sound: implications for the recovery of depressed fish stocks},
+   journal = {Marine ecology. Progress series (Halstenbek)},
+   volume = {464},
+   pages = {257-271},
+   abstract = {Recovery of severely declining resource stocks often leads to enforced quotas or reduced human access to those resources. Predators, however, do not recognize such restrictions and may be attracted to areas of increased prey abundances where human extraction is being limited. Such targeting by predators may reduce or retard the potential recovery of depressed stocks. In the San Juan Islands, northern Puget Sound, USA, marine reserves were implemented to recover depressed fish populations. We examine the role of harbor seals in the San Juan Islands food web. We describe the temporal and spatial variability in their diet, emphasizing species for which reserves were established (rockfish spp.) and other important depressed stocks, including salmon spp. and Pacific herring . During winter and spring, seals primarily consumed Pacific herring, Pacific sand lance , northern anchovy , and walleye pollock . During summer/fall, adult salmonids composed >50% of the diet and were particularly important in odd-numbered calendar years, when pink salmon spawn. Rockfish were not a primary prey species at any time of the year, suggesting that the abundance of alternative prey species may reduce predation pressure and provide a critical buffer to rockfish predation. The importance of considering increased visitation by marine predators to areas where potential prey are enhanced through restrictions on human extractions should be considered when modeling the efficacy of quotas and reduced access areas, such as marine reserves.},
+   keywords = {Diet
+Ecology
+Environmental Sciences & Ecology
+Herring
+Life Sciences & Biomedicine
+Marine & Freshwater Biology
+Marine fishes
+Oceanography
+Otolith organs
+Physical Sciences
+Predation
+Predators
+Rockfish
+Salmon
+Science & Technology
+Seals
+Seasons},
+   ISSN = {0171-8630},
+   DOI = {10.3354/meps09880},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{Magera2013,
+   author = {Magera, Anna M. and Flemming, Joanna E. Mills and Kaschner, Kristin and Christensen, Line B. and Lotze, Heike K.},
+   title = {Recovery Trends in Marine Mammal Populations},
+   journal = {PloS one},
+   volume = {8},
+   number = {10},
+   pages = {e77908-e77908},
+   note = {Competing Interests: AMM currently works as a Fisheries Management Biologist with the Nunavut Wildlife Management Board. All other authors have declared that no competing interests exist. This does not alter the authors' adherence to all the PLOS ONE policies on sharing data and materials.
+Conceived and designed the experiments: AMM JMF HKL. Analyzed the data: AMM JMF HKL. Contributed reagents/materials/analysis tools: AMM KK LBC. Wrote the paper: AMM JMF KK LBC HKL.},
+   abstract = {Marine mammals have greatly benefitted from a shift from resource exploitation towards conservation. Often lauded as symbols of conservation success, some marine mammal populations have shown remarkable recoveries after severe depletions. Others have remained at low abundance levels, continued to decline, or become extinct or extirpated. Here we provide a quantitative assessment of (1) publicly available population-level abundance data for marine mammals worldwide, (2) abundance trends and recovery status, and (3) historic population decline and recent recovery. We compiled 182 population abundance time series for 47 species and identified major data gaps. In order to compare across the largest possible set of time series with varying data quality, quantity and frequency, we considered an increase in population abundance as evidence of recovery. Using robust log-linear regression over three generations, we were able to classify abundance trends for 92 spatially non-overlapping populations as Significantly Increasing (42%), Significantly Decreasing (10%), Non-Significant Change (28%) and Unknown (20%). Our results were comparable to IUCN classifications for equivalent species. Among different groupings, pinnipeds and other marine mammals (sirenians, polar bears and otters) showed the highest proportion of recovering populations, likely benefiting from relatively fast life histories and nearshore habitats that provided visibility and protective management measures. Recovery was less frequent among cetaceans, but more common in coastal than offshore populations. For marine mammals with available historical abundance estimates (n = 47), larger historical population declines were associated with low or variable recent recoveries so far. Overall, our results show that many formerly depleted marine mammal populations are recovering. However, data-deficient populations and those with decreasing and non-significant trends require attention. In particular, increased study of populations with major data gaps, including offshore small cetaceans, cryptic species, and marine mammals in low latitudes and developing nations, is needed to better understand the status of marine mammal populations worldwide.},
+   keywords = {Abundance
+Animal behavior
+Animals
+Cetacea
+Conservation
+Conservation of Energy Resources - trends
+Cryptic species
+Data recovery
+Developing countries
+Endangered & extinct species
+Exploitation
+Information management
+LDCs
+Mammals - growth & development
+Marine Biology
+Marine mammals
+Multidisciplinary Sciences
+Otters
+Polar bears
+Population decline
+Population Dynamics
+Population studies
+Populations
+Protection and preservation
+Resource conservation
+Resource exploitation
+Robustness (mathematics)
+Science & Technology
+Science & Technology - Other Topics
+Species
+Species classification
+Time series
+Trends
+Visibility
+Wildlife conservation},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0077908},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{Mantua2002,
+   author = {Mantua, Nathan J. and Hare, Steven R.},
+   title = {The Pacific Decadal Oscillation},
+   journal = {Journal of oceanography},
+   volume = {58},
+   number = {1},
+   pages = {35-44},
+   abstract = {The Pacific Decadal Oscillation (PDO) has been described by some as a long-lived El Niño-like pattern of Pacific climate variability, and by others as a blend of two sometimes independent modes having distinct spatial and temporal characteristics of North Pacific sea surface temperature (SST) variability. A growing body of evidence highlights a strong tendency for PDO impacts in the Southern Hemisphere, with important surface climate anomalies over the mid-latitude South Pacific Ocean, Australia and South America. Several independent studies find evidence for just two full PDO cycles in the past century: “cool” PDO regimes prevailed from 1890–1924 and again from 1947–1976, while “warm” PDO regimes dominated from 1925–1946 and from 1977 through (at least) the mid-1990's. Interdecadal changes in Pacific climate have widespread impacts on natural systems, including water resources in the Americas and many marine fisheries in the North Pacific. Tree-ring and Pacific coral based climate reconstructions suggest that PDO variations—at a range of varying time scales—can be traced back to at least 1600, although there are important differences between different proxy reconstructions. While 20th Century PDO fluctuations were most energetic in two general periodicities—one from 15-to-25 years, and the other from 50-to-70 years—the mechanisms causing PDO variability remain unclear. To date, there is little in the way of observational evidence to support a mid-latitude coupled air-sea interaction for PDO, though there are several well-understood mechanisms that promote multi-year persistence in North Pacific upper ocean temperature anomalies.},
+   keywords = {climate impacts
+fishery oceanography
+Geosciences
+Hydrobiology
+IPO
+Meteorology
+Natural history
+NPO
+Ocean temperature
+Ocean-atmosphere interaction
+Oceanographic research
+Oceanography
+PDO
+Physical Sciences
+Regime shift
+Science & Technology},
+   ISSN = {0916-8370},
+   DOI = {10.1023/A:1015820616384},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{Marshall2016,
+   author = {Marshall, Kristin N. and Stier, Adrian C. and Samhouri, Jameal F. and Kelly, Ryan P. and Ward, Eric J.},
+   title = {Conservation Challenges of Predator Recovery},
+   journal = {Conservation letters},
+   volume = {9},
+   number = {1},
+   pages = {70-78},
+   abstract = {Predators are critical components of ecosystems. Globally, conservation efforts have targeted depleted populations of top predators for legal protection, and in many cases, this protection has helped their recoveries. Where the recovery of individual species is the goal, these efforts can be seen as largely successful. From an ecosystem perspective, however, predator recovery can introduce significant new conservation and legal challenges. We highlight three types of conflicts created by a single‐species focus: (1) recovering predator populations that increase competition with humans for the same prey, (2) new tradeoffs that emerge when protected predators consume protected prey, and (3) multiple predator populations that compete for the same limited prey. We use two food webs with parallel conservation challenges, the Northeast Pacific Ocean and the Greater Yellowstone Ecosystem, to demonstrate legal/policy conflicts and the policy levers that exist to ameliorate conflicts. In some cases, scientific uncertainty about the ecological interaction hinders progress towards resolving conflicts. In others, available policy options are insufficient. In all cases, management decisions must be made in the face of an unknown future. We suggest a framework that incorporates multispecies science, policy tools, and tradeoff analyses into management.},
+   keywords = {Biodiversity & Conservation
+competition
+elk
+Endangered species,environmental policy
+grizzly bears
+killer whales
+Life Sciences & Biomedicine
+management
+pinnipeds
+predation
+salmon
+Science & Technology
+wolves
+Yellowstone},
+   ISSN = {1755-263X},
+   DOI = {10.1111/conl.12186},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{McCary2021,
+   author = {McCary, Matthew A. and Phillips, Joseph S. and Ramiadantsoa, Tanjona and Nell, Lucas A. and McCormick, Amanda R. and Botsch, Jamieson C.},
+   title = {Transient top‐down and bottom‐up effects of resources pulsed to multiple trophic levels},
+   journal = {Ecology (Durham)},
+   volume = {102},
+   number = {1},
+   pages = {e03197-n/a},
+   note = {Corresponding Editor: Evan L. Preisser.},
+   abstract = {Pulsed fluxes of organisms across ecosystem boundaries can exert top‐down and bottom‐up effects in recipient food webs, through both direct effects on the subsidized trophic levels and indirect effects on other components of the system. While previous theoretical and empirical studies demonstrate the influence of allochthonous subsidies on bottom‐up and top‐down processes, understanding how these forces act in conjunction is still limited, particularly when an allochthonous resource can simultaneously subsidize multiple trophic levels. Using the Lake Mývatn region in Iceland as an example system of allochthony and its potential effects on multiple trophic levels, we analyzed a mathematical model to evaluate how pulsed subsidies of aquatic insects affect the dynamics of a soil–plant–arthropod food web. We found that the relative balance of top‐down and bottom‐up effects on a given food web compartment was determined by trophic position, subsidy magnitude, and top predators’ ability to exploit the subsidy. For intermediate trophic levels (e.g., detritivores and herbivores), we found that the subsidy could either alleviate or intensify top‐down pressure from the predator. For some parameter combinations, alleviation and intensification occurred sequentially during and after the resource pulse. The total effect of the subsidy on detritivores and herbivores, including top‐down and bottom‐up processes, was determined by the rate at which predator consumption saturated with increasing size of the allochthonous subsidy, with greater saturation leading to increased bottom‐up effects. Our findings illustrate how resource pulses to multiple trophic levels can influence food web dynamics by changing the relative strength of bottom‐up and top‐down effects, with bottom‐up predominating top‐down effects in most scenarios in this subarctic system.},
+   keywords = {allochthonous inputs
+Animals
+bottom‐up
+Ecosystem
+Food Chain
+food webs
+Herbivory
+Iceland
+Insecta
+resource pulses
+subsidy
+top‐down},
+   ISSN = {0012-9658},
+   DOI = {10.1002/ecy.3197},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{McMahon2015,
+   author = {McMahon, Kelton W. and McCarthy, Matthew D. and Sherwood, Owen A. and Larsen, Thomas and Guilderson, Thomas P.},
+   title = {Millennial-scale plankton regime shifts in the subtropical North Pacific Ocean},
+   journal = {Science (American Association for the Advancement of Science)},
+   volume = {350},
+   number = {6267},
+   pages = {1530-1533},
+   note = {AC52-07NA27344
+USDOE},
+   abstract = {Climate change is predicted to alter marine phytoplankton communities and affect productivity, biogeochemistry, and the efficacy of the biological pump. We reconstructed high-resolution records of changing plankton community composition in the North Pacific Ocean over the past millennium. Amino acid–specific δ¹³C records preserved in long-lived deep-sea corals revealed three major plankton regimes corresponding to Northern Hemisphere climate periods. Non–dinitrogen-fixing cyanobacteria dominated during the Medieval Climate Anomaly (950–1250 Common Era) before giving way to a new regime in which eukaryotic microalgae contributed nearly half of all export production during the Little Ice Age (~1400–1850 Common Era). The third regime, unprecedented in the past millennium, began in the industrial era and is characterized by increasing production by dinitrogen-fixing cyanobacteria. This picoplankton community shift may provide a negative feedback to rising atmospheric carbon dioxide concentrations.},
+   keywords = {Amino Acids - chemistry
+Animals
+Anthozoa - chemistry
+Anthozoa - metabolism
+Atmosphere - chemistry
+Biogeochemical cycles
+Carbon - metabolism
+Carbon Cycle
+Carbon Dioxide - analysis
+Carbon Dioxide - metabolism
+Carbon Isotopes - analysis
+Climate Change
+Climatic changes
+Cyanobacteria - chemistry
+Cyanobacteria - classification
+Cyanobacteria - metabolism
+Environmental aspects
+Microalgae - classification
+Microalgae - metabolism
+Multidisciplinary Sciences
+Observations
+Pacific Ocean
+Plankton
+REPORTS
+Science & Technology
+Science & Technology - Other Topics
+Seawater},
+   ISSN = {0036-8075},
+   DOI = {10.1126/science.aaa9942},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{McMahon2019,
+   author = {McMahon, Kelton W. and Michelson, Chantel I. and Hart, Tom and McCarthy, Matthew D. and Patterson, William P. and Polito, Michael J.},
+   title = {Divergent trophic responses of sympatric penguin species to historic anthropogenic exploitation and recent climate change},
+   journal = {Proceedings of the National Academy of Sciences - PNAS},
+   volume = {116},
+   number = {51},
+   pages = {25721-25727},
+   note = {1K.W.M. and M.J.P. contributed equally to this work.
+Edited by Nils C. Stenseth, University of Oslo, Oslo, Norway, and approved November 4, 2019 (received for review July 30, 2019)
+Author contributions: K.W.M., T.H., and M.J.P. designed research; K.W.M., T.H., M.D.M., and M.J.P. performed research; K.W.M., C.I.M., W.P.P., and M.J.P. analyzed data; and K.W.M. and M.J.P. wrote the paper.},
+   abstract = {The Southern Ocean is in an era of significant change. Historic overharvesting of marine mammals and recent climatic warming have cascading impacts on resource availability and, in turn, ecosystem structure and function. We examined trophic responses of sympatric chinstrap ( ) and gentoo ( ) penguins to nearly 100 y of shared environmental change in the Antarctic Peninsula region using compound-specific stable isotope analyses of museum specimens. A century ago, gentoo penguins fed almost exclusively on low-trophic level prey, such as krill, during the peak of historic overexploitation of marine mammals, which was hypothesized to have resulted in a krill surplus. In the last 40 y, gentoo penguin trophic position has increased a full level as krill declined in response to recent climate change, increased competition from recovering marine mammal populations, and the development of a commercial krill fishery. A shifting isotopic baseline supporting gentoo penguins suggests a concurrent increase in coastal productivity over this time. In contrast, chinstrap penguins exhibited no change in trophic position, despite variation in krill availability over the past century. The specialized foraging niche of chinstrap penguins likely renders them more sensitive to changes in krill availability, relative to gentoo penguins, as evinced by their declining population trends in the Antarctic Peninsula over the past 40 y. Over the next century, similarly divergent trophic and population responses are likely to occur among Antarctic krill predators if climate change and other anthropogenic impacts continue to favor generalist over specialist species.},
+   keywords = {Antarctic Regions
+Nitrogen Isotopes - analysis
+Animals
+Euphausiacea
+Climate Change
+Feathers - chemistry
+Sympatry - physiology
+Spheniscidae - physiology
+Feeding Behavior - physiology
+Ecosystem components
+Global temperature changes
+Wildlife conservation
+Penguins
+Index Medicus
+historical ecology
+Biological Sciences
+ecogeochemistry
+Antarctica
+environmental change
+krill surplus},
+   ISSN = {0027-8424},
+   DOI = {10.1073/pnas.1913093116},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{McMahon2015b,
+   author = {McMahon, Kelton W. and Thorrold, Simon R. and Elsdon, Travis S. and McCarthy, Matthew D.},
+   title = {Trophic discrimination of nitrogen stable isotopes in amino acids varies with diet quality in a marine fish: Trophic discrimination of amino acids},
+   journal = {Limnology and oceanography},
+   volume = {60},
+   number = {3},
+   pages = {1076-1087},
+   ISSN = {0024-3590},
+   DOI = {10.1002/lno.10081},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{Moore2018,
+   author = {Moore, J. Keith and Fu, Weiwei and Primeau, Francois and Britten, Gregory L. and Lindsay, Keith and Long, Matthew and Doney, Scott C. and Mahowald, Natalie and Hoffman, Forrest and Randerson, James T.},
+   title = {Sustained climate warming drives declining marine biological productivity},
+   journal = {Science (American Association for the Advancement of Science)},
+   volume = {359},
+   number = {6380},
+   pages = {1139-1142},
+   note = {USDOE Office of Science (SC), Biological and Environmental Research (BER) (SC-23)
+AC05-00OR22725},
+   abstract = {Climate change projections to the year 2100 may miss physical-biogeochemical feedbacks that emerge later from the cumulative effects of climate warming. In a coupled climate simulation to the year 2300, the westerly winds strengthen and shift poleward, surface waters warm, and sea ice disappears, leading to intense nutrient trapping in the Southern Ocean. The trapping drives a global-scale nutrient redistribution, with net transfer to the deep ocean. Ensuing surface nutrient reductions north of 30 degrees S drive steady declines in primary production and carbon export (decreases of 24 and 41%, respectively, by 2300). Potential fishery yields, constrained by lower-trophic-level productivity, decrease by more than 20% globally and by nearly 60% in the North Atlantic. Continued high levels of greenhouse gas emissions could suppress marine biological productivity for a millennium.},
+   keywords = {Animals
+Carbon Cycle
+Climate Change
+Environmental aspects
+ENVIRONMENTAL SCIENCES
+Fisheries
+Forecasts and trends
+Global warming
+Hot Temperature
+Ice Cover
+Marine productivity
+Multidisciplinary Sciences
+Oceans and Seas
+Science & Technology
+Science & Technology - Other Topics
+Wind},
+   ISSN = {0036-8075},
+   DOI = {10.1126/science.aao6379},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{Nelson2019,
+   author = {Nelson, Benjamin W. and Walters, Carl J. and Trites, Andrew W. and McAllister, Murdoch K.},
+   title = {Wild Chinook salmon productivity is negatively related to seal density and not related to hatchery releases in the Pacific Northwest},
+   journal = {Canadian journal of fisheries and aquatic sciences},
+   volume = {76},
+   number = {3},
+   pages = {447-462},
+   abstract = {Predation risk and competition among conspecifics significantly affect survival of juvenile salmon, but are rarely incorporated into models that predict recruitment in salmon populations. Using densities of harbour seals (Phoca vitulina) and numbers of hatchery-released Chinook salmon (Oncorhynchus tshawytscha) smolts as covariates in spatially structured Bayesian hierarchical stock–recruitment models, we found significant negative correlations between seal densities and productivity of Chinook salmon for 14 of 20 wild Chinook populations in the Pacific Northwest. Changes in numbers of seals since the 1970s were associated with a 74% decrease (95% CI: −85%, −64%) in maximum sustainable yield in Chinook stocks. In contrast, hatchery releases were significantly correlated with Chinook productivity in only one of 20 populations. Our findings are consistent with recent research on predator diets and bioenergetics modeling that suggest there is a relationship between harbour seal predation on juvenile Chinook and reduced marine survival in parts of the eastern Pacific. Forecasting, assessment, and recovery efforts for salmon populations of high conservation concern should thus consider including biotic factors, particularly predator–prey interactions.},
+   keywords = {Analysis
+Animal behavior
+Bayesian analysis
+Bioenergetics
+Biotic factors
+Chinook salmon
+Conservation
+Conspecifics
+Distribution
+Ecosystem components
+Fish conservation
+Fish hatcheries
+Fish populations
+Fishes
+Growth
+Harbors
+Juveniles
+Mathematical models
+Models
+Populations
+Predation
+Predator-prey interactions
+Prey
+Productivity
+Protection and preservation
+Recruitment
+Salmon
+Seals
+Structural hierarchy
+Survival
+Sustainable yield},
+   ISSN = {0706-652X},
+   DOI = {10.1139/cjfas-2017-0481},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{Newsome2006,
+   author = {Newsome, Seth D. and Koch, Paul L. and Etnier, Mike A. and Aurioles-Gamboa, David},
+   title = {USING CARBON AND NITROGEN ISOTOPE VALUES TO INVESTIGATE MATERNAL STRATEGIES IN NORTHEAST PACIFIC OTARIIDS},
+   journal = {Marine mammal science},
+   volume = {22},
+   number = {3},
+   pages = {556-572},
+   abstract = {We examine the utility of stable carbon and nitrogen isotope variations to characterize the length of the nursing/lactation period and age at weaning for two northern Pacific otariid species, the northern fur seal (Callorhinus ursinus) and California sea lion (Zalophus californianus). We used two sampling strategies to measure ontogenetic trends in isotope value, and compared our results to observational data on the reproductive strategies used by these otariids. For Zalophus, we found evidence for 15N enrichment and 13C‐depletion in bone collagen representing the first and second year of growth, which is consistent with the ∼12–14‐mo weaning age in this population after a suitable turnover rate for bone collagen is considered. Analysis of individual tooth annuli from a different suite of Zalophus specimens suggests that half of the individuals were weaned at ∼12 mo of age, and half were dependent on milk for a portion of their second year. For Callorhinus, bone collagen for age classes that contain pre‐weaned individuals were 15N‐enriched, but values were significantly lower in specimens between 6 and 20 mo of age. These 15N‐enriched values, presumably acquired during nursing between 0 and 4 mo of age in Callorhinus, were not present in specimens older than 12 mo of age. Thus complete bone collagen turnover in young‐of‐the‐year occurs in 8–10 mo. 15N enrichment is evident in the first annulus of female Callorhinus individuals, but is not detectable in males. Analyses of Callorhinus tooth annuli show no ontogenetic trends in δ13C values. Our study indicates that nitrogen, and in some cases carbon, isotopes can be used to assess reproductive strategies in marine mammals. When coupled with accurate age estimates based on bone growth regressions, this isotopic technique can be applied to historical or fossil otariids to gain insight into the flexibility of maternal strategies within and across species.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Animals
+Autoecology
+Biological and medical sciences
+California sea lions
+Callorhinus ursinus
+Fundamental and applied biological sciences. Psychology
+Life Sciences & Biomedicine
+Mammalia
+Marine & Freshwater Biology
+maternal strategy
+northern fur seals
+nursing behavior
+otariids
+Science & Technology
+stable isotopes
+Vertebrata
+Vertebrates: general zoology, morphology, phylogeny, systematics, cytogenetics, geographical distribution
+Zalophus californianus
+Zoology},
+   ISSN = {0824-0469},
+   DOI = {10.1111/j.1748-7692.2006.00043.x},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{Nielsen2015,
+   author = {Nielsen, Jens M. and Popp, Brian N. and Winder, Monika},
+   title = {Meta-analysis of amino acid stable nitrogen isotope ratios for estimating trophic position in marine organisms},
+   journal = {Oecologia},
+   volume = {178},
+   number = {3},
+   pages = {631-642},
+   abstract = {Estimating trophic structures is a common approach used to retrieve information regarding energy pathways, predation, and competition in complex ecosystems. The application of amino acid (AA) compoundspecific nitrogen (N) isotope analysis (CSIA) is a relatively new method used to estimate trophic position (TP) and feeding relationships in diverse organisms. Here, we conducted the first meta-analysis of δ¹⁵N AA values from measurements of 359 marine species covering four trophic levels, and compared TP estimates from AA-CSIA to literature values derived from food items, gut or stomach content analysis. We tested whether the AA trophic enrichment factor (TEF), or the ¹⁵N enrichment among different individual AAs is constant across trophic levels and whether inclusion of δ¹⁵N values from multiple AAs improves TP estimation. For the TEF of glutamic acid relative to phenylalanine (Phe) we found an average value of 6.6 % c across all taxa, which is significantly lower than the commonly applied 7.6 ‰. We found that organism feeding ecology influences TEF values of several trophic AAs relative to Phe, with significantly higher TEF values for herbivores compared to omnivores and carnivores, while TEF values were also significantly lower for animals excreting urea compared to ammonium. Based on the comparison of multiple model structures using the metadata of δ¹⁵N AA values we show that increasing the number of AAs in principle improves precision in TP estimation. This meta-analysis clarifies the advantages and limitations of using individual δ¹⁵N AA values as tools in trophic ecology and provides a guideline for the future application of AA-CSIA to food web studies.},
+   keywords = {HIGHLIGHTED STUDENT RESEARCH
+Life Sciences
+Hydrology/Water Resources
+Trophic enrichment factor
+Ecology
+Food webs
+Trophic ecology
+Plant Sciences
+Compounds-specific isotope analysis
+Amino Acids - metabolism
+Food Chain
+Nitrogen Isotopes - analysis
+Predatory Behavior
+Animals
+Gastrointestinal Contents - chemistry
+Nitrogen - analysis
+Ecosystem
+Amino Acids - analysis
+Aquatic Organisms - metabolism
+Phenylalanine
+Ecosystems
+Analysis
+Biological Sciences
+Naturvetenskap
+Biologiska vetenskaper
+marin ekologi
+Natural Sciences
+Marine Ecology},
+   ISSN = {0029-8549
+1432-1939},
+   DOI = {10.1007/s00442-015-3305-7},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{Ohlberger2019,
+   author = {Ohlberger, Jan and Schindler, Daniel E. and Ward, Eric J. and Walsworth, Timothy E. and Essington, Timothy E.},
+   title = {Resurgence of an apex marine predator and the decline in prey body size},
+   journal = {Proceedings of the National Academy of Sciences - PNAS},
+   volume = {116},
+   number = {52},
+   pages = {26682-26689},
+   note = {Edited by James A. Estes, University of California, Santa Cruz, CA, and approved November 13, 2019 (received for review June 25, 2019)
+Author contributions: J.O., D.E.S., E.J.W., T.E.W., and T.E.E. designed research; J.O. performed research; J.O. analyzed data; and J.O., D.E.S., E.J.W., T.E.W., and T.E.E. wrote the paper.},
+   abstract = {In light of recent recoveries of marine mammal populations worldwide and heightened concern about their impacts on marine food webs and global fisheries, it has become increasingly important to understand the potential impacts of large marine mammal predators on prey populations and their life-history traits. In coastal waters of the northeast Pacific Ocean, marine mammals have increased in abundance over the past 40 to 50 y, including fish-eating killer whales that feed primarily on Chinook salmon. Chinook salmon, a species of high cultural and economic value, have exhibited marked declines in average size and age throughout most of their North American range. This raises the question of whether size-selective predation by marine mammals is generating these trends in life-history characteristics. Here we show that increased predation since the 1970s, but not fishery selection alone, can explain the changes in age and size structure observed for Chinook salmon populations along the west coast of North America. Simulations suggest that the decline in mean size results from the selective removal of large fish and an evolutionary shift toward faster growth and earlier maturation caused by selection. Our conclusion that intensifying predation by fish-eating killer whales contributes to the continuing decline in Chinook salmon body size points to conflicting management and conservation objectives for these two iconic species.},
+   keywords = {age and size structure
+Biological Sciences
+evolutionary change
+fisheries
+life-history traits
+PNAS Plus
+predation},
+   ISSN = {0027-8424},
+   DOI = {10.1073/pnas.1910930116},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{Paine1998,
+   author = {Paine, Robert T. and Tegner, Mia J. and Johnson, Edward A.},
+   title = {Compounded Perturbations Yield Ecological Surprises},
+   journal = {Ecosystems (New York)},
+   volume = {1},
+   number = {6},
+   pages = {535-545},
+   abstract = {All species have evolved in the presence of disturbance, and thus are in a sense matched to the recurrence pattern of the perturbations. Consequently, disturbances within the typical range, even at the extreme of that range as defined by large, infrequent disturbances (LIDs), usually result in little long-term change to the system's fundamental character. We argue that more serious ecological consequences result from compounded perturbations within the normative recovery time of the community in question. We consider both physically based disturbance (for example, storm, volcanic eruption, and forest fire) and biologically based disturbance of populations, such as overharvesting, invasion, and disease, and their interactions. Dispersal capability and measures of generation time or age to first reproduction of the species of interest seem to be the important metrics for scaling the size and frequency of disturbances among different types of ecosystems. We develop six scenarios that describe communities that have been subjected to multiple perturbations, either simultaneously or at a rate faster than the rate of recovery, and appear to have entered new domains or "ecological surprises." In some cases, three or more disturbances seem to have been required to initiate the changed state. We argue that in a world of ever-more-pervasive anthropogenic impacts on natural communities coupled with the increasing certainty of global change, compounded perturbations and ecological surprises will become more common. Understanding these ecological synergisms will be basic to environmental management decisions of the 21st century.},
+   keywords = {altered community states
+Boreal forests
+Climate change
+Coral reefs
+dispersal
+Ecological disturbance
+Ecology
+Ecosystems
+Environmental Sciences & Ecology
+Hypoxia
+Large, Infrequent Disturbances
+Life Sciences & Biomedicine
+Marine ecology
+Marine ecosystems
+multiple disturbances
+recovery intervals
+scaling disturbances
+Science & Technology
+Synecology},
+   ISSN = {1432-9840},
+   DOI = {10.1007/s100219900049},
+   year = {1998},
+   type = {Journal Article}
+}
+
+@misc{Popp2007,
+   author = {Popp, Brian N. and Graham, Brittany S. and Olson, Robert J. and Hannides, Cecelia C. S. and Lott, Michael J. and López‐Ibarra, Gladis A. and Galván‐Magaña, Felipe and Fry, Brian},
+   title = {Insight into the Trophic Ecology of Yellowfin Tuna, Thunnus albacares, from Compound‐Specific Nitrogen Isotope Analysis of Proteinaceous Amino Acids},
+   publisher = {Elsevier Science & Technology},
+   volume = {1},
+   pages = {173-190},
+   abstract = {This chapter tests the premise that a single sample from an upper trophic level pelagic predator fish could provide information on both the trophic level of the fish and the δ15N value at the base of the food web. This chapter analyzes the nitrogen isotopic composition of individual amino acids in white muscle tissue (WMT) of yellowfin tuna (Thunnus albacares) from the eastern tropical Pacific (ETP) to determine if the observed variations in the δ15N values of WMT are primarily controlled by the nitrogen isotopic composition at the base of the food web or the trophic level of the tuna. The difference between the δ15N values of source and trophic amino acids is used to estimate the trophic level of yellowfin, and this is compared to the estimates based on two independent methods, stomach content analysis and the isotopic difference between the δ15N values of mesozooplankton and yellowfin tuna in the ETP. It is found that nitrogen isotopic analyses of individual amino acids in tuna can be used to distinguish between nutrient and trophic dynamics in pelagic ecosystems, and the implications of these results are discussed for investigating the long-term impact of commercial fishing on the food web structure of marine ecosystems.},
+   ISBN = {1936-7961},
+   DOI = {10.1016/S1936-7961(07)01012-3},
+   year = {2007},
+   type = {Generic}
+}
+
+@article{Reum2011,
+   author = {Reum, Jonathan C. P. and Essington, Timothy E. and Greene, Correigh M. and Rice, Casimir A. and Fresh, Kurt L.},
+   title = {Multiscale influence of climate on estuarine populations of forage fish: the role of coastal upwelling, freshwater flow and temperature},
+   journal = {Marine ecology. Progress series (Halstenbek)},
+   volume = {425},
+   pages = {203-215},
+   abstract = {We examined how local- and regional-scale environmental drivers affect patterns of abundance and recruitment in 2 abundant and ecologically significant forage fishes (Pacific herring and surf smelt ) in the Skagit River estuary (Puget Sound, Washington, USA). We identified associations between survey catch rates and environmental conditions at 2 scales: within-season distributional shifts in response to local environmental conditions, and interannual patterns of relative year class strength related to both local- and regional-scale drivers. Using monthly data that spanned a 9 yr period, we found that a small proportion (<2%) of the total deviance in catch rates for both species was related to within-estuary variation in surface water temperature and salinity but that a larger fraction (7 and 12% for Pacific herring and surf smelt, respectively) was explained by interannual variation in recruitment strength. Annual abundance indices for both species were uncorrelated with cumulative river discharge and regional sea surface temperature but positively correlated with an index of cumulative coastal upwelling, suggesting a linkage between regional-scale environmental conditions and age-0 recruitment. Moreover, our annual age-0 Pacific herring time series was positively correlated with a similar time series from the Strait of Georgia (~100 km north), further suggesting that age-0 recruitment in these populations is synchronized by regional upwelling as opposed to estuary-specific environmental forcing related to river flows. The present study isolates a potential key process governing age-0 forage fish abundance in this system and highlights the importance of simultaneously evaluating patterns of variability across multiple spatiotemporal scales in order to identify the primary pathways through which climate may impact estuarine populations.},
+   keywords = {Climate change
+Ecology
+Environmental Sciences & Ecology
+Estuaries
+Forage
+Freshwater fishes
+Herring
+Life Sciences & Biomedicine
+Marine & Freshwater Biology
+Marine fishes
+Oceanography
+Oceans
+Physical Sciences
+River water
+Salinity
+Science & Technology
+Upwelling water},
+   ISSN = {0171-8630},
+   DOI = {10.3354/meps08997},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{Riofrio2013,
+   author = {Riofrío-Lazo, Marjorie and Aurioles-Gamboa, David},
+   title = {Timing of isotopic integration in marine mammal skull: comparative study between calcified tissues: Timing of isotopic integration in marine mammal skull},
+   journal = {Rapid communications in mass spectrometry},
+   volume = {27},
+   number = {9},
+   pages = {1076-1082},
+   ISSN = {0951-4198},
+   DOI = {10.1002/rcm.6556},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{Rykaczewski2010,
+   author = {Rykaczewski, Ryan R. and Dunne, John P.},
+   title = {Enhanced nutrient supply to the California Current Ecosystem with global warming and increased stratification in an earth system model},
+   journal = {Geophysical research letters},
+   volume = {37},
+   number = {21},
+   pages = {n/a},
+   abstract = {A leading hypothesis relating productivity with climate variability in the California Current Ecosystem (CCE) describes an alternation between warmer, well‐stratified periods of low productivity and cooler periods of high productivity. This empirical relationship suggests that productivity will decline with global warming. Here, we explore the response of productivity to future climate change in the CCE using an earth system model. This model projects increases in nitrate supply and productivity in the CCE during the 21st century despite increases in stratification and limited change in wind‐driven upwelling. We attribute the increased nitrate supply to enrichment of deep source waters entering the CCE resulting from decreased ventilation of the North Pacific. Decreases in dissolved‐oxygen concentration and increasing acidification accompany projected increases in nitrate. This analysis illustrates that anthropogenic climate change may be unlike past variability; empirical relationships based on historical observations may be inappropriate for projecting ecosystem responses to future climate change.},
+   keywords = {California Current
+climate change
+Earth sciences
+Earth system model
+Earth, ocean, space
+Exact sciences and technology
+Geology
+Geosciences, Multidisciplinary
+nitrate
+oxygen
+Physical Sciences
+primary productivity
+Science & Technology},
+   ISSN = {0094-8276},
+   DOI = {10.1029/2010GL045019},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{Shelton2017,
+   author = {Shelton, Andrew O. and Francis, Tessa B. and Feist, Blake E. and Williams, Gregory D. and Lindquist, Adam and Levin, Philip S. and Hughes, A. Randall},
+   title = {Forty years of seagrass population stability and resilience in an urbanizing estuary},
+   journal = {The Journal of ecology},
+   volume = {105},
+   number = {2},
+   pages = {458-470},
+   abstract = {Summary Coasts and estuaries contain among the most productive and ecologically important habitats in the world and face intense pressure from current and projected human activities, including coastal development. Seagrasses are a key habitat feature in many estuaries perceived to be in widespread decline owing to human actions. We use spatio‐temporal models and a 41‐year time series from 100s of km of shoreline which includes over 160 000 observations from Puget Sound, Washington, USA, to examine multiscale trends and drivers of eelgrass (Zostera spp.) change in an urbanizing estuary. At whole estuary scale (100s of km), we find a stable and resilient eelgrass population despite a more than doubling of human population density and multiple major climactic stressors (e.g. ENSO events) over the period. However, the aggregate trend is not reflected at the site scale (10s of km), where some sites persistently increase while others decline. Site trends were spatially asynchronous; adjacent sites sometimes exhibited opposite trends over the same period. Substantial change in eelgrass occurred at the subsite (0·1 km) scale, including both complete local loss and dramatic increase of eelgrass. Metrics of local human development including shoreline armouring, upland development (imperviousness) and human density provide no explanatory power for eelgrass population change at any spatial scale. Our results suggest that the appropriate scale for understanding eelgrass change is smaller than typically assumed (approximately 1‐ to 3‐km scale) and contrasts strongly with previous work. Synthesis. Despite ongoing conservation concern over seagrasses world‐wide, eelgrass in Puget Sound has been highly resilient to both anthropogenic and environmental change over four decades. Our work provides general methods that can be applied to understand spatial and temporal scales of change and can be used to assess hypothesized drivers of change. Changes in eelgrass occurrence occur at local scales as shown in two sites in Puget Sound. Compare 1981–1982 (left column) and 2011–2012 (right column) for two sites. Both areas of complete loss and substantial gain are evident over the scale of just a few kilometers.},
+   keywords = {Analysis
+coastal development
+Ecology
+eelgrass
+Environmental Sciences & Ecology
+Estuaries
+Life Sciences & Biomedicine
+Plant Sciences
+Puget Sound
+resilience
+Science & Technology
+shoreline armouring
+spatio‐temporal models
+Urbanization
+Waterfront development
+Zostera},
+   ISSN = {0022-0477},
+   DOI = {10.1111/1365-2745.12682},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{Siple2015,
+   author = {Siple, Margaret C. and Francis, Tessa B.},
+   title = {Population diversity in Pacific herring of the Puget Sound, USA},
+   journal = {Oecologia},
+   volume = {180},
+   number = {1},
+   pages = {111-125},
+   abstract = {Demographic, functional, or habitat diversity can confer stability on populations via portfolio effects (PEs) that integrate across multiple ecological responses and buffer against environmental impacts. The prevalence of these PEs in aquatic organisms is as yet unknown, and can be difficult to quantify; however, understanding mechanisms that stabilize populations in the face of environmental change is a key concern in ecology. Here, we examine PEs in Pacific herring ( Clupea pallasii ) in Puget Sound (USA) using a 40-year time series of biomass data for 19 distinct spawning population units collected using two survey types. Multivariate auto-regressive state-space models show independent dynamics among spawning subpopulations, suggesting that variation in herring production is partially driven by local effects at spawning grounds or during the earliest life history stages. This independence at the subpopulation level confers a stabilizing effect on the overall Puget Sound spawning stock, with herring being as much as three times more stable in the face of environmental perturbation than a single population unit of the same size. Herring populations within Puget Sound are highly asynchronous but share a common negative growth rate and may be influenced by the Pacific Decadal Oscillation. The biocomplexity in the herring stock shown here demonstrates that preserving spatial and demographic diversity can increase the stability of this herring population and its availability as a resource for consumers.},
+   keywords = {Analysis
+Animals
+Biomass
+Biomedical and Life Sciences
+Climate cycles
+Clupea pallasii
+Ecology
+Ecosystem
+Environmental Sciences & Ecology
+Fishes
+Fishes - physiology
+Forage fish
+Hydrology/Water Resources
+Life Sciences
+Life Sciences & Biomedicine
+Plant Sciences
+Population Dynamics
+Population ecology - Original research
+Population structure
+Portfolio effect
+Reproduction
+Science & Technology
+State-space model
+Time series analysis
+Washington},
+   ISSN = {0029-8549},
+   DOI = {10.1007/s00442-015-3439-7},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{Smith2017,
+   author = {Smith, Rashida S. and Weldon, Lynelle M. and Hayward, James L. and Henson, Shandelle M.},
+   title = {TIME LAGS ASSOCIATED WITH EFFECTS OF OCEANIC CONDITIONS ON SEABIRD BREEDING IN THE SALISH SEA REGION OF THE NORTHERN CALIFORNIA CURRENT SYSTEM},
+   journal = {Marine ornithology},
+   volume = {45},
+   number = {1},
+   pages = {39-42},
+   abstract = {The effect of sea surface temperature (SST), as a proxy for more general oceanic conditions, on seabird reproduction includes a time lag. In this short communication. we use model-selection techniques to determine the time of year SST should be measured in the Salish Sea in order to best explain the variability in reproductive success the following breeding season at a Glaucous-winged Gull Lams glaucescens colony on Protection Island, Washington State, US. Average SST values computed from September and October before the breeding season were the best predictors of egg cannibalism and hatching success.},
+   keywords = {Life Sciences & Biomedicine
+Marine & Freshwater Biology
+Ornithology
+Science & Technology
+Zoology},
+   ISSN = {1018-3337},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{Steneck2012,
+   author = {Steneck, Robert S.},
+   title = {Apex predators and trophic cascades in large marine ecosystems: Learning from serendipity},
+   journal = {Proceedings of the National Academy of Sciences - PNAS},
+   volume = {109},
+   number = {21},
+   pages = {7953-7954},
+   note = {Author contributions: R.S.S. wrote the paper.},
+   keywords = {Animals
+Climate Change
+COMMENTARIES
+Ecology
+Ecosystems
+Fisheries management
+Food Chain
+Food webs
+Gadus morhua - physiology
+Gulfs
+Marine ecosystems
+Marine fishes
+Multidisciplinary Sciences
+Predators
+Predatory Behavior - physiology
+Science & Technology
+Science & Technology - Other Topics
+Species
+Trophic cascades
+Trophic relationships},
+   ISSN = {0027-8424},
+   DOI = {10.1073/pnas.1205591109},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{Thomas2011,
+   author = {Thomas, Austen C. and Lance, Monique M. and Jeffries, Steven J. and Miner, Benjamin G. and Acevedo-Gutierrez, Alejandro},
+   title = {Harbor seal foraging response to a seasonal resource pulse, spawning Pacific herring},
+   journal = {Marine ecology. Progress series (Halstenbek)},
+   volume = {441},
+   pages = {225-239},
+   abstract = {Evidence suggests that Pacific harbor seals are likely to alter their foraging behavior in response to seasonal prey pulses. We hypothesized that spawning herring aggregations are seasonally important prey for harbor seals, predicting that (1) harbor seal consumption of adult herring would peak during the spawning season, (2) harbor seals would seasonally change their foraging areas to take advantage of spawning herring aggregations, and (3) seal diving behavior would reflect the vertical distribution of herring during the spawning season. The predictions were tested using an analysis of harbor seal prey remains, GPS telemetry, and satellite-linked time/depth recorder data. Contrary to predictions, herring in harbor seal diet was comprised of 74% juveniles and 26% adults in the spawn season, versus 37% juveniles and 63% adults in the post-spawn season. Harbor seal use of documented herring areas was highest during the season when herring did not spawn, and seal diving behavior did not reflect the vertical distribution of herring. The lack of response by harbor seals to spawning herring pulses is likely explained by the low energy density of adult herring during the spawn season, and the availability of profitable alternative prey such as juvenile herring. This study highlights the influence of relative prey profitability on the foraging behavior of harbor seals, and may help to explain why predators do not always respond as predicted to resource pulses.},
+   keywords = {Aggregation
+Breeding seasons
+Ecology
+Environmental Sciences & Ecology
+Foraging
+Herring
+Life Sciences & Biomedicine
+Marine & Freshwater Biology
+Marine ecology
+Marine fishes
+Marine resources
+Natural resources
+Oceanography
+Physical Sciences
+Science & Technology
+Seals
+Young animals},
+   ISSN = {0171-8630},
+   DOI = {10.3354/meps09370},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{Thomas2017,
+   author = {Thomas, Austen C. and Nelson, Benjamin W. and Lance, Monique M. and Deagle, Bruce E. and Trites, Andrew W.},
+   title = {Harbour seals target juvenile salmon of conservation concern},
+   journal = {Canadian journal of fisheries and aquatic sciences},
+   volume = {74},
+   number = {6},
+   pages = {907-921},
+   abstract = {Knowing the species and life stages of prey that predators consume is important for understanding the impacts that predation may have on prey populations, but traditional methods for determining diets often cannot provide sufficient detail. We combined data from two methods of scat analysis (DNA metabarcoding and morphological prey ID) to quantify the species and life stages of salmon (Oncorhynchus spp.) consumed by harbour seals (Phoca vitulina) in the Strait of Georgia, Canada, where juvenile Chinook (Oncorhynchus tshawytscha) and coho (Oncorhynchus kisutch) salmon survival is poor. Harbour seals primarily consumed adult salmon of lesser conservation concern in the fall (August–November): chum (Oncorhynchus keta: 18.4%), pink (Oncorhynchus gorbuscha: 12.6%), sockeye (Oncorhynchus nerka: 7.4%), Chinook (7.1%), and coho (1.8%). However, the opposite species trend occurred during the spring when seals preferred juvenile salmon of greater conservation concern (April–July): coho (2.9%), Chinook (2.9%), sockeye (2.5%), pink (1.4%), and chum (0.8%) — percentages that can equate to many individuals consumed. Our data suggest that harbour seals select juveniles of salmon species that out-migrate at ages >1 year and provide evidence of a potential causal relationship between harbour seal predation and juvenile salmon survival trends.},
+   keywords = {Age
+Analysis
+Conservation
+Deoxyribonucleic acid--DNA
+Diet
+Fisheries
+Juveniles
+Life Sciences & Biomedicine
+Marine & Freshwater Biology
+Marine mammals
+Migration
+Natural history
+Predation
+Predation (Biology)
+Predators
+Prey
+Protection and preservation
+Salmon
+Science & Technology
+Seals
+Seals (Animals)
+Species
+Studies
+Survival
+Wildlife conservation},
+   ISSN = {0706-652X},
+   DOI = {10.1139/cjfas-2015-0558},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{VanderZanden2013,
+   author = {Vander Zanden, Hannah B. and Arthur, Karen E. and Bolten, Alan B. and Popp, Brian N. and Lagueux, Cynthia J. and Harrison, Emma and Campbell, Cathi L. and Bjorndal, Karen A.},
+   title = {Trophic ecology of a green turtle breeding population},
+   journal = {Marine ecology. Progress series (Halstenbek)},
+   volume = {476},
+   pages = {237-249},
+   abstract = {While many migratory marine organisms converge at breeding areas, identifying foraging strategies away from these reproductive sites can be challenging. Adult female green turtles regularly migrate thousands of kilometers between nesting and foraging areas, making it difficult to identify foraging habitats that support nesting populations and to understand their feeding strategies. In this study, we use stable isotope analysis to investigate the trophic ecology and spatial distribution of foraging green turtles in the Greater Caribbean. Further, we explore the possibility that adult green turtles, originally considered to be herbivores, may, like their counterparts in the Pacific Ocean, display carnivorous feeding strategies. The wide range of carbon and nitrogen isotope values in bulk epidermis observed in the nesting population at Tortuguero, Costa Rica, could indicate that these turtles feed over several trophic levels. Isotopic niches—or the range of δ C and δ N values, which can be used as a proxy for ecological niche—varied among the 5 green turtle foraging aggregations sampled. Similarly, the isotopic composition of the primary producer also varied substantially with geographic location. However, compound-specific stable isotope analysis of amino acids (AA-CSIA) indicated that individuals in the nesting population with different bulk δ N values feed at the same trophic position. The combined results suggest that spatial differences in the isotopic composition of seagrass at the base of the food web, rather than differences in turtle foraging strategy, contribute to the isotopic variation in the nesting population. This study improves understanding of the foraging ecology of a highly dispersed and migratory species.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Biological and medical sciences
+Ecology
+Environmental Sciences & Ecology
+Fundamental and applied biological sciences. Psychology
+Life Sciences & Biomedicine
+Marine & Freshwater Biology
+Oceanography
+Physical Sciences
+Science & Technology
+Sea water ecosystems
+Synecology},
+   ISSN = {0171-8630},
+   DOI = {10.3354/meps10185},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{Ware2005,
+   author = {Ware, D. M. and Thomson, R. E.},
+   title = {Bottom-up Ecosystem Trophic Dynamics Determine Fish Production in the Northeast Pacific},
+   journal = {Science (American Association for the Advancement of Science)},
+   volume = {308},
+   number = {5726},
+   pages = {1280-1284},
+   abstract = {We addressed the question of bottom-up versus top-down control of marine ecosystem trophic interactions by using annual fish catch data and satellite-derived (SeaWiFS) chlorophyll a measurements for the continental margin of western North America. Findings reveal a marked alongshore variation in retained primary production that is highly correlated with the alongshore variation in resident fish yield. The highest productivity occurs off the coasts of Washington and southern British Columbia. Zooplankton data for coastal British Columbia confirm strong bottom-up trophic linkages between phytoplankton, zooplankton, and resident fish, extending to regional areas as small as 10,000 square kilometers.},
+   keywords = {Animal and plant ecology
+Animal Migration
+Animal, plant and microbial ecology
+Animals
+Biodiversity
+Biological and medical sciences
+Biomass
+Chlorophyll - analysis
+Climate
+Coasts
+Continental shelves
+Ecosystem
+Ecosystems
+Fish populations
+Fish scales
+Fishes - physiology
+Food Chain
+Fundamental and applied biological sciences. Psychology
+Hake
+Marine fishes
+Multidisciplinary Sciences
+North America
+Observations
+Pacific Ocean
+Phytoplankton
+Phytoplankton - physiology
+Population Density
+Primary productivity
+Research
+Research Article
+Science & Technology
+Science & Technology - Other Topics
+Sea water ecosystems
+Seawater - chemistry
+Synecology
+Trophic levels
+Upwelling water
+Zooplankton
+Zooplankton - physiology},
+   ISSN = {0036-8075},
+   DOI = {10.1126/science.1109049},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{Wilson2014,
+   author = {Wilson, Kenady and Lance, Monique and Jeffries, Steven and Acevedo-Gutierrez, Alejandro},
+   title = {Fine-Scale Variability in Harbor Seal Foraging Behavior},
+   journal = {PloS one},
+   volume = {9},
+   number = {4},
+   pages = {e92838-e92838},
+   note = {Competing Interests: The authors have declared that no competing interests exist.
+Current address: Duke University Marine Lab, Beaufort, North Carolina, United States of America
+Conceived and designed the experiments: KW ML SJ AAG. Performed the experiments: KW ML SJ AAG. Analyzed the data: KW. Wrote the paper: KW AAG.},
+   abstract = {Understanding the variability of foraging behavior within a population of predators is important for determining their role in the ecosystem and how they may respond to future ecosystem changes. However, such variability has seldom been studied in harbor seals on a fine spatial scale (<30 km). We used a combination of standard and Bayesian generalized linear mixed models to explore how environmental variables influenced the dive behavior of harbor seals. Time-depth recorders were deployed on harbor seals from two haul-out sites in the Salish Sea in 2007 (n = 18) and 2008 (n = 11). Three behavioral bout types were classified from six dive types within each bout; however, one of these bout types was related to haul-out activity and was excluded from analyses. Deep foraging bouts (Type I) were the predominant type used throughout the study; however, variation in the use of bout types was observed relative to haul-out site, season, sex, and light (day/night). The proportional use of Type I and Type II (shallow foraging/traveling) bouts differed dramatically between haul-out sites, seasons, sexes, and whether it was day or night; individual variability between seals also contributed to the observed differences. We hypothesize that this variation in dive behavior was related to habitat or prey specialization by seals from different haul-out sites, or individual variability between seals in the study area. The results highlight the potential influence of habitat and specialization on the foraging behavior of harbor seals, and may help explain the variability in diet that is observed between different haul-out site groups in this population.},
+   keywords = {Analysis
+Animal behavior
+Animals
+Bayesian analysis
+Behavior
+Biology
+Biology and Life Sciences
+British Columbia
+Depth recorders
+Diving
+Earth Sciences
+Ecology and Environmental Sciences
+Ecosystem biology
+Ecosystems
+Environment models
+Environmental changes
+Feeding Behavior - physiology
+Female
+Foraging behavior
+Foraging habitats
+Geography
+Harbor seal
+Islands
+Light
+Linear Models
+Male
+Marine ecology
+Marine mammals
+Mathematical models
+Models, Biological
+Multidisciplinary Sciences
+Neural networks
+Night
+Phoca - physiology
+Population
+Predators
+Prey
+Recorders
+Research and Analysis Methods
+Science & Technology
+Science & Technology - Other Topics
+Science programs
+Seals
+Seasons
+Specialization
+Statistical models
+Studies
+Variability
+Washington
+Zoology},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0092838},
+   year = {2014},
+   type = {Journal Article}
+}
+
+
+@article{Zhao2004,
+   author = {Zhao, Liying and Castellini, Michael A. and Mau, Tamara L. and Trumble, Stephen J.},
+   title = {Trophic interactions of Antarctic seals as determined by stable isotope signatures},
+   journal = {Polar biology},
+   volume = {27},
+   number = {6},
+   pages = {368-373},
+   abstract = {The diets and trophic interactions among Weddell, crabeater, Ross, and leopard seals in the eastern Ross Sea, Antarctica, were investigated by the use of stable isotope techniques during the 1999–2000 summer seasons. The δ13C and δ15N values in seal serum clearly distinguished the three Antarctic pack-ice seal species at different trophic positions (Weddell>Ross>crabeater). These patterns appeared to reflect a close linkage to their known foraging ecology and diving behaviors, and agreed well with their presumed dietary diversity. The more enriched δ13C and δ15N values in male Weddell seals than those in females suggested differences in foraging preferences between them. Significant differences in δ15N were also found among different age groups of Weddell seals. A strong correlation between the C:N ratios and serum cholesterol was probably due to extremely high cholesterol levels in phocids. Comparisons of isotope data with harbor seals revealed distinct differences between Antarctic phocids and the northern seal species.},
+   keywords = {Animal and plant ecology
+Animal behavior
+Animal, plant and microbial ecology
+Animals
+Autoecology
+Biodiversity & Conservation
+Biological and medical sciences
+Ecology
+Environmental Sciences & Ecology
+Fundamental and applied biological sciences. Psychology
+Isotopes
+Life Sciences & Biomedicine
+LifeSciences
+Mammalia
+Marine biology
+Marine mammals
+Predation
+Science & Technology
+Vertebrata},
+   ISSN = {0722-4060},
+   DOI = {10.1007/s00300-004-0598-0},
+   year = {2004},
+   type = {Journal Article}
+}
+
+
+
 @article{Bartz2005,
    author = {Bartz, Krista K. and Naiman, Robert J.},
    title = {Effects of Salmon-Borne Nutrients on Riparian Soils and Vegetation in Southwest Alaska},
