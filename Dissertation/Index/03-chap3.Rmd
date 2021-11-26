@@ -12,7 +12,7 @@ Historical marine predator data that span multiple environmental, ecological, an
 
 Reconstructing time series of predator trophic position requires careful consideration of physiological and ecological parameters that contribute to stable isotope signatures. First, taxa exhibit different trophic enrichment factors based on excretion pathways, diet type (omnivory, herbivory, carnivory), and growth [@Nielsen2015]. Second, the nitrogen production pathway of vascular (i.e., seagrasses) versus nonvascular (i.e., marine diatoms) primary producers impart distinct stable isotope fractionation factors ($\beta$) as inorganic sources of nitrogen are converted to tissues [@VanderZanden2013]. Assumptions about the relative contributions of vascular versus nonvascular plants can therefore impact trophic position estimates (Choi et al. 2017). Finally, there is a delay between the time a prey source is consumed and when that prey source has been fully assimilated into the consumer, referred to as the ‘turnover time’. Turnover times must be considered when comparing trophic position data to ocean condition and prey availability covariates, as the consumer response to an ecological change will not be immediately observable in consumer tissues.
 
-Nearshore coastal ecosystems provide a model system to assess long-term changes of food web drivers using archival museum specimens of a marine predator by applying CSIA. Food webs of coastal Washington and the Salish Sea have experienced dramatic restructuring over the past century due to declines and subsequent recoveries of marine predators [@Jeffries2003; @Ohlberger2019]. Decades of state-financed population control programs resulted in harbor seals (*Phoca vitulina*) reaching a historic low in the 1970's, with an estimated abundance of approximately 1,000 individuals [@Jeffries2003]. Following the cessation of bounties in 1960 and the passage of the Marine Mammal Protection Act in 1972, top-predator abundance increased dramatically. Benefitting from a relatively short life history, generalist diet, and legislation restricting mortality, harbor seal populations increased 10-fold between 1970 and 2003 [@Jeffries2003]. The dramatic increase in abundance of this top predator has been implicated in the declines in economically and ecologically important prey species in the region [@Chasco2017; @Nelson2019], specifically, Chinook salmon (*Oncorhynchus tshawytscha*). Chinook salmon are listed as endangered in the region (WDFW 2017) and are an important prey species for the endangered southern resident orca [@Marshall2015]. Simultaneously, the region has also experienced changes in nutrients (Mohamedali et al. 2011), climate regimes [@Corwith2002; @Mantua2002] and abundances of other important prey species such as Pacific herring (*Clupea pallasii*, @Siple2016). 
+Nearshore coastal ecosystems provide a model system to assess long-term changes of food web drivers using archival museum specimens of a marine predator by applying CSIA. Food webs of coastal Washington and the Salish Sea have experienced dramatic restructuring over the past century due to declines and subsequent recoveries of marine predators [@Jeffries2003; @Ohlberger2019]. Decades of state-financed population control programs resulted in harbor seals (*Phoca vitulina*) reaching a historic low in the 1970's, with an estimated abundance of approximately 1,000 individuals [@Jeffries2003]. Following the cessation of bounties in 1960 and the passage of the Marine Mammal Protection Act in 1972, top-predator abundance increased dramatically. Benefitting from a relatively short life history, generalist diet, and legislation restricting mortality, harbor seal populations increased 10-fold between 1970 and 2003 [@Jeffries2003]. The dramatic increase in abundance of this top predator has been implicated in the declines in economically and ecologically important prey species in the region [@Chasco2017; @Nelson2019], specifically, Chinook salmon (*Oncorhynchus tshawytscha*). Chinook salmon are listed as endangered in the region (WDFW 2017) and are an important prey species for the endangered southern resident orca [@Marshall2016]. Simultaneously, the region has also experienced changes in nutrients (Mohamedali et al. 2011), climate regimes [@Corwith2002; @Mantua2002] and abundances of other important prey species such as Pacific herring (*Clupea pallasii*, @Siple2015). 
 
 Here we examined a century of harbor seal trophic position data in coastal Washington and the Salish Sea. The objective of this work is to identify the time scales at which physical ocean conditions and prey availability exert bottom-up control on marine predator trophic ecology. We assumed a correlation between trophic position and prey species abundance is the result of increased or decreased consumption of that species. Additionally, we established a multi-amino acid framework for measuring trophic position that improves precision and ecological accuracy by applying a species-specific trophic discrimination factor [@McMahon2019; @Nielsen2015]. We also included a system specific $\beta$ value rather than a universal value, and applied temporal lags to account for both physiological and ecological delays in consumer response.
 
@@ -31,7 +31,7 @@ Trophic Position =
 
 where $\delta^{15}N_i$ is the measured stable isotope composition of a trophic amino acid i in a sample and $\delta^{15}N_o$ is the stable isotope composition of a source amino acid o in a sample.$\delta^{15}N_{(i-o)}$ represents the total trophic enrichment that has occurred throughout the food web measurable from predator tissues. $TEF_{(i-o),j}$ is the trophic enrichment factor between trophic amino acid *i* and source amino acid *o* of a specific consumer *j* (in this study, harbor seals) which occurs when consumer *j* assimilates prey. $\beta_{(i-o),N}$ is the difference in enrichment between a specific trophic amino acid *i* and source amino acid o for non-vascular primary producers *N* that occurs when primary producers assimilate inorganic nitrogen (@Nielsen2015; Table \@ref(tab:tpparam)). $\overline{TEF}_{(i-o)}$ represents the mean trophic enrichment that occurs at other trophic levels in the food web, and is calculated from the mean difference between trophic amino acid i and source amino acid o across all consumers described in @Nielsen2015.
 
-The $\beta$ parameter differs substantially between vascular and nonvascular primary producers (@Ramirez2021; Table \@ref(tab:tpparam)). In food webs that assimilate organic matter from both vascular and nonvascular plants, including many nearshore food webs, β will be intermediate. In addition to testing a value that represents nonvascular primary producers exclusively $\beta_{(i-o),N}$, we also applied a two-source mixing model using carbon stable isotope data similar to @Choi2017. This generates a $\beta$ that is weighted $\beta_{(i-o),NV}$ based on the contributions of both vascular and nonvascular plants specific to the Washington nearshore ecosystem by first calculating the percent contribution of vascular plants to the food web:
+The $\beta$ parameter differs substantially between vascular and nonvascular primary producers (@Ramirez2021; Table \@ref(tab:tpparam)). In food webs that assimilate organic matter from both vascular and nonvascular plants, including many nearshore food webs, $\beta$ will be intermediate. In addition to testing a value that represents nonvascular primary producers exclusively $\beta_{(i-o),N}$, we also applied a two-source mixing model using carbon stable isotope data similar to @Choi2017. This generates a $\beta$ that is weighted $\beta_{(i-o),NV}$ based on the contributions of both vascular and nonvascular plants specific to the Washington nearshore ecosystem by first calculating the percent contribution of vascular plants to the food web:
 
 \begin{equation} 
   \% V =
@@ -40,7 +40,7 @@ The $\beta$ parameter differs substantially between vascular and nonvascular pri
     (\#eq:perV)
 \end{equation} 
 
-where $\delta^{13}C_{H}$ is the mean observed $\delta^{13}C$ value for Washington harbor seals. $\delta^{13}C_{V}$ is the carbon stable isotope end member for vascular plants, v (-9.5 ‰, derived from seagrasses *Zostera spp.*); and $\delta^{13}C_{N}$ is the carbon stable isotope end member for nonvascular plants, n (-19.5‰, derived from phytoplankton). Carbon end members were specific to the Washington nearshore ecosystems [@Howe2015]. Percent V is the percent contribution of vascular plants to the food web in which harbor seals forage. This assumes the trophic enrichment of $^{13}C$ is generally negligible (0–1‰, @Deniro1978).  $\beta_{(i-o),NV}$ was then derived by:
+where $\delta^{13}C_{H}$ is the mean observed $\delta^{13}C$ value for Washington harbor seals. $\delta^{13}C_{V}$ is the carbon stable isotope end member for vascular plants, v (-9.5 ‰, derived from seagrasses *Zostera spp.*); and $\delta^{13}C_{N}$ is the carbon stable isotope end member for nonvascular plants, n (-19.5‰, derived from phytoplankton). Carbon end members were specific to the Washington nearshore ecosystems [@Howe2015]. Percent V is the percent contribution of vascular plants to the food web in which harbor seals forage. This assumes the trophic enrichment of $^{13}C$ is generally negligible (0–1‰, Deniro & Epstein 1978).  $\beta_{(i-o),NV}$ was then derived by:
 
 \begin{equation} 
 \beta_{(i-o),NV} = (\beta_{(i-o),V}*\%V) +
@@ -48,20 +48,55 @@ where $\delta^{13}C_{H}$ is the mean observed $\delta^{13}C$ value for Washingto
   (\#eq:betanv)
 \end{equation}
 
-where $\beta_{(i-o),N}$ is the enrichment between an individual trophic amino acid i and source amino acid o for aquatic phytoplankton and $\beta_{(i-o),V}$  represents the trophic enrichment of seagrass which are vascular plants (Table \@ref(tab:tpparam)). 
+where $\beta_{(i-o),N}$ is the enrichment between an individual trophic amino acid *i* and source amino acid *o* for aquatic phytoplankton and $\beta_{(i-o),V}$  represents the trophic enrichment of seagrass which are vascular plants (Table \@ref(tab:tpparam)). 
 
 ###Quantifying bottom-up drivers of foraging 
-To identify the most important explanatory variables of ocean condition and prey availability on predator trophic position, we fit two sets of candidate models using a multi-amino acid (glutamic acid, aspartic acid, alanine, proline, valine) hierarchical model. We selected 12 putative explanatory variables based on the length of the time series and divided them *a priori* into our two categories of interest, ocean condition and prey availability, representing our expected primary forcing mechanisms (Appendix S1: Tables 3.2 & 3.4). We fit candidate models to the trophic position and covariate data, and the candidate model set included a null and location-only model (Tables \@ref(tab:ocmod) & \@ref(tab:prmod)). Location (Salish Sea or coastal Washington) was included as a factor in all candidate models except the null model. Due to the correlation between the multivariate El Niño Southern Oscillation index and the Pacific Decadal Oscillation only one of these covariates were included in a single model. All timeseries were standardized around a mean of 0 and standard deviation of 1. To avoid collinearity, no more than four covariates (including location) were included in an individual model.
+To identify the most important explanatory variables of ocean condition and prey availability on predator trophic position, we fit two sets of candidate models using a multi-amino acid (glutamic acid, aspartic acid, alanine, proline, valine) hierarchical model. We selected 12 putative explanatory variables based on the length of the time series and divided them *a priori* into our two categories of interest, ocean condition and prey availability, representing our expected primary forcing mechanisms (Tables 3.2 & 3.4). We fit candidate models to the trophic position and covariate data, and the candidate model set included a null and location-only model (Tables \@ref(tab:ocmod) & \@ref(tab:prmod)). Location (Salish Sea or coastal Washington) was included as a factor in all candidate models except the null model. Due to the correlation between the multivariate El Niño Southern Oscillation index and the Pacific Decadal Oscillation only one of these covariates were included in a single model. All timeseries were standardized around a mean of 0 and standard deviation of 1. To avoid collinearity, no more than four covariates (including location) were included in an individual model.
 
-@Nielsen2015 determined that the use of multiple amino acids improves estimates of trophic position. Therefore, we used multiple trophic amino acids *i* (alanine, glutamic acid, valine and proline) and one source amino acid o (phenylalanine) to calculate trophic position. We selected amino acids based on: their prevalence in previous studies to derive parameters for equation 1; tissue turnover time relative to the source amino acid, phenylalanine; and their concentrations in bone collagen. The hierarchical linear model took the following structure:
+@Nielsen2015 determined that the use of multiple amino acids improves estimates of trophic position. Therefore, we used multiple trophic amino acids *i* (alanine, glutamic acid, valine and proline) and one source amino acid *o* (phenylalanine) to calculate trophic position. We selected amino acids based on: their prevalence in previous studies to derive parameters for equation 1; tissue turnover time relative to the source amino acid, phenylalanine; and their concentrations in bone collagen. The hierarchical linear model took the following structure:
 
 \begin{equation} 
-y_t = \alpha_k + \boldsymbol\beta X_{t-d} +\epsilon, 
+\boldsymbol{y}_t = \alpha_k + \boldsymbol{\beta} \boldsymbol{X}_{t-d} +\epsilon, 
   (\#eq:hier3)
 \end{equation}
 
-where *y* represents harbor seal trophic position from year *t* and *k* represents four different trophic amino acids (factors) used to calculate trophic position included as a random effects. *X* is a matrix of continuous bottom-up drivers in year *t*. $\boldsymbol\beta$ is a vector of predicted effects (coefficients) of bottom-up drivers included in the model (Tables \@ref(tab:ocmod) & \@ref(tab:prmod)) on harbor seal trophic position, and *a* is the predicted trophic position when all included bottom-up drivers are at an average value (represented by 0) in the coastal region of Washington. The variable *d* is the temporal lag between a change in bottom-up drivers and when that change is reflected in harbor seal bone collagen. This lag can be due to both physiological (tissue turnover) or ecological effects (rate of propagation through the food web). Time (year, Appendix S1: Section S4, Fig. S6), sex, size (Appendix S1: Section S3, Fig. S4 & S5), and seasonality (month, Appendix S1: Fig. S1), were also considered as predictors of trophic position but no significant associations were identified and thus these parameters were not included in the hierarchical modeling (Appendix S1: Section S3). The best performing models for both of these approaches were selected using Akaike’s Information Criterion (Akaike 1973) with a correction for small sample size (AICc). Inclusion of predictors in the model with the most support is indicative of ecological parameters that alter harbor seal foraging ecology or food web dynamics. Additionally, magnitude and sign of the coefficients for included predictors can be interpreted as the degree of trophic change induced by consuming different species, life stages of species, or groups of species, caused by a given predictor. 
+where *y* represents harbor seal trophic position from year *t* and *k* represents four different trophic amino acids (factors) used to calculate trophic position included as a random effects. $\boldsymbol{X}$ is a matrix of continuous bottom-up drivers in year *t*. $\boldsymbol{\beta}$ is a vector of predicted effects (coefficients) of bottom-up drivers included in the model (Tables \@ref(tab:ocmod) & \@ref(tab:prmod)) on harbor seal trophic position, and *a* is the predicted trophic position when all included bottom-up drivers are at an average value (represented by 0) in the coastal region of Washington. The variable *d* is the temporal lag between a change in bottom-up drivers and when that change is reflected in harbor seal bone collagen. This lag can be due to both physiological (tissue turnover) or ecological effects (rate of propagation through the food web). Time (year, Figure \@ref(fig:year)), sex, size (Figures \@ref(fig:sexWA) & \@ref(fig:lengthWA)), and seasonality (month, Figure \@ref(fig:season)), were also considered as predictors of trophic position but no significant associations were identified and thus these parameters were not included in the hierarchical modeling (Appendix Text 2). The best performing models for both of these approaches were selected using Akaike’s Information Criterion (Akaike 1973) with a correction for small sample size ($AIC_{c}$). Inclusion of predictors in the model with the most support is indicative of ecological parameters that alter harbor seal foraging ecology or food web dynamics. Additionally, magnitude and sign of the coefficients for included predictors can be interpreted as the degree of trophic change induced by consuming different species, life stages of species, or groups of species, caused by a given predictor. 
 
+Stable isotope composition of bone collagen is assumed to reflect diet over the past 1-2 years of the individual’s life [@Hobson1992; @Newsome2006; @Riofrio2013]. A 1-year lag (*d*) was applied to all harbor seal trophic position estimates to account for the physiological delay from tissue turnover time of bone collagen, where the collagen in a harbor seal collected in year *t* reflects what the individual ate in the previous year, *t*-1. Delayed harbor seal foraging response to ecosystem dynamics was also tested by applying additional 2-year and 3-year lags to trophic position data; these models represent a 1-year and 2-year ecological delay in addition to the 1-year physiological delay for tissue turnover time. For example, the association between harbor seal trophic position and environmental conditions 2 years before the collection year would indicate that there was a 1-year delay between when the environmental change happened and when the resultant changes propagated through the food web, after accounting for the 1-year tissue turnover time. To check the assumption of no collinearity in predictors in the models with most support ($\Delta AIC_c$ < 2), we consulted matrix scatterplots using the car package (Fox and Weisberg 2019) in R (R Development Core Team, 2020) and calculated variance inflation factors.
+
+##Results
+###Drivers of predator trophic position
+
+Among the physical variables tested, summer upwelling, sea surface temperature and Columbia River discharge during high flow months all impacted harbor seal trophic position but on different temporal scales. There was model selection uncertainty at all three temporal lags (Tables \@ref(tab:pdoc), \@ref(tab:1dec) & \@ref(tab:2dec)) but covariates and their coefficient estimates were consistent across  the most supported models ($\Delta AIC_c$ < 2) (Figure \@ref(fig:coefsmodel)). There were five physiological delay models (Figure \@ref(fig:coefsmodel)c) with substantial support ($\Delta AIC_c$ < 2) all of which included location (Salish Sea versus coastal Washington) as a factor with a coefficient of -0.29 (95% CI [-0.40, -0.19]) and a negative coefficient for summer upwelling (-0.04[-0.07, -0.02]). There were four models with substantial support for the 1-year ecological delay (Figure \@ref(fig:coefsmodel)b) all of which included a negative coefficient for summer sea surface temperature (-0.2 [-0.28, -0.11]) and a positive coefficient for spring upwelling (0.03 [0.0,0.05]). Columbia River discharge during high flow months was included in the five 2-year ecological delay models with the most support (Figure \@ref(fig:coefsmodel)a) and had the highest impact on harbor seal trophic position with a coefficient of 0.4 [0.22, 0.57]. All other coefficients did not differ substantially from 0 (Figure \@ref(fig:coefsmodel)). Summer upwelling exhibited an immediate impact on harbor seal trophic position that resulted in overall lower trophic position during the same year (after accounting for tissue turnover; Figure \@ref(fig:coefsmodel)c). Summer sea surface temperature showed a delayed impact, where harbor seals foraged lower in the food web the year following summers with higher-than-average sea surface temperatures (-0.2 [-0.28, -0.11], Fig. 2). The coefficients for upwelling (Figure \@ref(fig:coefsmodel)a-c) in all models were small compared to sea surface temperature (Figure \@ref(fig:coefsmodel)b) and Columbia River discharge (Figure \@ref(fig:coefsmodel)a). Location had an ecologically significant coefficient of ~ -0.3 [-0.40, -0.19]) which was similar across all supported models at all three lags, demonstrating harbor seals in the Salish Sea feed lower in the food web than their coastal Washington counterparts.
+
+Location, Chinook salmon abundance, and hake and herring spawning biomass were the biological variables strongly associated with harbor seal trophic position. Similar to the ocean condition analysis, there was model selection uncertainty but covariates and their coefficients were similar across supported models ((Tables \@ref(tab:pdfw), \@ref(tab:1dfw), \@ref(tab:2dfw) & Figure \@ref(fig:conceptual)). Chinook smolt production (0.08 [0.02, 0.16]), and hake (0.13 [0.05, 0.21]) and herring spawning biomass (-0.06 [-0.14, 0.02]) were correlated with harbor seal trophic position in the two physiological delay models with substantial support ($\Delta AIC_c$ < 2) but the effect of herring spawning biomass on harbor seal trophic position was not significantly different from 0 (Figure \@ref(fig:coefsmodel)f). Hake spawning biomass and Chinook salmon escapement were included in three out of four 1-year ecological delay models with substantial support (Figure \@ref(fig:coefsmodel)f) and both were included in the best model. Chinook salmon smolt production (combined index of hatchery releases and wild production of Chinook salmon) was included in all four models with substantial support at the same lag (Figure \@ref(fig:coefsmodel)f). Both Chinook salmon smolt production (0.12 [0.06, 0.20]) and hake spawning biomass (0.06 [-0.0, 0.14]) in the 1-year ecological delay model were positively correlated with harbor seal trophic position (Figure \@ref(fig:coefsmodel)f). Thus, harbor seals fed higher in the food web one year after hake spawning biomass and Chinook salmon smolt production was high (Figure \@ref(fig:conceptual)). In contrast, Chinook escapement counts were negatively correlated at the same time lag (-0.07 [-0.14,0.0]). Covariates and the magnitude and direction of their coefficients were similar in the 2-year ecological delay model (Figure \@ref(fig:coefsmodel)d) compared to the 1-year ecological delay model (Figure \@ref(fig:coefsmodel)e) but only three models had substantial support (Figure \@ref(fig:coefsmodel)d). 
+
+###Parameterization of the trophic position equation
+Inclusion of multiple trophic enrichment factors (Appendix 1: Text 4), multiple trophic amino acids, and a system-specific $\beta$ value in the trophic position equation improved trophic position estimates (Figures \@ref(fig:nbeta) & \@ref(fig:nvbeta)) compared to the more commonly applied single trophic enrichment factor, nonvascular $\beta$ parameter, and using only the canonical trophic amino acid, glutamic acid (Appendix 1: Text 4). Harbor seals are known to consume both adult and juvenile hake, Pacific herring, and Pacific salmon, thus a trophic position of 3.5 – 5 would be considered ecologically realistic based on known foraging strategies. Seventy-six % of observations were considered ecologically realistic when applying a system-specific $\beta_{(i-o),V}$, harbor seal-specific trophic enrichment factor, and including glutamic acid, valine, alanine, aspartic acid, and proline (Figure \@ref(fig:nvbeta).2). This parameterization offered a substantial improvement over other parameterizations of the trophic position equation, which ranged from 15\% to 80\% of observations being ecologically realistic, and was more parsimonious than similarly performing equations (Figures \@ref(fig:nbeta).4). However, aspartic acid was more variable than other trophic amino acids in all parameterizations and thus was omitted from the hierarchical modelling analysis (Appendix 1: Text 4). 
+
+##Discussion
+Harbor seals occupy different trophic positions depending on ecological conditions and exhibit delayed trophic responses to ecological perturbations. We found that both ocean conditions and prey availability impact predator trophic position, however, the magnitude and time scale at which predators exhibited trophic responses to these bottom-up drivers varied. In fact, some of the most influential drivers of predator trophic position (i.e., freshwater discharge) had a multi-year delay in predator trophic response. Some effects of ecosystem change on nearshore marine predators will not be immediately observable based on our results and others [@Smith2017]. Furthermore, changes in ocean conditions can alter top-down pressure on the ecological community in subsequent years, as generalist top predators shift their trophic ecology in response to their environment. Our results suggest that following years with extreme ocean conditions, ecological responses will continue to manifest for multiple years into the future as impacts propagate through the food web.
+
+###Delayed trophic position response to environmental conditions
+
+Multiple studies have shown that ocean conditions such as sea surface temperature, upwelling, and freshwater discharge impact abundance and recruitment of nearshore fishes in coastal Washington [@Reum2011; @Greene2015]. For some species of seabirds in the region, breeding success also responds to ocean conditions but exhibits a temporally lagged response [@Duguid2019]. Our results show trophic position of top predators (harbor seals) can also have delayed responses to bottom-up forcing of ocean conditions with up to a 2-year ecological delay. @Reum2011 found age-0 Pacific herring abundance in Puget Sound was also positively correlated with annual upwelling in the Strait of Georgia. Consumption of a greater proportion of these low-trophic level juvenile fishes by harbor seals could explain the negative correlation between trophic position and upwelling in the physiological delay model (Figure \@ref(fig:coefsmodel)c). 
+
+###Delayed trophic position response to prey abundance
+Harbor seal trophic position responds to the abundance of multiple prey species and the magnitude and direction of the response depends on both the individual species and temporal delay. Pacific hake and Pacific herring have frequently been documented as common prey sources in Washington harbor seal diet [@Thomas2011; @Lance2012]. For some species of hake, trophic level can differ by as much as 0.6 among individuals of different size classes [@Iitembu2012]. In years when Pacific hake spawning biomass is high, and the years following high spawning biomass, harbor seal trophic position increases, indicating harbor seals are opportunistically feeding on large, adult-stage hake (Figure \@ref(fig:conceptual)d). In contrast to Pacific hake, harbor seal trophic position exhibited a negative relationship with herring spawning biomass. The relative abundance of adult to juvenile herring in harbor seal diet varies between years [@Lance2012] and harbor seals are known to preferentially consume juveniles during herring spawning season and adult herring during the non-spawning season [@Thomas2011]. Our results agree with these findings and indicate a trophic shift in response to herring spawning biomass (Figure \@ref(fig:coefsmodel)c), which is likely a result of increased juvenile consumption during the spawning season. Alternatively, this result may be due to covariation with a third variable. For example, upwelling was also correlated to harbor seal trophic position in the physiological delay model and is known to impact herring abundance [@Reum2011]. 
+
+Harbor seals opportunistically consume more low-trophic level smolts when they are abundant which occurs in the two years after high spawner abundance (Figure \@ref(fig:conceptual)). Escapement counts represent the number of adult salmon that return to freshwater to spawn after they have been both fished and predated on and serve as a strong predictor of out migrating smolts during the next two years. After hatching, fry and parr reside in freshwater for 12-18 months before migrating to estuaries. The 1- and 2- year delayed negative response of harbor seal trophic position to Chinook salmon escapements counts agrees with previous studies documenting harbor seal consumption of out-migrating smolts (Figure \@ref(fig:conceptual)d, @Thomas2017, @Lance2012). In contrast, a combined index of hatchery Chinook smolt production and wild Chinook smolt production offers the best predictor of adult salmon availability to harbor seals (Figure \@ref(fig:conceptual)). The positive relationship between harbor seal trophic position and smolt production indicates smolt production is a better indicator of adult Chinook salmon prey availability to harbor seals than escapement counts. Chinook salmon spend 1-7 years the ocean before returning to freshwater to spawn, and escapement counts only represents the age class of fish that are returning to spawn in a given year. In contrast, smolt production in the current year and during the previous two years provides an index of adult salmon abundance that are available to and predated upon by harbor seals (Figure \@ref(fig:conceptual)d). Notably, the salmon abundance estimates in this study were specific to Washington Chinook salmon. It is possible that harbor seal trophic position estimates have stronger associations with metrics of total abundance of all species of Pacific salmon if harbor seals are not selective of the salmon they species consume. However, data available for other species in the region did not provide enough temporal overlap with the trophic position data and thus were omitted. Regardless, this analysis indicates both adult and juvenile Chinook salmon contribute to harbor seal trophic ecology and predation on both age classes may be an important component for at sea survival of Washington Chinook salmon. 
+
+Management of predators that consume threatened, economically important prey species such as harbor seals requires extensive tradeoffs [@Marshall2016]. Harbor seals demonstrate large variations in trophic ecology in response to location, prey availability, and ocean condition thus, they exert dynamic top-down effects on the community in which they forage. The balance of top-down versus bottom-up effects on food webs in response to resource perturbations is determined by a top predator’s ability to exploit subsidies [@McCary2021]. Our results also show the response of trophic position (and assumed predation) change is often delayed on the order of 1-2 years in response to ecological conditions. Currently, model estimates of total biomass of Chinook salmon consumed by harbor seals is assumed to be static through time [@Chasco2017]. Based on our results and others [@Wilson2014; @Lance2012] this is likely inaccurate as seasonality, spatial location, and individual behavior impact harbor seal predation. This variability in foraging ecology should be carefully considered when assessing tradeoffs of predator management decisions to ensure realized expectations for stakeholders. Spatially distinct management strategies that are reevaluated in the context of changing ecological conditions will likely be important for managing harbor seal prey given their dynamic foraging strategies and trophic responses. 
+
+###Advances in the application of amino acid based trophic position calculations	 
+CSIA is a powerful tool for reconstructing historical ecological data that requires consideration for system specific dynamics for accurate trophic position estimates. Despite its benefits compared to traditional bulk stable isotope analysis, CSIA is sensitive to the parameterization of trophic position equation [@McMahon2019; @Germain2013] (Figure \@ref(fig:nbeta) & \@ref(fig:nvbeta)). Application of a multi-TEF approach has led to consistent underestimates of trophic position compared to known feeding ecology [@McMahon2019; @McMahon2015; @Germain2013] despite its more realistic representation of metabolic pathways compared to a single-TEF approach. Thus, the utility and reliability of CSIA for trophic position studies for retrospective analyses requires careful consideration of the trophic enrichment factors, tissue turnover, and $\beta$ values applied. Harbor seals are expected to exhibit a trophic position ranging from approximately 3.5 to 5 and only 12\%-66\% of data fell within this range when applying $\beta_{(i-o),N}$(Figure \@ref(fig:nbeta)). Seagrasses are abundant in coastal Washington and the Salish Sea and there is evidence of food web coupling in these coastal environments [@Howe2015] therefore vascular primary producers are expected to contribute to these food webs requiring a system specific $\beta$ value. Variation in vascular plant abundance over time could result in temporal changes to the relative contribution of these primary producers to the food web which would require the application of a time-varying $\beta$ value. We did not find evidence of temporal trends in $\delta^{13}C$ data in harbor seals [@Feddern2021] which would be expected if seagrass contribution to the food web was time-varying and therefore a temporally static $\beta$ value was appropriate for this study. By applying a system specific $\beta$ value based on expected proportions of primary producer ecophysiology types entering the food web, we significantly improved the realism of our trophic position estimates. We therefore recommend using a multi-trophic enrichment factor approach with taxa specific trophic enrichment factors and system-specific $\beta$ when there is evidence of vascular plant contributions to the food web. 
+
+More research is needed to investigate the degree to which top predator trophic position change can serve as an indicator of top-down control on the community, which undoubtedly depends on food web structure of a given system (i.e., degree of omnivory, connectance). Regardless, delayed predator dynamics are not limited to marine or nearshore environments, although the temporal scales for delayed trophic responses for other predators and systems warrants investigation. Anticipating delayed responses may be equally important for identifying long-term ecological consequences in response to future climate perturbations, especially as extreme climate events become frequent and more severe. 
+
+The regulation of food web structure by resources is foundational for understanding ecosystem response to perturbations. Based on our findings, nearshore marine predators exhibit a trophic response to ecological change on multiple temporal scales, as different ecological perturbations propagate through the food web at different rates. As such, changes to predator trophic ecology can have consequences throughout the food web that are not immediately realized especially following environmental perturbations. Impacts of the 2014-2016 marine heatwave in the Gulf of Alaska (the longest lasting event of the past decade) are still being observed and some ecological responses have persisted for up to 5 years [@Suryan2021]. Delayed responses of marine predators should be considered when anticipating ecological responses following extreme environmental and ecological events as top-down pressure on the community in subsequent years is likely to change as predators shift their trophic ecology in response to their environment.
+
+
+(Figure \@ref(fig:coefsmodel)d)
 \clearpage
 
 ##Tables
@@ -145,6 +180,121 @@ caption = "Prey Availability Candidate Models",
 kableExtra::column_spec(supp1, column=2:4, width = "7em")
 
 ```
+\clearpage
+
+**Table** \@ref(tab:pdoc): Top ten ocean condition models with the most support (lowest $AIC_c$) with a physiological delay applied. 
+
+```{r pdoc,echo=FALSE}
+supp1 <- read.csv("data/Ch3/TableS7.csv")
+colnames(supp1) <- c("Covariates",
+                           "$AIC_c$",
+                            "$\\Delta AIC_c$")
+
+supp1 <- kableExtra:::kable_styling(knitr::kable(supp1, "latex", escape = FALSE,
+caption = "Physiological delay top 10 models (ocean condition)",
+                  longtable = TRUE, booktabs = TRUE
+                  ),font_size = 8)
+ 
+kableExtra::column_spec(supp1, column=1, width = "25em")
+
+```
+\clearpage
+
+**Table** \@ref(tab:1dec): Top ten ocean condition models with the most support (lowest $AIC_c$) with a 1-year ecological delay applied. 
+
+```{r 1dec,echo=FALSE}
+supp1 <- read.csv("data/Ch3/TableS8.csv")
+colnames(supp1) <- c("Covariates",
+                           "$AIC_c$",
+                            "$\\Delta AIC_c$")
+
+
+supp1 <- kableExtra:::kable_styling(knitr::kable(supp1, "latex", escape = FALSE,
+caption = "1-year ecological delay top 10 models (ocean condition)",
+                  longtable = TRUE, booktabs = TRUE
+                  ),font_size = 8)
+ 
+kableExtra::column_spec(supp1, column=1, width = "25em")
+
+```
+\clearpage
+
+**Table** \@ref(tab:2dec): Top ten ocean condition models with the most support (lowest $AIC_c$) with a 2-year ecological delay applied. 
+
+```{r 2dec,echo=FALSE}
+supp1 <- read.csv("data/Ch3/TableS9.csv")
+colnames(supp1) <- c("Covariates",
+                           "$AIC_c$",
+                            "$\\Delta AIC_c$")
+
+
+supp1 <- kableExtra:::kable_styling(knitr::kable(supp1, "latex", escape = FALSE,
+caption = "2-year ecological delay top 10 models (ocean condition)",
+                  longtable = TRUE, booktabs = TRUE
+                  ),font_size = 8)
+ 
+kableExtra::column_spec(supp1, column=1:7, width = "25em")
+
+```
+\clearpage
+
+
+**Table** \@ref(tab:pdfw): Top ten prey availability models with the most support (lowest $AIC_c$) with a physiological delay applied.  
+
+```{r pdfw,echo=FALSE}
+supp1 <- read.csv("data/Ch3/TableS10.csv")
+colnames(supp1) <- c("Covariates",
+                           "$AIC_c$",
+                            "$\\Delta AIC_c$")
+
+
+supp1 <- kableExtra:::kable_styling(knitr::kable(supp1, "latex", escape = FALSE,
+caption = "Physiological Delay Top 10 Models (Prey Availability)",
+                  longtable = TRUE, booktabs = TRUE
+                  ),font_size = 8)
+ 
+kableExtra::column_spec(supp1, column=1, width = "25em")
+
+```
+\clearpage
+
+**Table** \@ref(tab:1dfw): Top ten prey availability models with the most support (lowest $AIC_c$) with a 1-year ecological delay applied.   
+
+```{r 1dfw,echo=FALSE}
+supp1 <- read.csv("data/Ch3/TableS11.csv")
+colnames(supp1) <- c("Covariates",
+                           "$AIC_c$",
+                            "$\\Delta AIC_c$")
+
+
+supp1 <- kableExtra:::kable_styling(knitr::kable(supp1, "latex", escape = FALSE,
+caption = "1-Year Ecological Top 10 Models (Prey Availability)",
+                  longtable = TRUE, booktabs = TRUE
+                  ),font_size = 8)
+ 
+kableExtra::column_spec(supp1, column=1, width = "25em")
+
+```
+\clearpage
+
+**Table** \@ref(tab:2dfw): Top ten prey availability models with the most support (lowest $AIC_c$) with a 2-year ecological delay applied.   
+
+```{r 2dfw,echo=FALSE}
+supp1 <- read.csv("data/Ch3/TableS12.csv")
+colnames(supp1) <- c("Covariates",
+                           "$AIC_c$",
+                            "$\\Delta AIC_c$")
+
+
+supp1 <- kableExtra:::kable_styling(knitr::kable(supp1, "latex", escape = FALSE,
+caption = "2-Year Ecological Top 10 Models (Prey Availability)",
+                  longtable = TRUE, booktabs = TRUE
+                  ),font_size = 8)
+ 
+kableExtra::column_spec(supp1, column=1, width = "25em")
+
+```
+\clearpage
 
 
 ##Figures
@@ -159,4 +309,123 @@ kableExtra::column_spec(supp1, column=2:4, width = "7em")
   (\#fig:map3)
 \end{figure}
 
+\clearpage
+
+**Figure** \@ref(fig:year): Time series of harbor seal trophic position in a) coastal Washington and b) the Salish Sea for five different trophic amino acids (glutamic acid, alanine, aspartic acid, valine, and proline) calculated using the source amino acid phenylalanine. Color corresponds to trophic amino acid, while line shows the fit of a generalized additive model with a smoothed term by year and a k of 6. * denotes a significant smoothed term.
+\newline 
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.8\textwidth]{figure/Ch3/FigureS6.pdf}
+  \caption{Temporal trends of harbor seal trophic position}
+  (\#fig:year)
+\end{figure}
+
+\clearpage
+
+**Figure** \@ref(fig:sexWA): Sex specific trophic position for male (M) and female (F) harbor seals pooled over the past century and calculated using five different trophic amino acids (glutamic acid, alanine, aspartic acid, valine, and proline) for a) Salish Sea and b) coastal Washington specimens. 
+\newline 
+
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.85\textwidth]{figure/Ch3/FigureS5.pdf}
+  \caption{Sex differences of harbor seal trophic position}
+  (\#fig:sexWA)
+\end{figure}
+
+\clearpage
+
+**Figure** \@ref(fig:lengthWA): Relationship between harbor seal size (standard length, cm) and trophic position calculated using five different trophic amino acids (glutamic acid, alanine, aspartic acid, valine, and proline). 
+\newline 
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.55\textwidth]{figure/Ch3/FigureS4.pdf}
+  \caption{Size trends of harbor seal trophic position}
+  (\#fig:lengthWA)
+\end{figure}
+
+\clearpage
+
+
+**Figure** \@ref(fig:season): Analysis of seasonality of harbor seal trophic position for five different trophic amino acids (glutamic acid, alanine, aspartic acid, valine, and proline) calculated using with $\beta_{(i-o),NV}$, line shows the fit of a generalized additive model with a smoothed term by month (1 = January, 12 = December). Smoothed terms were not significant.
+\newline 
+
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.55\textwidth]{figure/Ch3/FigureS1.pdf}
+  \caption{Seasonality of harbor seal trophic position}
+  (\#fig:season)
+\end{figure}
+
+\clearpage
+
+\begin{landscape}
+Figure 3.6: Time series of residuals by year for the three ocean condition models (physiological delay, 1-year ecological delay, 2-year ecological delay) with the most support for the four different trophic amino acids used in the models (glutamic acid, alanine, valine, and proline) with trophic position calculated using the source amino acid phenylalanine. Color corresponds to trophic amino acid, line shows the fit of a generalized additive model with a smoothed term by year and a k of 6. * denotes a significant smoothed term.
+\newline 
+
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.95\textwidth]{figure/Ch3/FigureS7.pdf}
+  \caption{Temporal trends in ocean condition model residuals}
+  (\#fig:ocresid)
+\end{figure}
+\end{landscape}
+\clearpage
+
+\begin{landscape}
+Figure 3.7: Time series of residuals by year for the three food web models (physiological delay, 1-year ecological delay, 2-year ecological delay) with the most support for the four different trophic amino acids used in the models (glutamic acid, alanine, valine, and proline) with trophic position calculated using the source amino acid phenylalanine. Color corresponds to trophic amino acid, line shows the fit of a generalized additive model with a smoothed term by year and a k of 6. * denotes a significant smoothed term.
+\newline 
+
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.95\textwidth]{figure/Ch3/FigureS8.pdf}
+  \caption{Temporal trends in prey availability model residuals}
+  (\#fig:prresid)
+\end{figure}
+\end{landscape}
+\clearpage
+
+
+
+**Figure** \@ref(fig:coefsmodel): Coefficient estimates (dots) for the best ocean condition (a-c) and prey availability (d-f) hierarchical models with 95\% confidence intervals (whiskers). Y-axis labels describe each covariate for supported models ($\Delta AIC_c$ < 2) and x-axis is the coefficient estimate for each covariate (magnitude of trophic level change in response to the covariate). Colors correspond to the temporal lags applied to the 2-year ecological delay models (pink, a and f), 1-year ecological delay models (blue, b and e) and physiological delay models (green, c and d).
+\newline 
+
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.99\textwidth]{figure/Ch3/Figure2.pdf}
+  \caption{Coefficients of harbor seal trophic position models}
+  (\#fig:coefsmodel)
+\end{figure}
+\clearpage
+
+**Figure** \@ref(fig:conceptual): Conceptual diagram interpreting the mechanism of trophic position response (d) to estimated model coefficients (Fig. 2d-f) included in the best food web models ($\Delta AIC_c$ < 2) for the 2-year ecological delay models (a, pink arrows), 1-year ecological delay models (b, blue arrows) and the physiological delay models (c, green arrows). Solid arrows indicate indirect effects of covariates on harbor seal trophic position, signs indicate the direction of trophic position response based on coefficient estimates, and dashed arrows conceptually represent the mechanism directly impacting harbor seal trophic position. 
+\newline 
+
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.9\textwidth]{figure/Ch3/Figure3.pdf}
+  \caption{Conceptual representation of trophic position response to prey}
+  (\#fig:conceptual)
+\end{figure}
+\clearpage
+
+**Figure** \@ref(fig:nbeta): Distributions (density of probability, y-axis) of calculated trophic position (x-axis) for harbor seals in this study. Parameter values are described in Table \@ref(tab:tpparam). Colors correspond to trophic amino acids (*Tr*) and the grey box represents ecologically realistic trophic positions for harbor seals if they were to predate 1 trophic position above herring (trophic position of 2.5, minimum expected value) and one trophic position below killer whales (trophic position of 6, maximum). The value within the grey box corresponds to the percentage of observed trophic position values that fell within the ecologically realistic range. 
+\newline 
+
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.7\textwidth]{figure/Ch3/FigureS2.pdf}
+  \caption{Trophic position estimates applying $\beta_{(i-o),N}$}
+  (\#fig:nbeta)
+\end{figure}
+\clearpage
+
+**Figure** \@ref(fig:nvbeta): Distributions (density of probability, y-axis) of calculated trophic position (x-axis) for harbor seals in this study applying four trophic position equation parameterizations and $\beta_{(i-o),NV}$ instead of $\beta_{(i-o),N}$. 
+\newline 
+
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.8\textwidth]{figure/Ch3/FigureS3.pdf}
+  \caption{Trophic position estimates applying $\beta_{(i-o),NV}$}
+  (\#fig:nvbeta)
+\end{figure}
 \clearpage

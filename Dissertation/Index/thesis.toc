@@ -2,7 +2,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\@textofLoF }{iv}{chapter*.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\@textofLoT }{vi}{chapter*.3}%
+\contentsline {chapter}{\@textofLoT }{vii}{chapter*.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Introduction}{1}{chapter*.6}%
 \defcounter {refsection}{0}\relax 
@@ -16,7 +16,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.3.1}\emph {Site Description and Sample Collection}}{9}{subsection.1.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.2}\emph {Soil nitrogen concentrations and transformations}}{10}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.2}\emph {Soil nitrogen concentrations and transformations}}{11}{subsection.1.3.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.3.3}\emph {Stable isotope analysis}}{11}{subsection.1.3.3}%
 \defcounter {refsection}{0}\relax 
@@ -36,13 +36,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}Introduction}{34}{section.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Methods}{37}{section.2.3}%
+\contentsline {section}{\numberline {2.3}Methods}{38}{section.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.1}Sample Collection and Analysis}{37}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.1}Sample Collection and Analysis}{38}{subsection.2.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.2}Quantifying effects of ocean condition on food web isotope indices}{40}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.2}Quantifying effects of ocean condition on food web isotope indices}{41}{subsection.2.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.3}Gaussian Process Dynamic Factor Analysis (GPDFA)}{42}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.3}Gaussian Process Dynamic Factor Analysis (GPDFA)}{43}{subsection.2.3.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.4}Results}{45}{section.2.4}%
 \defcounter {refsection}{0}\relax 
@@ -52,72 +52,94 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.5.2}Ocean condition and stable isotope indices}{50}{subsection.2.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.3}Using stable isotopes as food web indicators}{53}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.3}Using stable isotopes as food web indicators}{54}{subsection.2.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.6}Tables}{56}{section.2.6}%
+\contentsline {section}{\numberline {2.6}Tables}{57}{section.2.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.7}Figures}{62}{section.2.7}%
+\contentsline {section}{\numberline {2.7}Figures}{63}{section.2.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {\@textofChapter \ 3:}Delayed trophic response of a marine predator to ocean condition and prey availability during the past century}{79}{chapter.3}%
+\contentsline {chapter}{\numberline {\@textofChapter \ 3:}Delayed trophic response of a marine predator to ocean condition and prey availability during the past century}{80}{chapter.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Abstract}{79}{section.3.1}%
+\contentsline {section}{\numberline {3.1}Abstract}{80}{section.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Introduction}{80}{section.3.2}%
+\contentsline {section}{\numberline {3.2}Introduction}{81}{section.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Methods}{83}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Methods}{84}{section.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Sample collection and analysis}{83}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.1}Sample collection and analysis}{84}{subsection.3.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}Trophic position determination}{83}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.2}Trophic position determination}{84}{subsection.3.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.3}Quantifying bottom-up drivers of foraging}{85}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.3}Quantifying bottom-up drivers of foraging}{86}{subsection.3.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Tables}{87}{section.3.4}%
+\contentsline {section}{\numberline {3.4}Results}{88}{section.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Figures}{94}{section.3.5}%
+\contentsline {subsection}{\numberline {3.4.1}Drivers of predator trophic position}{88}{subsection.3.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {\@textofChapter \ 4:}Recent divergent changes in Alaskan pinniped trophic position detected using compound-specific stable isotope analysis}{95}{chapter.4}%
+\contentsline {subsection}{\numberline {3.4.2}Parameterization of the trophic position equation}{90}{subsection.3.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Abstract}{95}{section.4.1}%
+\contentsline {section}{\numberline {3.5}Discussion}{91}{section.3.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Introduction}{96}{section.4.2}%
+\contentsline {subsection}{\numberline {3.5.1}Delayed trophic position response to environmental conditions}{91}{subsection.3.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Methods}{100}{section.4.3}%
+\contentsline {subsection}{\numberline {3.5.2}Delayed trophic position response to prey abundance}{92}{subsection.3.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.1}Sample collection and analysis}{100}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {3.5.3}Advances in the application of amino acid based trophic position calculations}{94}{subsection.3.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.2}Trophic position calculation}{101}{subsection.4.3.2}%
+\contentsline {section}{\numberline {3.6}Tables}{97}{section.3.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.3}Model framework}{102}{subsection.4.3.3}%
+\contentsline {section}{\numberline {3.7}Figures}{110}{section.3.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Results}{104}{section.4.4}%
+\contentsline {chapter}{\numberline {\@textofChapter \ 4:}Recent divergent changes in Alaskan pinniped trophic position detected using compound-specific stable isotope analysis}{121}{chapter.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4.1}Common trends in Alaskan pinniped trophic position}{104}{subsection.4.4.1}%
+\contentsline {section}{\numberline {4.1}Abstract}{121}{section.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4.2}Spatial and temporal differences in pinniped trophic structure}{106}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.2}Introduction}{122}{section.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.5}Discussion}{107}{section.4.5}%
+\contentsline {section}{\numberline {4.3}Methods}{126}{section.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.5.1}Regional and species trends in harbor seal trophic position}{107}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.3.1}Sample collection and analysis}{126}{subsection.4.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.5.2}Recent trophic position changes in the Gulf of Alaska}{108}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.3.2}Trophic position calculation}{127}{subsection.4.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.5.3}Considerations and limitations for CSIA analyses}{110}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.3.3}Model framework}{128}{subsection.4.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.5.4}Conclusions and Implications}{112}{subsection.4.5.4}%
+\contentsline {section}{\numberline {4.4}Results}{130}{section.4.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.6}Tables}{113}{section.4.6}%
+\contentsline {subsection}{\numberline {4.4.1}Common trends in Alaskan pinniped trophic position}{130}{subsection.4.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.7}Figures}{115}{section.4.7}%
+\contentsline {subsection}{\numberline {4.4.2}Spatial and temporal differences in pinniped trophic structure}{132}{subsection.4.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Conclusion}{122}{chapter*.7}%
+\contentsline {section}{\numberline {4.5}Discussion}{133}{section.4.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {\@textofAppendix \ A:}Appendix 1}{123}{appendix.A}%
+\contentsline {subsection}{\numberline {4.5.1}Regional and species trends in harbor seal trophic position}{133}{subsection.4.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}Full analytical details for stable isotopes}{123}{section.A.1}%
+\contentsline {subsection}{\numberline {4.5.2}Recent trophic position changes in the Gulf of Alaska}{134}{subsection.4.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {\@textofAppendix \ B:}The Second Appendix, for Fun}{125}{appendix.B}%
+\contentsline {subsection}{\numberline {4.5.3}Considerations and limitations for CSIA analyses}{136}{subsection.4.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Colophon}{126}{appendix*.8}%
+\contentsline {subsection}{\numberline {4.5.4}Conclusions and Implications}{138}{subsection.4.5.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{References}{130}{appendix*.9}%
+\contentsline {section}{\numberline {4.6}Tables}{139}{section.4.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.7}Figures}{141}{section.4.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {\@textofChapter \ 5:}The influence of temporal isotope heterogeneity and isotope incorporation rates on consumer trophic position estimation}{148}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Tables}{149}{section.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Figures}{153}{section.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Conclusion}{166}{chapter*.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {\@textofAppendix \ A:}Appendix 1}{167}{appendix.A}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}Text 1: Full analytical details for stable isotopes}{167}{section.A.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}Text 2: Identifying size and sex-based trends in harbor seal trophic position}{169}{section.A.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.3}Text 3: Identifying temporal trends in harbor seal trophic position}{170}{section.A.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.4}Text 4: Accounting for variability in trophic enrichment factors}{171}{section.A.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{References}{175}{appendix*.8}%

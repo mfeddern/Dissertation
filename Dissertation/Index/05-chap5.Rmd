@@ -1,0 +1,205 @@
+<!--
+The {#rmd-basics} text after the chapter declaration will allow us to link throughout the document back to the beginning of Chapter 1.  These labels will automatically be generated (if not specified) by changing the spaces to hyphens and capital letters to lowercase.  Look for the reference to this label at the beginning of Chapter 2.
+-->
+
+# The influence of temporal isotope heterogeneity and isotope incorporation rates on consumer trophic position estimation
+
+\clearpage
+
+##Tables
+
+**Table** \@ref(tab:base): Summary of observational nitrogen stable isotope baseline data used for modelling case studies.  
+
+```{r base,echo=FALSE}
+supp1 <- read.csv("data/Ch5/Table1.csv")
+colnames(supp1) <- c("Study",
+                     "Taxa",
+                     "Season of Data",
+                     "Range of \n Isotopic Change",
+                     "Ecosystem",
+                     "Location")
+supp1 <- kableExtra:::kable_styling(knitr::kable(supp1, "latex", escape = FALSE,
+caption = "Baseline environments",
+                  longtable = TRUE, booktabs = TRUE
+                  ),font_size = 8, full_width=F)
+ 
+kableExtra::column_spec(supp1, column=1:6, width = "8em")
+
+```
+\clearpage
+
+**Table** \@ref(tab:durdev):  Duration of trophic position deviation (number of days the magnitude of trophic position estimation error is greater than ± 0.5 trophic levels from ($\hat{tp}$) for each of the of the six, bulk stable isotope food web scenarios (Figure 5.1).
+```{r durdev,echo=FALSE}
+supp1 <- read.csv("data/Ch5/Table2.csv")
+colnames(supp1) <- c("Trophic Position",
+                     "Scenario 1",
+                     "Scenario 2",
+                     "Scenario 3",
+                     "Scenario 4",
+                     "Scenario 5",
+                     "Scenario 6")
+supp1 <- kableExtra:::kable_styling(knitr::kable(supp1, "latex", escape = FALSE,
+caption = "Trophic Position Duration of Deviation",
+                  longtable = TRUE, booktabs = TRUE
+                  ),font_size = 8)
+kableExtra::column_spec(supp1, column=1:5, width = "6em")
+```
+\clearpage
+
+**Table** \@ref(tab:dur): Duration of trophic position deviation (number of days the magnitude of trophic position estimation error is greater than ± 0.5 trophic levels from ($\hat{tp}$) for each of the of the two CSIA food web scenarios (Figure \@ref(fig:CSIA)).
+
+```{r dur,echo=FALSE}
+supp1 <- read.csv("data/Ch5/Table3.csv")
+colnames(supp1) <- c("Amino Acid",
+                     "Baseline 1 (365)",
+                     "Baseline 2 (365)",
+                     "Baseline 3 (233)",
+                     "Baseline 4 (351)")
+supp1 <- kableExtra:::kable_styling(knitr::kable(supp1, "latex", escape = FALSE,
+caption = "Duration of Trophic Position Deviation (days)",
+                  longtable = TRUE, booktabs = TRUE
+                  ),font_size = 8)
+kableExtra::column_spec(supp1, column=1, width = "8em")
+```
+\clearpage
+
+**Table** \@ref(tab:rangetp): Range of trophic position estimates applying a 90-day lag between baseline sampling and consumer sampling for calculations A) trophic position estimates using POM as the stable isotope baseline and B) trophic position estimates using the primary consumer as the stable isotope baseline
+
+```{r rangetp,echo=FALSE}
+supp1 <- read.csv("data/Ch5/Table4.csv")
+colnames(supp1) <- c("Scenario",
+                     "Baseline",
+                     "Primary Consumer (tp = 2)",
+                     "Secondary Consumer (tp = 3)",
+                     "Tertiary Consumer (tp = 4)")
+supp1 <- kableExtra:::kable_styling(knitr::kable(supp1, "latex", escape = FALSE,
+caption = "Range of Trophic position estimates with different baselines",
+                  longtable = TRUE, booktabs = TRUE
+                  ),font_size = 8)
+kableExtra::column_spec(supp1, column=1:5, width = "6em")
+```
+\clearpage
+
+##Figures
+\begin{landscape}
+Figure 5.1: Six theoretical food web scenarios for BSIA model constructed from consumer experimental stable isotope half-life ($t_{0.5}$) studies and observed nitrogen stable isotopes values of particulate organic matter (baselines 1-4; Table 5.2) from four distinct aquatic systems. Three comparisons were made between two food web scenarios: 1) different $t_{0.5}$ of the secondary consumer 2) different $t_{0.5}$ of the secondary and tertiary consumer 3) different baseline from particulate organic matter. 
+\newline 
+\begin{figure}[h]
+\centering
+  \includegraphics[width=1.05\textwidth]{figure/Ch5/Figure1.pdf}
+  \caption{BSIA theoretical food web scenarios}
+  (\#fig:BSIA)
+\end{figure}
+\end{landscape}
+\clearpage
+
+**Figure** \@ref(fig:CSIA): A theoretical food web for CSIA model constructed from consumer experimental stable isotope half-life ($t_{0.5}$) studies and applied to observed nitrogen stable isotopes values of particulate organic matter from all four distinct aquatic systems (baselines 1- 4, Table 5.2).
+\newline 
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.75\textwidth]{figure/Ch5/Figure2.pdf}
+  \caption{CSIA theoretical food web scenarios}
+  (\#fig:CSIA)
+\end{figure}
+\clearpage
+
+**Figure** \@ref(fig:EffectSize): Depiction of the two effect sizes used to assess accuracy of trophic position estimation in this study 1) the magnitude of trophic position estimation error which describes the degree to which trophic position is over or under estimated and 2) the duration of deviation which describes the length of time over the course of the model simulation that trophic position was erroneously estimated by ± 0.5 trophic levels. 
+\newline 
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.85\textwidth]{figure/Ch5/Figure3.pdf}
+  \caption{Trophic position estimation error effect sizes}
+  (\#fig:EffectSize)
+\end{figure}
+\clearpage
+
+**Figure** \@ref(fig:BSIA15N): Simulated primary, secondary, and tertiary consumer bulk nitrogen stable isotope values ($\delta^{15}N$) for six (A-F) food web scenarios (Figure 5.1) using $\delta^{15}N$ of particulate organic matter from observational studies as the stable isotope baseline (Table 5.1).  
+\newline 
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.65\textwidth]{figure/Ch5/Figure4.pdf}
+  \caption{BSIA simulted $\delta^{15}N$}
+  (\#fig:BSIA15N)
+\end{figure}
+\clearpage
+
+**Figure** \@ref(fig:BSIATP): Trophic position estimation error based on simulated primary, secondary, and tertiary consumer bulk nitrogen stable isotope values ($\delta^{15}N$) for six (A-F) food web scenarios (Figure 5.1) and three main comparisons using POM stable isotope values to calculate trophic position. 0 denotes the true trophic level of a given consumer and grey box denotes trophic position deviation of ± 0.5 trophic levels and used to calculate duration of deviation.
+\newline 
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.6\textwidth]{figure/Ch5/Figure5.pdf}
+  \caption{BSIA simulated trophic position}
+  (\#fig:BSIATP)
+\end{figure}
+\clearpage
+
+**Figure** \@ref(fig:CSIA15N): Simulated amino acid (color) nitrogen CSIA values ($\delta^{15}N$) for primary (A, C, E, G) and secondary (B, D, F, H) consumers using four stable isotope baselines derived from observational particulate organic matter studies (Table 5.1, Figure \@ref(fig:CSIA)).
+\newline 
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.6\textwidth]{figure/Ch5/Figure6.pdf}
+  \caption{CSIA simulated $\delta^{15}N$}
+  (\#fig:CSIA15N)
+\end{figure}
+\clearpage
+
+**Figure** \@ref(fig:CSIATP): Trophic position estimation error from simulated amino acid (color) nitrogen CSIA values ($\delta^{15}N$) for primary (A, C, E, G) and secondary (B, D, F, H) consumers using four stable isotope baselines derived from observational particulate organic matter studies (Table 1, Figure \@ref(fig:CSIA)). 0 denotes the true trophic level of a given consumer and grey box denotes trophic position deviation of ± 0.5 trophic levels and used to calculate duration of deviation.
+\newline 
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.55\textwidth]{figure/Ch5/Figure7.pdf}
+  \caption{CSIA simulated trophic position}
+  (\#fig:CSIATP)
+\end{figure}
+\clearpage
+
+**Figure** \@ref(fig:SensBSIA): Sensitivity analysis of the magnitude of trophic position estimation error from bulk stable isotope values in response to primary, secondary, and tertiary (color) consumer stable isotope half-life values for a single simulated stable isotope baseline (a). Solid line denotes mean magnitude of estimation error across the 125-day baseline simulation (A) for a given half-life and shaded region denotes 1 standard deviation from the mean. 0, in B-D, represents the true trophic level of a consumer.
+\newline 
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.55\textwidth]{figure/Ch5/Figure8.pdf}
+  \caption{BSIA tissue turnover sensitivity analysis}
+  (\#fig:SensBSIA)
+\end{figure}
+\clearpage
+
+**Figure** \@ref(fig:SensCSIAlys): Sensitivity analysis of the magnitude of trophic position estimation error from CSIA for primary, secondary, and tertiary (color) consumer stable isotope half-life values for a single simulated stable isotope baseline (a). The source amino acid line denotes the single half-life value (130 days, lysine tuna) of the source amino acid modelled in this analysis. Solid line denotes mean magnitude of estimation error across the 125-day baseline simulation (A) for a given half-life and shaded region denotes 1 standard deviation from the mean. 0, in B-D, represents the true trophic level of a consumer.
+\newline 
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.75\textwidth]{figure/Ch5/Figure9.pdf}
+  \caption{CSIA tissue turnover sensitivity analysis: lysine}
+  (\#fig:SensCSIAlys)
+\end{figure}
+
+\clearpage
+
+**Figure** \@ref(fig:SensCSIAphe): Sensitivity analysis of the magnitude of trophic position estimation error from CSIA for primary, secondary, and tertiary (color) consumer stable isotope half-life values for a single simulated stable isotope baseline (a). The source amino acid line denotes the single half-life value (33 days, phenylamine in shrimp) of the source amino acid modelled in this analysis. Solid line denotes mean magnitude of estimation error across the 125-day baseline simulation (A) for a given half-life and shaded region denotes 1 standard deviation from the mean. 0, in B-D, represents the true trophic level of a consumer.
+\newline
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.75\textwidth]{figure/Ch5/Figure10.pdf}
+  \caption{CSIA tissue turnover sensitivity analysis: phenylalanine}
+  (\#fig:SensCSIAphe)
+\end{figure}
+\clearpage
+
+**Figure** \@ref(fig:TissueTurn): Nitrogen stable isotope half-life values (days) experimentally derived for a) bulk stable isotope analysis (Vander Zanden et al. 2015) for different species (label) and tissues (color) and b) CSIA half-life values of individual amino acids (Downs et al. and Popp et al.) for different species (color) and amino acids (label). 
+\newline
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.85\textwidth]{figure/Ch5/Figure11.pdf}
+  \caption{Observed tissue half-life values}
+  (\#fig:TissueTurn)
+\end{figure}
+\clearpage
+
+**Figure** \@ref(fig:BSIATP2): Trophic position estimation error based on simulated primary, secondary, and tertiary consumer bulk nitrogen stable isotope values ($\delta^{15}N$) for six (A-F) food web scenarios (Figure 5.1) using the primary consumer stable isotope values to calculate trophic position. 0 denotes the true trophic level of a given consumer and grey box denotes trophic position deviation of ± 0.5 trophic levels used to calculate duration of deviation.
+\newline 
+\begin{figure}[h]
+\centering
+  \includegraphics[width=0.6\textwidth]{figure/Ch5/Figure12.pdf}
+  \caption{BSIA simulated trophic position: primary consumer baseline}
+  (\#fig:BSIATP2)
+\end{figure}
+\clearpage

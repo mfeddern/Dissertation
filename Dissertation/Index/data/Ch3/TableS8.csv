@@ -1,0 +1,12 @@
+﻿Covariates,AICc,delta AICc
+"15. SST (Summer), Upwelling (Spring), Location",734.84,0
+"16. SST (Summer), PDO, Upwelling (Spring), Location",736.55,1.7
+"18. SST (Summer), MEI, Upwelling (Spring), Location",736.65,1.81
+"17. SST (Summer), NPGO, Upwelling (Spring), Location",736.8,1.95
+"14. SST (Summer), MEI, Location",738.91,4.07
+"11. SST (Summer), Location",740.21,5.37
+"32. Columbia Discharge (High), SST (Summer), Location",741.3,6.46
+"12. SST (Summer), PDO, Location",741.34,6.49
+"34. SST (Summer), Upwelling (Summer), Location",741.99,7.15
+"13. SST (Summer), NPGO, Location",742.04,7.2
+,,

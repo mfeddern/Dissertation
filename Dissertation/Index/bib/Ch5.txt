@@ -1,0 +1,2116 @@
+@article{Anderson2007,
+   author = {Anderson, Caroline and Cabana, Gilbert},
+   title = {Estimating the trophic position of aquatic consumers in river food webs using stable nitrogen isotopes},
+   journal = {Journal of the North American Benthological Society},
+   volume = {26},
+   number = {2},
+   pages = {273-285},
+   abstract = {Abstract Intraspecific and interspecific variation in the trophic position of various consumers is central to many theories of aquatic ecosystem functioning and dynamics. In recent years, such issues have been addressed using stable N isotopes (δ15N) to estimate trophic position of consumers in aquatic ecosystems. However, one needs to correct for variation in baseline δ15N among sites to estimate the trophic position of any aquatic consumer using δ15N. We first discuss the steps needed to select a baseline indicator in river ecosystems, where abundant foodweb isotopic data have been published but limited attention has been paid to identification of baseline organisms. We examined within-site differences in δ15N among primary consumers belonging to different functional and taxonomic groups and found significant differences in δ15N. Collectors were significantly enriched compared to other primary consumers. We propose scrapers as a baseline δ15N indicator because they showed low δ15N values and were more w...},
+   keywords = {Articles
+Estimated taxes
+Fish
+Fish feeding
+food webs
+Fractionation
+Freshwater fishes
+Genera
+Invertebrates
+lotic
+Omnivores
+Scrapers
+stable nitrogen isotopes
+Trophic levels
+trophic position},
+   ISSN = {0887-3593},
+   DOI = {10.1899/0887-3593(2007)26[273:ETTPOA]2.0.CO;2},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{Atkinson1996,
+   author = {Atkinson, A.},
+   title = {Subantarctic copepods in an oceanic, low chlorophyll environment: ciliate predation, food selectivity and impact on prey populations},
+   journal = {Marine ecology. Progress series (Halstenbek)},
+   volume = {130},
+   number = {1/3},
+   pages = {85-96},
+   abstract = {Copepod feeding rates and food selectivity were measured at an oceanic subantarctic site over 5 d in February 1994. A series of gut fluorescence and gut evacuation experiments was carried out for species ranging in size from Oithona similis to Pleuromamma robusta. The copepods were also incubated in ambient seawater to compare their clearance rates on ciliates, diatoms and total chlorophyll a (chl a), using microscope counts and chlorophyll budgets. Mesozooplankton were concentrated into the top 50 m layer where biomass was high (5.5 g dry mass m−2) and comprised mainly (65%) of copepods. Copepod biomass was dominated by copepodite CV of Calanus simillimus. Numerically, however, Oithona spp. (mainly O. similis) constituted 85% of the copepods. These 2 species dominated copepod grazing and contributed to community grazing in about equal proportions. Chl a concentrations were low (∼0.7 mg m−3) and were comprised of mostly nano- and picoplankton. Low daily phytoplankton carbon rations were derived from the 2 methods which measured total chl a consumption. These ranged from 1.5% (CVI♀ C. simillimus) to 34 % of body carbon (late stage copepodites of Oithona spp.) These values were generally well below their estimated respiratory requirements, and probably reflected phytoplankton shortage because clearance rates were fairly high. Clearance rates for total chl a in the incubations tended to be less than those for the counted taxa > 10 μm, suggesting that some of the chl a was in cells too small to be eaten. Feeding selectivity followed a similar pattern across the 4 incubations. Highest clearance rates were on ciliates (∼15 μm), dinoflagellates (∼20 μm) or the diatom Corethron sp. (∼200 μm). Ciliates and dinoflagellates were cleared faster than centric diatoms of similar overall dimensions. It is suggested that the copepods were preying on protozoans preferentially, in response to phytoplankton shortage. Allometric relationships were used to derive the grazing and predation impact of the whole copepod community on primary production and estimated ciliate production. Less than 4% of primary production was removed per day. Copepod predation on ciliates was higher: 57% of daily production, assuming a net growth rate for ciliates of 0.1 d−1.},
+   keywords = {Carbon
+Chlorophylls
+Diatoms
+Fluorescence
+Food
+Food rationing
+Grazing
+Phytoplankton
+Plankton
+RESEARCH ARTICLES
+Taxa},
+   ISSN = {0171-8630},
+   DOI = {10.3354/meps130085},
+   year = {1996},
+   type = {Journal Article}
+}
+
+@article{Barth2007,
+   author = {Barth, John A. and Menge, Bruce A. and Lubchenco, Jane and Chan, Francis and Bane, John M. and Kirincich, Anthony R. and McManus, Margaret A. and Nielsen, Karina J. and Pierce, Stephen D. and Washburn, Libe},
+   title = {Delayed Upwelling Alters Nearshore Coastal Ocean Ecosystems in the Northern California Current},
+   journal = {Proceedings of the National Academy of Sciences - PNAS},
+   volume = {104},
+   number = {10},
+   pages = {3719-3724},
+   note = {Contributed by Jane Lubchenco, January 22, 2007
+Author contributions: J.A.B., B.A.M., J.L., F.C., M.A.M., and L.W. designed research; J.A.B., B.A.M., J.L., F.C., J.M.B., A.R.K., M.A.M., K.J.N., S.D.P., and L.W. performed research; J.A.B., B.A.M., J.L., F.C., J.M.B., A.R.K., M.A.M., K.J.N., S.D.P., and L.W. analyzed data; and J.A.B., B.A.M., J.L., F.C., J.M.B., A.R.K., M.A.M., K.J.N., S.D.P., and L.W. wrote the paper.},
+   abstract = {Wind-driven coastal ocean upwelling supplies nutrients to the euphotic zone near the coast. Nutrients fuel the growth of phytoplankton, the base of a very productive coastal marine ecosystem [Pauly D, Christensen V (1995) Nature 374:255-257]. Because nutrient supply and phytoplankton biomass in shelf waters are highly sensitive to variation in upwelling-driven circulation, shifts in the timing and strength of upwelling may alter basic nutrient and carbon fluxes through marine food webs. We show how a 1-month delay in the 2005 spring transition to upwelling-favorable wind stress in the northern California Current Large Marine Ecosystem resulted in numerous anomalies: warm water, low nutrient levels, low primary productivity, and an unprecedented low recruitment of rocky intertidal organisms. The delay was associated with 20- to 40-day wind oscillations accompanying a southward shift of the jet stream. Early in the upwelling season (May-July) off Oregon, the cumulative upwelling-favorable wind stress was the lowest in 20 years, nearshore surface waters averaged 2°C warmer than normal, surf-zone chlorophyll-a and nutrients were 50% and 30% less than normal, respectively, and densities of recruits of mussels and barnacles were reduced by 83% and 66%, respectively. Delayed early-season upwelling and stronger late-season upwelling are consistent with predictions of the influence of global warming on coastal upwelling regions.},
+   keywords = {Animals
+Biological Sciences
+Biomass
+Buoys
+California
+Carbon - metabolism
+Chlorophyll - chemistry
+climate variability
+Climatic changes
+coastal marine ecosystems
+coastal ocean upwelling
+Coasts
+Ecology
+Ecosystem
+Food Chain
+Larvae
+Marine Biology - methods
+marine ecology
+Marine ecosystems
+Mussels
+Mytilus
+Nutrients
+Oceans
+Oceans and Seas
+Oregon
+Physical Sciences
+Phytoplankton
+Research
+Seasons
+Temperature
+Thoracica
+Upwelling (Oceanography)
+Upwelling water},
+   ISSN = {0027-8424},
+   DOI = {10.1073/pnas.0700462104},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{Bastos2017,
+   author = {Bastos, Rodrigo F. and Corrêa, Fabiano and Winemiller, Kirk O. and Garcia, Alexandre M.},
+   title = {Are you what you eat? Effects of trophic discrimination factors on estimates of food assimilation and trophic position with a new estimation method},
+   journal = {Ecological indicators},
+   volume = {75},
+   pages = {234-241},
+   abstract = {•A new method to estimate trophic position of omnivores is proposed.•The method is based on the differential trophic discrimination of each source.•Mixing models results are used to construct the trophic discrimination factor.•The new method reflected the differential assimilation of plant and animal sources. A key factor for estimates of assimilation of resources and trophic position based on stable isotope data is the trophic discrimination factor (TDF). TDFs are assumed based on literature reviews, but may vary depending on a variety of factors, including the type of diet. We analyzed effects of alternative TDFs on estimates of assimilated resources and trophic positions for an omnivorous fish, Jenynsia multidentata, that reveals dietary variation among locations across a salinity gradient of a coastal lagoon in southern Brazil. We also compared estimates of foods ingested vs. foods assimilated. Food assimilation was estimated using carbon (δ13C) and nitrogen (δ15N) stable isotope ratios of food sources and consumer muscle tissue and an isotopic mixing model (SIAR); consumer trophic position (TP) was estimated from consumer and production source δ15N values. Diet was estimated using an index of relative importance based on frequency of occurrence and volumetric and numeric proportions of food items from stomach contents. The effect of variation in TDF on food assimilation and TP was tested using three alternative TDFs reported in review papers. We then created a new method that used food source-specific TDFs (reported separately for herbivores and carnivores) weighted in proportion to estimated assimilation of resources according to mixing model estimates to estimate TP (hereafter TPWAR). We found that plant material was not assimilated in a proportion similar to its importance in the diet of fish at a freshwater site, and the new method yielded best assimilation estimates. Animal material made greatest contributions to fish biomass irrespective of TDFs used in the mixing model. The new method produced TP estimates consistent with differences in estimated food assimilation along the salinity gradient. Our findings support the idea that food source-specific TDFs should be used in trophic studies of omnivores, since the method improved our ability to estimate trophic position and resource assimilation, two important ecological indicators.},
+   keywords = {Analysis
+Carnivory
+Diet shift
+Food
+Herbivory
+Isotopic fractionation
+Methods
+Omnivory
+Salinity
+Trophic enrichment},
+   ISSN = {1470-160X},
+   DOI = {10.1016/j.ecolind.2016.12.007},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{Benbow2020,
+   author = {Benbow, M. Eric and Receveur, Joseph P. and Lamberti, Gary A.},
+   title = {Death and Decomposition in Aquatic Ecosystems},
+   journal = {Frontiers in ecology and evolution},
+   volume = {8},
+   abstract = {Resource subsidies affect nutrient cycling, species interactions, and food webs in ways that influence ecosystem structure and function, but their effects depend on the history, magnitude, and recurrence frequency of the subsidies. In aquatic ecosystems, plant detritus has been considered the predominant form of such subsidies; however, while considered less abundant in many ecosystems, carrion represents subsidies with relatively rapid turnover and highly concentrated nutrient and energy release that can have strong and lasting effects on ecosystems. Carrion subsidies can be both autochthonous or allochthonous, and come in the form of natural senescence or disease-related non-consumptive mortality, phenology-based programed death (e.g., salmon spawning and death), or stochastic and episodic events (e.g., mass fish die-offs). All aquatic ecosystems have some level of non-consumptive mortality that provides a background level of carcasses to aquatic ecosystems, while others have a natural history of carrion resource subsidies (e.g., natural salmon-bearing streams), and some have only recently been exposed to phenology-based carrion subsidies (e.g., anthropogenic salmon introductions around the world). Many aquatic ecosystems experience episodic subsidies in the form of unexpected mass mortalities (e.g., eutrophication-, disease-, or climate-related mass die-offs) or have seasonally dependent pulses, like that of marine or lake snow in the form of zooplankton carcasses. The responses of ecosystems to these different histories and frequencies of carrion subsidies have often been independently investigated, with little effort to compare and bridge research boundaries in the broader context of resource subsidies. In this review, we provide a synthesis of how pulsed carrion nutrient and energy subsidies have widespread and lasting impacts on many aquatic ecosystems. We do this with a synthesis of literature from freshwater and marine ecosystems along three themes of how carrion is produced and decomposes: autochthonous and allochthonous necromass; phenology-based mortality; and stochastic and episodic mass mortality subsidies. Studies of charismatic megafauna carrion (e.g., whales) have described significant impacts in deep ocean systems, but much less is understood for other groups of animals. Quantifying the energy, nutrient, and foodweb effects of carrion is needed for more species and among habitats to more fully understand how ubiquitous forms of necromass contribute to aquatic ecosystem structure and function.},
+   keywords = {carrion
+community assembly
+decomposition
+Ecosystem components
+ecosystem metabolism
+Environmental aspects
+Fishes
+microbial
+necrobiome},
+   ISSN = {2296-701X},
+   DOI = {10.3389/fevo.2020.00017},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{Blanke2017,
+   author = {Blanke, Chelsey M. and Chikaraishi, Yoshito and Takizawa, Yuko and Steffan, Shawn A. and Dharampal, Prarthana S. and Vander Zanden, M. Jake},
+   title = {Comparing compound-specific and bulk stable nitrogen isotope trophic discrimination factors across multiple freshwater fish species and diets},
+   journal = {Canadian journal of fisheries and aquatic sciences},
+   volume = {74},
+   number = {8},
+   pages = {1291-1297},
+   abstract = {Compound-specific nitrogen stable isotope analysis provides an approach for estimating animal trophic position that may overcome key issues associated with stable isotope analysis of bulk tissue. Yet compound-specific trophic discrimination factors have not been estimated for a broad range of habitats, taxa, and diets. We conducted a controlled-feeding experiment to characterize the variation in compound-specific (TDF AA ) and bulk (TDF Bulk ) trophic discrimination factors of four freshwater fish species fed on three distinct diets. We also compared TDF AA of fish muscle and scale to evaluate the viability of scales for making food web inferences. Mean ± 1 SD TDF Bulk was 2.2‰ ± 0.9‰, and there were significant effects of species and diet trophic position on TDF Bulk . Mean ± 1 SD TDF AA was 6.9‰ ± 0.8‰. Although there was no effect of species on TDF AA , there were significant differences in TDF AA across the three diets. TDF AA from fish scales were not significantly different from those of muscle. Our study illustrates the advantages of estimating trophic position using compound-specific stable isotopes and the need for continued investigation of factors resulting in variation in TDF values.},
+   keywords = {Comparative analysis
+Diet
+Discrimination
+Environmental aspects
+Estimation
+Experiments
+Feeding
+Fish
+Fisheries
+Fishes
+Food and nutrition
+Food chains
+Food webs
+Freshwater fish
+Habitats
+Isotopes
+Life Sciences & Biomedicine
+Marine & Freshwater Biology
+Nitrogen
+Scales
+Science & Technology
+Species
+Stable isotopes
+Studies
+Surface defects
+Taxa
+Viability},
+   ISSN = {0706-652X},
+   DOI = {10.1139/cjfas-2016-0420},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{Bond2011,
+   author = {Bond, Alexander L. and Diamond, Antony W.},
+   title = {Recent Bayesian stable-isotope mixing models are highly sensitive to variation in discrimination factors},
+   journal = {Ecological applications},
+   volume = {21},
+   number = {4},
+   pages = {1017-1023},
+   abstract = {Stable isotopes are now used widely in ecological studies, including diet reconstruction, where quantitative inferences about diet composition are derived from the use of mixing models. Recent Bayesian models (MixSIR, SIAR) allow users to incorporate variability in discrimination factors (ΔΔ 13 C or ΔΔ 15 N), or the amount of change in either δδ 13 C or δδ 15 N between prey and consumer, but to date there has been no systematic assessment of the effect of variation in ΔΔ 13 C or ΔΔ 15 N on model outputs. We used whole blood from Common Terns ( Sterna hirundo ) and muscle from their common prey items (fish and euphausiids) to build a series of mixing models in SIAR (stable isotope analysis in R) using various discrimination factors from the published literature for marine birds. The estimated proportion of each diet component was affected significantly by ΔΔ 13 C or ΔΔ 15 N. We also use recently published stable-isotope data on the reliance of critically endangered Balearic Shearwaters ( Puffinus mauretanicus ) on fisheries discards to show that discrimination factor choice can have profound implications for conservation and management actions. It is therefore crucial for researchers wishing to use mixing models to have an accurate estimate of ΔΔ 13 C and ΔΔ 15 N, because quantitative diet estimates can help to direct future research or prioritize conservation and management actions.},
+   keywords = {Animals
+Applied ecology
+assumptions
+Bayes Theorem
+Birds - metabolism
+Carbon - metabolism
+Carbon Isotopes - metabolism
+Communications
+conservation
+Diet
+discrimination factor
+Ecological modeling
+Ecology
+Environmental Sciences
+Environmental Sciences & Ecology
+Fishes - metabolism
+Food Chain
+Isotope ratios
+Isotopes
+Life Sciences & Biomedicine
+management
+Marine ecology
+mixing model
+MixSIR
+Modeling
+Models, Biological
+Nitrogen - metabolism
+Nitrogen Isotopes
+Predation (Biology)
+Puffinus mauretanicus
+Research
+Science & Technology
+Sea birds
+Sensitivity analysis
+SIAR
+stable isotope
+Sterna hirundo
+Usage
+Wildlife ecology},
+   ISSN = {1051-0761},
+   DOI = {10.1890/09-2409.1},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{Bradley2014,
+   author = {Bradley, Christina J. and Madigan, Daniel J. and Block, Barbara A. and Popp, Brian N.},
+   title = {Amino acid isotope incorporation and enrichment factors in Pacific bluefin tuna, Thunnus orientalis},
+   journal = {PloS one},
+   volume = {9},
+   number = {1},
+   pages = {e85818-e85818},
+   note = {Competing Interests: The authors have declared that no competing interests exist.
+Conceived and designed the experiments: CJB DJM BNP. Performed the experiments: DJM. Analyzed the data: CJB DJM BNP. Contributed reagents/materials/analysis tools: CJB DJM BNP BAB. Wrote the paper: CJB BNP DJM BAB.},
+   abstract = {Compound specific isotopic analysis (CSIA) of amino acids has received increasing attention in ecological studies in recent years due to its ability to evaluate trophic positions and elucidate baseline nutrient sources. However, the incorporation rates of individual amino acids into protein and specific trophic discrimination factors (TDFs) are largely unknown, limiting the application of CSIA to trophic studies. We determined nitrogen turnover rates of individual amino acids from a long-term (up to 1054 days) laboratory experiment using captive Pacific bluefin tuna, Thunnus orientalis (PBFT), a large endothermic pelagic fish fed a controlled diet. Small PBFT (white muscle δ(15)N∼11.5‰) were collected in San Diego, CA and transported to the Tuna Research and Conservation Center (TRCC) where they were fed a controlled diet with high δ(15)N values relative to PBFT white muscle (diet δ(15)N∼13.9‰). Half-lives of trophic and source amino acids ranged from 28.6 to 305.4 days and 67.5 to 136.2 days, respectively. The TDF for the weighted mean values of amino acids was 3.0 ‰, ranging from 2.2 to 15.8 ‰ for individual combinations of 6 trophic and 5 source amino acids. Changes in the δ(15)N values of amino acids across trophic levels are the underlying drivers of the trophic (15)N enrichment. Nearly all amino acid δ(15)N values in this experiment changed exponentially and could be described by a single compartment model. Significant differences in the rate of (15)N incorporation were found for source and trophic amino acids both within and between these groups. Varying half-lives of individual amino acids can be applied to migratory organisms as isotopic clocks, determining the length of time an individual has spent in a new environment. These results greatly enhance the ability to interpret compound specific isotope analyses in trophic studies.},
+   keywords = {Algorithms
+Amino acids
+Amino Acids - metabolism
+Analysis
+Animals
+Biology
+Bluefin tuna
+Chemistry
+Clocks
+Conservation
+Diet
+Earth Sciences
+Ecological monitoring
+Ecology
+Endothermic reactions
+Enrichment
+Fish
+Fish Proteins - metabolism
+Fishes
+Half life
+Isotopes
+Kinetics
+Mass spectrometry
+Metabolism
+Models, Biological
+Muscle Fibers, Fast-Twitch - metabolism
+Muscles
+Nitrogen
+Nitrogen Isotopes - metabolism
+Nutrient sources
+Nutrition research
+Scientific imaging
+Time Factors
+Trophic levels
+Tuna
+Tuna - genetics
+Tuna - metabolism},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0085818},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{Cabana1996,
+   author = {Cabana, G. and Rasmussen, J. B.},
+   title = {Comparison of Aquatic Food Chains Using Nitrogen Isotopes},
+   journal = {Proceedings of the National Academy of Sciences - PNAS},
+   volume = {93},
+   number = {20},
+   pages = {10844-10847},
+   abstract = {Recent studies have shown the utility of $\delta ^{15}$N to model trophic structure and contaminant bioaccumulation in aquatic food webs. However, cross-system comparisons in $\delta ^{15}$N can be complicated by differences in $\delta ^{15}$N at the base of the food chain. Such baseline variation in $\delta ^{15}$N is difficult to resolve using plankton because of the large temporal variability in the $\delta ^{15}$N of small organisms that have fast nitrogen turnover. Comparisons using large primary consumers, which have stable tissue isotopic signatures because of their slower nitrogen turnover, show that $\delta ^{15}$N increases markedly with the human population density in the lake watershed. This shift in $\delta ^{15}$N likely reflects the high $\delta ^{15}$N of human sewage. Correcting for this baseline variation in $\delta ^{15}$N, we report that, contrary to expectations based on previous food-web analysis, the food chains leading up to fish varied by about only one trophic level among the 40 lakes studied. Our results also suggest that the $\delta ^{15}$N signatures of nitrogen at the base of the food chain will provide a useful tool in the assessment of anthropogenic nutrient inputs.},
+   keywords = {Animals
+Aquatic ecology
+Ecology
+Fishes - metabolism
+Food chain
+Food chains (Ecology)
+Food Supply
+Freshwater bass
+Freshwater fishes
+Human food chain
+Humans
+Isotopes
+Mussels
+Nitrogen
+Nitrogen Isotopes
+Primary productivity
+Research
+Signatures
+Trophic levels
+Waste Management
+Water Pollution
+Water Purification
+Watersheds},
+   ISSN = {0027-8424},
+   DOI = {10.1073/pnas.93.20.10844},
+   year = {1996},
+   type = {Journal Article}
+}
+
+@article{Casselman1999,
+   author = {Casselman, John M. and Rasmussen, Joseph B. and Vander Zanden, M. Jake},
+   title = {Stable isotope evidence for the food web consequences of species invasions in lakes},
+   journal = {Nature (London)},
+   volume = {401},
+   number = {6752},
+   pages = {464-467},
+   abstract = {Species invasions pose a serious threat to biodiversity and native ecosystems; however, predicting and quantifying the impacts of invasive species has proven problematic. Here we use stable isotope ratios to document the food-web consequences of the invasion of two non-native predators, smallmouth bass and rock bass, into Canadian lakes. Invaded lakes had lower littoral prey-fish diversity and abundance than uninvaded reference lakes. Consistent with this difference, lake trout from invaded lakes had more negative δ13C values (-29.2‰ versus -27.4‰) and reduced trophic positions (3.3 versus 3.9) than those from reference lakes, indicating differences in food-web structure. Furthermore, a comparison of the pre- and post-invasion food webs of two recently invaded lakes showed that invasion was followed by substantial declines in littoral prey-fish abundance and the trophic position of lake trout, reflecting a shift in the diet of lake trout towards zooplankton and reduced dependence on littoral fish. This study demonstrates the use of stable isotope techniques to detect changes in food-web structure following perturbations; in this instance, bass-induced food-web shifts may have severe consequences for native species and ecosystems.},
+   keywords = {Animal, plant and microbial ecology
+Applied ecology
+Biological and medical sciences
+Conservation, protection and management of environment and wildlife
+Environmental degradation: ecosystems survey and restoration
+Food chains (Ecology)
+Fundamental and applied biological sciences. Psychology
+Research},
+   ISSN = {0028-0836},
+   DOI = {10.1038/46762},
+   year = {1999},
+   type = {Journal Article}
+}
+
+@article{Castellani2008,
+   author = {Castellani, Claudia and Irigoien, Xabier and Mayor, Daniel J. and Harris, Roger P. and Wilson, David},
+   title = {Feeding of Calanus finmarchicus and Oithona similis on the microplankton assemblage in the Irminger Sea, North Atlantic},
+   journal = {Journal of plankton research},
+   volume = {30},
+   number = {10},
+   pages = {1095-1116},
+   note = {Present address: Sir Alister Hardy Foundation for Ocean Science, the Laboratory, Citadel Hill, Plymouth PL1 2PB, UK},
+   abstract = {The present investigation reviews published data on the feeding rates and prey selection of Oithona similis females, Calanus finmarchicus nauplii and females in the Irminger Sea in April/May and July/August 2002. Our aim was to examine how the feeding rates and prey selection of these three copepod stages respond to concomitant changes in microplankton community composition and prey abundance. Copepods typically ingested prey overall according to its ambient concentration although significant species and stage-specific differences in prey-type ingestion and selection were apparent. Despite being of comparable weight, the ingestion rates of C. finmarchicus nauplii were always higher than those of the O. similis females. Moreover, C. finmarchicus nauplii and O. similis females fed preferentially on diatoms and ciliates respectively, whereas adult female C. finmarchicus showed limited prey selectivity. Copepod grazing impact on total and on ciliates/dinoflagellates standing stock was <0.5 and <2%, respectively. We attribute this result to a combination of low grazing rates, low copepod abundance and low microplankton biomass, all of which are indicative of the non-bloom conditions under which these experiments were conducted. The differences in copepod feeding rates and prey selection we report reflect species and stage-specific eco-physiological adaptations, which may act as important driving forces for marine ecosystem structuring and functioning.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Biological and medical sciences
+Fundamental and applied biological sciences. Psychology
+General aspects
+Synecology},
+   ISSN = {0142-7873},
+   DOI = {10.1093/plankt/fbn074},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{Caut2008,
+   author = {Caut, Stephane and Angulo, Elena and Courchamp, Franck},
+   title = {Caution on isotopic model use for analyses of consumer diet},
+   journal = {Canadian journal of zoology},
+   volume = {86},
+   number = {5},
+   pages = {438-445},
+   abstract = {Isotopic models are increasingly used to determine the relative contribution of different food sources to an animal's diet. However, these models are based on restrictive assumptions and provide estimates rather than exact values of contributions to consumer diet. The sources of inaccuracies in isotopic models are not well understood and laboratory experiments may be useful to evaluate model performance. In this paper we assess the accuracy of the three main isotopic models in controlled laboratory experiments, involving a breed of Norway rats (Rattus norvegicus (Berkenhout, 1769)), in which the isotopic values of resources are known. At the same time, we measure errors resulting from the use of fixed or specific discrimination factor values for each resource and tissue. We show that the results of the three main isotopic models deviate considerably from the correct values in some cases. Estimations obtained using specific discrimination factors (corresponding to each experimental diet and tissue) were more accurate than those obtained using fixed discrimination factors (obtained from the literature). In addition, estimations varied depending on the tissue used, with the liver giving more accurate results than muscle or hair. We discuss the assumptions and limitations of isotopic models and highlight the importance of taking these assumptions into account when the most accurate results are sought. Finally, we propose some recommendations for the correct use of isotopic models, emphasizing the need to use specific discrimination factors for each species, tissue, and diet isotopic value.On utilise de plus en plus fréquemment des modèles isotopiques pour déterminer les contributions relatives des différentes sources de nourriture au régime alimentaire des animaux. Ces modèles sont, cependant, basés sur des présuppositions restrictives et ils fournissent des estimations plutôt que des valeurs exactes des contributions au régime du consommateur. On connaît mal les sources des imprécisions dans les modèles isotopiques; des expériences en laboratoire peuvent donc être utiles pour évaluer la performance de ces modèles. Dans notre étude, nous évaluons la précision de trois modèles isotopiques courants dans des expériences contrôlées en laboratoire avec une race de rats surmulots (Rattus norvegicus (Berkenhout, 1769)), dans lesquelles les valeurs isotopiques des ressources sont connues. En même temps, nous mesurons les erreurs produites par l'utilisation de valeurs de facteurs de discrimination fixes ou spécifiques pour chaque ressource et tissu. Nous démontrons que les résultats obtenus dans les trois modèles isotopiques courants peuvent s'éloigner considérablement des valeurs réelles dans certains cas. Les estimations obtenues par l'usage de facteurs de discrimination spécifiques (correspondant à chaque régime et tissu de l'expérience) sont plus précises que celles obtenues par l'utilisation de facteurs de discrimination fixes (tirés de la littérature). De plus, les estimations varient en fonction des tissus, car le foie permet des résultats plus précis que les muscles ou les poils. Nous discutons des présuppositions et des limites des modèles isotopiques et nous insistons sur l'importance de tenir compte de ces présuppositions pour l'obtention des résultats les plus précis. Nous faisons, enfin, des recommandations sur l'usage approprié des modèles isotopiques en soulignant la nécessité d'utiliser des facteurs de discrimination spécifiques pour les valeurs isotopiques de chaque espèce, chaque tissu et chaque régime alimentaire.},
+   keywords = {Animal feeding behavior
+Animal, plant and microbial ecology
+Biological and medical sciences
+Diet
+Fundamental and applied biological sciences. Psychology
+General aspects. Techniques
+Isotope dilution techniques
+Isotopes
+Life Sciences & Biomedicine
+Methods and techniques (sampling, tagging, trapping, modelling...)
+Models
+Research
+Science & Technology
+Usage
+Zoology},
+   ISSN = {0008-4301},
+   DOI = {10.1139/Z08-012},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{Cerling2007,
+   author = {Cerling, Thure E. and Ayliffe, Linda K. and Dearing, M. Denise and Ehleringer, James R. and Passey, Benjamin H. and Podlesak, David W. and Torregrossa, Ann-Marie and West, Adam G.},
+   title = {Determining Biological Tissue Turnover Using Stable Isotopes: The Reaction Progress Variable},
+   journal = {Oecologia},
+   volume = {151},
+   number = {2},
+   pages = {175-189},
+   abstract = {The reaction progress variable is applied to stable isotope turnover of biological tissues. This approach has the advantage of readily determining whether more than one isotope turnover pool is present; in addition, the normalization process inherent to the model means that multiple experiments can be considered together although the initial and final isotope compositions are different. Consideration of multiple isotope turnover pools allows calculation of diet histories of animals using a time sequence of isotope measurements along with isotope turnover pools. The delayed release of blood cells from bone marrow during a diet turnover experiment can be quantified using this approach. Turnover pools can also be corrected for increasing mass during an experiment, such as when the animals are actively growing. Previous growth models have been for exponential growth; the approach here can be used for several different growth models.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Animals
+Biological and medical sciences
+Carbon isotopes
+Diet
+Diet history
+Ecology
+Ecophysiology
+Erythrocytes
+First-order rate constant
+Fundamental and applied biological sciences. Psychology
+General aspects
+Growth - physiology
+Hair
+Half lives
+Half-life
+Horses
+Isotope ratios
+Isotopes
+Isotopes - metabolism
+Isotopes - pharmacokinetics
+Life Sciences
+Mathematical constants
+Models, Biological
+Plant Sciences
+Stable isotopes
+Time Factors
+Time series analysis
+Turnover},
+   ISSN = {0029-8549},
+   DOI = {10.1007/s00442-006-0571-4},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{Chiang2020,
+   author = {Chiang, Wei-Chuan and Chang, Ching-Tsun and Madigan, Daniel J. and Carlisle, Aaron B. and Musyl, Michael K. and Chang, Yun-Chen and Hsu, Hung-Hung and Su, Nan-Jay and Sun, Chi-Lu and Ho, Yuan-Shing and Tseng, Chen-Te},
+   title = {Stable isotope analysis reveals feeding ecology and trophic position of black marlin off eastern Taiwan},
+   journal = {Deep-sea research. Part II, Topical studies in oceanography},
+   volume = {175},
+   pages = {104821},
+   abstract = {Black marlin (Istiompax indica) are large, highly mobile, apex pelagic predators of tropical and subtropical oceans with high economic importance in western North Pacific fisheries. To assess the ontogenetic trophic ecology of black marlin in the western North Pacific Ocean, the stable isotopic composition of 177 black marlin muscle samples (87–383 cm, eye-orbit fork length (EFL); 33–447 kg, body weight) were examined for ontogenetic shifts and seasonal variability in trophic position. δ15N and δ13C values for black marlin ranged from 9.7 to 14.5‰ and −18.5 to −15.2‰, respectively, and δ15N values were positively correlated with size. δ15N and δ13C values varied across seasons, with highest δ15N values in autumn. Based on trophic position estimates and Bayesian mixing models, large black marlin (>250 cm EFL) occupied a higher trophic position (4.8) and fed on more mesopelagic prey (e.g. hairtail, Trichiurus lepturus) compared to smaller individuals, which were estimated to feed more on forage fish and squids as well as hairtail. These results suggest that the trophic position of black marlin varies across life-history stages and seasons, possibly reflecting seasonal movements in surrounding pelagic ecosystems. Trophic level estimates highlight the important ecological role of black marlin as a top predator in pelagic ecosystems, and indicate potential regional importance of mesopelagic fishes in diets.},
+   keywords = {Apex predator
+Kuroshio current
+Ontogenetic shift
+Seasonal movement
+Trophic dynamic},
+   ISSN = {0967-0645},
+   DOI = {10.1016/j.dsr2.2020.104821},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{Chikaraishi2007,
+   author = {Chikaraishi, Y. and Kashiyama, Y. and Ogawa, N. O. and Kitazato, H. and Ohkouchi, N.},
+   title = {Metabolic control of nitrogen isotope composition of amino acids in macroalgae and gastropods: implications for aquatic food web studies},
+   journal = {Marine ecology. Progress series (Halstenbek)},
+   volume = {342},
+   pages = {85-90},
+   abstract = {We investigated the nitrogen isotopic compositions of individual amino acids from brown and red macroalgae and gastropods in a natural marine coastal environment, to further evaluate them as a tool for ecological studies and to understand the factor(s) controlling the isotopic compositions in terms of biosynthetic and metabolic processes. The isotopic compositions of 12 amino acids range from –2.1 to +8.4‰ for brown algae, from –3.3 to +12.9‰ for red algae, and from –0.6 to +16.6‰ for gastropods. The isotopic distributions between algae and gastropods and within algal classes are consistent with those in previous reports, suggesting them to be quite useful for studying food web structure. The nitrogen isotopic variation between amino acids strongly reflects their biosynthetic and metabolic processes. In particular, we suggest here that metabolic fate is an important factor in producing distinct trophic relationships in nitrogen isotopic compositions between amino acids.},
+   keywords = {Brown algae
+Nitrogen metabolism
+Trophic levels
+Algae
+Macroalgae
+Amino acids
+Food webs
+Nitrogen isotopes
+Nitrogen
+Amino acid metabolism},
+   ISSN = {0171-8630},
+   DOI = {10.3354/meps342085},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{Chikaraishi2009,
+   author = {Chikaraishi, Yoshito and Ogawa, Nanako O. and Kashiyama, Yuichiro and Takano, Yoshinori and Suga, Hisami and Tomitani, Akiko and Miyashita, Hideaki and Kitazato, Hiroshi and Ohkouchi, Naohiko},
+   title = {Determination of aquatic food‐web structure based on compound‐specific nitrogen isotopic composition of amino acids},
+   journal = {Limnology and oceanography, methods},
+   volume = {7},
+   number = {11},
+   pages = {740-750},
+   abstract = {The nitrogen isotopic composition (δ15N) of amino acids is potentially useful as an alternative method for estimating the trophic levels of organisms in food webs. However, because this “amino acid method” has been constructed from the observations of only a few case studies of food‐consumer combinations in previous studies, the universality of the approach remains unclear. In this study, we investigated the δ15N signatures of amino acids in 17 photoautotrophs and the trophic relationships during four controlled feeding experiments using green algae, zooplankton, and fish. The results are consistent with those reported in previous studies, implying that the amino acid method can be applied to a variety of organisms. From these and previously published data, we estimate the two factors (β, isotope differences among amino acids in primary producers; Δ, the 15N‐enrichment factor for each trophic level) required to calculate the trophic level. Based on the lowest error (1σ = 0.12) in the estimated trophic level, we conclude that a comparison of the δ15N values for glutamic acid and phenylalanine is most useful in calculating precise estimates of the trophic level, using the following equation: trophic level (TLGlu/Phe) = (δ15NGlu − δ15NPhe − 3.4)/7.6 + 1.},
+   ISSN = {1541-5856},
+   DOI = {10.4319/lom.2009.7.740},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@book{Criss1999,
+   author = {Criss, Robert E.},
+   title = {Principles of Stable Isotope Distribution},
+   publisher = {Cary: Oxford University Press, Incorporated},
+   address = {Cary},
+   abstract = {This book presents a quantitative treatment of the theory and natural variations of light stable isotopes. It discusses isotope distribution in the context of fractionation processes, thermodynamics, mass conservation, exchange kinetics, and diffusion theory, and includes more than 100 original equations. The theoretical principles are illustrated with natural examples that emphasize oxygen and hydrogen isotope variations in natural waters, terrestrial and extraterrestrial rocks, and hydrothermal systems. New data on meteoric precipitation, rivers, springs, formation fluids, and hydrothermal systems are included in relation to various natural phenomena. Essentially, this book seeks to reconnect the diverse phenomenological observations of isotope distribution to the quantitative theories of physical chemistry and the language of differential equations. It may serve as a textbook for advanced students, as a research reference, or as a quick source of information. The book is organized into five chapters, each followed by suggested quantitative problems and a short reference list. The three theoretical chapters progress from an elementary review of the physical chemistry of stable isotopes, to the thermodynamics of isotopic compounds, and finally to the calculation of isotope distribution in dynamic systems. The third and fifth chapters emphasize oxygen and hydrogen isotope variations in Earth's hydrosphere and lithosphere, constituting the most important examples of the theoretical principles. Appendices provide data on atomic weights of light elements, physical constants, mathematical relationships, and isotopic fractionation factors.},
+   keywords = {Isotopes
+Stable isotopes},
+   year = {1999},
+   type = {Book}
+}
+
+@article{Dale2011,
+   author = {Dale, J. J. and Wallsgrove, N. J. and Popp, B. N. and Holland, K. N.},
+   title = {Nursery habitat use and foraging ecology of the brown stingray Dasyatis lata determined from stomach contents, bulk and amino acid stable isotopes},
+   journal = {Marine ecology. Progress series (Halstenbek)},
+   volume = {433},
+   pages = {221-236},
+   ISSN = {0171-8630},
+   DOI = {10.3354/meps09171},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{Dalerum2005,
+   author = {Dalerum, F. and Angerbjörn, A.},
+   title = {Resolving Temporal Variation in Vertebrate Diets Using Naturally Occurring Stable Isotopes},
+   journal = {Oecologia},
+   volume = {144},
+   number = {4},
+   pages = {647-658},
+   abstract = {Assessments of temporal variation in diets are important for our understanding of the ecology of many vertebrates. Ratios of naturally occurring stable isotopes in animal tissues are a combination of the source elements and tissue specific fractionation processes, and can thus reveal dietary information. We review three different approaches that have been used to resolve temporal diet variation through analysis of stable isotopes. The most straightforward approach is to compare samples from the same type of tissue that has been sampled over time. This approach is suited to address either long or short-term dietary variation, depending on sample regime and which tissue that is sampled. Second, one can compare tissues with different metabolic rates. Since the elements in a given tissue have been assimilating during time spans specific to its metabolic rate, tissues with different metabolic rates will reflect dietary records over different periods. Third, comparisons of sections from tissues with progressive growth, such as hair, feathers, claws and teeth, will reveal temporal variation since these tissues will retain isotopic values in a chronological order. These latter two approaches are mainly suited to address questions regarding intermediate and short-term dietary variation. Knowledge of tissue specific metabolic rates, which determine the molecular turnover for a specific tissue, is of central importance for all these comparisons. Estimates of isotopic fractionation between source and measured target are important if specific hypotheses regarding the source elements are addressed. Estimates of isotopic fractionation, or at least of differences in fractionation between tissues, are necessary if different tissues are compared. We urge for more laboratory experiments aimed at improving our understanding of differential assimilation of dietary components, isotopic fractionation and metabolic routing. We further encourage more studies on reptiles and amphibians, and generally more studies utilizing multiple tissues with different turnover rates.},
+   keywords = {Animals
+Biological Transport, Active
+Birds
+Birds - physiology
+Blood
+Diet
+Diet - veterinary
+Ecology
+Ecophysiology
+Ecosystem
+Feeding Behavior
+Feeding ecology
+Fishes - physiology
+Fractionation
+Hair
+Isotopes
+Isotopes - metabolism
+Life Sciences
+Mammals - physiology
+Muscle tissues
+Muscles
+Plant Sciences
+Seasonality
+Seasons
+Tissue Distribution
+Tissue samples
+δ 13 C
+δ 15 N},
+   ISSN = {0029-8549},
+   DOI = {10.1007/s00442-005-0118-0},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{DelRio2012,
+   author = {Del Rio, Carlos Martínez and Carleton, Scott A.},
+   title = {How fast and how faithful: the dynamics of isotopic incorporation into animal tissues},
+   journal = {Journal of Mammalogy},
+   volume = {93},
+   number = {2},
+   pages = {353-359},
+   abstract = {Abstract The interpretation of isotopic data gathered in the field often demands knowing the rate at which isotopes are incorporated into different tissues and species, and the discrimination factor between tissues and diet. These 2 quantities are estimated in laboratory experiments on diet shifts in which results are interpreted using simple mathematical models, which we describe here. The simplest of these models assumes that each tissue can be represented as a well-mixed, single compartment that obeys 1st-order kinetics. Fitting this model to experimental data allows estimating discrimination factors and the instantaneous rate of isotopic incorporation, λ (the reciprocal of λ, 1/λ, equals the average residence time, τ, of an atom in the tissue). In 1-compartment models the magnitude of λ equals the sum of catabolic turnover and mass-specific growth rate. Examination of available data suggests that the magnitude of λ scales with body mass to an exponent equal to approximately −0.25, differs between endo...},
+   keywords = {Animal and plant ecology
+Animal nutrition
+Animal physiology
+Animal, plant and microbial ecology
+Animals
+Asymptotic value
+Autoecology
+Biological and medical sciences
+Blood
+Body tissues
+Carbon
+Chemical properties
+Diet
+Experiment design
+Fundamental and applied biological sciences. Psychology
+General aspects
+incorporation
+Isotope dilution techniques
+Isotopes
+isotopic turnover
+Mammalia
+Methods
+Physiological aspects
+Research
+Special Feature
+stable isotopes
+Tissue samples
+Vertebrates: general zoology, morphology, phylogeny, systematics, cytogenetics, geographical distribution},
+   ISSN = {0022-2372},
+   DOI = {10.1644/11-MAMM-S-165.1},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{Deniro1981,
+   author = {Deniro, Michael J. and Epstein, Samuel},
+   title = {Influence of diet on the distribution of nitrogen isotopes in animals},
+   journal = {Geochimica et cosmochimica acta},
+   volume = {45},
+   number = {3},
+   pages = {341-351},
+   abstract = {The influence of diet on the distribution of nitrogen isotopes in animals was investigated by analyzing animals grown in the laboratory on diets of constant nitrogen isotopic composition. The isotopic composition of the nitrogen in an animal reflects the nitrogen isotopic composition of its diet. The δ 15N values of the whole bodies of animals are usually more positive than those of their diets. Different individuals of a species raised on the same diet can have significantly different δ 15N values. The variability of the relationship between the δ 15N values of animals and their diets is greater for different species raised on the same diet than for the same species raised on different diets. Different tissues of mice are also enriched in 15N relative to the diet, with the difference between the δ 15N values of a tissue and the diet depending on both the kind of tissue and the diet involved. The δ 15N values ofcollagen and chitin. biochemical components that are often preserved in fossil animal remains, are also related to the δ 15N value of the diet. The dependence of the δ 15N values of whole animals and their tissues and biochemical components on the δ 15N value of diet indicates that the isotopic composition of animal nitrogen can be used to obtain information about an animal's diet if its potential food sources had different δ 15N values. The nitrogen isotopic method of dietary analysis probably can be used to estimate the relative use of legumes vs non-legumes or of aquatic vs terrestrial organisms as food sources for extant and fossil animals. However, the method probably will not be applicable in those modern ecosystems in which the use of chemical fertilizers has influenced the distribution of nitrogen isotopes in food sources. The isotopic method of dietary analysis was used to reconstruct changes in the diet of the human population that occupied the Tehuacan Valley of Mexico over a 7000 yr span. Variations in the δ 15C and δ 15N values of bone collagen suggest that C 4 and/or CAM plants (presumably mostly corn) and legumes (presumably mostly beans) were introduced into the diet much earlier than suggested by conventional archaeological analysis.},
+   ISSN = {0016-7037},
+   DOI = {10.1016/0016-7037(81)90244-1},
+   year = {1981},
+   type = {Journal Article}
+}
+
+@article{Downs2014,
+   author = {Downs, E. E. and Popp, B. N. and Holl, C. M.},
+   title = {Nitrogen isotope fractionation and amino acid turnover rates in the Pacific white shrimp Litopenaeus vannamei},
+   journal = {Marine ecology. Progress series (Halstenbek)},
+   volume = {516},
+   pages = {239-250},
+   abstract = {Fluctuations in an animal’s trophic position (TP) can indicate changes within an ecosystem. Traditionally, bulk tissue or whole animal nitrogen (N) isotope analysis has been used to determine an animal’s TP, but there are limitations to the application of this approach. Amino acid compound-specific isotope analysis (AA-CSIA) can be used to determine TP based on the difference between the δ N values of certain amino acids, commonly glutamic acid and phenylalanine. The rate at which N is incorporated into amino acids is largely unknown, and this may affect the accuracy of relative TP estimates especially during periods of ecosystem change or ontogenetic changes in diet. To study amino acid turnover rates, the diet of the Pacific white shrimp was changed in the laboratory from an unlabeled diet (7.2‰) to a N-enriched diet (24‰), and animals were sampled over the course of 7 wk. AA-CSIA revealed that turnover times of amino acids vary considerably, with some amino acids having much more rapid turnover than others. The TP of (using δ N values of glutamic acid and phenylalanine) over the course of the experiment remained constant, and shrimp TP averaged 2.14 ± 0.15 (mean ± SD, n = 7) relative to its diet, which was as expected. Our results indicate that the δ N values of glutamic acid and phenylalanine can be used to accurately determine TP even while shrimp are undergoing a change to a diet with a different δ N value.},
+   ISSN = {0171-8630},
+   DOI = {10.3354/meps11030},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{Estrada2003,
+   author = {Estrada, James A. and Rice, Aaron N. and Lutcavage, Molly E. and Skomal, Gregory B.},
+   title = {Predicting trophic position in sharks of the north-west Atlantic Ocean using stable isotope analysis},
+   journal = {Journal of the Marine Biological Association of the United Kingdom},
+   volume = {83},
+   number = {6},
+   pages = {1347-1350},
+   abstract = {Trophic positions (TP) were estimated for the blue shark (Prionace glauca), shortfin mako (Isurus oxyrinchus), thresher shark (Alopias vulpinus), and basking shark (Cetorhinus maximus) using stable isotope ratios of carbon (δ13C) and nitrogen (δ15N). The basking shark had the lowest TP (3·1) and δ15N value (10·4‰), whereas the thresher shark had the highest values (4·5, 15·2‰). Mako sharks showed considerable variation in TP and isotopic values, possibly due to foraging from both inshore and offshore waters. Thresher sharks were significantly more enriched in δ15N than blue sharks and mako sharks, suggesting a different prey base. The δ13C values of thresher sharks and mako sharks varied significantly, but neither was significantly different from that of blue sharks. No statistical differences were found between our TP estimations and those derived from published stomach contents analyses, indicating that stable isotope data may be used to estimate the trophic status of sharks.},
+   keywords = {Agnatha. Pisces
+Animal and plant ecology
+Animal, plant and microbial ecology
+Animals
+Areal geology. Maps
+Autoecology
+Biological and medical sciences
+Earth sciences
+Earth, ocean, space
+Exact sciences and technology
+Fundamental and applied biological sciences. Psychology
+Geologic maps, cartography
+Research Article
+Vertebrata},
+   ISSN = {0025-3154},
+   DOI = {10.1017/S0025315403008798},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{Feddern2021,
+   author = {Feddern, Megan L. and Holtgrieve, Gordon W. and Ward, Eric J.},
+   title = {Stable isotope signatures in historic harbor seal bone link food web‐assimilated carbon and nitrogen resources to a century of environmental change},
+   journal = {Global change biology},
+   volume = {27},
+   number = {11},
+   pages = {2328-2342},
+   abstract = {Anthropogenic climate change will impact nutrient cycles, primary production, and ecosystem structure in the world's oceans, although considerable uncertainty exists regarding the magnitude and spatial variability of these changes. Understanding how regional‐scale ocean conditions control nutrient availability and ultimately nutrient assimilation into food webs will inform how marine resources will change in response to climate. To evaluate how ocean conditions influence the assimilation of nitrogen and carbon into coastal marine food webs, we applied a novel dimension reduction analysis to a century of newly acquired molecular isotope data derived from historic harbor seal bone specimens. By measuring bulk δ13C and δ15N values of source amino acids of these top predators from 1928 to 2014, we derive indices of primary production and nitrogen resources that are assimilated into food webs. We determined coastal food webs responded to climate regimes, coastal upwelling, and freshwater discharge, yet the strength of responses to individual drivers varied across the northeast Pacific. Indices of primary production and nitrogen availability in the Gulf of Alaska were dependent on regional climate indices (i.e., North Pacific Gyre Oscillation) and upwelling. In contrast, the coastal Washington and Salish Sea food webs were associated with local indices of freshwater discharge. For some regions (eastern Bering Sea, northern Gulf of Alaska) food web‐assimilated production was coupled with nitrogen sources; however, other regions demonstrated no production‐nitrogen coupling (Salish Sea). Temporal patterns of environmental indices and isotopic data from Washington state varied about the long‐term mean with no directional trend. Data from the Gulf of Alaska, however, showed below average harbor seal δ13C values and above average ocean conditions since 1975, indicating a change in primary production in recent decades. Altogether, these findings demonstrate stable isotope data can provide useful indices of nitrogen resources and phytoplankton dynamics specific to what is assimilated by food webs. Environmental factors determine resource availability and primary production in marine ecosystems. Stable isotope data from consumer tissues can provide useful indices of nitrogen and carbon resources that are sequestered by primary producers, passed through the food web, and ultimately assimilated into top predators. Based on the stable isotope composition of harbor seal bone specimens from the past century, we determined environmental factors that impact resources assimilated into food webs vary regionally within the northeast Pacific.},
+   keywords = {harbor seals
+northeast Pacific Ocean
+primary production
+amino acid
+compound‐specific stable isotope analysis
+Gulf of Alaska
+climate change
+Ecosystem components
+Global temperature changes
+Analysis
+Seafood
+Amino acids
+Food chains (Ecology)
+Marine mammals},
+   ISSN = {1354-1013},
+   DOI = {10.1111/gcb.15551},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{Ferreira2020,
+   author = {Ferreira, A. and Sá, C. and Silva, N. and Beltrán, C. and Dias, A. M. and Brito, A. C.},
+   title = {Phytoplankton community dynamics in a coastal bay under upwelling influence (Central Chile)},
+   journal = {Estuarine, coastal and shelf science},
+   volume = {245},
+   pages = {106968},
+   abstract = {Marine coastal areas have high social-economic relevance and ensuring the good quality of these areas has gained importance in the past decades due to the increase of anthropogenic pressures. Understanding the dynamics of these areas is crucial to support management decisions. In this context, phytoplankton communities are generally used as key indicators of environmental quality as they respond in short time-scales and are at the base of food webs. This work intends to improve our understanding on how phytoplankton communities respond to environmental conditions, particularly in upwelling areas. Seawater samples were collected from Algarrobo Bay, Central Chile, for both phytoplankton pigments and microscopy analysis. Data were analyzed in combination with physico-chemical parameters and two distinct hydrographic regions were identified for the study area: i) a region occupying most of the northern bay section, characterized by lower temperatures and dissolved oxygen (DO), higher concentration of nutrients and higher N:P, where a mixed community with diatoms, chrysophytes, cryptophytes, haptophytes and other small flagellates were observed; and ii) a central-southern section, with higher temperatures and DO, lower nutrients and lower N:P, where diatoms, in particular the centric diatom Chaetoceros Ehrenberg, 1844 sp. (~92.5% on average), dominated the phytoplankton assemblage. Other common but much less abundant diatom genus included Skeletonema Greville, 1865, Eucampia Ehrenberg, 1839, Dactyliosolen Castracane, 1886, Nitzschia Hassall, 1845, Cylindrotheca Rabenhorst, 1859 and Asterionellopsis Round, 1990. Apart from diatoms, the most abundant taxa belonged to flagellates, mainly chrysophytes (228.4 × 103 cells L−1 on average) and cryptophytes (213 × 103 cells L−1 on average). Overall, results suggest that the southern part of the Algarrobo Bay, with higher residence times and nutrient discharges, may act as an upwelling shadow area, where phytoplankton species can accumulate. •Phytoplankton and environmental conditions were evaluated in a coastal bay under upwelling influence.•High phytoplankton biomass and diatom dominance were seen in the southern part of the bay.•Diatoms favored by cold and saline waters and flagellates were linked to the opposite conditions.•Two main regions characterized by distinct phytoplankton communities were found.•A potential zone of both upwelling shadow and anthropogenic impact is identified.},
+   keywords = {Analysis
+Chile
+Environmental conditions
+Food chains (Ecology)
+HPLC-CHEMTAX
+Microscopy
+Phytoplankton assemblage
+Sea-water
+Upwelling},
+   ISSN = {0272-7714},
+   DOI = {10.1016/j.ecss.2020.106968},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{Germain2013,
+   author = {Germain, Leslie R. and Koch, Paul L. and Harvey, James and McCarthy, Matthew D.},
+   title = {Nitrogen isotope fractionation in amino acids from harbor seals: implications for compound-specific trophic position calculations},
+   journal = {Marine ecology. Progress series (Halstenbek)},
+   volume = {482},
+   pages = {265-277},
+   abstract = {Compound-specific isotope analysis of individual amino acids (AA) is a rapidly growing tool in ecological studies to assess diet and trophic position (TP) in both modern and ancient foodwebs. We conducted the first controlled feeding study examining δ N values in AAs in a marine mammal (harbor seal ). The pattern of δ N variation among AAs in seals was similar to that observed in other heterotrophs, although exceptions were found with proline and threonine. However, many δ N changes with trophic transfer were very different than those reported for zooplankton and other lower TP marine consumers. In particular the measured trophic enrichment factor (TEF) now broadly used for TP estimation (TEF ) was much lower in harbor seals (~4.3‰) than the current commonly applied value (~7.5‰). Recently published data on wild marine birds (penguins) and elasmobranchs (stingrays) suggests that similar, low TEF values may also be characteristic of these taxa. Together, these data imply that marine mammals and other higher animals have different, but also diagnostic, changes in δ N-AA with trophic transfer vs. organisms examined in previous feeding studies (e.g. zooplankton, bony fish and mollusks), possibly due to dietary protein content, trophic position, and/or form of nitrogen excretion (urea vs. ammonia). Therefore, we propose that for marine mammals, a multi-TEF calculation is required to account for variations of TEF between animals within a food web, and we demonstrate that this approach can predict accurate TP estimates for harbor seals. These results also have significant implication for the application of compound-specific isotope analysis of AAs on terrestrial ecology and trophic structure.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Biological and medical sciences
+Ecology
+Environmental Sciences & Ecology
+Fundamental and applied biological sciences. Psychology
+Life Sciences & Biomedicine
+Mammalia
+Marine & Freshwater Biology
+Oceanography
+Physical Sciences
+Science & Technology
+Sea water ecosystems
+Synecology
+Vertebrates: general zoology, morphology, phylogeny, systematics, cytogenetics, geographical distribution},
+   ISSN = {0171-8630},
+   DOI = {10.3354/meps10257},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{Gu2009,
+   author = {Gu, B.},
+   title = {Variations and Controls of Nitrogen Stable Isotopes in Particulate Organic Matter of Lakes},
+   journal = {Oecologia},
+   volume = {160},
+   number = {3},
+   pages = {421-431},
+   abstract = {Nitrogen stable isotope (δ¹⁵N) data of particulate organic matter (POM) from the literature were analyzed to provide an understanding of the variations and controls of in lakes at the global scale. The variability characterized by seasonal mean, minimum, maximum, and amplitude (defined as maximum — minimum) from 36 lakes with seasonal data did not change systematically with latitude, but was significantly lower in small lakes than in large lakes. The seasonal mean increased from oligotrophic lakes to eutrophic lakes despite large variations that are attributed to the occurrences of nitrogen fixation across the trophic gradient and the differences in δ¹⁵N of dissolved inorganic nitrogen (DIN) in individual lakes. Seasonal mean was significantly correlated with DIN concentration and in two subsets of lakes. Seasonal minimum in individual lakes is influenced by nitrogen fixation and while seasonal maximum is influenced by lake trophic state and . As a result of the dominance of non-living POM in the unproductive surface waters, seasonal amplitude was small (mean = 4.2% o) in oligotrophic lakes of all latitudes. On the other hand, seasonal amplitude in eutrophic lakes was large (mean = lO. 3% c), and increased from low to high latitudes, suggesting that the seasonal variability of δ¹⁵N in the phytoplankton-dominated POM pool was elevated by the greater spans of solar radiation and thermal regimes at high latitudes. The from 42 lakes with no seasonal data revealed no consistent patterns along latitude, lake area, and trophic gradients, and a greater than 2% e depletion compared to the lakes with seasonal data. Along with the large seasonal variability of within lakes, these results provide insightful information on sampling design for the studies of food web baseline in lakes.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Biological and medical sciences
+Concepts, Reviews and Syntheses
+Datasets
+Ecology
+Environmental Monitoring - statistics & numerical data
+Eutrophication
+Food Chain
+Food webs
+Fresh Water - chemistry
+Fresh water ecosystems
+Fundamental and applied biological sciences. Psychology
+General aspects
+Geography
+Isotopes
+Lakes
+Life Sciences
+Nitrates
+Nitrogen
+Nitrogen fixation
+Nitrogen isotopes
+Nitrogen Isotopes - chemistry
+Particulate Matter - chemistry
+Phytoplankton
+Plant Sciences
+Seasonal variability
+Seasons
+Surface water
+Synecology
+Trophic state
+δ 15 N},
+   ISSN = {0029-8549},
+   DOI = {10.1007/s00442-009-1323-z},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{Gu1999,
+   author = {Gu, Binhe and Schell, Donald M. and Alexander, Vera},
+   title = {Stable Carbon and Nitrogen Isotopic Analysis of the Plankton Food Web in a Subarctic Lake},
+   journal = {Canadian journal of fisheries and aquatic sciences},
+   volume = {51},
+   number = {6},
+   pages = {1338-1344},
+   abstract = {Carbon and nitrogen stable isotopes (δ 13 C and δ 15 N) were used to track energy flow and nutrient cycling pathways in the plankton food web of a subarctic Alaskan lake. Results indicated that planktonic primary production was the major energy source fueling the zooplankton community. In spring, δ 15 N of Daphnia was strongly influenced by atmospheric nitrogen derived from a N 2 -fixing blue-green algal bloom. In winter, δ 13 C evidence suggested that phytoplankton comprised a small fraction (~15%) of particulate organic matter (POM) in the water column, largely due to low primary productivity. The disparity between δ 13 C of POM and Daphnia in winter may result from preferential assimilation of isotopically light algal carbon from POM. Nitrogen isotope values showed that Heterocope, a presumed carnivore, probably relied heavily on POM as a nutrient source. In common with some arctic lakes, the δ 15 N data showed less than three trophic levels in this plankton food web. The energy transfer pathways and trophic levels revealed a simple plankton trophic structure in this subarctic lacustrine system.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Biological and medical sciences
+Fresh water ecosystems
+Fundamental and applied biological sciences. Psychology
+Synecology},
+   ISSN = {0706-652X},
+   DOI = {10.1139/f94-133},
+   year = {1994},
+   type = {Journal Article}
+}
+
+@article{Hannides2013,
+   author = {Hannides, Cecelia C. S. and Popp, Brian N. and Choy, C. Anela and Drazen, Jeffrey C.},
+   title = {Midwater zooplankton and suspended particle dynamics in the North Pacific Subtropical Gyre: A stable isotope perspective},
+   journal = {Limnology and oceanography},
+   volume = {58},
+   number = {6},
+   pages = {1931-1946},
+   abstract = {We used amino acid (AA) compound-specific isotope analysis ( N and C values) of midwater zooplankton and suspended particles to examine their dynamics in the mesopelagic zone. Suspended particle N values increased by up to 14‰ with depth, whereas particle trophic status (measured as trophic position, TP) remained constant at 1.6 ± 0.07. Applying a Rayleigh distillation model to these results gave an observed kinetic isotope fractionation of 5.7 ± 0.4‰, similar to that previously measured for protein hydrolysis. AA-based degradation index values also decreased with depth on the particles, whereas a measure of heterotrophic resynthesis (ΣV) remained constant at 1.2 ± 0.3. The main mechanism driving N enrichment of suspended particles appears to be isotope fractionation associated with heterotrophic degradation, rather than a change in trophic status or N source with depth. In zooplankton the “source” AA phenylalanine (Phe) became N enriched by up to 3.5‰ with depth, whereas zooplankton TP increased by up to 0.65 between the surface ocean and midwaters. Both changes in the N values of food resources at the base of the zooplankton food web and changes in zooplankton TP drive observed zooplankton N enrichment with depth. Midwater zooplankton N values were lower by 5–8‰ compared with suspended particles, indicating this organic matter pool is not a significant zooplankton food resource at depth. Instead, 62–88% of the N sustaining midwater zooplankton is surface derived, obtained through consumption of sinking particles, carnivory of vertical migrants, or direct feeding in surface waters at night.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Articles
+Biological and medical sciences
+Dynamics of a particle
+Environmental aspects
+Fundamental and applied biological sciences. Psychology
+General aspects
+Research
+Synecology
+Zooplankton},
+   ISSN = {0024-3590},
+   DOI = {10.4319/lo.2013.58.6.1931},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{Jardine2014,
+   author = {Jardine, T. D. and Hadwen, W. L. and Hamilton, S. K. and Hladyz, S. and Mitrovic, S. M. and Kidd, K. A. and Tsoi, W. Y. and Spears, M. and Westhorpe, D. P. and Fry, V. M. and Sheldon, F. and Bunn, S. E.},
+   title = {UNDERSTANDING AND OVERCOMING BASELINE ISOTOPIC VARIABILITY IN RUNNING WATERS},
+   journal = {River research and applications},
+   volume = {30},
+   number = {2},
+   pages = {155-165},
+   note = {Current address: Australian Centre for Biodiversity and School of Biological Sciences, Monash University, Clayton, Victoria, Australia.},
+   abstract = {ABSTRACT Natural abundances of stable isotopes in lotic food webs yield valuable information about sources of organic matter for consumers and trophic structure. However, interpretation of isotopic information can be challenging in the face of variability in organisms at the base of food webs. Unionid and dreissenid mussels, commonly used as baseline organisms in lakes, are uncommon in many river settings and can have variable diets, thus making them unsuitable as a universal baseline for many river food web studies and often forcing reliance on more common benthic insects for this purpose. Turnover rates of body carbon and nitrogen in insects are relatively rapid (1 to 50 days half‐life). These rapid turnover rates in primary consumers can result in considerable temporal variability in δ13C that rivals that of algae (>10‰ range within a site). This suggests that using primary consumers as a surrogate baseline for algae may not circumvent the problem of temporal variability and the resultant mismatch of sources with longer‐lived, slow‐growing secondary and tertiary consumers. There are several strategies for reducing the influence of these confounding factors when bivalves with a known diet are not present. These include sampling over large spatial scales and correlating δ13C of consumers with the source of interest (e.g. benthic algae), sampling baseline organisms multiple times in the weeks preceding sampling of larger consumers (particularly in response to large changes in discharge) and using algal‐detrital separation methods and multiple tracers as much as possible. Incorporating some of these recommendations and further exploring variability at the base of the food web will potentially provide greater insights into consumer–resource coupling in running waters and more robust conclusions about food web structure and energy flow in these dynamic systems. Copyright © 2012 John Wiley & Sons, Ltd.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Biological and medical sciences
+bivalves
+food web pathways
+Fresh water ecosystems
+Fundamental and applied biological sciences. Psychology
+Insecta
+insects
+Invertebrates
+Mollusca
+organic matter sources
+Synecology
+temporal variability
+turnover},
+   ISSN = {1535-1459},
+   DOI = {10.1002/rra.2630},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{Khangaonkar2019,
+   author = {Khangaonkar, Tarang and Nugraha, Adi and Xu, Wenwei and Balaguru, Karthik},
+   title = {Salish Sea Response to Global Climate Change, Sea Level Rise, and Future Nutrient Loads},
+   journal = {Journal of geophysical research. Oceans},
+   volume = {124},
+   number = {6},
+   pages = {3876-3904},
+   note = {PNNL-SA-143747
+USDOE
+AC05-76RL01830},
+   abstract = {Given annual occurrences of hypoxia, harmful algal blooms, and evidence of coastal acidification, the potential impacts of climate change on water quality are of increasing concern in the U.S. Pacific Northwest estuaries such as the Salish Sea. While large‐scale global climate projections are well documented, our understanding of the nearshore estuarine‐scale response is not as well developed. In this study, the future response within the Salish Sea fjord‐like environment was examined using the Salish Sea Model driven by downscaled outputs from the National Center for Atmospheric Research climate model Community Earth System Model. We simulated a single projection of 95‐year change under the representative concentration pathway 8.5 greenhouse gas emissions scenario. Results indicate that higher temperatures, lower pH, and decreased dissolved oxygen levels in the upwelled shelf waters in the future would propagate into the Salish Sea. Results point to potential changes in average Salish Sea temperature (≈+1.51 °C), dissolved oxygen (≈−0.77 mg/L), and pH (acidification −0.18 units) in the Y2095 relative to historical Y2000. The algal biomass in the Salish Sea could increase by ≈23% with a potential species shift from diatoms toward dinoflagellates. The region of annually recurring hypoxia could increase from <1% today to ≈16% in the future. The results suggest that the future response in the Salish Sea is less severe relative to the change predicted near the continental shelf boundary. This resilience of the Salish Sea may be attributed to the existence of strong vertical circulation cells that provide mitigation and serve as a physical buffer, thus keeping waters cooler, more oxygenated, and less acidic. Key Points Y2095 climate change impact on Salish Sea under the RCP 8.5 emissions scenario was examined using a downscaled global climate projection Hypoxia is projected to expand from <1% to approximately equal to 16% of the total area, along with strong T impacts and S intrusion in the intertidal regions Salish Sea future change: T + 1.51 degrees celsius, DO −0.77 mg/L, pH −0.18, and 23% increase in algal biomass; small impacts on circulation},
+   keywords = {ocean acidification
+hypoxia
+3‐D circulation model
+Salish Sea
+climate change
+3‐D biogeochemical model
+Three-Dimensional Hydrodynamic Model
+unstructured grid
+biogeochemical model
+algae
+nutrient loads
+ENVIRONMENTAL SCIENCES
+puget sound
+circulation
+phytoplankton},
+   ISSN = {2169-9275},
+   DOI = {10.1029/2018JC014670},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{Kjeldgaard2021,
+   author = {Kjeldgaard, MacKenzie K. and Hewlett, Jeremy A. and Eubanks, Micky D.},
+   title = {Widespread variation in stable isotope trophic position estimates: patterns, causes, and potential consequences},
+   journal = {Ecological monographs},
+   volume = {91},
+   number = {3},
+   pages = {n/a},
+   note = {Corresponding Editor: James T. Cronin.},
+   abstract = {Stable isotope analysis is one of the most widely used techniques to estimate trophic position and provides fundamental insight into the structure and management of ecological communities. To account for the effects of geographic variation in isotope levels, trophic position is typically estimated relative to an isotope “baseline” (i.e., material representing geographic variation) using a methodology such as a formula or statistical analysis. There is, however, remarkable variation in the baselines and methodologies used to estimate trophic position from stable isotopes. The consequences of this lack of standardization are unknown but could result in biased or erroneous conclusions. We conducted a literature review to quantify the variation in baselines and methodologies used to estimate trophic position from stable isotopes. Next, we assessed the consequences of this variation on individual species estimates and food web structure by extracting published trophic positions and applying various baselines and methodologies to existing data sets. We identified 10 baselines and eight methodologies, the use of which varied by ecosystem studied. Moreover, we found that different baselines and methodologies yield significantly different trophic position estimates for individual species, as well as different conclusions about food web structure. Authors should avoid biological interpretations of absolute, stand‐alone trophic positions (as these are prone to a number of biases). We recommend pairing stable isotope analysis with other techniques for more robust conclusions. Increased sample size may mitigate some of the variation caused by different baselines and methodologies; however, an alarmingly large proportion of studies collected only one sample in at least one trophic group (41% of all reviewed studies). Authors should collect a minimum of five samples per trophic group (but ten for best practices) from as many trophic groups as possible to increase statistical power and redundancy in comparisons. When sample size is unavoidably constrained, we recommend using compound‐specific isotope analysis with a taxon‐specific trophic discrimination factor, because it may be more accurate and require fewer samples to maintain appropriate statistical power. Implementing our recommendations will increase the robustness and accuracy of conclusions based on stable isotopes, resulting in better management decisions and a more accurate understanding of ecological communities.},
+   keywords = {food chain
+food web
+literature bias
+sample size
+stable isotope analysis
+trophic level},
+   ISSN = {0012-9615},
+   DOI = {10.1002/ecm.1451},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{Kolzau2014,
+   author = {Kolzau, Sebastian and Wiedner, Claudia and Rücker, Jacqueline and Köhler, Jan and Köhler, Antje and Dolman, Andrew M.},
+   title = {Seasonal patterns of nitrogen and phosphorus limitation in four German lakes and the predictability of limitation status from ambient nutrient concentrations},
+   journal = {PloS one},
+   volume = {9},
+   number = {4},
+   pages = {e96065-e96065},
+   note = {Conceived and designed the experiments: SK CW JR JK AK AMD. Performed the experiments: SK. Analyzed the data: SK AMD. Wrote the paper: SK CW JR JK AK AMD. Acquired data: JR JK AK.
+Competing Interests: The authors have declared that no competing interests exist.},
+   abstract = {To identify the seasonal pattern of nitrogen (N) and phosphorus (P) limitation of phytoplankton in four different lakes, biweekly experiments were conducted from the end of March to September 2011. Lake water samples were enriched with N, P or both nutrients and incubated under two different light intensities. Chlorophyll a fluorescence (Chla) was measured and a model selection procedure was used to assign bioassay outcomes to different limitation categories. N and P were both limiting at some point. For the shallow lakes there was a trend from P limitation in spring to N or light limitation later in the year, while the deep lake remained predominantly P limited. To determine the ability of in-lake N:P ratios to predict the relative strength of N vs. P limitation, three separate regression models were fit with the log-transformed ratio of Chla of the P and N treatments (Response ratio = RR) as the response variable and those of ambient total phosphorus:total nitrogen (TN:TP), dissolved inorganic nitrogen:soluble reactive phosphorus (DIN:SRP), TN:SRP and DIN:TP mass ratios as predictors. All four N:P ratios had significant positive relationships with RR, such that high N:P ratios were associated with P limitation and low N:P ratios with N limitation. The TN:TP and DIN:TP ratios performed better than the DIN:SRP and TN:SRP in terms of misclassification rate and the DIN:TP ratio had the highest R₂ value. Nitrogen limitation was predictable, frequent and persistent, suggesting that nitrogen reduction could play a role in water quality management. However, there is still uncertainty about the efficacy of N restriction to control populations of N₂ fixing cyanobacteria.},
+   keywords = {Annual variations
+Aquatic plants
+Bioassays
+Biological assays
+Biology and Life Sciences
+Chlorophyll
+Chlorophyll - metabolism
+Climate change
+Cyanobacteria
+Cyanobacteria - metabolism
+Earth Sciences
+Ecology and Environmental Sciences
+Ecosystems
+Environmental aspects
+Experiments
+Fluorescence
+Germany
+Lakes
+Lakes - chemistry
+Limnology
+Luminous intensity
+Mass ratios
+Nitrates
+Nitrogen
+Nitrogen - chemistry
+Nitrogen - metabolism
+Nutrient concentrations
+Nutrient status
+Nutrients
+Phosphorus
+Phosphorus - chemistry
+Phosphorus - metabolism
+Phosphorus compounds
+Physical Sciences
+Phytoplankton
+Phytoplankton - metabolism
+Plankton
+Quality management
+Regression analysis
+Regression models
+River ecology
+Seasonal variations
+Seasons
+Sediments
+Studies
+Water analysis
+Water quality
+Water quality management
+Water sampling},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0096065},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{Lorrain2015,
+   author = {Lorrain, Anne and Graham, Brittany S. and Popp, Brian N. and Allain, Valérie and Olson, Robert J. and Hunt, Brian P. V. and Potier, Michel and Fry, Brian and Galván-Magaña, Felipe and Menkes, Christophe E. R. and Kaehler, Sven and Ménard, Frédéric},
+   title = {Nitrogen isotopic baselines and implications for estimating foraging habitat and trophic position of yellowfin tuna in the Indian and Pacific Oceans},
+   journal = {Deep-sea research. Part II, Topical studies in oceanography},
+   volume = {113},
+   pages = {188-198},
+   note = {National Science Foundation},
+   abstract = {Assessment of isotopic compositions at the base of food webs is a prerequisite for using stable isotope analysis to assess foraging locations and trophic positions of marine organisms. Our study represents a unique application of stable-isotope analyses across multiple trophic levels (primary producer, primary consumer and tertiary consumer) and over a large spatial scale in two pelagic marine ecosystems. We found that δ15N values of particulate organic matter (POM), barnacles and phenylalanine from the muscle tissue of yellowfin tuna all showed similar spatial patterns. This consistency suggests that isotopic analysis of any of these can provide a reasonable proxy for isotopic variability at the base of the food web. Secondly, variations in the δ15N values of yellowfin tuna bulk-muscle tissues paralleled the spatial trends observed in all of these isotopic baseline proxies. Variation in isotopic composition at the base of the food web, rather than differences in tuna diet, explained the 11‰ variability observed in the bulk-tissue δ15N values of yellowfin tuna. Evaluating the trophic position of yellowfin tuna using amino-acid isotopic compositions across the western Indian and equatorial Pacific Oceans strongly suggests these tuna occupy similar trophic positions, albeit absolute trophic positions estimated by this method were lower than expected. This study reinforces the importance of considering isotopic baseline variability for diet studies, and provides new insights into methods that can be applied to generate nitrogen isoscapes for worldwide comparisons of top predators in marine ecosystems.},
+   keywords = {AA-CSIA
+Amino acids
+Analysis
+Barnacles
+Biodiversity and Ecology
+Environmental Sciences
+Geophysics
+Lepas anatifera
+Marine biology
+Marine top predators
+Nitrogen
+Nitrogen stable isotopes
+Ocean
+Ocean, Atmosphere
+Oceanography
+Phenylalanine
+Physical Sciences
+Physics
+POM
+Science & Technology
+Sciences of the Universe
+Thunnus albacares},
+   ISSN = {0967-0645},
+   DOI = {10.1016/j.dsr2.2014.02.003},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{Mancinelli2013,
+   author = {Mancinelli, Giorgio and Vizzini, Salvatrice and Mazzola, Antonio and Maci, Stefano and Basset, Alberto},
+   title = {Cross-validation of δ15N and FishBase estimates of fish trophic position in a Mediterranean lagoon: The importance of the isotopic baseline},
+   journal = {Estuarine, coastal and shelf science},
+   volume = {135},
+   pages = {77-85},
+   abstract = {FishBase, a relational database freely available on the Internet, is to date widely used as a source of quantitative information on the trophic position of marine fish species. Here, we compared FishBase estimates for an assemblage of 30 fish species sampled in a Mediterranean lagoon (Acquatina lagoon, SE Italy) with their trophic positions calculated using nitrogen stable isotopes. To assess the influence of the trophic level used to compute the baseline indicator on the robustness of isotopic estimations, we compared the trophic position of fish calculated using the average δ15N signature of either basal resource or primary consumer taxa measured at three stations located in the lagoon in July and November 2007. In general, basal resources showed negligible among-station and inter-season variations in their δ15N values; however, they were characterized by a high inter-specific heterogeneity, with signatures varying by approximately 10 per mil units. In contrast, whereas primary consumer signatures showed significant spatial and temporal variations, they were characterized by a lower inter-specific variability. Fish trophic positions estimated using primary consumers as the isotopic baseline were highly correlated with values provided by FishBase, independently from whether the latter were calculated on either diet data or individual prey items. Conversely, estimations using a basal resources as the baseline indicator were significantly less correlated with FishBase estimates. The present study emphasized the crucial importance played by inter-specific variability in baseline taxa signatures for a robust assessment of fish trophic position, and confirmed primary consumers as the best candidate for baseline estimation. In addition, our results indicate that, notwithstanding the limitations characterizing the data provided in FishBase, they represent an adequate source of information on the trophic ecology of fish.},
+   keywords = {fish trophic position
+food web
+isotopic baseline
+lagoon
+δ15N},
+   ISSN = {0272-7714},
+   DOI = {10.1016/j.ecss.2013.04.004},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{DelRio2009,
+   author = {Martinez del Rio, Carlos and Wolf, Nathan and Carleton, Scott A. and Gannes, Leonard Z.},
+   title = {Isotopic ecology ten years after a call for more laboratory experiments},
+   journal = {Biological reviews of the Cambridge Philosophical Society},
+   volume = {84},
+   number = {1},
+   pages = {91-111},
+   abstract = {About 10 years ago, reviews of the use of stable isotopes in animal ecology predicted explosive growth in this field and called for laboratory experiments to provide a mechanistic foundation to this growth. They identified four major areas of inquiry: (1) the dynamics of isotopic incorporation, (2) mixing models, (3) the problem of routing, and (4) trophic discrimination factors. Because these areas remain central to isotopic ecology, we use them as organising foci to review the experimental results that isotopic ecologists have collected in the intervening 10 years since the call for laboratory experiments. We also review the models that have been built to explain and organise experimental results in these areas.},
+   keywords = {Analysis
+Animals
+Bioaccumulation
+Ecology - methods
+Ecosystem
+experimental isotopic ecology
+Isotopes
+stable isotopes
+Technology application
+Tracking and trailing
+trophic ecology
+Usage
+δ13C
+δ15N},
+   ISSN = {1464-7931},
+   DOI = {10.1111/j.1469-185X.2008.00064.x},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{Matthews2007,
+   author = {Matthews, Blake and Mazumder, Asit},
+   title = {Distinguishing trophic variation from seasonal and size-based isotopic (15N) variation of zooplankton},
+   journal = {Canadian journal of fisheries and aquatic sciences},
+   volume = {64},
+   number = {1},
+   pages = {74-83},
+   abstract = {We measured the δ15N of particulate organic matter (POM), Daphnia pulex (D), Holopedium gibberum (H), Leptodiaptomus tyrelli (LT), Epischura nevadensis (E), and Chaoborus trivittatus (C) over an annual cycle in Council Lake, a pristine, oligotrophic, fishless lake. Annual averages of the δ15N of plankton (C, LT, E > D, H > POM) matched expected differences in trophic position, but seasonal patterns differed among species. During midsummer, the δ15N of D, H, and LT increased above the δ15N of E and C, despite little temporal or spatial variation in the δ15N of POM (<41 µm). Larger size fractions of POM (41-200 µm) helped explain some of the temporal variability of zooplankton δ15N. Body size of zooplankton was correlated with δ15N for D, C, and E, which could indicate size-based, trophic-level variation; selective feeding; or physiological differences in 15N enrichment. We propose that detailed time series of δ15N for multiple zooplankton species can help determine the seasonal variability of trophic structure in zooplankton assemblages.Nous avons mesuré les δ15N de la matière organique particulaire (POM), de Daphnia pulex (D), d'Holopedium gibberum (H), de Leptodiaptomus tyrelli (LT), d'Epischura nevadensis (E) et de Chaoborus trivittatus (C) durant un cycle annuel au lac Council, un lac oligotrophe non perturbé et sans poissons. Les valeurs moyennes annuelles de δ15N du plancton (C, LT, E > D, H > POM) correspondent aux différences attendues, compte tenu des positions trophiques, mais les patrons saisonniers varient d'une espèce à l'autre. Durant la mi-été, les δ15N de D, H et LT dépassent les δ15N de E et C, malgré le peu de variation temporelle ou spatiale du δ15N de POM (<41 µm). Les fractions de plus grande taille de POM (41-200 µm) aident à expliquer une partie de la variabilité temporelle du δ15N du plancton. Il y a une corrélation entre la taille corporelle du zooplancton et le δ15N chez D, C et E, ce qui pourrait indiquer une variation du niveau trophique, une alimentation sélective ou des différences physiologiques dans l'enrichissement en δ15N en fonction de la taille. Nous croyons que des séries chronologiques détaillées de δ15N pour plusieurs espèces du zooplancton pourraient aider à déterminer la variabilité saisonnière de la structure trophique des peuplements de zooplancton.[Traduit par la Rédaction]},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Applied ecology
+Behavior
+Biological and medical sciences
+Data collection
+Environmental aspects
+Exploitation and management of natural biological resources (hunting, fishing and exploited populations survey, etc.)
+Food chains
+Fresh water ecosystems
+Freshwater zooplankton
+Fundamental and applied biological sciences. Psychology
+Growth
+Lake ecology
+Physiological aspects
+Plankton
+Research
+Seasons
+Synecology},
+   ISSN = {0706-652X},
+   DOI = {10.1139/f06-168},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{McCarthy2007,
+   author = {McCarthy, Matthew D. and Benner, Ronald and Lee, Cindy and Fogel, Marilyn L.},
+   title = {Amino acid nitrogen isotopic fractionation patterns as indicators of heterotrophy in plankton, particulate, and dissolved organic matter},
+   journal = {Geochimica et cosmochimica acta},
+   volume = {71},
+   number = {19},
+   pages = {4727-4744},
+   abstract = {Bulk nitrogen (N) isotope signatures have long been used to investigate organic N source and food web structure in aquatic ecosystems. This paper explores the use of compound-specific δ 15N patterns of amino acids (δ 15N-AA) as a new tool to examine source and processing history in non-living marine organic matter. We measured δ 15N-AA distributions in plankton tows, sinking particulate organic matter (POM), and ultrafiltered dissolved organic matter (UDOM) in the central Pacific Ocean. δ 15N-AA patterns in eukaryotic algae and mixed plankton tows closely resemble those previously reported in culture. δ 15N differences between individual amino acids (AA) strongly suggest that the sharply divergent δ 15N enrichment for different AA with trophic transfer, as first reported by [McClelland, J.W. and Montoya, J.P. (2002) Trophic relationships and the nitrogen isotopic composition of amino acids. Ecology 83, 2173–2180], is a general phenomenon. In addition, differences in δ 15N of individual AA indicative of trophic transfers are clearly preserved in sinking POM, along with additional changes that may indicate subsequent microbial reworking after incorporation into particles. We propose two internally normalized δ 15N proxies that track heterotrophic processes in detrital organic matter. Both are based on isotopic signatures in multiple AA, chosen to minimize potential problems associated with any single compound in degraded materials. A trophic level indicator (ΔTr) is derived from the δ 15N difference between selected groups of AA based on their relative enrichment with trophic transfer. We propose that a corresponding measure of the variance within a sub-group of AA (designated Σ V) may indicate total AA resynthesis, and be strongly tied to heterotrophic microbial reworking in detrital materials. Together, we hypothesize that ΔTr and Σ V define a two dimensional trophic “space”, which may simultaneously express relative extent of eukaryotic and bacterial heterotrophic processing. In the equatorial Pacific, ΔTr indicates an average of 1.5–2 trophic transfers between phytoplankton and sinking POM at all depths and locations. The Σ V parameter suggests that substantial variation may exist in bacterial heterotrophic processing between differing regions and time periods. In dissolved material δ 15N-AA patterns appear unrelated to those in POM. In contrast to POM, δ 15N-AA signatures in UDOM show no clear changes with depth, and suggest that dissolved AA preserved throughout the oceanic water column have undergone few, if any, trophic transfers. Together these data suggest a sharp divide between processing histories, and possibly sources, of particulate vs. dissolved AA.},
+   ISSN = {0016-7037},
+   DOI = {10.1016/j.gca.2007.06.061},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{McClelland2003,
+   author = {McClelland, J. W. and Holl, C. M. and Montoya, J. P.},
+   title = {Relating low δ15N values of zooplankton to N2-fixation in the tropical North Atlantic: insights provided by stable isotope ratios of amino acids},
+   journal = {Deep-sea research. Part I, Oceanographic research papers},
+   volume = {50},
+   number = {7},
+   pages = {849-861},
+   keywords = {Earth, ocean, space
+Exact sciences and technology
+External geophysics
+Physical and chemical properties of sea water
+Physics of the oceans},
+   ISSN = {0967-0637},
+   DOI = {10.1016/S0967-0637(03)00073-6},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{McCrackin2017,
+   author = {McCrackin, Michelle L. and Jones, Holly P. and Jones, Peter C. and Moreno‐Mateos, David},
+   title = {Recovery of lakes and coastal marine ecosystems from eutrophication: A global meta-analysis},
+   journal = {Limnology and oceanography},
+   volume = {62},
+   number = {2},
+   pages = {507-518},
+   abstract = {In order to inform policies aimed at reducing nutrient emissions to surface waters, it is essential to understand how aquatic ecosystems respond to eutrophication management. Using data from 89 studies worldwide, we examined responses to the reduction or cessation of anthropogenic nutrient inputs relative to baseline conditions. Baseline conditions were pre-disturbance conditions, undisturbed reference sites, restoration targets, or experimental controls. We estimated recovery completeness (% baseline conditions reached) and recovery rate (annual % change relative to baseline conditions) for plant and animal abundance and diversity and for ecosystem functions. Categories were considered fully recovered if the 95% confidence interval (CI) of recovery completeness overlapped 100% and partially recovered if the CI did not overlap either 100% or zero. Cessation of nutrient inputs did not result in more complete or faster recovery than partial nutrient reductions, due likely to insufficient passage of time, nutrients from other sources, or shifting baselines. Together, lakes and coastal marine areas achieved 34% (±16% CI) and 24% (±15% CI) of baseline conditions decades after the cessation or partial reduction of nutrients, respectively. One third of individual response variables showed no change or worsened conditions, suggesting that achieving baseline conditions may not be possible in all cases. Implied recovery times after cessation of nutrient inputs varied widely, from < 1 yr to nearly a century, depending on response. Our results suggest that long-term monitoring is needed to better understand recovery timescales and trajectories and that policy measures must consider the potential for slow and partial recovery.},
+   keywords = {Articles
+Biological Sciences
+Biologiska vetenskaper
+Earth and Related Environmental Sciences
+Geovetenskap och miljövetenskap
+Natural Sciences
+Naturvetenskap},
+   ISSN = {0024-3590
+1939-5590},
+   DOI = {10.1002/lno.10441},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{McMahon2015,
+   author = {McMahon, Kelton W. and Polito, Michael J. and Abel, Stephanie and McCarthy, Matthew D. and Thorrold, Simon R.},
+   title = {Carbon and nitrogen isotope fractionation of amino acids in an avian marine predator, the gentoo penguin (Pygoscelis papua)},
+   journal = {Ecology and evolution},
+   volume = {5},
+   number = {6},
+   pages = {1278-1290},
+   note = {Funding Information This research was funded by National Science Foundation Office of Polar Programs [grants ANT–0125098, ANT–0739575] and the 2013 Antarctic Science Bursaries.
+Joint first authors.},
+   abstract = {Compound‐specific stable isotope analysis (CSIA) of amino acids (AA) has rapidly become a powerful tool in studies of food web architecture, resource use, and biogeochemical cycling. However, applications to avian ecology have been limited because no controlled studies have examined the patterns in AA isotope fractionation in birds. We conducted a controlled CSIA feeding experiment on an avian species, the gentoo penguin (Pygoscelis papua), to examine patterns in individual AA carbon and nitrogen stable isotope fractionation between diet (D) and consumer (C) (Δ13CC‐D and Δ15NC‐D, respectively). We found that essential AA δ13C values and source AA δ15N values in feathers showed minimal trophic fractionation between diet and consumer, providing independent but complimentary archival proxies for primary producers and nitrogen sources respectively, at the base of food webs supporting penguins. Variations in nonessential AA Δ13CC‐D values reflected differences in macromolecule sources used for biosynthesis (e.g., protein vs. lipids) and provided a metric to assess resource utilization. The avian‐specific nitrogen trophic discrimination factor (TDFGlu‐Phe = 3.5 ± 0.4‰) that we calculated from the difference in trophic fractionation (Δ15NC‐D) of glutamic acid and phenylalanine was significantly lower than the conventional literature value of 7.6‰. Trophic positions of five species of wild penguins calculated using a multi‐TDFGlu‐Phe equation with the avian‐specific TDFGlu‐Phe value from our experiment provided estimates that were more ecologically realistic than estimates using a single TDFGlu‐Phe of 7.6‰ from the previous literature. Our results provide a quantitative, mechanistic framework for the use of CSIA in nonlethal, archival feathers to study the movement and foraging ecology of avian consumers. Compound‐specific stable isotope analysis of amino acids has rapidly become a powerful tool in studies of food web architecture, resource use, and biogeochemical cycling. We conducted a controlled feeding experiment on gentoo penguins to examine patterns in individual amino acid carbon and nitrogen isotope fractionation in non‐lethal, archival feathers. Using the newly derived avian‐specific amino acid fractionation factors, we examined wild penguin foraging ecology and trophic dynamics in the Southern Ocean, including identifying the sources of primary production supporting wild penguins and calculating wild penguin trophic position.},
+   keywords = {Amino acid
+avian
+compound-specific stable isotope analysis
+diet
+fractionation
+Original Research
+penguin
+trophic position},
+   ISSN = {2045-7758},
+   DOI = {10.1002/ece3.1437},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{McMeans2015,
+   author = {McMeans, Bailey C. and McCann, Kevin S. and Humphries, Murray and Rooney, Neil and Fisk, Aaron T.},
+   title = {Food Web Structure in Temporally-Forced Ecosystems},
+   journal = {Trends in ecology & evolution (Amsterdam)},
+   volume = {30},
+   number = {11},
+   pages = {662-672},
+   abstract = {Temporal variation characterizes many of Earth's ecosystems. Despite this, little is known about how food webs respond to regular variation in time, such as occurs broadly with season. We argue that season, and likely any periodicity, structures food webs along a temporal axis in an analogous way to that previously recognized in space; predators shift their diet as different resource compartments and trophic levels become available through time. These characteristics are likely (i) central to ecosystem function and stability based on theory, and (ii) widespread across ecosystem types based on empirical observations. The temporal food web perspective outlined here could provide new insight into the ecosystem-level consequences of altered abiotic and biotic processes that might accompany globally changing environments. Temporal environmental variation is ubiquitous in nature and appears to consistently structure food webs in many ecosystems. Such abiotic variation drives different resources to become available during different times. Consumers buffer this variation via dormancy, migration, or by temporally shifting their diet towards abundant resources. These temporal food web characteristics likely sustain ecosystem functions in the face of naturally-variable conditions. Global environmental changes are threatening these existing abiotic signals and the biotic processes that are structured around them. Failure to study food webs on a temporal axis represents a missed opportunity to better understand ecosystem structure and function in a changing world and could be detrimental for efforts aimed at anticipating and mediating the consequences of novel periodicities on key ecosystem functions.},
+   keywords = {Animals
+Ecosystem
+Ecosystems
+Environmental aspects
+Food Chain
+Predatory Behavior
+Seasons
+Spatio-Temporal Analysis
+Time Factors},
+   ISSN = {0169-5347},
+   DOI = {10.1016/j.tree.2015.09.001},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{Misarti2009,
+   author = {Misarti, Nicole and Finney, Bruce and Maschner, Herbert and Wooller, Matthew J.},
+   title = {Changes in northeast Pacific marine ecosystems over the last 4500 years: evidence from stable isotope analysis of bone collagen from archeological middens},
+   journal = {Holocene (Sevenoaks)},
+   volume = {19},
+   number = {8},
+   pages = {1139-1151},
+   abstract = {Changes in food web dynamics and ocean productivity over the past 4500 years are investigated using stable isotope analysis of nitrogen and carbon in collagen from animal bones preserved in coastal archeological middens on Sanak Island, along the eastern edge of the Aleutian archipelgo. Samples included Steller sea lions, Harbor seals, Northern fur seals, sea otters, Pacific cod and sockeye salmon. Sea otters had the highest δ13C (−11.9 ± 0.7‰) and lowest δ15N values (14.5 ± 1.4‰), Northern fur seals had the lowest δ13C values (−13.6 ± 1.4‰), and Steller sea lions had the highest δ15N values (18.4 ± 1.4‰) of the marine mammals. Cod isotope values were consistent with those of demersal organisms from near shore habitats (−12.5 ± 0.9‰ δ13C, 16.1 ± 1.4‰ δ15N), while salmon values were consistent with those of organisms existing in an open ocean habitat and at a lower trophic level (−15.2 ± 1.4‰ δ13C, 11.5 ± 1.7‰ δ15N). When comparing six different prehistoric time periods, two time periods had significantly different δ 13C for salmon. Otters had significantly different δ15N values in two out of the six prehistoric time periods but no differences in δ13C. The mean δ13C, corrected for the oceanic Suess Effect, of modern specimens of all species (except Northern fur seals) were significantly lower than prehistoric animals. Several hypotheses are explored to explain these differences including a reduction in productivity during the twentieth century in this region of the Gulf of Alaska. If true, this suggests that North Pacific climate regimes experienced during the twentieth century may not be good analogs of North Pacific marine ecosystems during the late Holocene.},
+   keywords = {Environmental studies
+Methodology and general studies
+Prehistory and protohistory
+America and Arctic regions},
+   ISSN = {0959-6836},
+   DOI = {10.1177/0959683609345075},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{Moon2007,
+   author = {Moon, Jessica B. and Carrick, Hunter J.},
+   title = {Seasonal variation of phytoplankton nutrient limitation in Lake Erie},
+   journal = {Aquatic microbial ecology : international journal},
+   volume = {48},
+   number = {1},
+   pages = {61-71},
+   keywords = {Animal, plant and microbial ecology
+Biological and medical sciences
+Fundamental and applied biological sciences. Psychology
+Microbial ecology
+Various environments (extraatmospheric space, air, water)},
+   ISSN = {0948-3055},
+   DOI = {10.3354/ame048061},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{Nielsen2015,
+   author = {Nielsen, Jens M. and Popp, Brian N. and Winder, Monika},
+   title = {Meta-analysis of amino acid stable nitrogen isotope ratios for estimating trophic position in marine organisms},
+   journal = {Oecologia},
+   volume = {178},
+   number = {3},
+   pages = {631-642},
+   abstract = {Estimating trophic structures is a common approach used to retrieve information regarding energy pathways, predation, and competition in complex ecosystems. The application of amino acid (AA) compoundspecific nitrogen (N) isotope analysis (CSIA) is a relatively new method used to estimate trophic position (TP) and feeding relationships in diverse organisms. Here, we conducted the first meta-analysis of δ¹⁵N AA values from measurements of 359 marine species covering four trophic levels, and compared TP estimates from AA-CSIA to literature values derived from food items, gut or stomach content analysis. We tested whether the AA trophic enrichment factor (TEF), or the ¹⁵N enrichment among different individual AAs is constant across trophic levels and whether inclusion of δ¹⁵N values from multiple AAs improves TP estimation. For the TEF of glutamic acid relative to phenylalanine (Phe) we found an average value of 6.6 % c across all taxa, which is significantly lower than the commonly applied 7.6 ‰. We found that organism feeding ecology influences TEF values of several trophic AAs relative to Phe, with significantly higher TEF values for herbivores compared to omnivores and carnivores, while TEF values were also significantly lower for animals excreting urea compared to ammonium. Based on the comparison of multiple model structures using the metadata of δ¹⁵N AA values we show that increasing the number of AAs in principle improves precision in TP estimation. This meta-analysis clarifies the advantages and limitations of using individual δ¹⁵N AA values as tools in trophic ecology and provides a guideline for the future application of AA-CSIA to food web studies.},
+   keywords = {HIGHLIGHTED STUDENT RESEARCH
+Life Sciences
+Hydrology/Water Resources
+Trophic enrichment factor
+Ecology
+Food webs
+Trophic ecology
+Plant Sciences
+Compounds-specific isotope analysis
+Amino Acids - metabolism
+Food Chain
+Nitrogen Isotopes - analysis
+Predatory Behavior
+Animals
+Gastrointestinal Contents - chemistry
+Nitrogen - analysis
+Ecosystem
+Amino Acids - analysis
+Aquatic Organisms - metabolism
+Phenylalanine
+Ecosystems
+Analysis
+Biological Sciences
+Naturvetenskap
+Biologiska vetenskaper
+marin ekologi
+Natural Sciences
+Marine Ecology},
+   ISSN = {0029-8549
+1432-1939},
+   DOI = {10.1007/s00442-015-3305-7},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{Ohkouchi2015,
+   author = {Ohkouchi, Naohiko and Ogawa, Nanako O. and Chikaraishi, Yoshito and Tanaka, Hiroyuki and Wada, Eitaro},
+   title = {Biochemical and physiological bases for the use of carbon and nitrogen isotopes in environmental and ecological studies},
+   journal = {Progress in earth and planetary science},
+   volume = {2},
+   number = {1},
+   pages = {1-17},
+   abstract = {We review the biochemical and physiological bases of the use of carbon and nitrogen isotopic compositions as an approach for environmental and ecological studies. Biochemical processes commonly observed in the biosphere, including the decarboxylation and deamination of amino acids, are the key factors in this isotopic approach. The principles drawn from the isotopic distributions disentangle the complex dynamics of the biosphere and allow the interactions between the geosphere and biosphere to be analyzed in detail. We also summarize two recently examined topics with new datasets: the isotopic compositions of individual biosynthetic products (chlorophylls and amino acids) and those of animal organs for further pursuing the basis of the methodology. As a tool for investigating complex systems, compound-specific isotopic analysis compensates the intrinsic disadvantages of bulk isotopic signatures. Chlorophylls provide information about the particular processes of various photoautotrophs, whereas amino acids provide a precise measure of the trophic positions of heterotrophs. The isotopic distributions of carbon and nitrogen in a single organism as well as in the whole biosphere are strongly regulated, so that their major components such as amino acids are coordinated appropriately rather than controlled separately.},
+   keywords = {Amino acid
+Animal organ
+Atmospheric Sciences
+Biogeosciences
+Carbon isotopic composition
+Chlorophyll
+Earth Sciences
+Earth Sciences, general
+Ecosystem
+Food web
+Geophysics/Geodesy
+Hydrogeology
+Nitrogen isotopic composition
+Planetology
+Trophic position},
+   ISSN = {2197-4284},
+   DOI = {10.1186/s40645-015-0032-y},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{Olson2010,
+   author = {Olson, Robert J. and Popp, Brian N. and Graham, Brittany S. and López-Ibarra, Gladis A. and Galván-Magaña, Felipe and Lennert-Cody, Cleridy E. and Bocanegra-Castillo, Noemi and Wallsgrove, Natalie J. and Gier, Elizabeth and Alatorre-Ramírez, Vanessa and Ballance, Lisa T. and Fry, Brian},
+   title = {Food-web inferences of stable isotope spatial patterns in copepods and yellowfin tuna in the pelagic eastern Pacific Ocean},
+   journal = {Progress in oceanography},
+   volume = {86},
+   number = {1-2},
+   pages = {124-138},
+   ISSN = {0079-6611},
+   DOI = {10.1016/j.pocean.2010.04.026},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@book{Popp2007,
+   author = {Popp, Brian N. and Graham, Brittany S. and Olson, Robert J. and Hannides, Cecelia C. S. and Lott, Michael J. and López‐Ibarra, Gladis A. and Galván‐Magaña, Felipe and Fry, Brian},
+   title = {Insight into the Trophic Ecology of Yellowfin Tuna, Thunnus albacares, from Compound‐Specific Nitrogen Isotope Analysis of Proteinaceous Amino Acids},
+   publisher = {Elsevier Science & Technology},
+   volume = {1},
+   pages = {173-190},
+   abstract = {This chapter tests the premise that a single sample from an upper trophic level pelagic predator fish could provide information on both the trophic level of the fish and the δ15N value at the base of the food web. This chapter analyzes the nitrogen isotopic composition of individual amino acids in white muscle tissue (WMT) of yellowfin tuna (Thunnus albacares) from the eastern tropical Pacific (ETP) to determine if the observed variations in the δ15N values of WMT are primarily controlled by the nitrogen isotopic composition at the base of the food web or the trophic level of the tuna. The difference between the δ15N values of source and trophic amino acids is used to estimate the trophic level of yellowfin, and this is compared to the estimates based on two independent methods, stomach content analysis and the isotopic difference between the δ15N values of mesozooplankton and yellowfin tuna in the ETP. It is found that nitrogen isotopic analyses of individual amino acids in tuna can be used to distinguish between nutrient and trophic dynamics in pelagic ecosystems, and the implications of these results are discussed for investigating the long-term impact of commercial fishing on the food web structure of marine ecosystems.},
+   ISBN = {1936-7961},
+   DOI = {10.1016/S1936-7961(07)01012-3},
+   year = {2007},
+   type = {Book}
+}
+
+@article{Possamai2021,
+   author = {Possamai, B. and Hoeinghaus, D. J. and Garcia, A. M.},
+   title = {Shifting baselines: Integrating ecological and isotopic time lags improves trophic position estimates in aquatic consumers},
+   journal = {Marine ecology. Progress series (Halstenbek)},
+   volume = {666},
+   pages = {19-30},
+   abstract = {Nitrogen stable isotope ratios (δ15N) are routinely used to estimate consumer trophic positions (TPs). This method is very sensitive to the chosen isotopic baseline, which should incorporate all temporal isotopic variability occurring in the base of the food web sustaining the consumers. However, there is still no consensus on the different methods to represent time intervals for isotopic assimilation. It is uncertain if researchers should compute a single baseline obtained by averaging δ15N source values across all time periods, multiple baselines based on δ15N source values collected concomitantly with consumers, or consider a time lag between sources and consumers. Aiming to provide empirical evidence to help select the best option, we designed 4 methods using different temporal lags between consumers and producers based on a 9 yr time series of carbon and nitrogen stable isotopes in an estuary. The 4 tested baseline methods considered the δ15N average of producers sampled in all years (Global); the same season as consumers (Concomitantly); the season before the collection of consumers (Delayed); and the previous season as well as the same season of consumer sampling (Interpolation). Comparison of results with an expected model (based on stomach content data) showed that the Delayed method is the most appropriate. We conclude that time lags in the incorporation of stable isotope values between sources and consumers must be considered in baseline δ15N calculations to improve TP estimates and provide more reliable modeling results. Additionally, we provide other recommendations to improve sampling designs when using stable isotopes in TP estimations.},
+   ISSN = {0171-8630},
+   DOI = {10.3354/meps13682},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{Post2002,
+   author = {Post, David M.},
+   title = {Using Stable Isotopes to Estimate Trophic Position: Models, Methods, and Assumptions},
+   journal = {Ecology (Durham)},
+   volume = {83},
+   number = {3},
+   pages = {703-718},
+   note = {post@nceas.ucsb.edu
+Present address: National Center for Ecological Analysis and Synthesis, 735 State Street, Suite 300, Santa Barbara, California 93101‐3351 USA. E‐mail},
+   abstract = {The stable isotopes of nitrogen (Δ15N) and carbon (δ13C) provide powerful tools for estimating the trophic positions of and carbon flow to consumers in food webs; however, the isotopic signature of a consumer alone is not generally sufficient to infer trophic position or carbon source without an appropriate isotopic baseline. In this paper, I develop and discuss methods for generating an isotopic baseline and evaluate the assumptions required to estimate the trophic position of consumers using stable isotopes in multiple ecosystem studies. I test the ability of two primary consumers, surface-grazing snails and filter-feeding mussels, to capture the spatial and temporal variation at the base of aquatic food webs. I find that snails reflect the isotopic signature of the base of the littoral food web, mussels reflect the isotopic signature of the pelagic food web, and together they provide a good isotopic baseline for estimating trophic position of secondary or higher trophic level consumers in lake ecosystems. Then, using data from 25 north temperate lakes, I evaluate how δ15N and δ13C of the base of aquatic food webs varies both among lakes and between the littoral and pelagic food webs within lakes. Using data from the literature, I show that the mean trophic fractionation of δ15N is 3.4‰ (1 SD = l‰) and of δ13C is 0.4‰ (1 SD = 1.3‰), and that both, even though variable, are widely applicable. A sensitivity analysis reveals that estimates of trophic position are very sensitive to assumptions about the trophic fractionation of δ15N, moderately sensitive to different methods for generating an isotopic baseline, and not sensitive to assumptions about the trophic fractionation of δ13C when δ13C is used to estimate the proportion of nitrogen in a consumer derived from two sources. Finally, I compare my recommendations for generating an isotopic baseline to an alternative model proposed by M. J. Vander Zanden and J. B. Rasmussen. With an appropriate isotopic baseline and an appreciation of the underlying assumptions and model sensitivity, stable isotopes can help answer some of the most difficult questions in food web ecology.},
+   keywords = {Analysis
+Animal and plant ecology
+Animal, plant and microbial ecology
+Biological and medical sciences
+Carbon cycle (Biogeochemistry)
+Ecology
+Evaluation
+Food chains (Ecology)
+Food webs
+Fractionation
+Fresh water ecosystems
+Fundamental and applied biological sciences. Psychology
+General aspects. Techniques
+Isotopes
+isotopic baseline
+lake food webs
+Lake sediments
+Limnology
+long-lived consumers
+Methods and techniques (sampling, tagging, trapping, modelling...)
+Mussels
+Nitrogen
+Radioisotopes
+Snails
+stable isotopes
+Synecology
+Time series
+trophic fractionation
+Trophic levels
+trophic position
+Usage
+δ13C
+δ15N},
+   ISSN = {0012-9658},
+   DOI = {10.1890/0012-9658(2002)083[0703:USITET]2.0.CO;2},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{Rolff2000,
+   author = {Rolff, C. and Elmgren, R.},
+   title = {Use of riverine organic matter in plankton food webs of the Baltic Sea},
+   journal = {Marine ecology. Progress series (Halstenbek)},
+   volume = {197},
+   pages = {81-101},
+   abstract = {The use of riverine allochthonous organic matter by plankton in the northern Baltic Sea was studied using stable isotopes of carbon and nitrogen. Dissolved and particulate material was sampled in the main Swedish rivers entering the Bothnian Bay and the Bothnian Sea. At 4 sea stations, dissolved matter, plankton and nekton were sampled in 11 size-classes: below 0.7 μm filtrate, 0.7–5, 5–20, 20–50, 50–100, 100–200, 200–500, 500–2500 μm, mysids (∼10 and ∼20 mm) and herring. A riverine influence could be detected in δ13C, but not in δ15N. Except for the 5–20 μm fraction, the carbon became enriched in 13C with increasing salinity in all plankton size-fractions. This mainly reflected differences in the δ13C of phytoplankton, due to the different δ13C of marine and riverine dissolved inorganic carbon. Plankton use of riverine dissolved organic carbon (DOC) was tested with a 2-component model. The δ13C of riverine DOC and the basin phytoplankton were taken to represent the allochthonous and autochthonous signals, respectively. Use of riverine DOC was indicated for larger zooplankton (200–2500 μm) in the Bothnian Bay, confirming earlier suggestions of extensive use of riverine DOC in the zooplankton food webs in this basin. A new method to adjust δ13C in zooplankton for variations in lipid content by analysis of covariance was successfully demonstrated. The isotope data reflect the presence of 2 trophic structures, coinciding with the microheterotrophic food web (0.7–5 μm) and the classic grazing food web (>50 μm). From phytoplankton to large zooplankton, δ15N increased linearly with the logarithm of organism size in all basins. This increase was steeper in the Bothnian Sea and the Baltic Proper, where zooplankton diversity is higher, than in the Bothnian Bay, possibly reflecting more complex food-web interactions.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Biological and medical sciences
+Carbon
+Error rates
+Food webs
+Fundamental and applied biological sciences. Psychology
+Lipids
+Particulate matter
+Phytoplankton
+Plankton
+RESEARCH ARTICLES
+Salinity
+Sea water ecosystems
+Seas
+Synecology
+Zooplankton},
+   ISSN = {0171-8630},
+   DOI = {10.3354/meps197081},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RuizCooley2006,
+   author = {Ruiz-Cooley, R. I. and Markaida, Unai and Gendron, D. and Aguíñiga, S.},
+   title = {Stable isotopes in jumbo squid (Dosidicus gigas) beaks to estimate its trophic position: comparison between stomach contents and stable isotopes},
+   journal = {Journal of the Marine Biological Association of the United Kingdom},
+   volume = {86},
+   number = {2},
+   pages = {437-445},
+   abstract = {Stomach contents and carbon (C) and nitrogen (N) stable isotope analysis were used to evaluate trophic relationships of jumbo squid, Dosidicus gigas. Buccal masses, beaks and stomach contents of large and medium maturing-sized jumbo squid and muscle from its main prey, the myctophid Benthosema panamense, were collected in the Gulf of California, Mexico during 1996, 1997 and 1999. Both the quantified C and N-isotope ratios in muscle, and stomach content analysis revealed that larger-sized maturing squid showed a higher trophic position than medium-sized individuals. However, a discrepancy between stomach contents versus stable isotope analyses was found in evaluating trophic relationships. Simple dilution models as a function of growth were used to estimate the C and N renewal dietary shift for jumbo squid. Estimates of the initial C and N pools in D. gigas with an initial age of 70 days and 210 days indicated isotopic shifts of 32% after a threefold biomass increase and 25% after a fourfold biomass increase, respectively. Additionally, beak samples of jumbo squid were evaluated as an alternative tissue to estimate squid trophic position using stable isotopes. The results showed a significant correlation between stable isotope ratios from muscle and beak samples. Muscle isotope values were higher than beak by 1% and 4% for δ13C and δ15N respectively. A test with jumbo squid beaks collected from a stomach of a stranded sperm whale confirmed the viability of this method.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Biological and medical sciences
+Fundamental and applied biological sciences. Psychology
+Invertebrates
+Mollusca
+Research Article
+Sea water ecosystems
+Synecology},
+   ISSN = {0025-3154},
+   DOI = {10.1017/S0025315406013324},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{Sherwood2005,
+   author = {Sherwood, O. A. and Heikoop, J. M. and Scott, D. B. and Risk, M. J. and Guilderson, T. P. and McKinney, R. A.},
+   title = {Stable isotopic composition of deep-sea gorgonian corals Primnoa spp.: a new archive of surface processes},
+   journal = {Marine ecology. Progress series (Halstenbek)},
+   volume = {301},
+   pages = {135-148},
+   abstract = {The deep-sea gorgonian coral Primnoa spp. live in the Atlantic and Pacific Oceans at depths of 65 to 3200 m. They have an arborescent growth form with a skeletal axis composed of annual rings made from calcite and gorgonin. Lifespans may exceed several hundreds of years. It has been suggested that isotope profiles from the gorgonin fraction of the skeleton could be used to reconstruct long-term, annual-scale variations in surface productivity. We tested assumptions about the trophic level, intra- and inter-colony isotopic reproducibility, and preservation of isotopic signatures in a suite of modern and fossil specimens. Measurements of gorgonin delta N-15 indicate that Primnoa spp. feed mainly on zooplankton and/or sinking particulate organic matter (POMsink), and not on suspended POM (POMsusp) or dissolved organic carbon (DOC). Gorgonin delta C-13 and delta N-15 in specimens from NE Pacific shelf waters, NW Atlantic slope waters, the Sea of Japan, and a South Pacific (Southern Ocean sector) seamount were strongly correlated with surface apparent oxygen utilization (AOU; the best available measure of surface productivity), demonstrating coupling between skeletal isotopic ratios and biophysical processes in surface water. Time-series isotopic profiles from different sections along the same colony, and different colonies inhabiting the same area were identical for delta C-13, while delta N-15 profiles were less reproducible. Similarity in C:N, delta C-13 and delta(15) N between modern and fossil specimens suggest that isotopic signatures are preserved over millennial timescales. These results support the use of Primnoa spp. as historical recorders of surface water processes such as biological productivity and the isotopic composition of source nutrients.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Biological and medical sciences
+Cnidaria. Ctenaria
+Ecology
+Environmental Sciences & Ecology
+Fundamental and applied biological sciences. Psychology
+Invertebrates
+Life Sciences & Biomedicine
+Marine & Freshwater Biology
+Oceanography
+Physical Sciences
+Science & Technology
+Sea water ecosystems
+Synecology},
+   ISSN = {0171-8630},
+   DOI = {10.3354/meps301135},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{Sherwood2008,
+   author = {Sherwood, Owen A. and Jamieson, Robyn E. and Edinger, Evan N. and Wareham, Vonda E.},
+   title = {Stable C and N isotopic composition of cold-water corals from the Newfoundland and Labrador continental slope: Examination of trophic, depth and spatial effects},
+   journal = {Deep-sea research. Part I, Oceanographic research papers},
+   volume = {55},
+   number = {10},
+   pages = {1392-1402},
+   abstract = {With the aim of understanding of the trophic ecology of cold-water corals, this paper explores the tissue δ 13C and δ 15N values of 11 ‘coral’ species (8 alcyonacean, 1 antipatharian, 1 pennatulacean, 1 scleractinian) collected along the Newfoundland and Labrador continental slope. Isotopic results delimit species along continua of trophic level and food lability. With an isotopic signature similar to macrozooplankton, Paragorgia arborea occupies the lowest trophic level and most likely feeds on fresh phytodetritus. Primnoa resedaeformis occupies a slightly higher trophic level, likely supplementing its diet with microzooplankton. Bathypathes arctica, Pennatulacea and other alcyonaceans ( Acanella arbuscula, Acanthogorgia armata, Anthomastus grandiflorus, Duva florida, Keratoisis ornata, Paramuricea sp.) had higher δ 13C and δ 15N values, suggesting these species feed at higher trophic levels and on a greater proportion of more degraded POM. Flabellum alabastrum had an isotopic signature similar to that of snow crab, indicating a primarily carnivorous diet. Isotopic composition did not vary significantly over a depth gradient of 50–1400 m. Coral δ 13C increased slightly (<1‰) from the Hudson Strait to the southern Grand Banks, but δ 15N did not. By modulating the availability and quality of suspended foods, substrate likely exerts a primary influence on the feeding habits of cold-water corals.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Aquatic ecosystems
+Biological and medical sciences
+Carbon
+Cnidaria. Ctenaria
+Cold-water corals
+Continental margins
+Continental slope
+Coral reefs
+Ecology
+Fundamental and applied biological sciences. Psychology
+Invertebrates
+Isotopes
+Newfoundland and Labrador
+Nitrogen
+Oceanography
+Oceans
+Physical Sciences
+Science & Technology
+Sea water ecosystems
+Synecology
+Trophic level
+δ13C
+δ15N},
+   ISSN = {0967-0637},
+   DOI = {10.1016/j.dsr.2008.05.013},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{Sherwood2011,
+   author = {Sherwood, Owen A. and Lehmann, Moritz F. and Schubert, Carsten J. and Scott, David B. and McCarthy, Matthew D.},
+   title = {Nutrient regime shift in the western North Atlantic indicated by compound-specific δ15N of deep-sea gorgonian corals},
+   journal = {Proceedings of the National Academy of Sciences - PNAS},
+   volume = {108},
+   number = {3},
+   pages = {1011-1015},
+   note = {Author contributions: O.A.S., M.L., and D.B.S. designed research; O.A.S., M.F.L., C.J.S., and M.D.M. performed research; O.A.S., M.F.L., C.J.S., and M.D.M. analyzed data; M.F.L., C.J.S., and M.D.M. contributed new reagents/analytic tools; and O.A.S. wrote the paper with inputs from M.F.L, C.J.S, and M.D.M.
+2Present address: #10, 904 Memorial Drive NW, Calgary, AB, Canada, T2N 3C9.
+Edited by Edward A. Boyle, Massachusetts Institute of Technology, Cambridge, MA, and approved November 19, 2010 (received for review April 13, 2010)},
+   abstract = {Despite the importance of the nitrogen (N) cycle on marine productivity, little is known about variability in N sources and cycling in the ocean in relation to natural and anthropogenic climate change. Beyond the last few decades of scientific observation, knowledge depends largely on proxy records derived from nitrogen stable isotopes (δ 15 N) preserved in sediments and other bioarchives. Traditional bulk δ 15 N measurements, however, represent the combined influence of N source and subsequent trophic transfers, often confounding environmental interpretation. Recently, compound-specific analysis of individual amino acids (δ 15 N-AA) has been shown as a means to deconvolve trophic level versus N source effects on the δ 15 N variability of bulk organic matter. Here, we demonstrate the first use of δ 15 N-AA in a paleoceanographic study, through analysis of annually secreted growth rings preserved in the organic endoskeletons of deep-sea gorgonian corals. In the Northwest Atlantic off Nova Scotia, coral δ 15 N is correlated with increasing presence of subtropical versus subpolar slope waters over the twentieth century. By using the new δ 15 N-AA approach to control for variable trophic processing, we are able to interpret coral bulk δ 15 N values as a proxy for nitrate source and, hence, slope water source partitioning. We conclude that the persistence of the warm, nutrient-rich regime since the early 1970s is largely unique in the context of the last approximately 1,800 yr. This evidence suggests that nutrient variability in this region is coordinated with recent changes in global climate and underscores the broad potential of δ 15 N-AA for paleoceanographic studies of the marine N cycle.},
+   keywords = {Climate change
+Oceans
+Corals
+Trophic levels
+Amino acids
+Nutrients
+Nitrates
+Nitrogen isotopes
+Nitrogen
+Isotopes
+Nitrogen Isotopes - analysis
+Temperature
+Animals
+Climate Change
+Nova Scotia
+Atlantic Ocean
+Mass Spectrometry
+Amino Acids - analysis
+Environmental Monitoring - methods
+Environmental Monitoring - statistics & numerical data
+Anthozoa - chemistry
+Paleontology
+Index Medicus
+Biological Sciences
+Physical Sciences
+North Atlantic Oscillation
+stable N isotopes
+nitrogen cycle
+compound-specific isotope analysis
+deep-sea corals},
+   ISSN = {0027-8424},
+   DOI = {10.1073/pnas.1004904108},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{Sigman2009,
+   author = {Sigman, D. M. and Karsh, K. L. and Casciotti, K. L.},
+   title = {Nitrogen Isotopes in the Ocean},
+   publisher = {Elsevier Ltd},
+   pages = {40-54},
+   abstract = {This article outlines the isotope systematics of the major processes in the ocean nitrogen (N) cycle, their impact on the isotopic compositions of the major N reservoirs in the ocean, and how the N isotopes in the modern ocean and sedimentary record may record current N fluxes and past changes. The dominant dynamic is of kinetic isotope discrimination, in which the light isotope of N (14N) is preferentially converted from substrate to product, leaving the substrate relatively enriched in 15N. The description of models and of observed N fluxes and pools in the ocean is dominated by two general parameters: (1) the amplitude of the isotope discrimination in a given N conversion, and (2) the degree to which that conversion consumes its substrate.},
+   keywords = {Ammonium
+Assimilation
+Denitrification
+Dissolved organic nitrogen
+Fixed nitrogen
+Isotope fractionation
+Nitrate
+Nitrification
+Nitrogen budget
+Nitrogen fixation
+Nutrient
+Particulate nitrogen
+Phytoplankton
+Sediment
+Sediment trap},
+   DOI = {10.1016/B978-012374473-9.00632-9},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{Stiling2021,
+   author = {Stiling, Rebekah R. and Holtgrieve, Gordon W. and Olden, Julian D.},
+   title = {Population structure and habitat availability determine resource use by Rainbow Trout in high elevation lakes},
+   journal = {Freshwater science},
+   volume = {40},
+   number = {3},
+   pages = {508-523},
+   abstract = {Lake food webs are primarily fueled by energy from pelagic, littoral–benthic, and terrestrial habitats. Aquatic consumers acquire C from across these habitats in varying proportions, either directly or by way of consumer–prey transfers along energy pathways. Several factors, including relative habitat availability, allochthonous inputs, and population density, influence consumer use of various basal resources. However, the extent to which these factors interact to control resource use is not well understood. We used mountain lakes in the Cascade Range of western North America to address the question of how different population sizes, along with the relative availability of illuminated benthic habitat and terrestrial influence, determine resource use by Rainbow Trout (Oncorhynchus mykiss Walbaum, 1792). We measured lake bathymetry, light attenuation, and fish catch/unit effort in 16 lakes and analyzed samples of Rainbow Trout muscle tissue, pelagic seston, littoral–benthic periphyton, and terrestrial vegetation for C and N stable isotope ratios. Stable isotope mixing models quantified proportional use of basal resources for each trout. Compositional regression analysis identified how interactions between relative habitat availability and population abundance influence Rainbow Trout use of basal resources. At low population abundance, we found low relative use of terrestrial derived resources with balanced relative use of pelagic and littoral–benthic derived resources. At high abundance, relative use of littoral–benthic derived resources was low, and relative use of terrestrial and pelagic derived resources varied according to habitat availability. Our findings highlight the importance of environmental and biological interactions when considering factors that influence relative resource use in lake ecosystems.},
+   ISSN = {2161-9549},
+   DOI = {10.1086/716184},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{Syvaranta2006,
+   author = {SyvÄRanta, Jari and HÄMÄLÄInen, Heikki and Jones, Roger I.},
+   title = {Within-lake variability in carbon and nitrogen stable isotope signatures},
+   journal = {Freshwater biology},
+   volume = {51},
+   number = {6},
+   pages = {1090-1102},
+   abstract = {Summary 1. We assessed spatial and temporal variation in carbon and nitrogen isotopic signatures in different compartments of a single lake ecosystem. Stable isotope analyses were made on samples of particulate organic matter (POM), zooplankton, periphyton, macrophytes, macroinvertebrates and fish collected from several locations throughout the ice‐free period. 2. No spatial variation in δ13C or δ15N values was found for pelagic samples of POM and zooplankton. However, pelagic δ15N signatures increased steadily through the summer resulting in an almost 6‰ average increase in POM and zooplankton. A concurrent decrease in epilimnetic nitrate concentrations suggested that the increase in δ15N of POM and zooplankton could have resulted from a progressive 15N‐enrichment of the available inorganic nitrogen pool as the size of this pool was reduced. 3. Significant spatial variation in isotopic ratios was observed within littoral and profundal communities. Some spatial differences were likely related to lake‐specific characteristics, such as a major inlet and a small harbour area and some were interconnected with temporal events. 4. Marked differences between spring and autumn δ15N and δ13C values of fish at one site probably reflected a spring spawning immigration from a larger downstream lake and also indicated limited dispersal of these immigrants. 5. Our results indicate that restricted sampling of ecosystem components from lakes may provide misleading single values for the isotope end members needed for quantitative uses of stable isotopes in mixing models and for estimating trophic position. Hence we strongly advise that studies of individual lakes, or multiple lake comparisons, that utilise stable isotope analyses should pay more attention to potential within lake spatial and temporal variability of isotope ratios.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Biological and medical sciences
+Fresh water ecosystems
+Fundamental and applied biological sciences. Psychology
+General aspects
+Jyväsjärvi
+lake ecosystem
+spatial
+stable isotopes
+Synecology
+temporal},
+   ISSN = {0046-5070},
+   DOI = {10.1111/j.1365-2427.2006.01557.x},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{Syvaranta2006,
+   author = {SyvÄRanta, Jari and HÄMÄLÄInen, Heikki and Jones, Roger I.},
+   title = {Within-lake variability in carbon and nitrogen stable isotope signatures},
+   journal = {Freshwater biology},
+   volume = {51},
+   number = {6},
+   pages = {1090-1102},
+   abstract = {Summary 1. We assessed spatial and temporal variation in carbon and nitrogen isotopic signatures in different compartments of a single lake ecosystem. Stable isotope analyses were made on samples of particulate organic matter (POM), zooplankton, periphyton, macrophytes, macroinvertebrates and fish collected from several locations throughout the ice‐free period. 2. No spatial variation in δ13C or δ15N values was found for pelagic samples of POM and zooplankton. However, pelagic δ15N signatures increased steadily through the summer resulting in an almost 6‰ average increase in POM and zooplankton. A concurrent decrease in epilimnetic nitrate concentrations suggested that the increase in δ15N of POM and zooplankton could have resulted from a progressive 15N‐enrichment of the available inorganic nitrogen pool as the size of this pool was reduced. 3. Significant spatial variation in isotopic ratios was observed within littoral and profundal communities. Some spatial differences were likely related to lake‐specific characteristics, such as a major inlet and a small harbour area and some were interconnected with temporal events. 4. Marked differences between spring and autumn δ15N and δ13C values of fish at one site probably reflected a spring spawning immigration from a larger downstream lake and also indicated limited dispersal of these immigrants. 5. Our results indicate that restricted sampling of ecosystem components from lakes may provide misleading single values for the isotope end members needed for quantitative uses of stable isotopes in mixing models and for estimating trophic position. Hence we strongly advise that studies of individual lakes, or multiple lake comparisons, that utilise stable isotope analyses should pay more attention to potential within lake spatial and temporal variability of isotope ratios.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Biological and medical sciences
+Fresh water ecosystems
+Fundamental and applied biological sciences. Psychology
+General aspects
+Jyväsjärvi
+lake ecosystem
+spatial
+stable isotopes
+Synecology
+temporal},
+   ISSN = {0046-5070},
+   DOI = {10.1111/j.1365-2427.2006.01557.x},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{Syvaranta2008,
+   author = {SyvÄRanta, Jari and Tiirola, Marja and Jones, Roger I.},
+   title = {Seasonality in lake pelagic δ15N values : patterns, possible explanations, and implications for food web baselines},
+   journal = {Fundamental and applied limnology},
+   volume = {172},
+   number = {3},
+   pages = {255-262},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Biological and medical sciences
+Fresh water ecosystems
+Fundamental and applied biological sciences. Psychology
+General aspects
+Synecology},
+   ISSN = {1863-9135},
+   DOI = {10.1127/1863-9135/2008/0172-0255},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{Sondergaard2017,
+   author = {Søndergaard, Martin and Lauridsen, Torben L. and Johansson, Liselotte S. and Jeppesen, Erik},
+   title = {Nitrogen or phosphorus limitation in lakes and its impact on phytoplankton biomass and submerged macrophyte cover},
+   journal = {Hydrobiologia},
+   volume = {795},
+   number = {1},
+   pages = {35-48},
+   abstract = {We used data on nutrients, chlorophyll a (Chla) and submerged macrophyte cover from up to 817 Danish lakes to elucidate seasonal variations in nitrogen (N) and phosphorus (P) concentrations and to study the impact of N or its role in combination with P. In both deep and shallow lakes, we found marked seasonality in the ratio between total N and total P (TN:TP) and in the inorganic concentrations of nitrogen (DIN), indicating that N more easily becomes a limiting nutrient as summer proceeds. TN:TP reached its lowest values of 7 (by mass) in August in 25% of the shallow lakes. Chla generally related more strongly to TP than to TN, but at high TP concentrations TN explained more of the variability in Chla than TP. Macrophyte cover tended to decrease at increasing TN when TP was between 0.1 and 0.4 mg/l. At macrophyte cover above 20%, Chla was considerably lower compared with lakes with low macrophyte cover. We conclude that P is of key importance for the ecological quality of Danish lakes but that increased N concentrations, particularly in shallow lakes with moderate to high TP, may have significantly adverse effects on lake water quality and ecological status in summer.},
+   keywords = {Chlorophyll},
+   ISSN = {0018-8158},
+   DOI = {10.1007/s10750-017-3110-x},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{Thomas2015,
+   author = {Thomas, Stephen M. and Crowther, Thomas W. and Bearhop, Stuart},
+   title = {Predicting rates of isotopic turnover across the animal kingdom: a synthesis of existing data},
+   journal = {The Journal of animal ecology},
+   volume = {84},
+   number = {3},
+   pages = {861-870},
+   abstract = {1. The stable isotopes of carbon (12C, 13C) and nitrogen (14N, 15N) represent powerful tools in food web ecology, providing a wide range of dietary information in animal consumers. However, identifying the temporal window over which a consumer's isotopic signature reflects its diet requires an understanding of elemental incorporation, a process that varies from days to years across species and tissue types. 2. Though theory predicts body size and temperature are likely to control incorporation rates, this has not been tested empirically across a morphologically and phylogenetically diverse range of taxa. Readily available estimates of this relationship would, however, aid in the design of stable isotope food web investigations and improve the interpretation of isotopic data collected from natural systems. 3. Using literature-derived turnover estimates from animal species ranging in size from 1 mg to 2000 kg, we develop a predictive tool for stable isotope ecologists, allowing for estimation of incorporation rates in the structural tissues of entirely novel taxa. 4. In keeping with metabolic scaling theory, we show that isotopic turnover rates of carbon and nitrogen in whole organisms and muscle tissue scale allometrically with body mass raised approximately to the power –0·19, an effect modulated by body temperature. This relationship did not, however, apply to incorporation rates in splanchnic tissues, which were instead dependent on the thermoregulation tactic employed by an organism, being considerably faster in endotherms than ectotherms. 5. We believe the predictive turnover equations we provide can improve the design of experiments and interpretation of results obtained in future stable isotopic food web studies.},
+   keywords = {allometry
+Animal behavior
+Animals
+Body Temperature
+Body Temperature Regulation
+Body Weight
+Carbon Isotopes - metabolism
+Diet - veterinary
+Food Chain
+food web
+incorporation
+metabolic scaling theory
+Models, Biological
+Nitrogen Isotopes - metabolism
+Organ Specificity
+Physiological ecology
+stable isotope
+trophic},
+   ISSN = {0021-8790},
+   DOI = {10.1111/1365-2656.12326},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{VanderZanden2015,
+   author = {Vander Zanden, M. Jake and Clayton, Murray K. and Moody, Eric K. and Solomon, Christopher T. and Weidel, Brian C.},
+   title = {Stable isotope turnover and half-life in animal tissues: a literature synthesis},
+   journal = {PloS one},
+   volume = {10},
+   number = {1},
+   pages = {e0116182-e0116182},
+   note = {Competing Interests: The authors have declared that no competing interests exist.
+Conceived and designed the experiments: MJVZ EKM CTS BCW. Performed the experiments: MJVZ EKM CTS BCW. Analyzed the data: MJVZ MKC EKM CTS. Wrote the paper: MJVZ MKC EKM CTS BCW.},
+   abstract = {Stable isotopes of carbon, nitrogen, and sulfur are used as ecological tracers for a variety of applications, such as studies of animal migrations, energy sources, and food web pathways. Yet uncertainty relating to the time period integrated by isotopic measurement of animal tissues can confound the interpretation of isotopic data. There have been a large number of experimental isotopic diet shift studies aimed at quantifying animal tissue isotopic turnover rate λ (%·day(-1), often expressed as isotopic half-life, ln(2)/λ, days). Yet no studies have evaluated or summarized the many individual half-life estimates in an effort to both seek broad-scale patterns and characterize the degree of variability. Here, we collect previously published half-life estimates, examine how half-life is related to body size, and test for tissue- and taxa-varying allometric relationships. Half-life generally increases with animal body mass, and is longer in muscle and blood compared to plasma and internal organs. Half-life was longest in ecotherms, followed by mammals, and finally birds. For ectotherms, different taxa-tissue combinations had similar allometric slopes that generally matched predictions of metabolic theory. Half-life for ectotherms can be approximated as: ln (half-life) = 0.22*ln (body mass) + group-specific intercept; n = 261, p<0.0001, r2 = 0.63. For endothermic groups, relationships with body mass were weak and model slopes and intercepts were heterogeneous. While isotopic half-life can be approximated using simple allometric relationships for some taxa and tissue types, there is also a high degree of unexplained variation in our models. Our study highlights several strong and general patterns, though accurate prediction of isotopic half-life from readily available variables such as animal body mass remains elusive.},
+   keywords = {Analysis
+Animal migration
+Animal tissues
+Animals
+Approximation
+Aquatic sciences
+Birds
+Body mass
+Body size
+Carbon
+Carbon Isotopes - metabolism
+Carbon Isotopes - pharmacokinetics
+Diet
+Ecological monitoring
+Endothermic reactions
+Energy sources
+Fisheries
+Food chains
+Food sources
+Food webs
+Half life
+Isotopes
+Laboratories
+Limnology
+Marine ecology
+Marine mammals
+Mathematical models
+Muscles
+Nitrogen
+Nitrogen Isotopes - metabolism
+Nitrogen Isotopes - pharmacokinetics
+Organs
+Slopes
+Species Specificity
+Stable isotopes
+Studies
+Sulfur
+Sulfur compounds
+Sulfur Isotopes - metabolism
+Sulfur Isotopes - pharmacokinetics
+Taxa
+Tissue Distribution
+Tracers
+Turnover rate
+Usage},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0116182},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{VanderZanden2005,
+   author = {Vander Zanden, M. Jake and Vadeboncoeur, Yvonne and Diebel, Matthew W. and Jeppesen, Erik},
+   title = {Primary Consumer Stable Nitrogen Isotopes as Indicators of Nutrient Source},
+   journal = {Environmental science & technology},
+   volume = {39},
+   number = {19},
+   pages = {7509-7515},
+   abstract = {Non-point source loading of nitrogen and phosphorus is a primary cause of eutrophication of inland waters, although the diffuse and variable nature of nutrient inputs makes it difficult to trace and identify nutrient pathways. Stable nitrogen isotope values (δ15N) in aquatic biota are thought to reflect anthropogenic nutrient inputs, and they may be a promising tool for tracing nutrient sources in watersheds. We measured δ15N of aquatic consumers from a suite of 27 Danish lakes spanning a range of trophic states (oligotrophic to eutrophic) and land uses (forest, urban, agriculture). Primary consumer δ15N values (PCδ 15 N) varied more than 14‰ among lakes. Models of PCδ 15 N were developed from limnological, nitrogen loading, and nitrogen source variables using an information-theoretic approach (Akaike's Information Criteria, AIC). Models based on land use/land cover performed best, indicating that elevated δ15N is not only associated with high nitrogen loading, but is also reflective of nitrogen source. Urban and agricultural land use in the watershed, and particularly within the riparian buffer areas, was quantitatively linked to elevated biotic δ15N.},
+   keywords = {Animal, plant and microbial ecology
+Applied ecology
+Applied sciences
+Biological and medical sciences
+Continental surface waters
+Denmark
+Earth sciences
+Earth, ocean, space
+Ecosystem
+Ecotoxicology, biological effects of pollution
+Engineering and environment geology. Geothermics
+Eutrophication
+Exact sciences and technology
+Fresh Water - chemistry
+Fresh water environment
+Fundamental and applied biological sciences. Psychology
+Models, Theoretical
+Natural water pollution
+Nitrogen Isotopes - analysis
+Pollution
+Pollution, environment geology
+Water treatment and pollution},
+   ISSN = {0013-936X},
+   DOI = {10.1021/es050606t},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{Vanderklift2003,
+   author = {Vanderklift, Mathew A. and Ponsard, Sergine},
+   title = {Sources of variation in consumer-diet ?15N enrichment: a meta-analysis},
+   journal = {Oecologia},
+   volume = {136},
+   number = {2},
+   pages = {169-182},
+   abstract = {Measurements of δ^sup 15^N of consumers are usually higher than those of their diet. This general pattern is widely used to make inferences about trophic relationships in ecological studies, although the underlying mechanisms causing the pattern are poorly understood. However, there can be substantial variation in consumer-diet δ^sup 15^N enrichment within this general pattern. We conducted an extensive literature review, which yielded 134 estimates from controlled studies of consumer-diet δ^sup 15^N enrichment, to test the significance of several potential sources of variation by means of meta-analyses. We found patterns related to processes of nitrogen assimilation and excretion. There was a significant effect of the main biochemical form of nitrogenous waste: ammonotelic organisms show lower δ^sup 15^N enrichment than ureotelic or uricotelic organisms. There were no significant differences between animals feeding on plant food, animal food, or manufactured mixtures, but detritivores yielded significantly lower estimates of enrichment. δ^sup 15^N enrichment was found to increase significantly with the C:N ratio of the diet, suggesting that a nitrogen-poor diet can have an effect similar to that already documented for fasting organisms. There were also differences among taxonomic classes: molluscs and crustaceans generally yielded lower δ^sup 15^N enrichment. The lower δ^sup 15^N enrichment might be related to the fact that molluscs and crustaceans excrete mainly ammonia, or to the fact that many were detritivores. Organisms inhabiting marine environments yielded significantly lower estimates of δ^sup 15^N enrichment than organisms inhabiting terrestrial or freshwater environments, a pattern that was influenced by the number of marine, ammonotelic, crustaceans and molluscs. Overall, our analyses point to several important sources of variation in δ^sup 15^N enrichment and suggest that the most important of them are the main biochemical form of nitrogen excretion and nutritional status. The variance of estimates of δ^sup 15^N enrichment, as well as the fact that enrichment may be different in certain groups of organisms should be taken into account in statistical approaches for studying diet and trophic relationships.[PUBLICATION ABSTRACT]},
+   keywords = {Crustaceans},
+   ISSN = {0029-8549},
+   DOI = {10.1007/s00442-003-1270-z},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{Verspoor2011,
+   author = {Verspoor, Jan J. and Braun, Douglas C. and Stubbs, Morgan M. and Reynolds, John D.},
+   title = {Persistent ecological effects of a salmon-derived nutrient pulse on stream invertebrate communities},
+   journal = {Ecosphere (Washington, D.C)},
+   volume = {2},
+   number = {2},
+   pages = {art18-17},
+   note = {Corresponding Editor: D. Schindler.},
+   abstract = {Pulsed resource subsidies can have ecological effects that persist over time. These subsidies can be particularly important in aquatic ecosystems, which are often resource-limited. Anadromous salmon ( Oncorhynchus spp.) deliver annual nutrient pulses to many freshwater ecosystems around the North Pacific. The persistent ecological consequences of this nutrient subsidy are poorly understood across the range of Pacific salmon and likely depend on stream habitat, background nutrient dynamics, and the abundance of spawning salmon. Using a model selection approach, we examined relationships among spawning salmon density, stream habitats, and the abundance and diversity of stream invertebrates ten months after salmon spawning, across 21 streams in central British Columbia, Canada. Total invertebrate abundance increased with salmon density and with higher stream temperatures. Invertebrate diversity was more closely related to stream habitat characteristics than to salmon density. These results suggest that salmon nutrients have a greater impact on stream invertebrate population sizes than on the variety of taxa that inhabit these streams. The three most common invertebrate families-grazing mayflies (Heptageniidae), predatory stoneflies (Chloroperlidae), and chironomid midges (Chironomidae)-all increased in abundance with salmon density. Stream habitat variables (temperature, pH, and substrate size) also explained significant variation in the abundances of the three groups. These results suggest that salmon nutrients retained in the watershed from previous years help support greater abundances of some invertebrate taxa. Thus the pulsed nutrient subsidy provided by spawning salmon may have ecological effects that persist many months, or even years, after it is delivered.},
+   keywords = {aquatic conservation
+Aquatic ecosystems
+Aquatic insects
+Density
+Ecological effects
+Ecology
+ecosystem-based management
+Fisheries
+food web
+Fraser River
+Habitats
+Invertebrates
+marine-derived nutrients
+Nutrient dynamics
+nutrient pulse
+Nutrients
+Oncorhynchus nerka
+productivity
+resource subsidy
+Retention
+Salmon
+Spawning
+Streams
+Subsidies
+Watersheds},
+   ISSN = {2150-8925},
+   DOI = {10.1890/ES10-00011.1},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{Vizzini2003,
+   author = {Vizzini, S. and Mazzola, A.},
+   title = {Seasonal variations in the stable carbon and nitrogen isotope ratios (13C/12C and 15N/14N) of primary producers and consumers in a western Mediterranean coastal lagoon},
+   journal = {Marine biology},
+   volume = {142},
+   number = {5},
+   pages = {1009-1018},
+   abstract = {Stable carbon and nitrogen isotope ratios (13C/12C and 15N/14N) of primary producers and consumers were investigated seasonally throughout 1999, in order to describe the food web in a western Mediterranean coastal lagoon (Lake of Sabaudia, central Italy). Particulate organic matter and algal material (seagrass epiphytes and macroalgae) seem to constitute the main food sources for primary consumers (zooplankton and small benthic invertebrates, respectively) throughout the sampling year, while the seagrass Cymodocea nodosa appears to play a negligible trophic role. As regards the ichthyofauna, carbon stable isotopes differentiated between planktivore and benthivore fish species. However, a benthic–pelagic coupling seems to occur, with some fish of higher trophic levels feeding both on benthic and pelagic materials. Analysis of variance showed that the interaction between the three main factors (species×size×season) significantly affects the isotopic composition of fish, suggesting the presence of intra- and inter-specific resource partitioning. Wide seasonal variations in the isotopic composition were observed in organic matter sources, invertebrates and fish, with a general trend towards depleted values in winter and enriched values in summer. The winter depletion of organic matter sources may be due to several environmental factors and seems to be mirrored in the upper trophic levels. Primary producers and invertebrates are known to have shorter time-integrated isotopic signatures than vertebrates, yet fish also exhibited seasonal isotopic differences. We concluded that the examined fish species can assume a new muscle isotopic signature relatively quickly in response to changes in the isotopic composition of their diet and/or diet shifts.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Biological and medical sciences
+Brackish water ecosystems
+Fundamental and applied biological sciences. Psychology
+Synecology},
+   ISSN = {0025-3162},
+   DOI = {10.1007/s00227-003-1027-6},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{Vokhshoori2014,
+   author = {Vokhshoori, Natasha L. and McCarthy, Matthew D.},
+   title = {Compound-specific δ15N amino acid measurements in littoral mussels in the California upwelling ecosystem: a new approach to generating baseline δ15N Isoscapes for coastal ecosystems},
+   journal = {PloS one},
+   volume = {9},
+   number = {6},
+   pages = {e98087-e98087},
+   note = {Competing Interests: The authors have declared that no competing interests exist.
+Conceived and designed the experiments: NLV MDM. Performed the experiments: NLV. Analyzed the data: NLV MDM. Contributed reagents/materials/analysis tools: MDM. Wrote the paper: NLV MDM.},
+   abstract = {We explored δ(15)N compound-specific amino acid isotope data (CSI-AA) in filter-feeding intertidal mussels (Mytilus californianus) as a new approach to construct integrated isoscapes of coastal primary production. We examined spatial δ(15)N gradients in the California Upwelling Ecosystem (CUE), determining bulk δ(15)N values of mussel tissue from 28 sites between Port Orford, Oregon and La Jolla, California, and applying CSI-AA at selected sites to decouple trophic effects from isotopic values at the base of the food web. Bulk δ(15)N values showed a strong linear trend with latitude, increasing from North to South (from ∼ 7‰ to ∼ 12‰, R(2) = 0.759). In contrast, CSI-AA trophic position estimates showed no correlation with latitude. The δ(15)N trend is therefore most consistent with a baseline δ(15)N gradient, likely due to the mixing of two source waters: low δ(15)N nitrate from the southward flowing surface California Current, and the northward transport of the California Undercurrent (CUC), with (15)N-enriched nitrate. This interpretation is strongly supported by a similar linear gradient in δ(15)N values of phenylalanine (δ(15)NPhe), the best AA proxy for baseline δ(15)N values. We hypothesize δ(15)N(Phe) values in intertidal mussels can approximate annual integrated δ(15)N values of coastal phytoplankton primary production. We therefore used δ(15)N(Phe) values to generate the first compound-specific nitrogen isoscape for the coastal Northeast Pacific, which indicates a remarkably linear gradient in coastal primary production δ(15)N values. We propose that δ(15)N(Phe) isoscapes derived from filter feeders can directly characterize baseline δ(15)N values across major biochemical provinces, with potential applications for understanding migratory and feeding patterns of top predators, monitoring effects of climate change, and study of paleo- archives.},
+   keywords = {Geography
+Amino Acids - metabolism
+Food Chain
+Animals
+Ecosystem
+Bivalvia - metabolism
+California
+Nitrogen Isotopes
+Aquatic Organisms
+Index Medicus
+Earth sciences
+Biology and Life Sciences
+Climate effects
+Migration
+Consumers
+Amino acids
+Environmental changes
+Mollusks
+Latitude
+Organisms
+Food webs
+Oceanography
+Coastal ecosystems
+Climate monitoring
+Predators
+Food chains
+Phytoplankton
+Littoral environments
+Archives
+Isotopes
+Primary production
+Filter feeders
+Coasts
+Feeders
+Phenylalanine
+Nitrogen
+Feeding
+Studies
+Climate change
+Biogeochemistry
+Acids
+Mussels
+Upwelling},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0098087},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{Vuorio2006,
+   author = {Vuorio, Kristiina and Meili, Markus and Sarvala, Jouko},
+   title = {Taxon-specific variation in the stable isotopic signatures (δ13C and δ15N) of lake phytoplankton},
+   journal = {Freshwater biology},
+   volume = {51},
+   number = {5},
+   pages = {807-822},
+   abstract = {Summary 1. The variability in the stable isotope signatures of carbon and nitrogen (δ13C and δ15N) in different phytoplankton taxa was studied in one mesotrophic and three eutrophic lakes in south‐west Finland. The lakes were sampled on nine to 16 occasions over 2–4 years and most of the time were dominated by cyanobacteria and diatoms. A total of 151 taxon‐specific subsamples covering 18 different phytoplankton taxa could be isolated by filtration through a series of sieves and by flotation/sedimentation, followed by microscopical identification and screening for purity. 2. Substantial and systematic differences between phytoplankton taxa, seasons and lakes were observed for both δ13C and δ15N. The values of δ13C ranged from −34.4‰ to −5.9‰ and were lowest in chrysophytes (−34.4‰ to −31.3‰) and diatoms (−30.6‰ to −26.6‰). Cyanobacteria were most variable (−32.4‰ to −5.9‰), including particularly high values in the nostocalean cyanobacterium Gloeotrichia echinulata (−14.4‰ to −5.9‰). For δ13C, the taxon‐specific amplitude of temporal changes within a lake was usually <1–8‰ (<1–4‰ for microalgae alone and <1–8‰ for cyanobacteria alone), whereas the amplitude among taxa within a water sample was up to 31‰. 3. The values of δ15N ranged from −2.1‰ to 12.8‰ and were high in chrysophytes, dinophytes and diatoms, but low in the nitrogen‐fixing cyanobacteria Anabaena spp., Aphanizomenon spp. and G. echinulata (−2.1‰ to 1.6‰). Chroococcalean cyanobacteria ranged from −1.4‰ to 8.9‰. For δ15N, the taxon‐specific amplitude of temporal changes within a lake was 2–6‰, (2–6‰ for microalgae alone and 2–4‰ for cyanobacteria alone) and the amplitude among taxa within a water sample was up to 11‰. 4. The isotopic signatures of phytoplankton changed systematically with their physical and chemical environment, most notably with the concentrations of nutrients, but correlations were non‐systematic and site‐specific. 5. The substantial variability in the isotopic signatures of phytoplankton among taxa, seasons and lakes complicates the interpretation of isotopic signatures in lacustrine food webs. However, taxon‐specific values and seasonal patterns showed some consistency among years and may eventually be predictable.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Biological and medical sciences
+carbon
+Ecology
+Environmental Sciences & Ecology
+Fresh water ecosystems
+Fundamental and applied biological sciences. Psychology
+Life Sciences & Biomedicine
+Marine & Freshwater Biology
+nitrogen
+phytoplankton taxa
+Science & Technology
+seasonal variation
+stable isotopes
+Synecology},
+   ISSN = {0046-5070},
+   DOI = {10.1111/j.1365-2427.2006.01529.x},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{Ware2005,
+   author = {Ware, Daniel M. and Thomson, Richard E.},
+   title = {Bottom-up Ecosystem Trophic Dynamics Determine Fish Production in the Northeast Pacific},
+   journal = {Science (American Association for the Advancement of Science)},
+   volume = {308},
+   number = {5726},
+   pages = {1280-1284},
+   abstract = {We addressed the question of bottom-up versus top-down control of marine ecosystem trophic interactions by using annual fish catch data and satellite-derived (SeaWiFS) chlorophyll a measurements for the continental margin of western North America. Findings reveal a marked alongshore variation in retained primary production that is highly correlated with the alongshore variation in resident fish yield. The highest productivity occurs off the coasts of Washington and southern British Columbia. Zooplankton data for coastal British Columbia confirm strong bottom-up trophic linkages between phytoplankton, zooplankton, and resident fish, extending to regional areas as small as 10,000 square kilometers.},
+   keywords = {Hake
+Upwelling water
+Primary productivity
+Coasts
+Fish scales
+Marine fishes
+Continental shelves
+Phytoplankton
+Biomass
+Zooplankton
+Research Article
+Fundamental and applied biological sciences. Psychology
+Sea water ecosystems
+Biological and medical sciences
+Synecology
+Animal and plant ecology
+Animal, plant and microbial ecology
+Climate
+Seawater - chemistry
+Biodiversity
+North America
+Zooplankton - physiology
+Food Chain
+Animals
+Chlorophyll - analysis
+Ecosystem
+Population Density
+Animal Migration
+Pacific Ocean
+Phytoplankton - physiology
+Fishes - physiology
+Fish populations
+Trophic levels
+Ecosystems
+Research
+Observations
+Index Medicus},
+   ISSN = {0036-8075},
+   DOI = {10.1126/science.1109049},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{Woodland2012,
+   author = {Woodland, Ryan J. and Magnan, Pierre and Glémet, Hélène and Rodríguez, Marco A. and Cabana, Gilbert},
+   title = {Variability and directionality of temporal changes in δ13C and δ15N of aquatic invertebrate primary consumers},
+   journal = {Oecologia},
+   volume = {169},
+   number = {1},
+   pages = {199-209},
+   abstract = {Seasonal oscillations in the carbon (δ13C) and nitrogen (δ15N) isotope signatures of aquatic algae can cause seasonal enrichment–depletion cycles in the isotopic composition of planktonic invertebrates (e.g., copepods). Yet, there is growing evidence that seasonal enrichment–depletion cycles also occur in the isotope signatures of larger invertebrate consumers, taxa used to define reference points in isotope-based trophic models (e.g., trophic baselines). To evaluate the general assumption of temporal stability in non-zooplankton aquatic invertebrates, δ13C and δ15N time series data from the literature were analyzed for seasonality and the influence of biotic (feeding group) and abiotic (trophic state, climate regime) factors on isotope temporal patterns. The amplitude of δ13C and δ15N enrichment–depletion cycles was negatively related to body size, although all size-classes of invertebrates displayed a winter-to-summer enrichment in δ13C and depletion in δ15N. Among feeding groups, periphytic grazers were more variable and displayed larger temporal changes in δ13C than detritivores. For nitrogen, temporal variability and magnitude of directional change of δ15N was most strongly related to ecosystem trophic state (eutrophic > mesotrophic, oligotrophic). This study provides evidence of seasonality in the isotopic composition of aquatic invertebrates across very broad geographical and ecological gradients as well as identifying factors that are likely to modulate the strength and variability of seasonality. These results emphasize the need for researchers to recognize the likelihood of temporal changes in non-zooplankton aquatic invertebrate consumers at time scales relevant to seasonal studies and, if present, to account for temporal dynamics in isotope trophic models.},
+   keywords = {Ecology
+Isotopic baselines
+Life Sciences
+Plant Sciences
+Seasonality
+Stable isotope
+Temporal effects
+Trophic state},
+   ISSN = {0029-8549},
+   DOI = {10.1007/s00442-011-2178-7},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{Wu1999,
+   author = {Wu, J. P. and Calvert, S. E. and Wong, C. S.},
+   title = {Carbon and Nitrogen Isotope Ratios in Sedimenting Particulate Organic Matter at an Upwelling Site off Vancouver Island},
+   journal = {Estuarine, coastal and shelf science},
+   volume = {48},
+   number = {2},
+   pages = {193-203},
+   abstract = {Variations of δ13Corganicand δ15Ntotalof sedimenting particulate organic matter (POM) were determined at 500m depth at a site (Station L, 48°39′N, 126°40′W) in the La Perouse Bank upwelling area off Vancouver Island, Canada. δ13C values were heavier in summer and lighter in winter, the reverse of the changes in δ15N. These variations are probably governed by the longer trophic transfer lengths in winter than in summer, coupled with a significant difference in δ13C and similar values of δ15N between nanophytoplankton and diatoms. High frequency variations in spring, summer and early autumn were probably caused by the periodic injection of subsurface nitrate by upwelling, which leads to diatom blooms, resulting in heavier δ13C and lighter δ15N in sedimenting POM. Utilization of regenerated ammonium during periods of nutrient depletion could also cause short-term increases in δ15N. At 500m depth, the δ15N value of the POM (c8‰) is heavier than that of the nitrate reservoir (c. 4‰), suggesting that intensive nitrate utilization at the surface and the lateral input of nitrate with lower δ15N from the open ocean are important. POM δ13C data suggest that land input at most comprises 29% of total sedimenting POM.},
+   keywords = {carbon
+Earth sciences
+Earth, ocean, space
+Exact sciences and technology
+External geophysics
+Geochemistry
+Isotope geochemistry
+Isotope geochemistry. Geochronology
+Mineralogy
+Nitrogen
+particulate organic matter
+Physical and chemical properties of sea water
+Physics of the oceans
+Silicates
+stable isotope
+subarctic eastern Pacific
+Water geochemistry},
+   ISSN = {0272-7714},
+   DOI = {10.1006/ecss.1998.0409},
+   year = {1999},
+   type = {Journal Article}
+}
+
+@article{VanderZanden2001,
+   author = {Zanden, M. Jake Vander and Rasmussen, Joseph B.},
+   title = {Variation in δ15N and δ13C Trophic Fractionation: Implications for Aquatic Food Web Studies},
+   journal = {Limnology and oceanography},
+   volume = {46},
+   number = {8},
+   pages = {2061-2066},
+   abstract = {Use of stable isotope techniques to quantify food web relationships requires a priori estimates of the enrichment or depletion in δ N and δ C values between prey and predator (known as trophic fractionation; hereafter Δ δ N and Δ δ C). We conducted a broad-scale analysis of Δ δ N and Δ δ C from aquatic systems, including three new field estimates. Carnivores had significantly higher Δ δ N values than herbivores. Furthermore, carnivores, invertebrates, and lab-derived estimates were significantly more variable than their counterparts (f-test, p < 0.00001). Δ δ C was higher for carnivores than for herbivores (p = 0.001), while variances did not differ significantly. Excluding herbivores, the average Δ δ N and Δ δ C were 3.4‰ and 0.8‰, respectively. But even with unbiased fractionation estimates, there is variation in isotopic fractionation that contributes to error in quantitative isotope model outputs. We simulated the error variance in δ N-based estimates of trophic position and two-source δ C diet mixing models, explicitly considering the observed variation in Δ δ N and Δ δ C, along with the other potential error sources. The resultant error in trophic position and mixing model outputs was generally minor, provided that primary consumers were used as baseline indicators for estimating trophic position and that end member δ C values in dietary mixing models were sufficiently distinct.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Biological and medical sciences
+Carnivores
+Diet
+Error rates
+Estimated taxes
+Food webs
+Fractionation
+Fundamental and applied biological sciences. Psychology
+General aspects
+Herbivores
+Isotopes
+Nitrogen
+Notes
+Predators
+Synecology},
+   ISSN = {0024-3590},
+   DOI = {10.4319/lo.2001.46.8.2061},
+   year = {2001},
+   type = {Journal Article}
+}
+
