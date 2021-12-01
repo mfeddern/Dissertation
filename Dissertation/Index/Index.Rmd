@@ -21,7 +21,7 @@ acknowledgments: |
 
   I am eternally grateful for the community that has supported me over the past five years. Thank you to my advisor, Gordon Holtgrieve, who encouraged my eclectic research interests and always supported me in finding work-life balance. My other committee members — Drs. Eric Ward, Sarah Converse, Tim Essington, and Cecilia Bitz — challenged me to think about my work broadly, communicate clearly, and think critically about my analyses. Although they were not officially part of my committee, Drs. Jens Nielsen at the Alaska Fisheries Science Center, NOAA and Steve Perakis at the Forest and Rangeland Science Center, USGS, taught me so much about chemistry, collaboration, and mentoring. Thank you to to all past and present members of the Holtgrieve Lab for bringing joy and commiseration to the trials and tribulations of lab work. My fellow SAFS graduate students have been an important part of my community, thank you for your support and friendship.
   
-  And most importantly, thank you to my family and my parents.
+  And most importantly, thank you to my parents, brother, and partner. Your support has meant so much to me!
 dedication: |
   To my grandmother, Gail Feddern, who has read every publication I have ever written
 # End of UW thesis fields
