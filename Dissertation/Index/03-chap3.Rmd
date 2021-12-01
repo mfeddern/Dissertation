@@ -94,9 +94,6 @@ CSIA is a powerful tool for reconstructing historical ecological data that requi
 More research is needed to investigate the degree to which top predator trophic position change can serve as an indicator of top-down control on the community, which undoubtedly depends on food web structure of a given system (i.e., degree of omnivory, connectance). Regardless, delayed predator dynamics are not limited to marine or nearshore environments, although the temporal scales for delayed trophic responses for other predators and systems warrants investigation. Anticipating delayed responses may be equally important for identifying long-term ecological consequences in response to future climate perturbations, especially as extreme climate events become frequent and more severe. 
 
 The regulation of food web structure by resources is foundational for understanding ecosystem response to perturbations. Based on our findings, nearshore marine predators exhibit a trophic response to ecological change on multiple temporal scales, as different ecological perturbations propagate through the food web at different rates. As such, changes to predator trophic ecology can have consequences throughout the food web that are not immediately realized especially following environmental perturbations. Impacts of the 2014-2016 marine heatwave in the Gulf of Alaska (the longest lasting event of the past decade) are still being observed and some ecological responses have persisted for up to 5 years [@Suryan2021]. Delayed responses of marine predators should be considered when anticipating ecological responses following extreme environmental and ecological events as top-down pressure on the community in subsequent years is likely to change as predators shift their trophic ecology in response to their environment.
-
-
-(Figure \@ref(fig:coefsmodel)d)
 \clearpage
 
 ##Tables
