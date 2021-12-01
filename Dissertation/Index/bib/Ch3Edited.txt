@@ -1663,3 +1663,150 @@ Vertebrata},
    type = {Journal Article}
 }
 
+@article{Gu1994,
+   author = {Gu, Binhe and Schell, Donald M. and Alexander, Vera},
+   title = {Stable Carbon and Nitrogen Isotopic Analysis of the Plankton Food Web in a Subarctic Lake},
+   journal = {Canadian journal of fisheries and aquatic sciences},
+   volume = {51},
+   number = {6},
+   pages = {1338-1344},
+   abstract = {Carbon and nitrogen stable isotopes (δ 13 C and δ 15 N) were used to track energy flow and nutrient cycling pathways in the plankton food web of a subarctic Alaskan lake. Results indicated that planktonic primary production was the major energy source fueling the zooplankton community. In spring, δ 15 N of Daphnia was strongly influenced by atmospheric nitrogen derived from a N 2 -fixing blue-green algal bloom. In winter, δ 13 C evidence suggested that phytoplankton comprised a small fraction (~15%) of particulate organic matter (POM) in the water column, largely due to low primary productivity. The disparity between δ 13 C of POM and Daphnia in winter may result from preferential assimilation of isotopically light algal carbon from POM. Nitrogen isotope values showed that Heterocope, a presumed carnivore, probably relied heavily on POM as a nutrient source. In common with some arctic lakes, the δ 15 N data showed less than three trophic levels in this plankton food web. The energy transfer pathways and trophic levels revealed a simple plankton trophic structure in this subarctic lacustrine system.},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Biological and medical sciences
+Fresh water ecosystems
+Fundamental and applied biological sciences. Psychology
+Synecology},
+   ISSN = {0706-652X},
+   DOI = {10.1139/f94-133},
+   year = {1994},
+   type = {Journal Article}
+}
+
+@article{Matthews2007,
+   author = {Matthews, Blake and Mazumder, Asit},
+   title = {Distinguishing trophic variation from seasonal and size-based isotopic (15N) variation of zooplankton},
+   journal = {Canadian journal of fisheries and aquatic sciences},
+   volume = {64},
+   number = {1},
+   pages = {74-83},
+   abstract = {We measured the δ15N of particulate organic matter (POM), Daphnia pulex (D), Holopedium gibberum (H), Leptodiaptomus tyrelli (LT), Epischura nevadensis (E), and Chaoborus trivittatus (C) over an annual cycle in Council Lake, a pristine, oligotrophic, fishless lake. Annual averages of the δ15N of plankton (C, LT, E > D, H > POM) matched expected differences in trophic position, but seasonal patterns differed among species. During midsummer, the δ15N of D, H, and LT increased above the δ15N of E and C, despite little temporal or spatial variation in the δ15N of POM (<41 µm). Larger size fractions of POM (41-200 µm) helped explain some of the temporal variability of zooplankton δ15N. Body size of zooplankton was correlated with δ15N for D, C, and E, which could indicate size-based, trophic-level variation; selective feeding; or physiological differences in 15N enrichment. We propose that detailed time series of δ15N for multiple zooplankton species can help determine the seasonal variability of trophic structure in zooplankton assemblages.Nous avons mesuré les δ15N de la matière organique particulaire (POM), de Daphnia pulex (D), d'Holopedium gibberum (H), de Leptodiaptomus tyrelli (LT), d'Epischura nevadensis (E) et de Chaoborus trivittatus (C) durant un cycle annuel au lac Council, un lac oligotrophe non perturbé et sans poissons. Les valeurs moyennes annuelles de δ15N du plancton (C, LT, E > D, H > POM) correspondent aux différences attendues, compte tenu des positions trophiques, mais les patrons saisonniers varient d'une espèce à l'autre. Durant la mi-été, les δ15N de D, H et LT dépassent les δ15N de E et C, malgré le peu de variation temporelle ou spatiale du δ15N de POM (<41 µm). Les fractions de plus grande taille de POM (41-200 µm) aident à expliquer une partie de la variabilité temporelle du δ15N du plancton. Il y a une corrélation entre la taille corporelle du zooplancton et le δ15N chez D, C et E, ce qui pourrait indiquer une variation du niveau trophique, une alimentation sélective ou des différences physiologiques dans l'enrichissement en δ15N en fonction de la taille. Nous croyons que des séries chronologiques détaillées de δ15N pour plusieurs espèces du zooplancton pourraient aider à déterminer la variabilité saisonnière de la structure trophique des peuplements de zooplancton.[Traduit par la Rédaction]},
+   keywords = {Animal and plant ecology
+Animal, plant and microbial ecology
+Applied ecology
+Behavior
+Biological and medical sciences
+Data collection
+Environmental aspects
+Exploitation and management of natural biological resources (hunting, fishing and exploited populations survey, etc.)
+Food chains
+Fresh water ecosystems
+Freshwater zooplankton
+Fundamental and applied biological sciences. Psychology
+Growth
+Lake ecology
+Physiological aspects
+Plankton
+Research
+Seasons
+Synecology},
+   ISSN = {0706-652X},
+   DOI = {10.1139/f06-168},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{McClelland2002,
+   author = {McClelland, J. W. and Montoya, J. P.},
+   title = {Trophic Relationships and the Nitrogen Isotopic Composition of Amino Acids in Plankton},
+   journal = {Ecology (Durham)},
+   volume = {83},
+   number = {8},
+   pages = {2173-2180},
+   note = {Corresponding author},
+   abstract = {Stable nitrogen isotope ratios of whole organisms and tissues are routinely used in studies of trophic relationships and nitrogen flow through ecosystems, yet changes underlying increases in δ15N from food source to consumer are not completely understood. In this study, the δ15N of 16 amino acids in marine planktonic consumers and their food sources were examined using gas chromatography/combustion/isotope ratio mass spectrometry of their N-pivaloyl-i-propyl-amino acid ester derivatives. Moderate increases in bulk δ15N with trophic position reflect an averaging of large increases in the δ15N of some amino acids, and little or no change in others. Amino acids showing consistently large increases (e.g., glutamic acid changes by ~7‰ between food and consumer) provide greater scope for defining trophic position than the smaller isotopic changes in bulk material. In contrast, amino acids like phenylalanine show no change in δ15 N with trophic position and therefore preserve information about nitrogen sources at the base of the food web. The ability to acquire information about both trophic level and nitrogen sources at the base of the food web from single samples of consumer tissues offers a powerful new tool for elucidating pathways of N transfer through food webs.},
+   keywords = {Marine ecology
+Plankton
+Trophic levels
+Herpetology
+Amino acids
+Food webs
+Food consumption
+Nitrogen
+Isotopes
+Zooplankton
+Isotope ratios
+food webs
+trophic
+stable isotopes
+plankton
+nitrogen
+amino acids
+Fundamental and applied biological sciences. Psychology
+Sea water ecosystems
+Biological and medical sciences
+Synecology
+Animal and plant ecology
+Animal, plant and microbial ecology
+Biotic communities
+Food chains (Ecology)
+Research},
+   ISSN = {0012-9658},
+   DOI = {10.1890/0012-9658(2002)083[2173:TRATNI]2.0.CO;2},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{Peters2012,
+   author = {Peters, Lars and Faust, Carsten and Traunspurger, Walter},
+   title = {Changes in community composition, carbon and nitrogen stable isotope signatures and feeding strategy in epilithic aquatic nematodes along a depth gradient},
+   journal = {Aquatic ecology},
+   volume = {46},
+   number = {3},
+   pages = {371-384},
+   abstract = {Periphyton is an important component within the littoral zones of lakes, but it is known to vary dramatically on small (cm–m) and large (km) spatial scales, showing differences in composition and abundance. Until relatively recently, changes in periphyton composition along depth gradients have not been studied sufficiently and the response of small meiobenthic invertebrates inhabiting the periphyton to vertically changing environmental conditions such as light are poorly understood. To investigate the changing community composition of epilithic (on stones) nematodes along a depth gradient, we conducted a field study at Lake Erken, Sweden, with the specific objective to investigate whether changes in periphyton composition (algae, bacteria) are reflected in changing nematode feeding types and what the consequences are for nematodes and their resource consumption. We analysed the abundance, species composition and feeding type distribution of epilithic nematodes along 11 depth levels, from 5 to 300 cm water depth. Our study resulted in the first measurements of carbon ( 13 C) and nitrogen ( 15 N) stable isotopes in free living nematodes in lakes. Nematode community composition and feeding type distribution exhibited dramatic changes along the depth gradient. Nematode feeding types changed from a dominance of algae-feeding species in the shallow littoral zone to one of bacteria-feeding species in the deep littoral zone. The 13 C stable isotope signatures of nematodes and the small (<20 μm) periphyton fraction changed with increasing depth, with nematodes shown to feed on this small periphytic component. Nematodes were identified as primary consumers by means of trophic level calculations based on 15 N stable isotopes.},
+   keywords = {13 C
+15 N
+Aquatic ecological zones
+Article
+Bacteria
+Biomedical and Life Sciences
+Depth gradient
+Ecosystems
+Freshwater & Marine Ecology
+Life Sciences
+Nematoda
+Nematode feeding types
+Nitrogen
+Periphyton
+Stable isotopes},
+   ISSN = {1386-2588},
+   DOI = {10.1007/s10452-012-9408-x},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{VanderZanden1999,
+   author = {Zanden, M. Jake Vander and Joseph, B. Rasmussen},
+   title = {Primary Consumer δ 13C and δ 15N and the Trophic Position of Aquatic Consumers},
+   journal = {Ecology (Durham)},
+   volume = {80},
+   number = {4},
+   pages = {1395-1404},
+   abstract = {Stable nitrogen isotope signatures (δ 15N) are increasingly used to infer the trophic position of consumers in food web studies. Interpreting the δ 15N of consumers relative to the δ 15N characterizing the base of the food web provides a time-integrated measure of trophic position. We use primary consumers (trophic level 2) as baseline indicator organisms and investigate the variation in baseline δ 15N values in 14 lakes in Ontario and Quebec. Values of δ 15N ranged from -2 to +9%o and varied significantly as a function of lake habitat (mean littoral = 1.6%o, pelagic = 3.1%o, profundal= 5.2%o).. Stable carbon isotopic signatures (δ 13C) of primary consumers decreased along this same habitat gradient (mean littoral = -23.8%o, pelagic = -28.4%o, profundal = -30.5%o). Primary consumer δ 13C and a categorical lake variable explained 72% of the variability in primary consumer δ 15N. This relationship was corroborated by primary consumer δ 15N and δ 13C data from the literature, indicating that habitat-specific variation in baseline δ 15N and δ 13C is a widespread phenomenon in freshwater systems. We present a method that uses the presented baseline δ 15N-δ 13C relationship and the δ 15N and δ 13C values of the consumer to estimate trophic position; it is a method that corrects for the described variation in baseline δ 15N. These results emphasize the general importance of accounting for patterns in isotopic signatures characterizing the base of the food web when inferring trophic structure using stable isotopes.},
+   keywords = {Food webs
+Freshwater ecology
+Freshwater fishes
+Isotopes
+Lakes
+Limnology
+Nitrogen isotopes
+Signatures
+Trophic levels
+Zooplankton},
+   ISSN = {0012-9658},
+   year = {1999},
+   type = {Journal Article}
+}
+
+

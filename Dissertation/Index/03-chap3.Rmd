@@ -233,7 +233,7 @@ caption = "2-year ecological delay top 10 models (ocean condition)",
                   longtable = TRUE, booktabs = TRUE
                   ),font_size = 8)
  
-kableExtra::column_spec(supp1, column=1:7, width = "25em")
+kableExtra::column_spec(supp1, column=1, width = "25em")
 
 ```
 \clearpage

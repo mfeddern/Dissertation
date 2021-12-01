@@ -6,7 +6,6 @@
 If you feel it necessary to include an appendix, it goes here.
 -->
 
-
 # Appendix 1
 ## Text 1: Full analytical details for stable isotopes
 

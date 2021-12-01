@@ -155,10 +155,15 @@ Climate change will alter nutrient distributions and primary production througho
 
 ```{r ranges,echo=FALSE}
 supp1 <- read.csv("data/Ch2/Table3.csv")
- supp1<-  kableExtra:::kable_styling(knitr::kable(supp1, "latex",col.names = gsub("[.]", " ", names(supp1)), 
-                  caption = "Ranges of stable isotope data",
+colnames(supp1) <- c("Subregion",
+                     "$\\delta^{15}N_{phe}$",
+                     "$\\delta^{13}C$")
+ 
+supp1 <- kableExtra:::kable_styling(knitr::kable(supp1, "latex", escape = FALSE,
+caption = "Ranges of stable isotope data",
                   longtable = TRUE, booktabs = TRUE
                   ),font_size = 8)
+
 kableExtra::column_spec(supp1, column=2:4, width = "10em")
 ```
 
@@ -199,6 +204,11 @@ kableExtra::column_spec(supp1, column=2:4, width = "15em")
 
 ```{r ttestN,echo=FALSE}
 supp1 <- read.csv("data/Ch2/Table4.csv")
+colnames(supp1) <- c("Subregion",
+                     "Eastern Bering Sea",
+                     "Coastal WA",
+                     "Salish Sea",
+                     "Southcentral GoA")
  supp1<-  kableExtra:::kable_styling(knitr::kable(supp1, "latex",col.names = gsub("[.]", " ", names(supp1)), 
                   caption = "Nitrogen Phenylalanine T-Test",
                   longtable = TRUE, booktabs = TRUE
@@ -213,6 +223,11 @@ kableExtra::column_spec(supp1, column=2:4, width = "10em")
 
 ```{r ttestC,echo=FALSE}
 supp1 <- read.csv("data/Ch2/Table5.csv")
+colnames(supp1) <- c("Subregion",
+                     "Eastern Bering Sea",
+                     "Coastal WA",
+                     "Salish Sea",
+                     "Southcentral GoA")
  supp1<-  kableExtra:::kable_styling(knitr::kable(supp1, "latex",col.names = gsub("[.]", " ", names(supp1)), 
                   caption = "Bulk Carbon T-Test",
                   longtable = TRUE, booktabs = TRUE
@@ -254,7 +269,7 @@ Figure 2.1: Mechanisms of environmentally induced changes in resources (A-D) ass
 \begin{figure}[h]
 \centering
   \includegraphics[width=1\textwidth]{figure/Ch2/Figure3_SexLocation.pdf}
-  \caption{Distribution of harbor seal specimens}
+  \caption{Sex and Region based differences}
   (\#fig:dist)
 \end{figure}
 
