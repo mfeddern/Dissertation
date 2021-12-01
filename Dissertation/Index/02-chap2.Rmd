@@ -254,10 +254,9 @@ Figure 2.1: Mechanisms of environmentally induced changes in resources (A-D) ass
 
 
 **Figure** \@ref(fig:map): Spatial and temporal distributions of northeast Pacific harbor seal specimens by subregion analyzed for $\delta^{15}N_{Phe}$ and bulk $\delta^{13}C$ values. Subplot colors correspond to map locations and x-axis (years) is the same for each subplot.\newline 
-
 \begin{figure}[h]
 \centering
-  \includegraphics[width=1.2\textwidth]{figure/Ch2/Fig2_Map.pdf}
+  \includegraphics[width=0.95\textwidth]{figure/Ch2/Fig2_Map.pdf}
   \caption{Distribution of harbor seal specimens}
   (\#fig:map)
 \end{figure}
@@ -326,7 +325,6 @@ Figure 2.1: Mechanisms of environmentally induced changes in resources (A-D) ass
 
 **Figure** \@ref(fig:Month): Analysis of a) $\delta^{15}N_{Phe}$ and b) $\delta^{13}C$ values by month. For both models, s(month) p > 0.1 indicating no seasonality of harbor seal bone collagen stable isotope signature.  
 \newline 
-
 \begin{figure}[h]
   \centering
   \includegraphics[width=0.8\textwidth]{figure/Ch2/figures2.png}
@@ -400,7 +398,6 @@ northeastern Pacific in five subregions.
 
 **Figure** \@ref(fig:linresid): Residuals for the model with the most support (\@ref(fig:coefres)) plotted by year. A trend in model residuals would indicate environmental variables do not account for all temporal variation in harbor seal $\delta^{15}N_{Phe}$ and $\delta^{13}C$ values.
 \newline 
-
 \begin{figure}[h]
 \centering
   \includegraphics[height=0.85\textwidth]{figure/Ch2/FigureS7.pdf}
