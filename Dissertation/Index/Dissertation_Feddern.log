@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.12.1)  1 DEC 2021 13:39
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.12.1)  1 DEC 2021 14:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -882,7 +882,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [16] [17]
-Underfull \hbox (badness 10000) in paragraph at lines 1023--1039
+Underfull \hbox (badness 10000) in paragraph at lines 1022--1038
 
  []
 
@@ -915,7 +915,7 @@ x-text;!
 Missing character: There is no δ (U+03B4) in font [lmroman8-regular]:mapping=te
 x-text;!
 
-Overfull \hbox (41.8091pt too wide) in alignment at lines 1372--1412
+Overfull \hbox (41.8091pt too wide) in alignment at lines 1371--1411
  [] [] [] [] 
  []
 
@@ -929,7 +929,7 @@ x-text;!
 Missing character: There is no δ (U+03B4) in font [lmroman8-regular]:mapping=te
 x-text;!
 
-Overfull \hbox (61.20624pt too wide) in alignment at lines 1418--1439
+Overfull \hbox (61.20624pt too wide) in alignment at lines 1417--1438
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
@@ -940,7 +940,7 @@ Overfull \hbox (61.20624pt too wide) in alignment at lines 1418--1439
 File: figure/Ch1/fig1.1.pdf Graphic file (type pdf)
 <use figure/Ch1/fig1.1.pdf>
 
-Overfull \hbox (3.30663pt too wide) in paragraph at lines 1455--1456
+Overfull \hbox (3.30663pt too wide) in paragraph at lines 1454--1455
 [][] 
  []
 
@@ -980,21 +980,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [39] [40]
 
-LaTeX Warning: Command \textperthousand invalid in math mode on input line 1764
+LaTeX Warning: Command \textperthousand invalid in math mode on input line 1763
 .
 
 
-LaTeX Warning: Command \textperthousand invalid in math mode on input line 1769
+LaTeX Warning: Command \textperthousand invalid in math mode on input line 1768
 .
 
 [41]
 
 LaTeX Font Warning: Font shape `U/wasy/b/n' in size <8> not available
-(Font)              Font shape `U/wasy/m/n' tried instead on input line 1810.
+(Font)              Font shape `U/wasy/m/n' tried instead on input line 1809.
 
 
 LaTeX Font Warning: Font shape `U/wasy/b/n' in size <6> not available
-(Font)              Font shape `U/wasy/m/n' tried instead on input line 1810.
+(Font)              Font shape `U/wasy/m/n' tried instead on input line 1809.
 
 [42] [43]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1032,7 +1032,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [57] [58] [59
 
 ]
-Overfull \hbox (43.29405pt too wide) in alignment at lines 2519--2536
+Overfull \hbox (43.29405pt too wide) in alignment at lines 2518--2535
  [] [] [] [] 
  []
 
@@ -1077,7 +1077,7 @@ File: figure/Ch2/Figure5_CoefPlot.pdf Graphic file (type pdf)
 File: figure/Ch2/Figure6_AK.GDFA.pdf Graphic file (type pdf)
 <use figure/Ch2/Figure6_AK.GDFA.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 2672--2695
+Underfull \hbox (badness 10000) in paragraph at lines 2671--2694
 
  []
 
@@ -1090,7 +1090,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: figure/Ch2/Figure7_WA.GDFA.pdf Graphic file (type pdf)
 <use figure/Ch2/Figure7_WA.GDFA.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 2697--2711
+Underfull \hbox (badness 10000) in paragraph at lines 2696--2710
 
  []
 
@@ -1100,7 +1100,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2697--2711
 File: figure/Ch2/figures2.png Graphic file (type bmp)
 <figure/Ch2/figures2.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 2713--2724
+Underfull \hbox (badness 10000) in paragraph at lines 2712--2723
 
  []
 
@@ -1140,7 +1140,7 @@ File: figure/Ch2/FigureS7.pdf Graphic file (type pdf)
 File: figure/Ch2/FigureS8.pdf Graphic file (type pdf)
 <use figure/Ch2/FigureS8.pdf>
 
-Overfull \hbox (31.35918pt too wide) in paragraph at lines 2802--2803
+Overfull \hbox (31.35918pt too wide) in paragraph at lines 2801--2802
  [][] 
  []
 
@@ -1172,14 +1172,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 3815) has occurred while \output is active []
 
 [97] [98]
-Overfull \hbox (1.32907pt too wide) in alignment at lines 3479--3492
+Overfull \hbox (1.32907pt too wide) in alignment at lines 3478--3491
  [] [] [] [] [] [] 
  []
 
 [99
 
 ]
-Overfull \hbox (34.47006pt too wide) in alignment at lines 3500--3513
+Overfull \hbox (34.47006pt too wide) in alignment at lines 3499--3512
  [] [] [] [] 
  []
 
@@ -1187,7 +1187,7 @@ Overfull \hbox (34.47006pt too wide) in alignment at lines 3500--3513
 
 
 ]
-Overfull \hbox (44.02208pt too wide) in alignment at lines 3520--3531
+Overfull \hbox (44.02208pt too wide) in alignment at lines 3519--3530
  [] [] [] [] 
  []
 
@@ -1309,7 +1309,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [139] [140] [141
 
 ]
-Overfull \hbox (10.17705pt too wide) in alignment at lines 4706--4719
+Overfull \hbox (10.17705pt too wide) in alignment at lines 4705--4718
  [] [] [] [] [] 
  []
 
@@ -1330,7 +1330,7 @@ File: figure/Ch4/Figure2.pdf Graphic file (type pdf)
 File: figure/Ch4/Figure3.pdf Graphic file (type pdf)
 <use figure/Ch4/Figure3.pdf>
 
-LaTeX Warning: Float too large for page by 13.10599pt on input line 4764.
+LaTeX Warning: Float too large for page by 13.10599pt on input line 4763.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1342,7 +1342,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: figure/Ch4/Figure4.pdf Graphic file (type pdf)
 <use figure/Ch4/Figure4.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 4767--4780
+Underfull \hbox (badness 10000) in paragraph at lines 4766--4779
 
  []
 
@@ -1428,7 +1428,7 @@ File: figure/Ch5/Figure3.pdf Graphic file (type pdf)
 File: figure/Ch5/Figure4.pdf Graphic file (type pdf)
 <use figure/Ch5/Figure4.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 5945--5957
+Underfull \hbox (badness 10000) in paragraph at lines 5944--5956
 
  []
 
@@ -1497,7 +1497,7 @@ Underfull \vbox (badness 1622) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [202] [203] [204]
-Overfull \hbox (11.7445pt too wide) in paragraph at lines 6657--6657
+Overfull \hbox (11.7445pt too wide) in paragraph at lines 6656--6656
 []\TU/lmtt/m/n/12 - Session info ----------------------------------------------
 -----------------[] 
  []
@@ -1505,7 +1505,7 @@ Overfull \hbox (11.7445pt too wide) in paragraph at lines 6657--6657
 [205
 
 ]
-Overfull \hbox (11.74449pt too wide) in paragraph at lines 6657--6657
+Overfull \hbox (11.74449pt too wide) in paragraph at lines 6656--6656
 []\TU/lmtt/m/n/12 - Packages --------------------------------------------------
 -----------------[] 
  []
@@ -1535,13 +1535,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [214]
-Underfull \hbox (badness 1052) in paragraph at lines 6948--6954
+Underfull \hbox (badness 1052) in paragraph at lines 6947--6953
  \TU/lmr/m/n/12 … Ohkouchi, N. (2009). Determination of aquatic food‐web struct
 ure based on
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 6948--6954
+Underfull \hbox (badness 1158) in paragraph at lines 6947--6953
  \TU/lmr/m/n/12 compound‐specific nitrogen isotopic composition of amino acids.
  \TU/lmr/m/it/12 Limnology and
  []
@@ -1632,7 +1632,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [236]
-Underfull \hbox (badness 1102) in paragraph at lines 7979--7983
+Underfull \hbox (badness 1102) in paragraph at lines 7978--7982
  []\TU/lmr/m/n/12 Post, D. M. (2002). Using stable isotopes to estimate trophic
  position: Models,
  []
@@ -1653,13 +1653,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Missing character: There is no δ (U+03B4) in font [lmroman12-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 2426) in paragraph at lines 8155--8160
+Underfull \hbox (badness 2426) in paragraph at lines 8154--8159
  \TU/lmr/m/n/12 diet in the western stock of steller sea lions (eumetopias juba
 tus). \TU/lmr/m/it/12 Journal
  []
 
 
-Underfull \hbox (badness 1701) in paragraph at lines 8155--8160
+Underfull \hbox (badness 1701) in paragraph at lines 8154--8159
  \TU/lmr/m/it/12 of Mammalogy\TU/lmr/m/n/12 , \TU/lmr/m/it/12 83\TU/lmr/m/n/12 
 (4), 973–990. Journal Article. [][]http://doi.org/10.1644/1545-
  []
@@ -1732,7 +1732,7 @@ Package logreq Info: Writing requests to 'Dissertation_Feddern.run.xml'.
 Here is how much of TeX's memory you used:
  24032 strings out of 478256
  460751 string characters out of 5854958
- 1202299 words of memory out of 5000000
+ 1202045 words of memory out of 5000000
  44225 multiletter control sequences out of 15000+600000
  413089 words of font info for 81 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
