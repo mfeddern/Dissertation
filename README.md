@@ -1,1 +1,2 @@
 # Dissertation
+My dissertation which includes work from "WASeal", "AKPinniped", "HansenCreek", "Chapter5", and "CSIA-AA" repositories. Dissertation imports Figure and Tabel Output from these analyses and is written in a combination of markdown and latex to adhere to the University of Washington formatting guidlines. Output and final version is also stored at https://digital.lib.washington.edu/researchworks/handle/1773/48253
