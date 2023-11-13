@@ -120,37 +120,122 @@ Salmon provide critical food resources to many of terrestrial and aquatic consum
 ##Tables
 **Table** \@ref(tab:candmod1):  The candidate model set tested for each response variable using AIC analysis where {*} denotes models used for all response variables, additional models were used for net mineralization and net nitrification where substrate represents organic nitrogen concentration and NH~4~^+^ concentration, respectively. For  $\delta^{15}N$ data, GW was not tested as a covariate and total mass of N was tested instead. The four tested hypotheses are 1) bank effect, 2) distance effect, 3) bank and distance effect (salmon effect), and 4) no effect of bank and distance. Response variables include:  $\delta^{15}N$ and  $\delta^{13}C$ of bulk soil,  $\delta^{15}N$ of NH~4~^+^, [NH~4~^+^] and [NO~3~^-^], net mineralization and net nitrification, [N~org~], gravimetric water content (GW), and C:N.
 
-```{r candmod1,echo=FALSE}
-candidate1 <- read.csv("data/Ch1/Table1.1.csv")
-  kableExtra:::kable_styling(knitr::kable(candidate1, "latex",col.names = gsub("[.]", " ", names(candidate1)), 
-                  caption = "The candidate model set tested for each response variable using AIC analysis",
-                  longtable = TRUE, booktabs = TRUE), font_size = 10, bootstrap_options = c("striped"))
+\begingroup\fontsize{10}{12}\selectfont
 
-```
+\begin{longtable}[t]{lr}
+\caption{\label{tab:candmod1}The candidate model set tested for each response variable using AIC analysis}\\
+\toprule
+Candidate Model Set & Hypothesis\\
+\midrule
+*y = bank & 1\\
+*y = bank + GW & 1\\
+*y = ln(distance) + GW & 1\\
+*y = ln(distance) & 1\\
+*y = bank + ln(distance) + bank:ln(distance) + ln(distance)2:bank + GW & 2\\
+\addlinespace
+*y = bank + ln(distance) + bank:ln(distance) & 1\\
+*y = bank + ln(distance) + bank:ln(distance) + GW & 1\\
+*y = bank + ln(distance) + bank:ln(distance) + ln(distance)2:bank & 2\\
+*y = bank + ln(distance) + bank & 1\\
+*y = bank + ln(distance) + bank + GW & 1\\
+\addlinespace
+*y = GW & 3\\
+y = bank + substrate & 1\\
+y = ln(distance) + substrate & 1\\
+y = bank + GW + substrate & 1\\
+y = bank + ln(distance) + bank:ln(distance) + GW + substrate & 2\\
+\addlinespace
+y = bank + ln(distacne) + bank:ln(distance) + substrate & 1\\
+y = bank + ln(distance) + bank:ln(distance) + GW + substrate & 2\\
+y = bank + ln(distance) + bank:ln(distance) + ln(distance)2:bank + GW+ substrate & 2\\
+y = bank + ln(distance) + bank:ln(distance) + ln(distance)2:bank + substrate & 2\\
+y = bank + ln(distance) + GW+ substrate & 1\\
+\addlinespace
+y = bank + ln(distance) + substrate & 1\\
+y = substrate & 3\\
+y = GW + substrate & 3\\
+\bottomrule
+\end{longtable}
+\endgroup{}
 \clearpage
 
 **Table** \@ref(tab:suppmod1): Competing models with relative support (ΔAIC < 2) using AIC analysis for each response variable, where the most parsimonious models with the most support are shown in bold. Reported are ΔAIC and the hypothesis supported by each model: H1 is a bank effect not caused by salmon manipulation, H2 is a distance effect not caused by salmon manipulation, H3 is both a bank and distance effect indicating a response to salmon manipulation, and H4 indicates support for the other covariates tested. 
 
-```{r suppmod1,echo=FALSE}
-supp1 <- read.csv("data/Ch1/Table1.2.csv")
-  kableExtra:::kable_styling(knitr::kable(supp1, "latex",col.names = gsub("[.]", " ", names(supp1)), 
-                  caption = "Competing models with relative support (ΔAIC < 2) using AIC analysis for each response variable",
-                  longtable = TRUE, booktabs = TRUE), font_size = 8)
+\begingroup\fontsize{8}{10}\selectfont
 
-```
+\begin{longtable}[t]{lrrl}
+\caption{\label{tab:suppmod1}Competing models with relative support (ΔAIC < 2) using AIC analysis for each response variable}\\
+\toprule
+Response Variable & Model Hypothesis & ΔAIC & Covariates Included in Models with Relative Support\\
+\midrule
+Bulk δ15N & 2 & 0.00 & Bank, ln(Distance), Bank:ln(Distance), Bank:ln(Distance)2\\
+ & 2 & 0.41 & Bank, ln(Distance), Bank:ln(Distance), Bank:ln(Distance)2, [Ntot]\\
+Bulk δ13C & 1 & 0.00 & ln(Distance)\\
+ & 1 & 0.22 & Bank, ln(Distance)\\
+ & 1 & 0.62 & ln(Distance), [Ntot]\\
+\addlinespace
+ & 1 & 1.23 & Bank, ln(Distance), [Ntot]\\
+δ15N of NH4+ & 2 & 0.00 & Bank, ln(Distance), Bank:ln(Distance), Bank:ln(Distance)2\\
+{}[NH4+] & 1 & 0.00 & Bank, ln(Distance)\\
+ & 1 & 0.69 & Bank, ln(Distance), Bank:ln(Distance)\\
+ & 1 & 0.69 & Bank\\
+\addlinespace
+ & 1 & 0.95 & Bank, GW\\
+ & 1 & 1.10 & Bank, ln(Distance), GW\\
+ & 1 & 1.87 & Bank, ln(Distance), Bank:ln(Distance), GW\\
+{}[NO3-] & 1 & 0.00 & Bank, GW\\
+ & 1 & 1.72 & Bank, ln(Distance), GW\\
+\addlinespace
+ & 2 & 1.87 & Bank, ln(Distance), Bank:ln(Distance), Bank:ln(Distance)2, GW\\
+Net Mineralization & 3 & 0.00 & {}[NOrg]\\
+ & 3 & 0.61 & GW, [NOrg]\\
+ & 1 & 0.74 & Bank, [NOrg]\\
+ & 1 & 1.61 & Bank, GW, [NOrg]\\
+\addlinespace
+Net Nitrification & 3 & 0.00 & {}[NH4+], GW\\
+ & 1 & 1.02 & Bank, [NH4+], GW\\
+{}[NOrg] & 1 & 0.00 & ln(Distance), GW\\
+ & 1 & 0.22 & Bank, ln(Distance), Bank:ln(Distance), GW\\
+ & 2 & 0.33 & Bank, ln(Distance), Bank:ln(Distance), Bank:ln(Distance)2, GW\\
+\addlinespace
+ & 1 & 1.94 & Bank, ln(Distance), GW\\
+Gravimetric Water Content (GW) & 1 & 0.00 & ln(Distance), Bank\\
+ & 1 & 1.00 & ln(Distance)\\
+ & 1 & 1.80 & Bank, ln(Distance), Bank:ln(Distance)\\
+\bottomrule
+\end{longtable}
+\endgroup{}
 \clearpage
 
 
 \begin{landscape}
 
 Table 1.3: Competing models with relative support (ΔAIC < 2) using AIC analysis for each response variable, where the most parsimonious models with the most support are shown in bold. Reported are ΔAIC and the hypothesis supported by each model: H1 is a bank effect not caused by salmon manipulation, H2 is a distance effect not caused by salmon manipulation, H3 is both a bank and distance effect indicating a response to salmon manipulation, and H4 indicates support for the other covariates tested. 
-```{r suppsumm, echo=FALSE}
-suppsumm <- read.csv("data/Ch1/SuppSummTable1.csv")
-  kableExtra:::kable_styling(knitr::kable(suppsumm, "latex",col.names = gsub("[.]", " ", names(suppsumm)), 
-                  caption = "Summary Statistics of Best Models",
-                  longtable = TRUE, booktabs = TRUE), font_size = 8)
+\begingroup\fontsize{8}{10}\selectfont
 
-```
+\begin{longtable}[t]{lllllllllll}
+\caption{\label{tab:suppsumm}Summary Statistics of Best Models}\\
+\toprule
+Bank & Enhanced & Depleted & Enhanced 1 & Depleted 1 & Enhanced 2 & Depleted 2 & Enhanced 3 & Depleted 3 & Enhanced 4 & Depleted 4\\
+\midrule
+Distancw & 1m & 1m & 3m & 3m & 6m & 6m & 10m & 10m & 20m & 20m\\
+Bulk δ 15N (‰) & 7.4(2.3) & 7.2(1.9) & 9.2(1.0) & 7.8(2.2) & 8.5(1.9) & 6.9(1.2) & 8.2(1.5) & 7.3(1.6) & 6.5(1.0) & 6.6(1.2)\\
+Bulk δ 13C (‰) & -27.1(0.6) & -27.2(0.4) & -26.9(0.5) & -27.1(0.6) & -26.6(0.5) & -26.7(0.3) & -26.5(0.5) & -26.6(0.3) & -26.4(0.5) & -26.4(0.4)\\
+δ 15N of NH4+ (‰) & 10.1(1.8) & 8.7(2.8) & 16.2(10.7) & 8.5(2.5) & 13.3(10.5) & 6.3(2.8) & 8.4(2.5) & 5.8(2.9) & 6.1(2.3) & 6.5(3.3)\\
+{}[NH4+] (g N g-1) & 47.5 (91.6) & 22.3(16.4) & 62.9(101.5) & 10.6(9.4) & 52.5(82.8) & 11.0(12.7) & 12.3(13.1) & 11.5(8.2) & 8.6(4.4) & 13.2(11.6)\\
+\addlinespace
+{}[NO3-] (g N g-1) & 6.0(5.4) & 3.4(4.4) & 10.8(13.5) & 4.3(4.7) & 7.6(8.0) & 3.3(2.8) & 2.4(2.3) & 4.0(4.2) & 2.8(2.8) & 1.7(1.2)\\
+Net Mineralization (g N g-1 d-1) & 2.8(2.0) & 1.8(1.2) & 4.4(5.2) & 1.1(1.0) & 2.1(3.6) & 3.0(3.6) & 1.2(1.1) & 1.4(1.0) & 1.1(1.5) & 2.3(1.9)\\
+Net Nitrification (g N g-1 d-1) & 1.7(1.6) & 1.2(1.4) & 3.4(4.5) & 0.8(1.2) & 2.8(2.9) & 1.7(1.9) & 1.0(0.9) & 1.4(0.8) & 0.6(0.7) & 1.6(1.9)\\
+{}[NOrg] (mg N g-1) & 22.0(4.7) & 19.11(5.8) & 18.0(8.2) & 19.7(7.6) & 17.7(6.6) & 19.5(8.5) & 13.0(6.3) & 18.4(8.9) & 9.5(3.3) & 13.9(5.5)\\
+GW & 2.6(1.1) & 3.2(1.6) & 2.4(1.5) & 2.2(1.1) & 2.2(1.5) & 2.8(2.2) & 1.5(0.9) & 2.6(1.8) & 1.4(0.6) & 1.9(0.8)\\
+\addlinespace
+C:N & 11.9(1.4) & 11.2(1.1) & 11.7(1.6) & 10.9(1.5) & 12.8(2.2) & 12.1(2.7) & 14.2(1.7) & 12.1(1.9) & 17.0(2.0) & 14.1(3.0)\\
+\% Nitrification & 54.8(44.7) & 67.9(43.8) & 75.4(35.5) & 49.3(39.7) & 75.7(36.2) & 53.1(39.0) & 65.9(36.4) & 87.9(15.8) & 50.6(33.5) & 56.2(39.2)\\
+\% C & 30.0(5.5) & 25.5(8.8) & 26.4(10.1) & 24.7(9.7) & 25.7(8.2) & 27.5(13.3) & 21.3(8.8) & 25.2(11.7) & 19.0(6.7) & 21.2(6.7)\\
+\bottomrule
+\end{longtable}
+\endgroup{}
 
 
 \end{landscape}
@@ -193,6 +278,6 @@ Figure \@ref(fig:ch1resid): Predicted verse observed values and predicted verse 
 \begin{figure}[h]
   \includegraphics[width=1\textwidth]{figure/Ch1/ch1residuals.pdf}
   \caption{Residual Plots for Best Models}
-  (\#fig:ch1resid)
+  {#fig:ch1resid}
 \end{figure} 
 

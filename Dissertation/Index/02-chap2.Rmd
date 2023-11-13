@@ -351,9 +351,9 @@ Figure 2.1: Mechanisms of environmentally induced changes in resources (A-D) ass
 
 \begin{figure}[h]
 \centering
-  \includegraphics[height=0.8\textwidth]{figure/Ch2/FigureS3.pdf}
+  \includegraphics[height=0.8\textwidth]{Figures/Fig1.pdf}
   \caption{Time series of $\delta^{15}N_{Phe}$ data}
-  (\#fig:TSphe)
+  (\#fig:Fig1)
 \end{figure}
 
 \clearpage
